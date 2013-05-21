@@ -1,0 +1,2315 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Mappings>
+  <Channel>
+    <Name>_TV</Name>
+    <File>_TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>3e</Name>
+    <File>3e.png</File>
+  </Channel>
+  <Channel>
+    <Name>4music</Name>
+    <File>4music.png</File>
+  </Channel>
+  <Channel>
+    <Name>4seven</Name>
+    <File>4seven.png</File>
+  </Channel>
+  <Channel>
+    <Name>5 USA</Name>
+    <File>5 USA.png</File>
+  </Channel>
+  <Channel>
+    <Name>5 USA +1</Name>
+    <File>5 USA +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>5_</Name>
+    <File>5_.png</File>
+  </Channel>
+  <Channel>
+    <Name>5_ +1</Name>
+    <File>5_ +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>9XM</Name>
+    <File>9XM.png</File>
+  </Channel>
+  <Channel>
+    <Name>1381</Name>
+    <Name>1382</Name>
+    <Name>1383</Name>
+    <Name>1384</Name>
+    <Name>1385</Name>
+    <Name>1386</Name>
+    <Name>1391</Name>
+    <Name>1392</Name>
+    <Name>1393</Name>
+    <Name>1394</Name>
+    <Name>1395</Name>
+    <Name>1396</Name>
+    <Name>1397</Name>
+    <Name>1398</Name>
+    <Name>1399</Name>
+    <Name>1421</Name>
+    <Name>1423</Name>
+    <Name>1424</Name>
+    <Name>1425</Name>
+    <Name>1471</Name>
+    <Name>1472</Name>
+    <Name>1473</Name>
+    <Name>1474</Name>
+    <Name>1475</Name>
+    <Name>1476</Name>
+    <Name>1477</Name>
+    <Name>1478</Name>
+    <Name>1479</Name>
+    <Name>1481</Name>
+    <Name>1482</Name>
+    <Name>1483</Name>
+    <Name>1484</Name>
+    <Name>1485</Name>
+    <File>1381.png</File>
+  </Channel>
+  <Channel>
+    <Name>6390</Name>
+    <Name>301</Name>
+    <Name>302</Name>
+    <Name>303</Name>
+    <Name>303</Name>
+    <File>BBC Red Button.png</File>
+  </Channel>
+  <Channel>
+    <Name>Aaj Tak</Name>
+    <FileAaj Tak.png</File>
+  </Channel>
+  <Channel>
+    <Name>Aastha</Name>
+    <File>Aastha.png</File>
+  </Channel>
+  <Channel>
+    <Name>ABN TV</Name>
+    <File>ABN TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Abu Dhabi TV</Name>
+    <File>Abu Dhabi TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Adult Babestn</Name>
+    <File>Adult Babestn.png</File>
+  </Channel>
+  <Channel>
+    <Name>Adult Blue</Name>
+    <File>Adult Blue.png</File>
+  </Channel>
+  <Channel>
+    <Name>Adult Channel</Name>
+    <File>Adult Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Adult Party</Name>
+    <File>Adult Party.png</File>
+  </Channel>
+  <Channel>
+    <Name>Adult smileTV2</Name>
+    <File>Adult smileTV2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Adult smileTV3</Name>
+    <File>Adult smileTV3.png</File>
+  </Channel>
+  <Channel>
+    <Name>Africa Channel</Name>
+    <File>Africa Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ahlebait TV</Name>
+    <File>Ahlebait TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ahlulbayt TV</Name>
+    <File>Ahlulbayt TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>AIT Int'l</Name>
+    <File>AIT Int'l.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>Akaal Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>Al Jazeera Arabic.png</File>
+  </Channel>
+  <Channel>
+    <Name>Al Jazeera Eng</Name>
+    <File>Al Jazeera Eng.png</File>
+  </Channel>
+  <Channel>
+    <Name>Alibi</Name>
+    <File>Alibi.png</File>
+  </Channel>
+  <Channel>
+    <Name>Alibi +1</Name>
+    <File>Alibi +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Alibi HD</Name>
+    <File>Alibi HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Animal Planet</Name>
+    <File>Animal Planet.png</File>
+  </Channel>
+  <Channel>
+    <Name>Animal Plnt+1</Name>
+    <File>Animal Plnt+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>AnimalPlnt HD</Name>
+    <File>AnimalPlnt HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Arise News</Name>
+    <File>Arise News.png</File>
+  </Channel>
+  <Channel>
+    <Name>Arise News HD</Name>
+    <File>Arise News HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>ARY Ent</Name>
+    <File>ARY Ent.png</File>
+  </Channel>
+  <Channel>
+    <Name>ARY QTV</Name>
+    <File>ARY QTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>ARY World</Name>
+    <File>ARY World.png</File>
+  </Channel>
+  <Channel>
+    <Name>At The Races</Name>
+    <File>At The Races.png</File>
+  </Channel>
+  <Channel>
+    <Name>ATN Bangla UK</Name>
+    <File>ATN Bangla UK.png</File>
+  </Channel>
+  <Channel>
+    <Name>B4U Movies</Name>
+    <File>B4U Movies.png</File>
+  </Channel>
+  <Channel>
+    <Name>B4U Music</Name>
+    <File>B4U Music.png</File>
+  </Channel>
+  <Channel>
+    <Name>Babestation</Name>
+    <Name>ADULT Babestn2</Name>
+    <File>Babestation.png</File>
+  </Channel>
+  <Channel>
+    <Name>BabyTV</Name>
+    <File>BabyTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bangla TV</Name>
+    <File>Bangla TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 1 NI</Name>
+    <Name>BBC One N Ireland</Name>
+    <File>BBC 1 NI.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 1 NI HD</Name>
+    <File>BBC 1 NI HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 1 Scotland</Name>
+    <Name>BBC One Scotland</Name>
+    <File>BBC 1 Scotland.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 1 Scot HD</Name>
+    <File>BBC 1 Scot HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 1 Wales</Name>
+    <Name>BBC One Wales</Name>
+    <File>BBC 1 Wales.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC1 Wal HD</Name>
+    <File>BBC1 Wal HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 2 England</Name>
+    <Name>BBC Two</Name>
+    <File>BBC 2 England.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 2 NI</Name>
+    <Name>BBC Two N Ireland</Name>
+    <File>BBC 2 NI.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 2 Scotland</Name>
+    <Name>BBC Two Scot</Name>
+    <File>BBC 2 Scotland.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 2 Wales</Name>
+    <Name>BBC Two Wales</Name>
+    <File>BBC 2 Wales.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC Alba</Name>
+    <File>BBC Alba.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC Four</Name>
+    <File>BBC Four.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC News</Name>
+    <File>BBC News.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC One HD</Name>
+    <File>BBC One HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC One</Name>
+    <Name>BBC 1 CI</Name>
+    <Name>BBC 1 E Mids</Name>
+    <Name>BBC 1 East (E)</Name>
+    <Name>BBC 1 East (W)</Name>
+    <Name>BBC 1 London</Name>
+    <Name>BBC 1 N West</Name>
+    <Name>BBC 1 NE & C</Name>
+    <Name>BBC 1 Oxford</Name>
+    <Name>BBC 1 S East</Name>
+    <Name>BBC 1 S West</Name>
+    <Name>BBC 1 South</Name>
+    <Name>BBC 1 W Mids</Name>
+    <Name>BBC 1 West</Name>
+    <Name>BBC 1 Yorks</Name>
+    <Name>BBC 1 Yrks&Lin</Name>
+    <File>BBC One.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC Parl'mnt</Name>
+    <Name>BBC Parliament</Name>
+    <File>BBC Parl'mnt.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC Three</Name>
+    <File>BBC Three.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC Two HD</Name>
+    <File>BBC Two HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Believe TV</Name>
+    <File>Believe TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>BEN</Name>
+    <File>BEN.png</File>
+  </Channel>
+  <Channel>
+    <Name>Best Direct</Name>
+    <File>Best Direct.png</File>
+  </Channel>
+  <Channel>
+    <Name>BET_BlackEntTv</Name>
+    <File>BET_BlackEntTv.png</File>
+  </Channel>
+  <Channel>
+    <Name>BET +1</Name>
+    <File>BET +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bid</Name>
+    <File>Bid.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bid Plus</Name>
+    <File>Bid Plus.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bio</Name>
+    <File>Bio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bio+1</Name>
+    <File>Bio+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Blighty</Name>
+    <File>Blighty.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bliss</Name>
+    <File>Bliss.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>Blissmas.png</File>
+  </Channel>
+  <Channel>
+    <Name>Bloomberg</Name>
+    <File>Bloomberg.png</File>
+  </Channel>
+  <Channel>
+    <Name>Blue Tube</Name>
+    <File>Blue Tube.png</File>
+  </Channel>
+  <Channel>
+    <Name>BON TV</Name>
+    <File>BON TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Boomerang</Name>
+    <File>Boomerang.png</File>
+  </Channel>
+  <Channel>
+    <Name>Boomerang +1</Name>
+    <File>Boomerang +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>BoxNation</Name>
+    <File>BoxNation.png</File>
+  </Channel>
+  <Channel>
+    <Name>Brit Asia TV</Name>
+    <File>Brit Asia TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>BT Sport 1</Name>
+    <File>BT Sport 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>BT Sport 1 HD</Name>
+    <File>BT Sport 1 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>BT Sport 2</Name>
+    <File>BT Sport 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>BT Sport 2 HD</Name>
+    <File>BT Sport 2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>BuzMuzik</Name>
+    <File>BuzMuzik.png</File>
+  </Channel>
+  <Channel>
+    <Name>Capital TV</Name>
+    <File>Capital TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Cartoon Netwrk</Name>
+    <File>Cartoon Netwrk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Cartoon Net HD</Name>
+    <File>Cartoon Net HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Cartoonito</Name>
+    <File>Cartoonito.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBBC Channel</Name>
+    <File>CBBC Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBeebies</Name>
+    <File>CBeebies.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBS Action</Name>
+    <File>CBS Action.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBS Drama</Name>
+    <File>CBS Drama.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBS Reality</Name>
+    <Name>Reality TV</Name>
+    <File>CBS Reality.png</File>
+  </Channel>
+  <Channel>
+    <Name>CBS Reality+1</Name>
+    <File>CBS Reality+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>CCTV News</Name>
+    <File>CCTV News.png</File>
+  </Channel>
+  <Channel>
+    <Name>CelebrityShop</Name>
+    <File>CelebrityShop.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ch Nine UK</Name>
+    <File>Ch Nine UK.png</File>
+  </Channel>
+  <Channel>
+    <Name>Challenge</Name>
+    <File>Challenge.png</File>
+  </Channel>
+  <Channel>
+    <Name>Challenge+1</Name>
+    <File>Challenge+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel 4</Name>
+    <File>Channel 4.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel 4 +1</Name>
+    <Name>Channel 4+1</Name>
+    <File>Channel 4 +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel 4 HD</Name>
+    <File>Channel 4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel 5</Name>
+    <File>Channel 5.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel 5+1</Name>
+    <File>Channel 5+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel 5 HD</Name>
+    <File>Channel 5 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel AKA</Name>
+    <File>Channel AKA.png</File>
+  </Channel>
+  <Channel>
+    <Name>Channel i</Name>
+    <File>Channel i.png</File>
+  </Channel>
+  <Channel>
+    <Name>Chart Show TV</Name>
+    <File>Chart Show TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Chartshw Dnce</Name>
+    <File>Chartshw Dnce.png</File>
+  </Channel>
+  <Channel>
+    <Name>Chat Box</Name>
+    <File>Chat Box.png</File>
+  </Channel>
+  <Channel>
+    <Name>Cheeky Chat</Name>
+    <File>Cheeky Chat.png</File>
+  </Channel>
+  <Channel>
+    <Name>Chelsea TV</Name>
+    <File>Chelsea TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Christmas 24</Name>
+    <File>Christmas 24.png</File>
+  </Channel>
+  <Channel>
+    <Name>Christmas 24+</Name>
+    <File>Christmas 24+.png</File>
+  </Channel>
+  <Channel>
+    <Name>Christmas Hits</Name>
+    <File>Christmas Hits.png</File>
+  </Channel>
+  <Channel>
+    <Name>CHSTV</Name>
+    <File>CHSTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>CI</Name>
+    <File>CI.png</File>
+  </Channel>
+  <Channel>
+    <Name>CI +1</Name>
+    <File>CI +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>CI HD</Name>
+    <File>CI HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>CITV</Name>
+    <File>CITV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Climax</Name>
+    <File>Climax.png</File>
+  </Channel>
+  <Channel>
+    <Name>Clubland TV</Name>
+    <File>Clubland TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>CN Too</Name>
+    <File>CN Too.png</File>
+  </Channel>
+  <Channel>
+    <Name>CNBC</Name>
+    <File>CNBC.png</File>
+  </Channel>
+  <Channel>
+    <Name>CNC World</Name>
+    <File>CNC World.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>CNN HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>CNN</Name>
+    <File>CNN.png</File>
+  </Channel>
+  <Channel>
+    <Name>Colors</Name>
+    <File>Colors.png</File>
+  </Channel>
+  <Channel>
+    <Name>ComedyCentral</Name>
+    <File>ComedyCentral.png</File>
+  </Channel>
+  <Channel>
+    <Name>ComedyCtrl+1</Name>
+    <File>ComedyCtrl+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Comedy Cen HD</Name>
+    <File>Comedy Cen HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>ComedyCtralX</Name>
+    <File>ComedyCtralX.png</File>
+  </Channel>
+  <Channel>
+    <Name>ComedyCtlX+1</Name>
+    <File>ComedyCtlX+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>CommunityChnl</Name>
+    <Name>Community</Name>
+    <File>CommunityChnl.png</File>
+  </Channel>
+  <Channel>
+    <Name>Controversial TV</Name>
+    <File>Controversial TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Create & Craft</Name>
+    <File>Create & Craft.png</File>
+  </Channel>
+  <Channel>
+    <Name>Dating Channel</Name>
+    <File>Dating Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Dave</Name>
+    <File>Dave.png</File>
+  </Channel>
+  <Channel>
+    <Name>Dave ja vu</Name>
+    <File>Dave ja vu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Dave HD</Name>
+    <File>Dave HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Daystar</Name>
+    <File>Daystar.png</File>
+  </Channel>
+  <Channel>
+    <Name>Dirty Talk</Name>
+    <File>Dirty Talk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disc.History</Name>
+    <File>Disc.History.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disc.History+1</Name>
+    <File>Disc.History+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disc.Science</Name>
+    <File>Disc.Science.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disc.Sci+1</Name>
+    <File>Disc.Sci+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disc.Turbo</Name>
+    <File>Disc.Turbo.png</File>
+  </Channel>
+  <Channel>
+    <Name>Discount TV</Name>
+    <File>Discount TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Discovery</Name>
+    <File>Discovery.png</File>
+  </Channel>
+  <Channel>
+    <Name>Discovery+1</Name>
+    <File>Discovery+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Discovery HD</Name>
+    <File>Discovery HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney Chnl</Name>
+    <File>Disney Chnl.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney Chnl+1</Name>
+    <File>Disney Chnl+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney Chnl HD</Name>
+    <File>Disney Chnl HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney Junior</Name>
+    <File>Disney Junior.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney Junior+</Name>
+    <File>Disney Junior+.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney Jnr HD</Name>
+    <File>Disney Jnr HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney XD</Name>
+    <File>Disney XD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney XD+1</Name>
+    <File>Disney XD+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Disney XD HD</Name>
+    <File>Disney XD HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>DM Digital</Name>
+    <File>DM Digital.png</File>
+  </Channel>
+  <Channel>
+    <Name>DMAX</Name>
+    <File>DMAX.png</File>
+  </Channel>
+  <Channel>
+    <Name>DMAX+1</Name>
+    <File>DMAX+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Drama</Name>
+    <File>Drama.png</File>
+  </Channel>
+  <Channel>
+    <Name>E!</Name>
+    <File>E!.png</File>
+  </Channel>
+  <Channel>
+    <Name>E! HD</Name>
+    <File>E! HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>E4</Name>
+    <File>E4.png</File>
+  </Channel>
+  <Channel>
+    <Name>E4+1</Name>
+    <File>E4+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>E4 HD</Name>
+    <File>E4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eden</Name>
+    <File>Eden.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eden+1</Name>
+    <File>Eden+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eden HD</Name>
+    <File>Eden HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>eNCA Africa</Name>
+    <File>eNCA Africa.png</File>
+  </Channel>
+  <Channel>
+    <Name>ESPN America</Name>
+    <File>ESPN America.png</File>
+  </Channel>
+  <Channel>
+    <Name>ESPN AmrcaHD</Name>
+    <File>ESPN AmrcaHD</File>
+  </Channel>
+  <Channel>
+    <Name>ESPN Classic</Name>
+    <File>ESPN Classic.png</File>
+  </Channel>
+  <Channel>
+    <Name>ESPN</Name>
+    <File>ESPN.png</File>
+  </Channel>
+  <Channel>
+    <Name>ESPN HD</Name>
+    <File>ESPN HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Essex Babes</Name>
+    <File>Essex Babes.png</File>
+  </Channel>
+  <Channel>
+    <Name>Euronews</Name>
+    <File>Euronews.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport</Name>
+    <File>Eurosport.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport HD</Name>
+    <File>Eurosport HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport 2</Name>
+    <File>Eurosport 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Eurosport 2 HD</Name>
+    <File>Eurosport 2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>EWTN</Name>
+    <File>EWTN.png</File>
+  </Channel>
+  <Channel>
+    <Name>ExGirlfriends</Name>
+    <File>ExGirlfriends.png</File>
+  </Channel>
+  <Channel>
+    <Name>Extreme Sports</Name>
+    <File>Extreme Sports.png</File>
+  </Channel>
+  <Channel>
+    <Name>Faith World TV</Name>
+    <File>Faith World TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fashion One</Name>
+    <File>Fashion One.png</File>
+  </Channel>
+  <Channel>
+    <Name>Film4</Name>
+    <File>Film4.png</File>
+  </Channel>
+  <Channel>
+    <Name>Film4 +1</Name>
+    <File>Film4 +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Film4 HD</Name>
+    <File>Film4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fitness TV</Name>
+    <File>Fitness TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Flava</Name>
+    <File>Flava.png</File>
+  </Channel>
+  <Channel>
+    <Name>Food Network</Name>
+    <File>Food Network.png</File>
+  </Channel>
+  <Channel>
+    <Name>Food Netwrk+1</Name>
+    <File>Food Netwrk+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fox</Name>
+    <File>Fox.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fox+</Name>
+    <File>Fox+.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fox HD</Name>
+    <File>Fox HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Fox News</Name>
+    <File>Fox News.png</File>
+  </Channel>
+  <Channel>
+    <Name>France Eng</Name>
+    <File>France Eng.png</File>
+  </Channel>
+  <Channel>
+    <Name>Gay Network </Name>
+    <File>Gay Network .png</File>
+  </Channel>
+  <Channel>
+    <Name>Gems TV</Name>
+    <File>Gems TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>GEO News</Name>
+    <File>GEO News.png</File>
+  </Channel>
+  <Channel>
+    <Name>GEO Tez</Name>
+    <File>GEO Tez.png</File>
+  </Channel>
+  <Channel>
+    <Name>GEO UK</Name>
+    <File>GEO UK.png</File>
+  </Channel>
+  <Channel>
+    <Name>Get Lucky TV</Name>
+    <File>Get Lucky TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Glory TV</Name>
+    <File>Glory TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>God Channel</Name>
+    <File>God Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Gold</Name>
+    <Name>G.O.L.D.</Name>
+    <File>Gold.png</File>
+  </Channel>
+  <Channel>
+    <Name>Gold +1</Name>
+    <File>Gold +1</File>
+  </Channel>
+  <Channel>
+    <Name>Good Food</Name>
+    <File>Good Food.png</File>
+  </Channel>
+  <Channel>
+    <Name>Good Food +1</Name>
+    <File>Good Food +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Good Food HD</Name>
+    <File>Good Food HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Greatest Hits</Name>
+    <File>Greatest Hits.png</File>
+  </Channel>
+  <Channel>
+    <Name>H2</Name>
+    <File>H2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Heart TV</Name>
+    <File>Heart TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Heat</Name>
+    <File>Heat.png</File>
+  </Channel>
+  <Channel>
+    <Name>Hidayat TV</Name>
+    <File>Hidayat TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>High Street TV</Name>
+    <File>High Street TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>History</Name>
+    <File>History.png</File>
+  </Channel>
+  <Channel>
+    <Name>History +1 hour</Name>
+    <File>History +1 hour.png</File>
+  </Channel>
+  <Channel>
+    <Name>History HD</Name>
+    <File>History HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Holiday+Cruise</Name>
+    <File>Holiday+Cruise.png</File>
+  </Channel>
+  <Channel>
+    <Name>Home & Health</Name>
+    <File>Home & Health.png</File>
+  </Channel>
+  <Channel>
+    <Name>Home&Health+</Name>
+    <File>Home&Health+.png</File>
+  </Channel>
+  <Channel>
+    <Name>Home</Name>
+    <File>Home.png</File>
+  </Channel>
+  <Channel>
+    <Name>Home+1</Name>
+    <File>Home+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Horror Channel</Name>
+    <File>Horror Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>horror ch+1</Name>
+    <File>horror ch+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Horse & Country</Name>
+    <File>Horse & Country.png</File>
+  </Channel>
+  <Channel>
+    <Name>ID</Name>
+    <File>ID.png</File>
+  </Channel>
+  <Channel>
+    <Name>ID+1</Name>
+    <File>ID+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ideal Extra</Name>
+    <File>Ideal Extra.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ideal World</Name>
+    <File>Ideal World.png</File>
+  </Channel>
+  <Channel>
+    <Name>Information TV</Name>
+    <File>Information TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Inspiration</Name>
+    <File>Inspiration.png</File>
+  </Channel>
+  <Channel>
+    <Name>Iqra TV</Name>
+    <File>Iqra TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Islam Channel</Name>
+    <File>Islam Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV</Name>
+    <File>ITV.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV +1</Name>
+    <File>ITV +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV Border</Name>
+    <File>ITV Border.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV HD</Name>
+    <File>ITV HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV Wales</Name>
+    <File>ITV Wales.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV2</Name>
+    <File>ITV2.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV2+1</Name>
+    <Name>ITV2 +1</Name>
+    <File>ITV2+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV2 HD</Name>
+    <File>ITV2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV3</Name>
+    <File>ITV3.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV3+1</Name>
+    <Name>ITV3 +1</Name>
+    <File>ITV3+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV3 HD</Name>
+    <File>ITV3 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV4</Name>
+    <File>ITV4.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV4+1</Name>
+    <Name>ITV4 +1</Name>
+    <File>ITV4+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITV4 HD</Name>
+    <File>ITV4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>ITVi Stream 44</Name>
+    <File>ITVi Stream 44.png</File>
+  </Channel>
+  <Channel>
+    <Name>JazeeraChildren</Name>
+    <File>JazeeraChildren.png</File>
+  </Channel>
+  <Channel>
+    <Name>Jewellery Ch.</Name>
+    <File>Jewellery Ch..png</File>
+  </Channel>
+  <Channel>
+    <Name>Jewelry Maker</Name>
+    <File>Jewelry Maker.png</File>
+  </Channel>
+  <Channel>
+    <Name>JML Direct</Name>
+    <File>JML Direct.png</File>
+  </Channel>
+  <Channel>
+    <Name>JML Living</Name>
+    <File>JML Living.png</File>
+  </Channel>
+  <Channel>
+    <Name>Kerrang!</Name>
+    <File>Kerrang!.png</File>
+  </Channel>
+  <Channel>
+    <Name>KICC TV</Name>
+    <File>KICC TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Kiss</Name>
+    <File>Kiss.png</File>
+  </Channel>
+  <Channel>
+    <Name>Kix!</Name>
+    <File>Kix!.png</File>
+  </Channel>
+  <Channel>
+    <Name>Klear TV</Name>
+    <File>Klear TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>Lifetime.png</File>
+  </Channel>
+  <Channel>
+    <Name>LiverpoolFCTV</Name>
+    <File>LiverpoolFCTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>LiveXXX Babes</Name>
+    <File>LiveXXX Babes.png</File>
+  </Channel>
+  <Channel>
+    <Name>LoveWorld TV</Name>
+    <File>LoveWorld TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Lucky Star</Name>
+    <File>Lucky Star.png</File>
+  </Channel>
+  <Channel>
+    <Name>Kix!</Name>
+    <File>Kix!.png</File>
+  </Channel>
+  <Channel>
+    <Name>Luxury Life</Name>
+    <File>Luxury Life.png</File>
+  </Channel>
+  <Channel>
+    <Name>Madani Chnl</Name>
+    <File>Madani Chnl.png</File>
+  </Channel>
+  <Channel>
+    <Name>Magic</Name>
+    <File>Magic.png</File>
+  </Channel>
+  <Channel>
+    <Name>Marketplace</Name>
+    <File>Marketplace.png</File>
+  </Channel>
+  <Channel>
+    <Name>MATV National</Name>
+    <File>MATV National.png</File>
+  </Channel>
+  <Channel>
+    <Name>MGM HD</Name>
+    <File>MGM HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>More_Movies</Name>
+    <File>More_Movies.png</File>
+  </Channel>
+  <Channel>
+    <Name>M_Movies+1</Name>
+    <File>M_Movies+1!.png</File>
+  </Channel>
+  <Channel>
+    <Name>More4</Name>
+    <File>More4.png</File>
+  </Channel>
+  <Channel>
+    <Name>More4 +1</Name>
+    <File>More4 +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>More4 HD</Name>
+    <File>More4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Motors TV UK</Name>
+    <File>Motors TV UK.png</File>
+  </Channel>
+  <Channel>
+    <Name>Movie Mix</Name>
+    <File>Movie Mix.png</File>
+  </Channel>
+  <Channel>
+    <Name>Movies 24</Name>
+    <File>Movies 24.png</File>
+  </Channel>
+  <Channel>
+    <Name>Movies 24+</Name>
+    <File>Movies 24+.png</File>
+  </Channel>
+  <Channel>
+    <Name>Movies4Men</Name>
+    <File>Movies4Men.png</File>
+  </Channel>
+  <Channel>
+    <Name>Mov4Men+1</Name>
+    <File>Mov4Men+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTA-Muslim TV</Name>
+    <File>MTA-Muslim TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV</Name>
+    <File>MTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV+1 </Name>
+    <File>MTV+1 .png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV HD</Name>
+    <File>MTV HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Base</Name>
+    <File>MTV Base.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Classic</Name>
+    <File>MTV Classic.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Dance</Name>
+    <File>MTV Dance.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Hits</Name>
+    <File>MTV Hits.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Live</Name>
+    <File>MTV Live.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Live HD</Name>
+    <File>MTV Live HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Music</Name>
+    <File>MTV Music.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Rocks</Name>
+    <File>MTV Rocks.png</File>
+  </Channel>
+  <Channel>
+    <Name>MTV Trax</Name>
+    <File>MTV Trax.png</File>
+  </Channel>
+  <Channel>
+    <Name>MUTV</Name>
+    <File>MUTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>My Channel</Name>
+    <File>My Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nat Geo</Name>
+    <File>Nat Geo.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nat Geo+1hr</Name>
+    <File>Nat Geo+1hr.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nat Geo HD</Name>
+    <File>Nat Geo HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nat Geo Wild</Name>
+    <File>Nat Geo Wild.png</File>
+  </Channel>
+  <Channel>
+    <Name>NatGeoWild HD</Name>
+    <File>NatGeoWild HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>NDTV 24x7</Name>
+    <File>NDTV 24x7.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>NDTV Good Times.png</File>
+  </Channel>
+  <Channel>
+    <Name>NHK World HD</Name>
+    <File>NHK World HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nick Jr.</Name>
+    <File>Nick Jr..png</File>
+  </Channel>
+  <Channel>
+    <Name>Nick Jr+1</Name>
+    <File>Nick Jr+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nick Jr. 2</Name>
+    <File>Nick Jr. 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nickelodeon</Name>
+    <File>Nickelodeon.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nickelodeon+1</Name>
+    <Name>Nickelodeon+1 </Name>
+    <File>Nickelodeon+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>NickelodeonHD</Name>
+    <File>NickelodeonHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nicktoons</Name>
+    <File>Nicktoons.png</File>
+  </Channel>
+  <Channel>
+    <Name>Nollywood</Name>
+    <File>Nollywood.png</File>
+  </Channel>
+  <Channel>
+    <Name>Noor TV</Name>
+    <File>Noor TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Northern Birds</Name>
+    <File>Northern Birds.png</File>
+  </Channel>
+  <Channel>
+    <Name>NTV</Name>
+    <File>NTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>OH TV</Name>
+    <File>OH TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Olive TV</Name>
+    <File>Olive TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Paversshoes.tv</Name>
+    <File>Paversshoes.tv.png</File>
+  </Channel>
+  <Channel>
+    <Name>PBS America</Name>
+    <File>PBS America.png</File>
+  </Channel>
+  <Channel>
+    <Name>PCNE Chinese</Name>
+    <File>PCNE Chinese.png</File>
+  </Channel>
+  <Channel>
+    <Name>Peace TV</Name>
+    <File>Peace TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Peace TV Urdu</Name>
+    <File>Peace TV Urdu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Pick TV</Name>
+    <File>Pick TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Pick TV+1</Name>
+    <File>Pick TV+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Pitch TV</Name>
+    <File>Pitch TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Planet Pop</Name>
+    <File>Planet Pop.png</File>
+  </Channel>
+  <Channel>
+    <Name>Playboy Lovers</Name>
+    <File>Playboy Lovers.png</File>
+  </Channel>
+  <Channel>
+    <Name>Playboy TV</Name>
+    <File>Playboy TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>PlayboyTV Chat</Name>
+    <File>PlayboyTV Chat.png</File>
+  </Channel>
+  <Channel>
+    <Name>Pop</Name>
+    <File>Pop.png</File>
+  </Channel>
+  <Channel>
+    <Name>PopGirl</Name>
+    <File>PopGirl.png</File>
+  </Channel>
+  <Channel>
+    <Name>PopGirl +1</Name>
+    <File>PopGirl +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Praise TV</Name>
+    <File>Praise TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Premier Sports</Name>
+    <File>Premier Sports.png</File>
+  </Channel>
+  <Channel>
+    <Name>Prem Spts Xtra</Name>
+    <File>Prem Spts Xtra.png</File>
+  </Channel>
+  <Channel>
+    <Name>Price Drop</Name>
+    <Name>price-drop</Name>
+    <File>Price Drop.png</File>
+  </Channel>
+  <Channel>
+    <Name>Primetime</Name>
+    <File>Primetime.png</File>
+  </Channel>
+  <Channel>
+    <Name>Propeller</Name>
+    <File>Propeller.png</File>
+  </Channel>
+  <Channel>
+    <Name>Psychic Today</Name>
+    <File>Psychic Today.png</File>
+  </Channel>
+  <Channel>
+    <Name>PTC Punjabi</Name>
+    <File>PTC Punjabi.png</File>
+  </Channel>
+  <Channel>
+    <Name>PTV Global</Name>
+    <File>PTV Global.png</File>
+  </Channel>
+  <Channel>
+    <Name>PTV Prime</Name>
+    <File>PTV Prime.png</File>
+  </Channel>
+  <Channel>
+    <Name>Pub Channel</Name>
+    <File>Pub Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Quest</Name>
+    <File>Quest.png</File>
+  </Channel>
+  <Channel>
+    <Name>Quest+1</Name>
+    <File>Quest+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>QVC</Name>
+    <File>QVC.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>QVC HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>QVC Beauty</Name>
+    <File>QVC Beauty.png</File>
+  </Channel>
+  <Channel>
+    <Name>Racing UK</Name>
+    <File>Racing UK.png</File>
+  </Channel>
+  <Channel>
+    <Name>Really</Name>
+    <File>Really.png</File>
+  </Channel>
+  <Channel>
+    <Name>Record TV</Name>
+    <File>Record TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Red Light 1</Name>
+    <Name>Red Light 2</Name>
+    <Name>Red Light 3</Name>
+    <File>Red Light 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>RedHot 18s</Name>
+    <File>RedHot 18s.png</File>
+  </Channel>
+  <Channel>
+    <Name>RedHot Amateur</Name>
+    <File>RedHot Amateur.png</File>
+  </Channel>
+  <Channel>
+    <Name>RedHot Mums</Name>
+    <File>RedHot Mums.png</File>
+  </Channel>
+  <Channel>
+    <Name>Retail TV</Name>
+    <File>Retail TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Revelation</Name>
+    <File>Revelation.png</File>
+  </Channel>
+  <Channel>
+    <Name>Rishtey</Name>
+    <File>Rishtey.png</File>
+  </Channel>
+  <Channel>
+    <Name>Rocks & Co 1</Name>
+    <File>Rocks & Co 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>RT</Name>
+    <File>RT.png</File>
+  </Channel>
+  <Channel>
+    <Name>RT HD</Name>
+    <File>RT HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE ONE</Name>
+    <File>RTE ONE.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE TWO</Name>
+    <File>RTE TWO.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE TWO HD</Name>
+    <File>RTE TWO HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTEJR</Name>
+    <File>RTEJR.png</File>
+  </Channel>
+  <Channel>
+    <Name>S4C</Name>
+    <File>S4C.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sahara One</Name>
+    <File>Sahara One.png</File>
+  </Channel>
+  <Channel>
+    <Name>Samaa</Name>
+    <File>Samaa.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sangat</Name>
+    <File>Sangat.png</File>
+  </Channel>
+  <Channel>
+    <Name>Scuzz</Name>
+    <File>Scuzz.png</File>
+  </Channel>
+  <Channel>
+    <Name>Setanta Ireland</Name>
+    <File>Setanta Ireland.png</File>
+  </Channel>
+  <Channel>
+    <Name>Setanta Sports1</Name>
+    <File>Setanta Sports1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Setanta HD</Name>
+    <File>Setanta HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Showcase</Name>
+    <File>Showcase.png</File>
+  </Channel>
+  <Channel>
+    <Name>Showcase +1</Name>
+    <File>Showcase +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Showcase 2</Name>
+    <File>Showcase 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sikh Channel</Name>
+    <File>Sikh Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky</Name>
+    <Name>HD Retail Info</Name>
+    <Name>Sky Chnl 995</Name>
+    <Name>Sky Intro</Name>
+    <File>Sky.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky 3D</Name>
+    <File>Sky 3D.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Action</Name>
+    <File>Sky Action.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Action HD</Name>
+    <File>Sky Action HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Arts 1</Name>
+    <Name>Sky Arts 1 </Name>
+    <File>Sky Arts 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Arts 1 HD</Name>
+    <File>Sky Arts 1 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Arts 2</Name>
+    <File>Sky Arts 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Arts 2 HD</Name>
+    <File>Sky Arts 2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Arts Rieu</Name>
+    <File>Sky Arts Rieu.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Arts Rieu HD</Name>
+    <File>Sky Arts Rieu HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Atlantic</Name>
+    <Name>Sky Atlantic </Name>
+    <File>Sky Atlantic.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Atlantic+1</Name>
+    <File>Sky Atlantic+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Atlantic HD</Name>
+    <File>Sky Atlantic HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Box Office</Name>
+    <File>Sky Box Office.png</File>
+  </Channel>
+  <Channel>
+    <Name>SBO HD</Name>
+    <File>SBO HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Christmas</Name>
+    <File>Sky Christmas.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky ChristmsHD</Name>
+    <File>Sky ChristmsHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Comedy</Name>
+    <File>Sky Comedy.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Comedy HD</Name>
+    <File>Sky Comedy HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Disney</Name>
+    <File>Sky Disney.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Disney HD</Name>
+    <File>Sky Disney HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky DramaRom</Name>
+    <File>Sky DramaRom.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky DraRomHD</Name>
+    <File>Sky DraRomHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Family</Name>
+    <File>Sky Family.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Family HD</Name>
+    <File>Sky Family HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Greats</Name>
+    <File>Sky Greats.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Greats HD</Name>
+    <File>Sky Greats HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Insider HD</Name>
+    <File>Sky Insider HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>SBO HD</Name>
+    <File>SBO HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Living</Name>
+    <File>Sky Living.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Living+1</Name>
+    <File>Sky Living+1.png</File>
+  </Channel>
+    <Name>Sky Living HD</Name>
+    <File>Sky Living HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Livingit</Name>
+    <File>Sky Livingit.png</File>
+  </Channel>
+  <Channel>
+  <Channel>
+    <Name>Sky Livingit+1</Name>
+    <File>Sky Livingit+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Movies 007</Name>
+    <File>Sky Movies 007.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky 007 HD</Name>
+    <File>Sky 007 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky News</Name>
+    <File>Sky News.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky News HD</Name>
+    <File>Sky News HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Oscars</Name>
+    <File>Sky Oscars.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Oscars HD</Name>
+    <File>Sky Oscars HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Premiere</Name>
+    <File>Sky Premiere.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Prem+1</Name>
+    <File>Sky Prem+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>SkyPremiereHD</Name>
+    <File>SkyPremiereHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky ScFi_Horror</Name>
+    <File>Sky ScFi_Horror.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky ScFi_HorHD</Name>
+    <File>Sky ScFi_HorHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Select</Name>
+    <File>Sky Select.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Select HD</Name>
+    <File>Sky Select HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Showcase</Name>
+    <File>Sky Showcase.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky ShowcseHD</Name>
+    <File>Sky ShowcseHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 1</Name>
+    <File>Sky Sports 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 1 HD</Name>
+    <File>Sky Sports 1 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 2</Name>
+    <File>Sky Sports 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 2 HD</Name>
+    <File>Sky Sports 2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 3</Name>
+    <File>Sky Sports 3.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 3 HD</Name>
+    <File>Sky Sports 3 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 4</Name>
+    <File>Sky Sports 4.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports 4 HD</Name>
+    <File>Sky Sports 4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sports F1</Name>
+    <File>Sky Sports F1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Spts F1 HD</Name>
+    <File>Sky Spts F1 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Spts News</Name>
+    <File>Sky Spts News.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Sp NewsHD</Name>
+    <File>Sky Sp NewsHD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Summer</Name>
+    <File>Sky Summer.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Summer HD</Name>
+    <File>Sky Summer HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Thriller</Name>
+    <File>Sky Thriller.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky Thriller HD</Name>
+    <File>Sky Thriller HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky1</Name>
+    <Name>Sky1 </Name>
+    <File>Sky1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky1 +1</Name>
+    <File>Sky1 +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky1 HD</Name>
+    <File>Sky1 HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sky2</Name>
+    <File>Sky2.png</File>
+  </Channel>
+  <Channel>
+    <Name>SkyNws Arabia</Name>
+    <File>SkyNws Arabia.png</File>
+  </Channel>
+  <Channel>
+    <Name>SkyPoker.com</Name>
+    <File>SkyPoker.com.png</File>
+  </Channel>
+  <Channel>
+    <Name>SmartLive</Name>
+    <File>SmartLive.png</File>
+  </Channel>
+  <Channel>
+    <Name>Smash Hits!</Name>
+    <File>Smash Hits!.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sonlife</Name>
+    <File>Sonlife.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony Max</Name>
+    <File>Sony Max.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony Movies</Name>
+    <File>Sony Movies.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony Movies+1</Name>
+    <File>Sony Movies+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony Sab</Name>
+    <File>Sony Sab.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony TV</Name>
+    <File>Sony TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony TV +1</Name>
+    <File>Sony TV +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sony TV Asia</Name>
+    <File>Sony TV Asia.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sparkle TV</Name>
+    <File>Sparkle TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>SportxxxGirls</Name>
+    <File>SportxxxGirls.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Gold</Name>
+    <File>Star Gold.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Jalsha</Name>
+    <File>Star Jalsha.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Life Ok</Name>
+    <File>Star Life Ok.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Plus</Name>
+    <File>Star Plus.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Plus HD</Name>
+    <File>Star Plus HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Starz TV</Name>
+    <File>Starz TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Storm</Name>
+    <File>Storm.png</File>
+  </Channel>
+  <Channel>
+    <Name>Studio 66 TV 1</Name>
+    <Name>Studio 66 TV 2</Name>
+    <Name>Studio 66 TV 3</Name>
+    <Name>Studio 66 TV 4</Name>
+    <File>Studio 66 TV 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>STV</Name>
+    <File>STV.png</File>
+  </Channel>
+  <Channel>
+    <Name>STV +1</Name>
+    <File>STV +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>STV HD</Name>
+    <Name>3855</Name>
+    <File>STV HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>SuperCasino</Name>
+    <File>SuperCasino.png</File>
+  </Channel>
+  <Channel>
+    <Name>Syfy</Name>
+    <File>Syfy.png</File>
+  </Channel>
+  <Channel>
+    <Name>Syfy +1</Name>
+    <File>Syfy +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Syfy HD</Name>
+    <File>Syfy HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Takbeer TV</Name>
+    <File>Takbeer TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>TBN Europe</Name>
+    <File>TBN Europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>TCM</Name>
+    <File>TCM.png</File>
+  </Channel>
+  <Channel>
+    <Name>TCM HD</Name>
+    <File>TCM HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>TCM 2</Name>
+    <File>TCM 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>Television X</Name>
+    <File>Television X.png</File>
+  </Channel>
+  <Channel>
+    <Name>TG4</Name>
+    <File>TG4.png</File>
+  </Channel>
+  <Channel>
+    <Name>TGGC Outlet</Name>
+    <File>TGGC Outlet.png</File>
+  </Channel>
+  <Channel>
+    <Name>Thane Direct</Name>
+    <File>Thane Direct.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Active Ch</Name>
+    <File>The Active Ch.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Boutique</Name>
+    <File>The Boutique.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Box</Name>
+    <File>The Box.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Dept Store</Name>
+    <File>The Dept Store</File>
+  </Channel>
+  <Channel>
+    <Name>The Style Ntwk</Name>
+    <File>The Style Ntwk.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Vault</Name>
+    <File>The Vault.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Zone</Name>
+    <File>The Zone.png</File>
+  </Channel>
+  <Channel>
+    <Name>TheDealChannel</Name>
+    <File>TheDealChannel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Tiny Pop</Name>
+    <File>Tiny Pop.png</File>
+  </Channel>
+  <Channel>
+    <Name>Tiny Pop +1</Name>
+    <File>Tiny Pop +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>TLC</Name>
+    <File>TLC.png</File>
+  </Channel>
+  <Channel>
+    <Name>TLC+1</Name>
+    <File>TLC+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>TLC HD</Name>
+    <File>TLC HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>TopUp Anytime1</Name>
+    <Name>TopUp Anytime3</Name>
+    <Name>TopUp Anytime5</Name>
+    <Name>TopUp Anytime6</Name>
+    <File>TopUp Anytime1.png</File>
+  </Channel>
+  <Channel>
+    <Name>TRACE Sports</Name>
+    <File>TRACE Sports.png</File>
+  </Channel>
+  <Channel>
+    <Name>Travel Channel</Name>
+    <File>Travel Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Travel Ch +1</Name>
+    <File>Travel Ch +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>True Ent</Name>
+    <File>True Ent.png</File>
+  </Channel>
+  <Channel>
+    <Name>True Ent+1</Name>
+    <File>True Ent+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>True Movies 1</Name>
+    <File>True Movies 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>True Movies 2</Name>
+    <File>True Movies 2.png</File>
+  </Channel>
+  <Channel>
+    <Name>TV Shop</Name>
+    <File>TV Shop.png</File>
+  </Channel>
+  <Channel>
+    <Name>TV3</Name>
+    <File>TV3.png</File>
+  </Channel>
+  <Channel>
+    <Name>TV5</Name>
+    <File>TV5.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>TVC News.png</File>
+  </Channel>
+  <Channel>
+    <Name>TVX Brits</Name>
+    <File>TVX Brits.png</File>
+  </Channel>
+  <Channel>
+    <Name>Twinkle TV</Name>
+    <File>Twinkle TVs.png</File>
+  </Channel>
+  <Channel>
+    <Name>UCB TV</Name>
+    <File>UCB TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>UK Swingers</Name>
+    <File>UK Swingers.png</File>
+  </Channel>
+  <Channel>
+    <Name>Ummah Chnl</Name>
+    <File>Ummah Chnl.png</File>
+  </Channel>
+  <Channel>
+    <Name>UMP Movies</Name>
+    <File>UMP Movies.png</File>
+  </Channel>
+  <Channel>
+    <Name>Universal</Name>
+    <File>Universal.png</File>
+  </Channel>
+  <Channel>
+    <Name>Universal+1</Name>
+    <File>Universal+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Universal HD</Name>
+    <File>Universal HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>UTV</Name>
+    <File>UTV.png</File>
+  </Channel>
+  <Channel>
+    <Name>UTV +1</Name>
+    <File>UTV +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>UTV HD</Name>
+    <File>UTV HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>V Channel</Name>
+    <File>V Channel.png</File>
+  </Channel>
+  <Channel>
+    <Name>Venus TV</Name>
+    <File>Venus TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>VH1</Name>
+    <File>VH1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Viewers' Wives</Name>
+    <File>Viewers' Wives.png</File>
+  </Channel>
+  <Channel>
+    <Name>Vintage TV</Name>
+    <File>Vintage TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Viva</Name>
+    <File>Viva.png</File>
+  </Channel>
+  <Channel>
+    <Name>Vox Africa</Name>
+    <File>Vox Africa.png</File>
+  </Channel>
+  <Channel>
+    <Name>Watch</Name>
+    <File>Watch.png</File>
+  </Channel>
+  <Channel>
+    <Name>Watch +1</Name>
+    <File>Watch +1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Watch HD</Name>
+    <File>Watch HD.png</File>
+  </Channel>
+  <Channel>
+    <Name>Wedding TV</Name>
+    <File>Wedding TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Word Network</Name>
+    <File>Word Network.png</File>
+  </Channel>
+  <Channel>
+    <Name>Xplicit Nightly</Name>
+    <File>Xplicit Nightly.png</File>
+  </Channel>
+  <Channel>
+    <Name>XXX Gay</Name>
+    <File>XXX Gay.png</File>
+  </Channel>
+  <Channel>
+    <Name>XXX Mums</Name>
+    <File>XXX Mums.png</File>
+  </Channel>
+  <Channel>
+    <Name>XXXFirst Timers</Name>
+    <File>XXXFirst Timers.png</File>
+  </Channel>
+  <Channel>
+    <Name>xxXpanded TV</Name>
+    <File>xxXpanded TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Yesterday</Name>
+    <File>Yesterday.png</File>
+  </Channel>
+  <Channel>
+    <Name>Yesterday+1</Name>
+    <File>Yesterday+1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Zee Café</Name>
+    <File>Zee Café.png</File>
+  </Channel>
+  <Channel>
+    <Name>Zee Cinema</Name>
+    <File>Zee Cinema.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>Zee Classic.png</File>
+  </Channel>
+  <Channel>
+    <Name>Empty</Name>
+    <File>Zee News.png</File>
+  </Channel>
+  <Channel>
+    <Name>Zee Punjabi</Name>
+    <File>Zee Punjabi.png</File>
+  </Channel>
+  <Channel>
+    <Name>Zee TV</Name>
+    <File>Zee TV.png</File>
+  </Channel>
+  <Channel>
+    <Name>Zing</Name>
+    <File>Zing.png</File>
+  </Channel>
+</Mappings>
