@@ -281,10 +281,6 @@
     <File>BBC News.png</File>
   </Channel>
   <Channel>
-    <Name>BBC One HD</Name>
-    <File>BBC One HD.png</File>
-  </Channel>
-  <Channel>
     <Name>BBC One</Name>
     <Name>BBC 1 CI</Name>
     <Name>BBC 1 E Mids</Name>
@@ -302,6 +298,10 @@
     <Name>BBC 1 Yorks</Name>
     <Name>BBC 1 Yrks&Lin</Name>
     <File>BBC One.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC One HD</Name>
+    <File>BBC One HD.png</File>
   </Channel>
   <Channel>
     <Name>BBC Parl'mnt</Name>
@@ -1100,8 +1100,8 @@
     <File>ITVi Stream 44.png</File>
   </Channel>
   <Channel>
-    <Name>JazeeraChildren</Name>
-    <File>JazeeraChildren.png</File>
+    <Name>Jeem.TV</Name>
+    <File>Jeem.TV.png</File>
   </Channel>
   <Channel>
     <Name>Jewellery Ch.</Name>
