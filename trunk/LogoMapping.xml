@@ -1,5 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
+<!--TV-->
   <Channel>
     <Name>_TV</Name>
     <File>_TV.png</File>
@@ -2311,5 +2312,267 @@
   <Channel>
     <Name>Zing</Name>
     <File>Zing.png</File>
+  </Channel>
+<!--Radio-->
+  <Channel>
+    <Name>Absolute</Name>
+    <Name>Absolute Radio</Name>
+    <File>Absolute.png</File>
+  </Channel>
+  <Channel>
+    <Name>Abs Rad 90s</Name>
+    <File>Abs Rad 90s.png</File>
+  </Channel>
+  <Channel>
+    <Name>Absolute CR</Name>
+    <File>Absolute CR.png</File>
+  </Channel>
+  <Channel>
+    <Name>Absolute80s</Name>
+    <File>Absolute80s.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC 6 Music</Name>
+    <File>BBC 6 Music</File>
+  </Channel>
+  <Channel>
+    <Name>BBC Asian</Name>
+    <Name>BBC Asian Net.</Name>
+    <File>BBC Asian.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC London</Name>
+    <File>BBC London</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R Cymru</Name>
+    <File>BBC R Cymru.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R Foyle</Name>
+    <File>BBC R Foyle.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R n Gael</Name>
+    <File>BBC R n Gael.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R Scot.</Name>
+    <File>BBC R Scot..png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R Ulster</Name>
+    <File>BBC R Ulster.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R Wales</Name>
+    <File>BBC R Wales.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R1</Name>
+    <Name>BBC Radio 1</Name>
+    <File>BBC R1.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R1X</Name>
+    <File>BBC R1X.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R2</Name>
+    <Name>BBC Radio 2</Name>
+    <File>BBC R2.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R3</Name>
+    <Name>BBC Radio 3</Name>
+    <File>BBC R3.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R4 Ex</Name>
+    <Name>BBC Radio 4 Ex</Name>
+    <File>BBC R4 Ex.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R4 FM</Name>
+    <Name>BBC R4 LW</Name>
+    <Name>BBC Radio 4</Name>
+    <File>BBC R4 FM.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R5L</Name>
+    <File>BBC R5L.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC R5SX</Name>
+    <File>BBC R5SX.png</File>
+  </Channel>
+  <Channel>
+    <Name>BBC WS</Name>
+    <Name>BBC World Sv.</Name>
+    <File>BBC WS.png</File>
+  </Channel>
+  <Channel>
+    <Name>BFBS Radio</Name>
+    <File>BFBS Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Capital FM</Name>
+    <File>Capital FM.png</File>
+  </Channel>
+  <Channel>
+    <Name>Choice FM</Name>
+    <File>Choice FM.png</File>
+  </Channel>
+  <Channel>
+    <Name>Classic FM</Name>
+    <File>Classic FM.png</File>
+  </Channel>
+  <Channel>
+    <Name>Desi Radio</Name>
+    <File>Desi Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Heart</Name>
+    <File>Heart.png</File>
+  </Channel>
+  <Channel>
+    <Name>InsightRadio</Name>
+    <File>InsightRadio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Jazz FM</Name>
+    <File>Jazz FM.png</File>
+  </Channel>
+  <Channel>
+    <Name>Kanshi Radio</Name>
+    <File>Kanshi Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Khushkhabri</Name>
+    <File>Khushkhabri.png</File>
+  </Channel>
+  <Channel>
+    <Name>Kisstory</Name>
+    <File>Kisstory.png</File>
+  </Channel>
+  <Channel>
+    <Name>LBC 97.3</Name>
+    <File>LBC 97.3.png</File>
+  </Channel>
+  <Channel>
+    <Name>LBC News</Name>
+    <File>LBC News.png</File>
+  </Channel>
+  <Channel>
+    <Name>Liberty</Name>
+    <File>Liberty.png</File>
+  </Channel>
+  <Channel>
+    <Name>Newstalk</Name>
+    <File>Newstalk.png</File>
+  </Channel>
+  <Channel>
+    <Name>Panjab Radio</Name>
+    <File>Panjab Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Planet Rock</Name>
+    <File>Planet Rock.png</File>
+  </Channel>
+  <Channel>
+    <Name>Rainbow</Name>
+    <File>Rainbow.png</File>
+  </Channel>
+  <Channel>
+    <Name>Real Radio</Name>
+    <File>Real Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE 2FM</Name>
+    <File>RTE 2FM.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE Lyric fm</Name>
+    <File>RTE Lyric fm.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE R na G</Name>
+    <File>RTE R na G.png</File>
+  </Channel>
+  <Channel>
+    <Name>RTE Radio 1</Name>
+    <File>RTE Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Smooth</Name>
+    <File>Smooth.png</File>
+  </Channel>
+  <Channel>
+    <Name>Solar Radio</Name>
+    <File>Solar Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Spectrum 1</Name>
+    <File>Spectrum 1.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Beats</Name>
+    <File>Star Beats.png</File>
+  </Channel>
+  <Channel>
+    <Name>Star Beats</Name>
+    <File>Solar Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>Sukh Sagar</Name>
+    <File>Sukh Sagar.png</File>
+  </Channel>
+  <Channel>
+    <Name>Talksport</Name>
+    <File>Talksport.png</File>
+  </Channel>
+  <Channel>
+    <Name>The Hits Radio</Name>
+    <File>The Hits Radio.png</File>
+  </Channel>
+  <Channel>
+    <Name>TWR</Name>
+    <File>TWR.png</File>
+  </Channel>
+  <Channel>
+    <Name>U105</Name>
+    <File>U105.png</File>
+  </Channel>
+  <Channel>
+    <Name>UCB Bible</Name>
+    <File>UCB Bible.png</File>
+  </Channel>
+  <Channel>
+    <Name>UCB Gospel</Name>
+    <File>UCB Gospel.png</File>
+  </Channel>
+  <Channel>
+    <Name>UCB Insp</Name>
+    <File>UCB Insp.png</File>
+  </Channel>
+  <Channel>
+    <Name>UCB Ireland</Name>
+    <File>UCB Ireland.png</File>
+  </Channel>
+  <Channel>
+    <Name>UCB UK</Name>
+    <File>UCB UK.png</File>
+  </Channel>
+  <Channel>
+    <Name>WRN Europe</Name>
+    <File>WRN Europe.png</File>
+  </Channel>
+  <Channel>
+    <Name>XFM</Name>
+    <File>XFM.png</File>
+  </Channel>
+  <Channel>
+    <Name>Yorkshire R</Name>
+    <File>Yorkshire R.png</File>
   </Channel>
 </Mappings>
