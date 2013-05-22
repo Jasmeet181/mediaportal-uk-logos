@@ -182,6 +182,10 @@
     <File>Arise News HD.png</File>
   </Channel>
   <Channel>
+    <Name>Armchair Shop</Name>
+    <File>Armchair Shop.png</File>
+  </Channel>
+  <Channel>
     <Name>ARY Ent</Name>
     <File>ARY Ent.png</File>
   </Channel>
@@ -1406,10 +1410,6 @@
     <File>Pick TV+1.png</File>
   </Channel>
   <Channel>
-    <Name>Pitch TV</Name>
-    <File>Pitch TV.png</File>
-  </Channel>
-  <Channel>
     <Name>Planet Pop</Name>
     <File>Planet Pop.png</File>
   </Channel>
@@ -2178,8 +2178,8 @@
     <File>UK Swingers.png</File>
   </Channel>
   <Channel>
-    <Name>Ummah Chnl</Name>
-    <File>Ummah Chnl.png</File>
+    <Name>Ummah TV</Name>
+    <File>Ummah TV.png</File>
   </Channel>
   <Channel>
     <Name>UMP Movies</Name>
