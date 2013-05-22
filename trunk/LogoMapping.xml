@@ -2332,6 +2332,10 @@
     <File>Absolute80s.png</File>
   </Channel>
   <Channel>
+    <Name>BBC  London</Name>
+    <File>BBC  London.png</File>
+  </Channel>
+  <Channel>
     <Name>BBC 6 Music</Name>
     <File>BBC 6 Music</File>
   </Channel>
@@ -2339,10 +2343,6 @@
     <Name>BBC Asian</Name>
     <Name>BBC Asian Net.</Name>
     <File>BBC Asian.png</File>
-  </Channel>
-  <Channel>
-    <Name>BBC London</Name>
-    <File>BBC London</File>
   </Channel>
   <Channel>
     <Name>BBC R Cymru</Name>
