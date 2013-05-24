@@ -795,6 +795,8 @@
   <Channel>
     <Item Name="Challenge">
       <Satellite />
+    <Item Name="Sky Challenge TV FSAT">
+      <Satellite />
     </Item>
     <File>Challenge.png</File>
   </Channel>
@@ -1851,6 +1853,12 @@
     <File>Kix!.png</File>
   </Channel>
   <Channel>
+    <Item Name="Empty">
+      <Satellite />
+    </Item>
+    <File>Lamhe.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Luxury Life">
       <Satellite />
     </Item>
@@ -2203,6 +2211,8 @@
   </Channel>
   <Channel>
     <Item Name="Pick TV">
+      <Satellite />
+    <Item Name="Pick TV FSAT">
       <Satellite />
     </Item>
     <File>Pick TV.png</File>
@@ -3556,12 +3566,6 @@
       <Satellite />
     </Item>
     <File>Zee Cinema.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Empty">
-      <Satellite />
-    </Item>
-    <File>Zee Classic.png</File>
   </Channel>
   <Channel>
     <Item Name="Empty">
