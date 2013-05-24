@@ -170,6 +170,14 @@
     <Item Name="303">
       <Satellite />
     </Item>
+    <File>6390.png</File>
+  <Channel>
+    <Item Name="8900">
+      <Satellite />
+    </Item>
+    <Item Name="303">
+      <Satellite />
+    </Item>
     <Item Name="303">
       <Satellite />
     </Item>
@@ -1749,12 +1757,6 @@
       <Satellite />
     </Item>
     <File>ITV4 HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="ITVi Stream 44">
-      <Satellite />
-    </Item>
-    <File>ITVi Stream 44.png</File>
   </Channel>
   <Channel>
     <Item Name="Jeem.TV">
