@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
-<!--TV-->
+  <!-- TV -->
   <Channel>
     <Item Name="_TV">
       <Satellite />
@@ -3593,7 +3593,8 @@
     </Item>
     <File>Zing.png</File>
   </Channel>
-<!--Radio-->
+
+  <!-- Radio -->
   <Channel>
     <Item Name="Absolute">
       <Satellite />
