@@ -3570,7 +3570,7 @@
     <File>Zee Cinema.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="Zee News">
       <Satellite />
     </Item>
     <File>Zee News.png</File>
