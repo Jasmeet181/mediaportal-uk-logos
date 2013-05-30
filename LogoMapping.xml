@@ -161,13 +161,13 @@
     <Item Name="6390">
       <Satellite />
     </Item>
-    <Item Name="301">
+    <Item Name="BBC RB 301">
       <Satellite />
     </Item>
-    <Item Name="302">
+    <Item Name="BBC RB 302">
       <Satellite />
     </Item>
-    <Item Name="303">
+    <Item Name="308">
       <Satellite />
     </Item>
     <File>6390.png</File>
@@ -175,7 +175,7 @@
     <Item Name="8900">
       <Satellite />
     </Item>
-    <Item Name="303">
+    <Item Name="BBC RB 303 HD">
       <Satellite />
     </Item>
     <Item Name="303">
