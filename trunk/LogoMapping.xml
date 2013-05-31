@@ -2208,6 +2208,7 @@
   <Channel>
     <Item Name="Pick TV">
       <Satellite />
+    </Item>
     <Item Name="Pick TV FSAT">
       <Satellite />
     </Item>
