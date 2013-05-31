@@ -259,13 +259,13 @@
     <File>AIT Int'l.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="Akaal Channel">
       <Satellite />
     </Item>
     <File>Akaal Channel.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="Al Jazeera Arabic">
     <File>Al Jazeera Arabic.png</File>
       <Satellite />
     </Item>
@@ -637,7 +637,7 @@
     <File>Bliss.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="Blissmas">
       <Satellite />
     </Item>
     <File>Blissmas.png</File>
@@ -976,7 +976,7 @@
     <File>CNN.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="CNN HD">
       <Satellite />
     </Item>
     <File>CNN HD.png</File>
@@ -1813,7 +1813,7 @@
     <File>Klear TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="Lifetime">
       <Satellite />
     </Item>
     <File>Lifetime.png</File>
@@ -1849,7 +1849,7 @@
     <File>Kix!.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="Lamhe">
       <Satellite />
     </Item>
     <File>Lamhe.png</File>
@@ -2083,7 +2083,7 @@
     <File>NDTV 24x7.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="NDTV Good Times">
       <Satellite />
     </Item>
     <File>NDTV Good Times.png</File>
@@ -2350,7 +2350,7 @@
     <File>QVC.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="QVC HD">
       <Satellite />
     </Item>
     <File>QVC HD.png</File>
@@ -3360,7 +3360,7 @@
     <File>TV5.png</File>
   </Channel>
   <Channel>
-    <Item Name="Empty">
+    <Item Name="TVC News">
       <Satellite />
     </Item>
     <File>TVC News.png</File>
