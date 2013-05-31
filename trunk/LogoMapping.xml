@@ -326,6 +326,8 @@
   </Channel>
   <Channel>
     <Item Name="Armchair Shop">
+      <Satellite />
+    </Item>
     <File>Armchair Shop.png</File>
   </Channel>
   <Channel>
