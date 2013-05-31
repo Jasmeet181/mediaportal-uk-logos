@@ -514,7 +514,7 @@
     <Item Name="BBC 1 N West">
       <Satellite />
     </Item>
-    <Item Name="BBC 1 NE & C">
+    <Item Name="BBC 1 NE _ C">
       <Satellite />
     </Item>
     <Item Name="BBC 1 Oxford">
@@ -538,7 +538,7 @@
     <Item Name="BBC 1 Yorks">
       <Satellite />
     </Item>
-    <Item Name="BBC 1 Yrks&Lin">
+    <Item Name="BBC 1 Yrks_Lin">
       <Satellite />
     </Item>
     <File>BBC One.png</File>
@@ -1030,10 +1030,10 @@
     <File>Controversial TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="Create & Craft">
+    <Item Name="Create _ Craft">
       <Satellite />
     </Item>
-    <File>Create & Craft.png</File>
+    <File>Create _ Craft.png</File>
   </Channel>
   <Channel>
     <Item Name="Dating Channel">
@@ -1569,16 +1569,16 @@
     <File>Holiday+Cruise.png</File>
   </Channel>
   <Channel>
-    <Item Name="Home & Health">
+    <Item Name="Home _ Health">
       <Satellite />
     </Item>
-    <File>Home & Health.png</File>
+    <File>Home _ Health.png</File>
   </Channel>
   <Channel>
-    <Item Name="Home&Health+">
+    <Item Name="Home_Health+">
       <Satellite />
     </Item>
-    <File>Home&Health+.png</File>
+    <File>Home_Health+.png</File>
   </Channel>
   <Channel>
     <Item Name="Home">
@@ -1605,10 +1605,10 @@
     <File>horror ch+1.png</File>
   </Channel>
   <Channel>
-    <Item Name="Horse & Country">
+    <Item Name="Horse _ Country">
       <Satellite />
     </Item>
-    <File>Horse & Country.png</File>
+    <File>Horse _ Country.png</File>
   </Channel>
   <Channel>
     <Item Name="ID">
@@ -2426,10 +2426,10 @@
     <File>Rishtey.png</File>
   </Channel>
   <Channel>
-    <Item Name="Rocks & Co 1">
+    <Item Name="Rocks _ Co 1">
       <Satellite />
     </Item>
-    <File>Rocks & Co 1.png</File>
+    <File>Rocks _ Co 1.png</File>
   </Channel>
   <Channel>
     <Item Name="RT">
