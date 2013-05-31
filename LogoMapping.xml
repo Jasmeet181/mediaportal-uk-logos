@@ -2748,7 +2748,6 @@
     <File>Sky Livingit.png</File>
   </Channel>
   <Channel>
-  <Channel>
     <Item Name="Sky Livingit+1">
       <Satellite />
     </Item>
