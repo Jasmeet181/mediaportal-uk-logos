@@ -545,6 +545,8 @@
   </Channel>
   <Channel>
     <Item Name="BBC One HD">
+      <Satellite />
+    </Item>
     <File>BBC One HD.png</File>
   </Channel>
   <Channel>
