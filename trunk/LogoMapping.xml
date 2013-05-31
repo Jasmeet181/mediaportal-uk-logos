@@ -798,6 +798,7 @@
   <Channel>
     <Item Name="Challenge">
       <Satellite />
+    </Item>
     <Item Name="Sky Challenge TV FSAT">
       <Satellite />
     </Item>
