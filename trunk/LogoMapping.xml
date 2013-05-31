@@ -50,12 +50,6 @@
     <File>5_ +1.png</File>
   </Channel>
   <Channel>
-    <Item Name="9XM">
-      <Satellite />
-    </Item>
-    <File>9XM.png</File>
-  </Channel>
-  <Channel>
     <Item Name="1381">
       <Satellite />
     </Item>
@@ -176,9 +170,6 @@
       <Satellite />
     </Item>
     <Item Name="BBC RB 303 HD">
-      <Satellite />
-    </Item>
-    <Item Name="303">
       <Satellite />
     </Item>
     <File>6390.png</File>
