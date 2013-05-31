@@ -254,10 +254,10 @@
     <File>Ahlulbayt TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="AIT Int'l">
+    <Item Name="AIT Int_l">
       <Satellite />
     </Item>
-    <File>AIT Int'l.png</File>
+    <File>AIT Int_l.png</File>
   </Channel>
   <Channel>
     <Item Name="Akaal Channel">
@@ -551,13 +551,13 @@
     <File>BBC One HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="BBC Parl'mnt">
+    <Item Name="BBC Parl_mnt">
       <Satellite />
     </Item>
     <Item Name="BBC Parliament">
       <Satellite />
     </Item>
-    <File>BBC Parl'mnt.png</File>
+    <File>BBC Parl_mnt.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC Three">
@@ -3458,10 +3458,10 @@
     <File>VH1.png</File>
   </Channel>
   <Channel>
-    <Item Name="Viewers' Wives">
+    <Item Name="Viewers_ Wives">
       <Satellite />
     </Item>
-    <File>Viewers' Wives.png</File>
+    <File>Viewers_ Wives.png</File>
   </Channel>
   <Channel>
     <Item Name="Vintage TV">
