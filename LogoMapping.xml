@@ -2736,6 +2736,7 @@
     </Item>
     <File>Sky Living+1.png</File>
   </Channel>
+  <Channel>
     <Item Name="Sky Living HD">
       <Satellite />
     </Item>
