@@ -3781,6 +3781,12 @@
     <File>Desi Radio.png</File>
   </Channel>
   <Channel>
+    <Item Name="Gold">
+      <Satellite />
+    </Item>
+    <File>Gold.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Heart">
       <Satellite />
     </Item>
@@ -3805,10 +3811,22 @@
     <File>Kanshi Radio.png</File>
   </Channel>
   <Channel>
+    <Item Name="Kerrang!">
+      <Satellite />
+    </Item>
+    <File>Kerrang!.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Khushkhabri">
       <Satellite />
     </Item>
     <File>Khushkhabri.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Kiss">
+      <Satellite />
+    </Item>
+    <File>Kiss.png</File>
   </Channel>
   <Channel>
     <Item Name="Kisstory">
@@ -3833,6 +3851,12 @@
       <Satellite />
     </Item>
     <File>Liberty.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Magic">
+      <Satellite />
+    </Item>
+    <File>Magic.png</File>
   </Channel>
   <Channel>
     <Item Name="Newstalk">
@@ -3887,6 +3911,12 @@
       <Satellite />
     </Item>
     <File>RTE Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Smash Hits!">
+      <Satellite />
+    </Item>
+    <File>Smash Hits!.png</File>
   </Channel>
   <Channel>
     <Item Name="Smooth">
