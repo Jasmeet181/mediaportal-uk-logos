@@ -3332,16 +3332,16 @@
     <File>Travel Ch +1.png</File>
   </Channel>
   <Channel>
+    <Item Name="True Drama">
+      <Satellite />
+    </Item>
+    <File>True Drama.png</File>
+  </Channel>
+  <Channel>
     <Item Name="True Ent">
       <Satellite />
     </Item>
     <File>True Ent.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="True Ent+1">
-      <Satellite />
-    </Item>
-    <File>True Ent+1.png</File>
   </Channel>
   <Channel>
     <Item Name="True Movies 1">
