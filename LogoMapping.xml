@@ -266,8 +266,8 @@
     <File>Akaal Channel.png</File>
   </Channel>
   <Channel>
-    <Item Name="Al Jazeera Arabic">
-    <File>Al Jazeera Arabic.png</File>
+    <Item Name="Al Jazeera Ara">
+    <File>Al Jazeera Ara.png</File>
       <Satellite />
     </Item>
   </Channel>
@@ -1430,6 +1430,12 @@
     <File>France Eng.png</File>
   </Channel>
   <Channel>
+    <Item Name="France Fra">
+      <Satellite />
+    </Item>
+    <File>France Fra.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Gay Network ">
       <Satellite />
     </Item>
@@ -2034,6 +2040,12 @@
       <Satellite />
     </Item>
     <File>MTV Trax.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Muslim World Network">
+      <Satellite />
+    </Item>
+    <File>Muslim World Network.png</File>
   </Channel>
   <Channel>
     <Item Name="MUTV">
