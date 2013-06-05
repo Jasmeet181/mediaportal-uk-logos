@@ -155,6 +155,12 @@
     <Item Name="6390">
       <Satellite />
     </Item>
+    <Item Name="54380">
+      <Satellite />
+    </Item>
+    <Item Name="54381">
+      <Satellite />
+    </Item>
     <Item Name="BBC RB 301">
       <Satellite />
     </Item>
@@ -2132,13 +2138,10 @@
     <File>Nickelodeon.png</File>
   </Channel>
   <Channel>
-    <Item Name="Nickelodeon+1">
-      <Satellite />
-    </Item>
     <Item Name="Nickelodeon+1 ">
       <Satellite />
     </Item>
-    <File>Nickelodeon+1.png</File>
+    <File>Nickelodeon+1 .png</File>
   </Channel>
   <Channel>
     <Item Name="NickelodeonHD">
