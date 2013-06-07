@@ -161,6 +161,9 @@
     <Item Name="54381">
       <Satellite />
     </Item>
+    <Item Name="BBC RB 1">
+      <Satellite />
+    </Item>
     <Item Name="BBC RB 301">
       <Satellite />
     </Item>
@@ -177,6 +180,9 @@
       <Satellite />
     </Item>
     <Item Name="BBC RB 303 HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB HD">
       <Satellite />
     </Item>
     <File>8900.png</File>
@@ -259,12 +265,14 @@
     </Item>
     <File>Ahlulbayt TV.png</File>
   </Channel>
+<!--
   <Channel>
     <Item Name="AIT Int'l">
       <Satellite />
     </Item>
     <File>AIT Int'l.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="Akaal Channel">
       <Satellite />
@@ -556,6 +564,7 @@
     </Item>
     <File>BBC One HD.png</File>
   </Channel>
+<!--
   <Channel>
     <Item Name="BBC Parl'mnt">
       <Satellite />
@@ -565,6 +574,7 @@
     </Item>
     <File>BBC Parl'mnt.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="BBC Three">
       <Satellite />
@@ -3472,12 +3482,14 @@
     </Item>
     <File>VH1.png</File>
   </Channel>
+<!--
   <Channel>
     <Item Name="Viewers' Wives">
       <Satellite />
     </Item>
     <File>Viewers' Wives.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="Vintage TV">
       <Satellite />
