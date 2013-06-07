@@ -1045,12 +1045,14 @@
     </Item>
     <File>Controversial TV.png</File>
   </Channel>
+<!--
   <Channel>
-    <Item Name="Create _ Craft">
+    <Item Name="Create & Craft">
       <Satellite />
     </Item>
-    <File>Create _ Craft.png</File>
+    <File>Create & Craft.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="Dating Channel">
       <Satellite />
@@ -1588,18 +1590,22 @@
     </Item>
     <File>Holiday+Cruise.png</File>
   </Channel>
+<!--
   <Channel>
-    <Item Name="Home _ Health">
+    <Item Name="Home & Health">
       <Satellite />
     </Item>
-    <File>Home _ Health.png</File>
+    <File>Home & Health.png</File>
   </Channel>
+-->
+<!--
   <Channel>
-    <Item Name="Home_Health+">
+    <Item Name="Home&Health+">
       <Satellite />
     </Item>
-    <File>Home_Health+.png</File>
+    <File>Home&Health+.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="Home">
       <Satellite />
@@ -1624,12 +1630,14 @@
     </Item>
     <File>horror ch+1.png</File>
   </Channel>
+<!--
   <Channel>
-    <Item Name="Horse _ Country">
+    <Item Name="Horse & Country">
       <Satellite />
     </Item>
-    <File>Horse _ Country.png</File>
+    <File>Horse & Country.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="ID">
       <Satellite />
@@ -1820,10 +1828,10 @@
     <File>Kiss.png</File>
   </Channel>
   <Channel>
-    <Item Name="Kix!">
+    <Item Name="Kix">
       <Satellite />
     </Item>
-    <File>Kix!.png</File>
+    <File>Kix.png</File>
   </Channel>
   <Channel>
     <Item Name="Klear TV">
@@ -2449,12 +2457,14 @@
     </Item>
     <File>Rishtey.png</File>
   </Channel>
+<!--
   <Channel>
-    <Item Name="Rocks _ Co 1">
+    <Item Name="Rocks & Co 1">
       <Satellite />
     </Item>
-    <File>Rocks _ Co 1.png</File>
+    <File>Rocks & Co 1.png</File>
   </Channel>
+-->
   <Channel>
     <Item Name="RT">
       <Satellite />
