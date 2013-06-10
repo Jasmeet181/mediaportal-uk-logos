@@ -3585,12 +3585,6 @@
     <File>Yesterday+1.png</File>
   </Channel>
   <Channel>
-    <Item Name="Zee Café">
-      <Satellite />
-    </Item>
-    <File>Zee Café.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Zee Cinema">
       <Satellite />
     </Item>
@@ -3812,6 +3806,12 @@
     <File>Desi Radio.png</File>
   </Channel>
   <Channel>
+    <Item Name="Diamond RD">
+      <Satellite />
+    </Item>
+    <File>Diamond RD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Gold">
       <Satellite />
     </Item>
@@ -3960,12 +3960,6 @@
       <Satellite />
     </Item>
     <File>Solar Radio.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Spectrum 1">
-      <Satellite />
-    </Item>
-    <File>Spectrum 1.png</File>
   </Channel>
   <Channel>
     <Item Name="Star Beats">
