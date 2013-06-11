@@ -4013,7 +4013,7 @@
     <File>Star Beats.png</File>
   </Channel>
   <Channel>
-    <Item Name="Star Beats">
+    <Item Name="Solar Radio">
       <Satellite />
     </Item>
     <File>Solar Radio.png</File>
