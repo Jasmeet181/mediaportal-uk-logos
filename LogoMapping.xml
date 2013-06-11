@@ -3824,6 +3824,12 @@
     <File>Heart.png</File>
   </Channel>
   <Channel>
+    <Item Name="Heat">
+      <Satellite />
+    </Item>
+    <File>Heat.png</File>
+  </Channel>
+  <Channel>
     <Item Name="InsightRadio">
       <Satellite />
     </Item>
