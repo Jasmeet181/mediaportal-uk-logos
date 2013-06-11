@@ -530,7 +530,7 @@
     <Item Name="BBC 1 N West">
       <Satellite />
     </Item>
-    <Item Name="BBC 1 NE _ C">
+    <Item Name="BBC 1 NE &amp; C">
       <Satellite />
     </Item>
     <Item Name="BBC 1 Oxford">
@@ -554,7 +554,7 @@
     <Item Name="BBC 1 Yorks">
       <Satellite />
     </Item>
-    <Item Name="BBC 1 Yrks_Lin">
+    <Item Name="BBC 1 Yrks&amp;Lin">
       <Satellite />
     </Item>
     <File>BBC One.png</File>
@@ -1048,14 +1048,12 @@
     </Item>
     <File>Controversial TV.png</File>
   </Channel>
-<!--
   <Channel>
-    <Item Name="Create & Craft">
+    <Item Name="Create &amp; Craft">
       <Satellite />
     </Item>
-    <File>Create & Craft.png</File>
+    <File>Create &amp; Craft.png</File>
   </Channel>
--->
   <Channel>
     <Item Name="Dating Channel">
       <Satellite />
@@ -1605,22 +1603,18 @@
     </Item>
     <File>Holiday+Cruise.png</File>
   </Channel>
-<!--
   <Channel>
-    <Item Name="Home & Health">
+    <Item Name="Home &amp; Health">
       <Satellite />
     </Item>
-    <File>Home & Health.png</File>
+    <File>Home &amp; Health.png</File>
   </Channel>
--->
-<!--
   <Channel>
-    <Item Name="Home&Health+">
+    <Item Name="Home&amp;Health+">
       <Satellite />
     </Item>
-    <File>Home&Health+.png</File>
+    <File>Home&amp;Health+.png</File>
   </Channel>
--->
   <Channel>
     <Item Name="Home">
       <Satellite />
@@ -1645,14 +1639,12 @@
     </Item>
     <File>horror ch+1.png</File>
   </Channel>
-<!--
   <Channel>
-    <Item Name="Horse & Country">
+    <Item Name="Horse &amp; Country">
       <Satellite />
     </Item>
-    <File>Horse & Country.png</File>
+    <File>Horse &amp; Country.png</File>
   </Channel>
--->
   <Channel>
     <Item Name="ID">
       <Satellite />
@@ -2475,14 +2467,12 @@
     </Item>
     <File>Rishtey.png</File>
   </Channel>
-<!--
   <Channel>
-    <Item Name="Rocks & Co 1">
+    <Item Name="Rocks &amp; Co 1">
       <Satellite />
     </Item>
-    <File>Rocks & Co 1.png</File>
+    <File>Rocks &amp; Co 1.png</File>
   </Channel>
--->
   <Channel>
     <Item Name="RT">
       <Satellite />
