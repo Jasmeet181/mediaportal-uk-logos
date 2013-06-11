@@ -170,6 +170,9 @@
     <Item Name="BBC RB 302">
       <Satellite />
     </Item>
+    <Item Name="BBC Red Button">
+      <Satellite />
+    </Item>
     <Item Name="308">
       <Satellite />
     </Item>
@@ -279,9 +282,9 @@
   </Channel>
   <Channel>
     <Item Name="Al Jazeera Ara">
-    <File>Al Jazeera Ara.png</File>
       <Satellite />
     </Item>
+    <File>Al Jazeera Ara.png</File>
   </Channel>
   <Channel>
     <Item Name="Al Jazeera Eng">
@@ -1144,6 +1147,12 @@
     <File>Discovery HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Discovery Shed">
+      <Satellite />
+    </Item>
+    <File>Discovery Shed.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Disney Chnl">
       <Satellite />
     </Item>
@@ -1285,7 +1294,7 @@
     <Item Name="ESPN AmrcaHD">
       <Satellite />
     </Item>
-    <File>ESPN AmrcaHD</File>
+    <File>ESPN AmrcaHD.png</File>
   </Channel>
   <Channel>
     <Item Name="ESPN Classic">
@@ -1510,7 +1519,7 @@
     <Item Name="Gold +1">
       <Satellite />
     </Item>
-    <File>Gold +1</File>
+    <File>Gold +1.png</File>
   </Channel>
   <Channel>
     <Item Name="Good Food">
@@ -1529,6 +1538,12 @@
       <Satellite />
     </Item>
     <File>Good Food HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Gospel Channel">
+      <Satellite />
+    </Item>
+    <File>Gospel Channel.png</File>
   </Channel>
   <Channel>
     <Item Name="Greatest Hits">
@@ -1927,10 +1942,13 @@
     <Item Name="M_Movies+1">
       <Satellite />
     </Item>
-    <File>M_Movies+1!.png</File>
+    <File>M_Movies+1.png</File>
   </Channel>
   <Channel>
     <Item Name="More4">
+      <Satellite />
+    </Item>
+    <Item Name="More 4">
       <Satellite />
     </Item>
     <File>More4.png</File>
@@ -3261,7 +3279,13 @@
     <Item Name="The Dept Store">
       <Satellite />
     </Item>
-    <File>The Dept Store</File>
+    <File>The Dept Store.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="The Mall">
+      <Satellite />
+    </Item>
+    <File>The Mall.png</File>
   </Channel>
   <Channel>
     <Item Name="The Style Ntwk">
@@ -3408,7 +3432,7 @@
     <Item Name="Twinkle TV">
       <Satellite />
     </Item>
-    <File>Twinkle TVs.png</File>
+    <File>Twinkle TV.png</File>
   </Channel>
   <Channel>
     <Item Name="UCB TV">
@@ -3653,7 +3677,7 @@
     <Item Name="BBC 6 Music">
       <Satellite />
     </Item>
-    <File>BBC 6 Music</File>
+    <File>BBC 6 Music.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC Asian">
@@ -3812,6 +3836,12 @@
     <File>Diamond RD.png</File>
   </Channel>
   <Channel>
+    <Item Name="EWTN">
+      <Satellite />
+    </Item>
+    <File>EWTN.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Gold">
       <Satellite />
     </Item>
@@ -3914,6 +3944,12 @@
     <File>Planet Rock.png</File>
   </Channel>
   <Channel>
+    <Item Name="Premier Radio">
+      <Satellite />
+    </Item>
+    <File>Premier Radio.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Rainbow">
       <Satellite />
     </Item>
@@ -3957,6 +3993,9 @@
   </Channel>
   <Channel>
     <Item Name="Smooth">
+      <Satellite />
+    </Item>
+    <Item Name="Smooth Radio">
       <Satellite />
     </Item>
     <File>Smooth.png</File>
