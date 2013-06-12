@@ -1043,12 +1043,6 @@
     <File>CommunityChnl.png</File>
   </Channel>
   <Channel>
-    <Item Name="Controversial TV">
-      <Satellite />
-    </Item>
-    <File>Controversial TV.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Create &amp; Craft">
       <Satellite />
     </Item>
@@ -3545,12 +3539,6 @@
     <File>Watch HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="Wedding TV">
-      <Satellite />
-    </Item>
-    <File>Wedding TV.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Word Network">
       <Satellite />
     </Item>
@@ -4001,12 +3989,6 @@
       <Satellite />
     </Item>
     <File>Star Beats.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Solar Radio">
-      <Satellite />
-    </Item>
-    <File>Solar Radio.png</File>
   </Channel>
   <Channel>
     <Item Name="Sukh Sagar">
