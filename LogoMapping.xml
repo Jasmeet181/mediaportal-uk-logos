@@ -164,6 +164,12 @@
     <Item Name="BBC RB 1">
       <Satellite />
     </Item>
+    <Item Name="BBC RB 2">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 3">
+      <Satellite />
+    </Item>
     <Item Name="BBC RB 301">
       <Satellite />
     </Item>
@@ -1835,12 +1841,6 @@
     <File>Kix.png</File>
   </Channel>
   <Channel>
-    <Item Name="Klear TV">
-      <Satellite />
-    </Item>
-    <File>Klear TV.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Lifetime">
       <Satellite />
     </Item>
@@ -2066,10 +2066,10 @@
     <File>MTV Trax.png</File>
   </Channel>
   <Channel>
-    <Item Name="Muslim World Network">
+    <Item Name="Muslim World">
       <Satellite />
     </Item>
-    <File>Muslim World Network.png</File>
+    <File>Muslim World.png</File>
   </Channel>
   <Channel>
     <Item Name="MUTV">
@@ -2307,12 +2307,6 @@
       <Satellite />
     </Item>
     <File>Premier Sports.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Prem Spts Xtra">
-      <Satellite />
-    </Item>
-    <File>Prem Spts Xtra.png</File>
   </Channel>
   <Channel>
     <Item Name="Price Drop">
