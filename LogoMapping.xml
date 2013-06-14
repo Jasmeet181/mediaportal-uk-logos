@@ -3784,6 +3784,12 @@
     <File>Capital FM.png</File>
   </Channel>
   <Channel>
+    <Item Name="Chl Line-up">
+      <Satellite />
+    </Item>
+    <File>Sky.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Choice FM">
       <Satellite />
     </Item>
