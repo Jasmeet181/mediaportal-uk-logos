@@ -2921,6 +2921,18 @@
     <File>Sky Sports 4 HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Sky Sports Ashes">
+      <Satellite />
+    </Item>
+    <File>Sky Sports Ashes.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Sky Sp Ashes HD">
+      <Satellite />
+    </Item>
+    <File>Sky Sp Ashes HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Sky Sports F1">
       <Satellite />
     </Item>
