@@ -1085,12 +1085,6 @@
     <File>Daystar.png</File>
   </Channel>
   <Channel>
-    <Item Name="Dirty Talk">
-      <Satellite />
-    </Item>
-    <File>Dirty Talk.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Disc.History">
       <Satellite />
     </Item>
