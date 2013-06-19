@@ -95,18 +95,6 @@
     <Item Name="1399">
       <Satellite />
     </Item>
-    <Item Name="1421">
-      <Satellite />
-    </Item>
-    <Item Name="1423">
-      <Satellite />
-    </Item>
-    <Item Name="1424">
-      <Satellite />
-    </Item>
-    <Item Name="1425">
-      <Satellite />
-    </Item>
     <Item Name="1471">
       <Satellite />
     </Item>
@@ -1833,6 +1821,12 @@
       <Satellite />
     </Item>
     <File>Kix.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Klear TV">
+      <Satellite />
+    </Item>
+    <File>Klear TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Lifetime">
