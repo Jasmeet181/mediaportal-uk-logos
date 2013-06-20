@@ -50,141 +50,6 @@
     <File>5_ +1.png</File>
   </Channel>
   <Channel>
-    <Item Name="1381">
-      <Satellite />
-    </Item>
-    <Item Name="1382">
-      <Satellite />
-    </Item>
-    <Item Name="1383">
-      <Satellite />
-    </Item>
-    <Item Name="1384">
-      <Satellite />
-    </Item>
-    <Item Name="1385">
-      <Satellite />
-    </Item>
-    <Item Name="1386">
-      <Satellite />
-    </Item>
-    <Item Name="1391">
-      <Satellite />
-    </Item>
-    <Item Name="1392">
-      <Satellite />
-    </Item>
-    <Item Name="1393">
-      <Satellite />
-    </Item>
-    <Item Name="1394">
-      <Satellite />
-    </Item>
-    <Item Name="1395">
-      <Satellite />
-    </Item>
-    <Item Name="1396">
-      <Satellite />
-    </Item>
-    <Item Name="1397">
-      <Satellite />
-    </Item>
-    <Item Name="1398">
-      <Satellite />
-    </Item>
-    <Item Name="1399">
-      <Satellite />
-    </Item>
-    <Item Name="1471">
-      <Satellite />
-    </Item>
-    <Item Name="1472">
-      <Satellite />
-    </Item>
-    <Item Name="1473">
-      <Satellite />
-    </Item>
-    <Item Name="1474">
-      <Satellite />
-    </Item>
-    <Item Name="1475">
-      <Satellite />
-    </Item>
-    <Item Name="1476">
-      <Satellite />
-    </Item>
-    <Item Name="1477">
-      <Satellite />
-    </Item>
-    <Item Name="1478">
-      <Satellite />
-    </Item>
-    <Item Name="1479">
-      <Satellite />
-    </Item>
-    <Item Name="1481">
-      <Satellite />
-    </Item>
-    <Item Name="1482">
-      <Satellite />
-    </Item>
-    <Item Name="1483">
-      <Satellite />
-    </Item>
-    <Item Name="1484">
-      <Satellite />
-    </Item>
-    <Item Name="1485">
-      <Satellite />
-    </Item>
-    <File>1381.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="6390">
-      <Satellite />
-    </Item>
-    <Item Name="54380">
-      <Satellite />
-    </Item>
-    <Item Name="54381">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 1">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 2">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 3">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 301">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 302">
-      <Satellite />
-    </Item>
-    <Item Name="BBC Red Button">
-      <Satellite />
-    </Item>
-    <Item Name="308">
-      <Satellite />
-    </Item>
-    <File>6390.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="8900">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 303 HD">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB HD">
-      <Satellite />
-    </Item>
-    <File>8900.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Aaj Tak">
       <Satellite />
     </Item>
@@ -201,6 +66,12 @@
       <Satellite />
     </Item>
     <File>ABN TV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="ABP News">
+      <Satellite />
+    </Item>
+    <File>ABP News.png</File>
   </Channel>
   <Channel>
     <Item Name="Abu Dhabi TV">
@@ -567,6 +438,51 @@
       <Satellite />
     </Item>
     <File>BBC Parl'mnt.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="6390">
+      <Satellite />
+    </Item>
+    <Item Name="54380">
+      <Satellite />
+    </Item>
+    <Item Name="54381">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 1">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 2">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 3">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 301">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 302">
+      <Satellite />
+    </Item>
+    <Item Name="BBC Red Button">
+      <Satellite />
+    </Item>
+    <Item Name="308">
+      <Satellite />
+    </Item>
+    <File>BBC Red Button.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="8900">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB 303 HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC RB HD">
+      <Satellite />
+    </Item>
+    <File>BBC Red Button HD.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC Three">
@@ -1041,6 +957,12 @@
       <Satellite />
     </Item>
     <File>Create &amp; Craft.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Cruzr.TV">
+      <Satellite />
+    </Item>
+    <File>Cruzr.TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Dating Channel">
@@ -2114,6 +2036,12 @@
     <File>NDTV Good Times.png</File>
   </Channel>
   <Channel>
+    <Item Name="News18 India">
+      <Satellite />
+    </Item>
+    <File>News18 India.png</File>
+  </Channel>
+  <Channel>
     <Item Name="NHK World HD">
       <Satellite />
     </Item>
@@ -2907,6 +2835,96 @@
       <Satellite />
     </Item>
     <File>Sky Sports 4 HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="1381">
+      <Satellite />
+    </Item>
+    <Item Name="1382">
+      <Satellite />
+    </Item>
+    <Item Name="1383">
+      <Satellite />
+    </Item>
+    <Item Name="1384">
+      <Satellite />
+    </Item>
+    <Item Name="1385">
+      <Satellite />
+    </Item>
+    <Item Name="1386">
+      <Satellite />
+    </Item>
+    <Item Name="1391">
+      <Satellite />
+    </Item>
+    <Item Name="1392">
+      <Satellite />
+    </Item>
+    <Item Name="1393">
+      <Satellite />
+    </Item>
+    <Item Name="1394">
+      <Satellite />
+    </Item>
+    <Item Name="1395">
+      <Satellite />
+    </Item>
+    <Item Name="1396">
+      <Satellite />
+    </Item>
+    <Item Name="1397">
+      <Satellite />
+    </Item>
+    <Item Name="1398">
+      <Satellite />
+    </Item>
+    <Item Name="1399">
+      <Satellite />
+    </Item>
+    <Item Name="1471">
+      <Satellite />
+    </Item>
+    <Item Name="1472">
+      <Satellite />
+    </Item>
+    <Item Name="1473">
+      <Satellite />
+    </Item>
+    <Item Name="1474">
+      <Satellite />
+    </Item>
+    <Item Name="1475">
+      <Satellite />
+    </Item>
+    <Item Name="1476">
+      <Satellite />
+    </Item>
+    <Item Name="1477">
+      <Satellite />
+    </Item>
+    <Item Name="1478">
+      <Satellite />
+    </Item>
+    <Item Name="1479">
+      <Satellite />
+    </Item>
+    <Item Name="1481">
+      <Satellite />
+    </Item>
+    <Item Name="1482">
+      <Satellite />
+    </Item>
+    <Item Name="1483">
+      <Satellite />
+    </Item>
+    <Item Name="1484">
+      <Satellite />
+    </Item>
+    <Item Name="1485">
+      <Satellite />
+    </Item>
+    <File>Sky Sports Active.png</File>
   </Channel>
   <Channel>
     <Item Name="Sky Sports Ashes">
