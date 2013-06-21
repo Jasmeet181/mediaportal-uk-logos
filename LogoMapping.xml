@@ -953,6 +953,12 @@
     <File>CommunityChnl.png</File>
   </Channel>
   <Channel>
+    <Item Name="Controversial TV">
+      <Satellite />
+    </Item>
+    <File>Controversial TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Create &amp; Craft">
       <Satellite />
     </Item>
@@ -1449,6 +1455,9 @@
   </Channel>
   <Channel>
     <Item Name="Greatest Hits">
+      <Satellite />
+    </Item>
+    <Item Name="Summer Hits TV">
       <Satellite />
     </Item>
     <File>Greatest Hits.png</File>
