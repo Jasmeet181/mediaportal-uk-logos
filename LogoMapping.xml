@@ -3362,10 +3362,10 @@
     <File>TopUp Anytime1.png</File>
   </Channel>
   <Channel>
-    <Item Name="Trace Spt Stars">
+    <Item Name="Trace Spt Stars ">
       <Satellite />
     </Item>
-    <File>Trace Spt Stars.png</File>
+    <File>Trace Spt Stars .png</File>
   </Channel>
   <Channel>
     <Item Name="Travel Channel">
