@@ -2936,16 +2936,16 @@
     <File>Sky Sports Active.png</File>
   </Channel>
   <Channel>
-    <Item Name="Sky Sports Ashes">
+    <Item Name="Sky Spts Ashes">
       <Satellite />
     </Item>
-    <File>Sky Sports Ashes.png</File>
+    <File>Sky Spts Ashes.png</File>
   </Channel>
   <Channel>
-    <Item Name="Sky Sp Ashes HD">
+    <Item Name="Sky SpAshesHD">
       <Satellite />
     </Item>
-    <File>Sky Sp Ashes HD.png</File>
+    <File>Sky SpAshesHD.png</File>
   </Channel>
   <Channel>
     <Item Name="Sky Sports F1">
