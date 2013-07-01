@@ -611,6 +611,12 @@
     <File>Brit Asia TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="BT Sport">
+      <Satellite />
+    </Item>
+    <File>BT Sport.png</File>
+  </Channel>
+  <Channel>
     <Item Name="BT Sport 1">
       <Satellite />
     </Item>
@@ -1379,6 +1385,12 @@
     <File>Gems TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="Ginx TV">
+      <Satellite />
+    </Item>
+    <File>Ginx TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="GEO News">
       <Satellite />
     </Item>
@@ -2045,10 +2057,10 @@
     <File>NDTV Good Times.png</File>
   </Channel>
   <Channel>
-    <Item Name="News18 India">
+    <Item Name="News 18 India">
       <Satellite />
     </Item>
-    <File>News18 India.png</File>
+    <File>News 18 India.png</File>
   </Channel>
   <Channel>
     <Item Name="NHK World HD">
@@ -2298,6 +2310,9 @@
   </Channel>
   <Channel>
     <Item Name="QVC">
+      <Satellite />
+    </Item>
+    <Item Name="QVC Style">
       <Satellite />
     </Item>
     <File>QVC.png</File>
@@ -3224,10 +3239,16 @@
     <Item Name="TCM">
       <Satellite />
     </Item>
+    <Item Name="TCM Western">
+      <Satellite />
+    </Item>
     <File>TCM.png</File>
   </Channel>
   <Channel>
     <Item Name="TCM HD">
+      <Satellite />
+    </Item>
+    <Item Name="TCMWesternHD">
       <Satellite />
     </Item>
     <File>TCM HD.png</File>
