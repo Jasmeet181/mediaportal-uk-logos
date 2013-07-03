@@ -2336,6 +2336,12 @@
     <File>Racing UK.png</File>
   </Channel>
   <Channel>
+    <Item Name="Ramadan TV">
+      <Satellite />
+    </Item>
+    <File>Ramadan TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Really">
       <Satellite />
     </Item>
