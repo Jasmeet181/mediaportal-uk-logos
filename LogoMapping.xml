@@ -2450,12 +2450,6 @@
     <File>S4C.png</File>
   </Channel>
   <Channel>
-    <Item Name="Sahara One">
-      <Satellite />
-    </Item>
-    <File>Sahara One.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Samaa">
       <Satellite />
     </Item>
