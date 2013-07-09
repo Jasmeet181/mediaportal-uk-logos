@@ -551,12 +551,6 @@
     <File>Bio+1.png</File>
   </Channel>
   <Channel>
-    <Item Name="Blighty">
-      <Satellite />
-    </Item>
-    <File>Blighty.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Bliss">
       <Satellite />
     </Item>
@@ -573,12 +567,6 @@
       <Satellite />
     </Item>
     <File>Bloomberg.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Blue Tube">
-      <Satellite />
-    </Item>
-    <File>Blue Tube.png</File>
   </Channel>
   <Channel>
     <Item Name="BON TV">
@@ -1313,6 +1301,12 @@
     <File>Film4 HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Fire Hit TV">
+      <Satellite />
+    </Item>
+    <File>Fire Hit TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Fitness TV">
       <Satellite />
     </Item>
@@ -1385,10 +1379,16 @@
     <File>Gems TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="Ginx TV">
+    <Item Name="Ginx.tv">
       <Satellite />
     </Item>
-    <File>Ginx TV.png</File>
+    <File>Ginx.tv.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Girl Next Door">
+      <Satellite />
+    </Item>
+    <File>Girl Next Door.png</File>
   </Channel>
   <Channel>
     <Item Name="GEO News">
@@ -2340,6 +2340,12 @@
       <Satellite />
     </Item>
     <File>Ramadan TV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Reality Hub">
+      <Satellite />
+    </Item>
+    <File>Reality Hub.png</File>
   </Channel>
   <Channel>
     <Item Name="Really">
@@ -3465,12 +3471,6 @@
       <Satellite />
     </Item>
     <File>UCB TV.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="UK Swingers">
-      <Satellite />
-    </Item>
-    <File>UK Swingers.png</File>
   </Channel>
   <Channel>
     <Item Name="Ummah TV">
