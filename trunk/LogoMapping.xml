@@ -440,34 +440,19 @@
     <File>BBC Parl'mnt.png</File>
   </Channel>
   <Channel>
+    <Item Name="302">
+      <Satellite />
+    </Item>
     <Item Name="6390">
-      <Satellite />
-    </Item>
-    <Item Name="54380">
-      <Satellite />
-    </Item>
-    <Item Name="54381">
       <Satellite />
     </Item>
     <Item Name="BBC RB 1">
       <Satellite />
     </Item>
-    <Item Name="BBC RB 2">
-      <Satellite />
-    </Item>
-    <Item Name="BBC RB 3">
-      <Satellite />
-    </Item>
     <Item Name="BBC RB 301">
       <Satellite />
     </Item>
-    <Item Name="BBC RB 302">
-      <Satellite />
-    </Item>
     <Item Name="BBC Red Button">
-      <Satellite />
-    </Item>
-    <Item Name="308">
       <Satellite />
     </Item>
     <File>BBC Red Button.png</File>
