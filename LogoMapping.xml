@@ -1487,6 +1487,9 @@
     <Item Name="High Street TV">
       <Satellite />
     </Item>
+    <Item Name="High Street Xtra">
+      <Satellite />
+    </Item>
     <File>High Street TV.png</File>
   </Channel>
   <Channel>
@@ -3261,12 +3264,6 @@
       <Satellite />
     </Item>
     <File>TG4.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="TGGC Outlet">
-      <Satellite />
-    </Item>
-    <File>TGGC Outlet.png</File>
   </Channel>
   <Channel>
     <Item Name="Thane Direct">
