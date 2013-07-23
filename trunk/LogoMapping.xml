@@ -1790,10 +1790,16 @@
     <File>Lucky Star.png</File>
   </Channel>
   <Channel>
-    <Item Name="Kix!">
+    <Item Name="Kix">
       <Satellite />
     </Item>
-    <File>Kix!.png</File>
+    <File>Kix.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Kix Power">
+      <Satellite />
+    </Item>
+    <File>Kix Power</File>
   </Channel>
   <Channel>
     <Item Name="Lamhe">
@@ -2214,12 +2220,6 @@
       <Satellite />
     </Item>
     <File>PopGirl.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="PopGirl +1">
-      <Satellite />
-    </Item>
-    <File>PopGirl +1.png</File>
   </Channel>
   <Channel>
     <Item Name="Praise TV">
