@@ -1454,9 +1454,6 @@
     <Item Name="Greatest Hits">
       <Satellite />
     </Item>
-    <Item Name="Summer Hits TV">
-      <Satellite />
-    </Item>
     <File>Greatest Hits.png</File>
   </Channel>
   <Channel>
@@ -3192,6 +3189,12 @@
       <Satellite />
     </Item>
     <File>STV HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Summer Hits TV">
+      <Satellite />
+    </Item>
+    <File>Summer Hits TV.png</File>
   </Channel>
   <Channel>
     <Item Name="SuperCasino">
