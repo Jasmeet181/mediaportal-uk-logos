@@ -4095,10 +4095,4 @@
     </Item>
     <File>XFM.png</File>
   </Channel>
-  <Channel>
-    <Item Name="Yorkshire R">
-      <Satellite />
-    </Item>
-    <File>Yorkshire R.png</File>
-  </Channel>
 </Mappings>
