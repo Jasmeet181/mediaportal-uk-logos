@@ -206,12 +206,6 @@
     <File>Arise News HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="Armchair Shop">
-      <Satellite />
-    </Item>
-    <File>Armchair Shop.png</File>
-  </Channel>
-  <Channel>
     <Item Name="ARY Ent">
       <Satellite />
     </Item>
@@ -1170,24 +1164,6 @@
       <Satellite />
     </Item>
     <File>eNCA Africa.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="ESPN America">
-      <Satellite />
-    </Item>
-    <File>ESPN America.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="ESPN AmrcaHD">
-      <Satellite />
-    </Item>
-    <File>ESPN AmrcaHD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="ESPN Classic">
-      <Satellite />
-    </Item>
-    <File>ESPN Classic.png</File>
   </Channel>
   <Channel>
     <Item Name="ESPN">
@@ -3390,6 +3366,12 @@
       <Satellite />
     </Item>
     <File>Travel Ch +1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Tristar">
+      <Satellite />
+    </Item>
+    <File>Tristar.png</File>
   </Channel>
   <Channel>
     <Item Name="True Drama">
