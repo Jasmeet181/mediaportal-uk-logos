@@ -1253,6 +1253,9 @@
     <Item Name="Film4 +1">
       <Satellite />
     </Item>
+    <Item Name="Film4+1">
+      <Satellite />
+    </Item>
     <File>Film4 +1.png</File>
   </Channel>
   <Channel>
