@@ -1,0 +1,24 @@
+This page contains information on how to source, create and add the logos.
+
+= About the logos =
+Logos are split in to TV and Radio folders. The original versions of the logos are placed into the Source folder. Changes are then made to improve the readability of the logos on dark skins and making the backgrounds transparent and placed into the Simple folder. Finally the logos are resized to a maximum of 170px either way, within a 200x200px canvas in the Simple200 folder. It's a slightly long winded process but will help greatly if there is a need to make any further changes.
+
+Adding to the mapping XML is explained [http://forum.team-mediaportal.com/threads/logomanager-0-0-0-1-31-05-2013.119376/ here].
+
+= Good sources =
+
+*[http://www.lyngsat-logo.com/tvcountry/uk.html Lyngsat Logo]
+
+*[http://en.wikipedia.org/wiki/Category:British_television_logos Wikipedia]
+
+*[http://logos.wikia.com/wiki/Category:Television_channels_in_the_United_Kingdom Logopedia]
+
+*[http://tv.sky.com/tv-guide Sky Guide] (Replace the '/80/35/' in the image's URL with '/0/0/')
+
+*[http://www.skymedia.co.uk/Channels/index.aspx Sky Media]
+
+*[http://de.wikipedia.org/wiki/Kategorie:Datei:Logo_%28Fernsehsender%29 German Wikipedia] (Less copyright restrictions than the English version)
+
+*[https://www.google.co.uk/imghp?hl=en Google Images]
+
+*The channel's website or social media
