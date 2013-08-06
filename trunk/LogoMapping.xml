@@ -3386,6 +3386,9 @@
     <Item Name="True Ent">
       <Satellite />
     </Item>
+    <Item Name="True Entertainment">
+      <Satellite />
+    </Item>
     <File>True Ent.png</File>
   </Channel>
   <Channel>
@@ -3892,6 +3895,12 @@
     <File>Kiss.png</File>
   </Channel>
   <Channel>
+    <Item Name="Kiss Fresh">
+      <Satellite />
+    </Item>
+    <File>Kiss Fresh.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Kisstory">
       <Satellite />
     </Item>
@@ -3980,12 +3989,6 @@
       <Satellite />
     </Item>
     <File>RTE Radio 1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Smash Hits!">
-      <Satellite />
-    </Item>
-    <File>Smash Hits!.png</File>
   </Channel>
   <Channel>
     <Item Name="Smooth">
