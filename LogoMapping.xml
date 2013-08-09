@@ -3852,18 +3852,18 @@
     </Item>
     <File>Gold.png</File>
   </Channel>-->
-  <!--<Channel>
+  <Channel>
     <Item Name="Heart">
       <Satellite />
     </Item>
     <File>Heart.png</File>
-  </Channel>-->
-  <Channel>
+  </Channel>
+  <!--<Channel>
     <Item Name="Heat">
       <Satellite />
     </Item>
     <File>Heat.png</File>
-  </Channel>
+  </Channel>-->
   <Channel>
     <Item Name="InsightRadio">
       <Satellite />
