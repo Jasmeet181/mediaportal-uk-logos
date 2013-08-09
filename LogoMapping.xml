@@ -1736,6 +1736,12 @@
     <File>Kix.png</File>
   </Channel>
   <Channel>
+    <Item Name="Kix Power">
+      <Satellite />
+    </Item>
+    <File>Kix Power.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Klear TV">
       <Satellite />
     </Item>
@@ -1770,18 +1776,6 @@
       <Satellite />
     </Item>
     <File>Lucky Star.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Kix">
-      <Satellite />
-    </Item>
-    <File>Kix.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Kix Power">
-      <Satellite />
-    </Item>
-    <File>Kix Power.png</File>
   </Channel>
   <Channel>
     <Item Name="Lamhe">
@@ -3846,24 +3840,24 @@
     </Item>
     <File>Diamond RD.png</File>
   </Channel>
-  <Channel>
+  <!--<Channel>
     <Item Name="EWTN">
       <Satellite />
     </Item>
     <File>EWTN.png</File>
-  </Channel>
-  <Channel>
+  </Channel>-->
+  <!--<Channel>
     <Item Name="Gold">
       <Satellite />
     </Item>
     <File>Gold.png</File>
-  </Channel>
-  <Channel>
+  </Channel>-->
+  <!--<Channel>
     <Item Name="Heart">
       <Satellite />
     </Item>
     <File>Heart.png</File>
-  </Channel>
+  </Channel>-->
   <Channel>
     <Item Name="Heat">
       <Satellite />
@@ -3888,24 +3882,24 @@
     </Item>
     <File>Kanshi Radio.png</File>
   </Channel>
-  <Channel>
+  <!--<Channel>
     <Item Name="Kerrang!">
       <Satellite />
     </Item>
     <File>Kerrang!.png</File>
-  </Channel>
+  </Channel>-->
   <Channel>
     <Item Name="Khushkhabri">
       <Satellite />
     </Item>
     <File>Khushkhabri.png</File>
   </Channel>
-  <Channel>
+  <!--<Channel>
     <Item Name="Kiss">
       <Satellite />
     </Item>
     <File>Kiss.png</File>
-  </Channel>
+  </Channel>-->
   <Channel>
     <Item Name="Kiss Fresh">
       <Satellite />
@@ -3936,12 +3930,12 @@
     </Item>
     <File>Liberty.png</File>
   </Channel>
-  <Channel>
+  <!--<Channel>
     <Item Name="Magic">
       <Satellite />
     </Item>
     <File>Magic.png</File>
-  </Channel>
+  </Channel>-->
   <Channel>
     <Item Name="Newstalk">
       <Satellite />
