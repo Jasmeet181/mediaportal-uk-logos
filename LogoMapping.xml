@@ -308,10 +308,10 @@
     <File>BBC 1 Wales.png</File>
   </Channel>
   <Channel>
-    <Item Name="BBC1 Wal HD">
+    <Item Name="BBC 1 Wal HD">
       <Satellite />
     </Item>
-    <File>BBC1 Wal HD.png</File>
+    <File>BBC 1 Wal HD.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC 2 England">
@@ -2300,12 +2300,6 @@
     <File>Racing UK.png</File>
   </Channel>
   <Channel>
-    <Item Name="Ramadan TV">
-      <Satellite />
-    </Item>
-    <File>Ramadan TV.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Reality Hub">
       <Satellite />
     </Item>
@@ -3219,6 +3213,15 @@
       <Satellite />
     </Item>
     <File>TCM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TCM +1">
+      <Satellite />
+    </Item>
+    <Item Name="TCMWestern+1">
+      <Satellite />
+    </Item>
+    <File>TCM +1.png</File>
   </Channel>
   <Channel>
     <Item Name="TCM HD">
