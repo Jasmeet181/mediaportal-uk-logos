@@ -311,6 +311,12 @@
     <Item Name="BBC 1 Wal HD">
       <Satellite />
     </Item>
+    <Item Name="BBC 1 Wales HD">
+      <Satellite />
+    </Item>
+    <Item Name="BBC One Wales HD">
+      <Satellite />
+    </Item>
     <File>BBC 1 Wal HD.png</File>
   </Channel>
   <Channel>
