@@ -26,6 +26,12 @@
     <File>4seven.png</File>
   </Channel>
   <Channel>
+    <Item Name="5 Later">
+      <Satellite />
+    </Item>
+    <File>5 Later.png</File>
+  </Channel>
+  <Channel>
     <Item Name="5 USA">
       <Satellite />
     </Item>
@@ -192,18 +198,6 @@
       <Satellite />
     </Item>
     <File>AnimalPlnt HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Arise News">
-      <Satellite />
-    </Item>
-    <File>Arise News.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Arise News HD">
-      <Satellite />
-    </Item>
-    <File>Arise News HD.png</File>
   </Channel>
   <Channel>
     <Item Name="ARY Ent">
@@ -2276,9 +2270,6 @@
     <Item Name="QVC">
       <Satellite />
     </Item>
-    <Item Name="QVC Style">
-      <Satellite />
-    </Item>
     <File>QVC.png</File>
   </Channel>
   <Channel>
@@ -2292,6 +2283,18 @@
       <Satellite />
     </Item>
     <File>QVC Beauty.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="QVC Extra">
+      <Satellite />
+    </Item>
+    <File>QVC Extra.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="QVC Style">
+      <Satellite />
+    </Item>
+    <File>QVC Style.png</File>
   </Channel>
   <Channel>
     <Item Name="Racing UK">
@@ -3438,12 +3441,6 @@
       <Satellite />
     </Item>
     <File>TVX Brits.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Twinkle TV">
-      <Satellite />
-    </Item>
-    <File>Twinkle TV.png</File>
   </Channel>
   <Channel>
     <Item Name="UCB TV">
