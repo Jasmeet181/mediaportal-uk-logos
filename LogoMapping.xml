@@ -3221,13 +3221,13 @@
     <File>TCM.png</File>
   </Channel>
   <Channel>
-    <Item Name="TCM +1">
+    <Item Name="TCM+1">
       <Satellite />
     </Item>
     <Item Name="TCMWestern+1">
       <Satellite />
     </Item>
-    <File>TCM +1.png</File>
+    <File>TCM+1.png</File>
   </Channel>
   <Channel>
     <Item Name="TCM HD">
@@ -3237,12 +3237,6 @@
       <Satellite />
     </Item>
     <File>TCM HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="TCM 2">
-      <Satellite />
-    </Item>
-    <File>TCM 2.png</File>
   </Channel>
   <Channel>
     <Item Name="Television X">
