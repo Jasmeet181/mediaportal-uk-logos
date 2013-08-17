@@ -146,18 +146,6 @@
     <File>AIT Int'l.png</File>
   </Channel>
   <Channel>
-    <Item Name="Akaal Channel">
-      <Satellite />
-    </Item>
-    <File>Akaal Channel.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Al Jazeera Ara">
-      <Satellite />
-    </Item>
-    <File>Al Jazeera Ara.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Al Jazeera Eng">
       <Satellite />
     </Item>
@@ -1325,12 +1313,6 @@
     <File>France Eng.png</File>
   </Channel>
   <Channel>
-    <Item Name="France Fra">
-      <Satellite />
-    </Item>
-    <File>France Fra.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Gay Network ">
       <Satellite />
     </Item>
@@ -1341,12 +1323,6 @@
       <Satellite />
     </Item>
     <File>Gems TV.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Ginx.tv">
-      <Satellite />
-    </Item>
-    <File>Ginx.tv.png</File>
   </Channel>
   <Channel>
     <Item Name="Girl Next Door">
@@ -1742,12 +1718,6 @@
     <File>Klear TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="Lifetime">
-      <Satellite />
-    </Item>
-    <File>Lifetime.png</File>
-  </Channel>
-  <Channel>
     <Item Name="LiverpoolFCTV">
       <Satellite />
     </Item>
@@ -1955,12 +1925,6 @@
     <File>MTV Rocks.png</File>
   </Channel>
   <Channel>
-    <Item Name="MTV Trax">
-      <Satellite />
-    </Item>
-    <File>MTV Trax.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Muslim World">
       <Satellite />
     </Item>
@@ -2013,12 +1977,6 @@
       <Satellite />
     </Item>
     <File>NDTV 24x7.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="NDTV Good Times">
-      <Satellite />
-    </Item>
-    <File>NDTV Good Times.png</File>
   </Channel>
   <Channel>
     <Item Name="News 18 India">
@@ -2273,12 +2231,6 @@
     <File>QVC.png</File>
   </Channel>
   <Channel>
-    <Item Name="QVC HD">
-      <Satellite />
-    </Item>
-    <File>QVC HD.png</File>
-  </Channel>
-  <Channel>
     <Item Name="QVC Beauty">
       <Satellite />
     </Item>
@@ -2445,12 +2397,6 @@
       <Satellite />
     </Item>
     <File>Setanta Sports1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Setanta HD">
-      <Satellite />
-    </Item>
-    <File>Setanta HD.png</File>
   </Channel>
   <Channel>
     <Item Name="Showcase">
@@ -2964,6 +2910,18 @@
       <Satellite />
     </Item>
     <File>Sky Summer HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Sky Superhero">
+      <Satellite />
+    </Item>
+    <File>Sky Superhero.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="SkySuperheroHD">
+      <Satellite />
+    </Item>
+    <File>SkySuperheroHD.png</File>
   </Channel>
   <Channel>
     <Item Name="Sky Thriller">
