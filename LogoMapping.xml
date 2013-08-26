@@ -146,6 +146,12 @@
     <File>AIT Int'l.png</File>
   </Channel>
   <Channel>
+    <Item Name="Akaal Channel">
+      <Satellite />
+    </Item>
+    <File>Akaal Channel.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Al Jazeera Eng">
       <Satellite />
     </Item>
@@ -3291,6 +3297,12 @@
       <Satellite />
     </Item>
     <File>TLC+1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TLC+2">
+      <Satellite />
+    </Item>
+    <File>TLC+2.png</File>
   </Channel>
   <Channel>
     <Item Name="TLC HD">
