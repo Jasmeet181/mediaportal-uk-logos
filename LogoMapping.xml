@@ -158,6 +158,12 @@
     <File>Al Jazeera Eng.png</File>
   </Channel>
   <Channel>
+    <Item Name="Alexcasino">
+      <Satellite />
+    </Item>
+    <File>Alexcasino.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Alibi">
       <Satellite />
     </Item>
@@ -677,12 +683,6 @@
     <File>CCTV News.png</File>
   </Channel>
   <Channel>
-    <Item Name="CelebrityShop">
-      <Satellite />
-    </Item>
-    <File>CelebrityShop.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Ch Nine UK">
       <Satellite />
     </Item>
@@ -918,12 +918,6 @@
       <Satellite />
     </Item>
     <File>CommunityChnl.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Controversial TV">
-      <Satellite />
-    </Item>
-    <File>Controversial TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Create &amp; Craft">
