@@ -1406,10 +1406,10 @@
     <File>Gospel Channel.png</File>
   </Channel>
   <Channel>
-    <Item Name="Greatest Hits">
+    <Item Name="Greatest Hits TV">
       <Satellite />
     </Item>
-    <File>Greatest Hits.png</File>
+    <File>Greatest Hits TV.png</File>
   </Channel>
   <Channel>
     <Item Name="H2">
