@@ -512,12 +512,6 @@
     <File>Bid.png</File>
   </Channel>
   <Channel>
-    <Item Name="Bid Plus">
-      <Satellite />
-    </Item>
-    <File>Bid Plus.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Bio">
       <Satellite />
     </Item>
@@ -3546,6 +3540,9 @@
   </Channel>
   <Channel>
     <Item Name="xxXpanded TV">
+      <Satellite />
+    </Item>
+    <Item Name="xxXpanded 2">
       <Satellite />
     </Item>
     <File>xxXpanded TV.png</File>
