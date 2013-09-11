@@ -986,12 +986,6 @@
     <File>Disc.Turbo.png</File>
   </Channel>
   <Channel>
-    <Item Name="Discount TV">
-      <Satellite />
-    </Item>
-    <File>Discount TV.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Discovery">
       <Satellite />
     </Item>
@@ -3369,6 +3363,12 @@
       <Satellite />
     </Item>
     <File>TV Shop.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="TV Warehouse">
+      <Satellite />
+    </Item>
+    <File>TV Warehouse.png</File>
   </Channel>
   <Channel>
     <Item Name="TV3">
