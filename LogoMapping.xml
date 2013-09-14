@@ -1214,12 +1214,6 @@
     <File>Faith World TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="Fashion One">
-      <Satellite />
-    </Item>
-    <File>Fashion One.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Film4">
       <Satellite />
     </Item>
@@ -1692,6 +1686,12 @@
       <Satellite />
     </Item>
     <File>Kix.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Kix +1">
+      <Satellite />
+    </Item>
+    <File>Kix +1.png</File>
   </Channel>
   <Channel>
     <Item Name="Kix Power">
