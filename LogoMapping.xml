@@ -518,12 +518,6 @@
     <File>Bio.png</File>
   </Channel>
   <Channel>
-    <Item Name="Bio+1">
-      <Satellite />
-    </Item>
-    <File>Bio+1.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Bliss">
       <Satellite />
     </Item>
@@ -3231,6 +3225,12 @@
       <Satellite />
     </Item>
     <File>The Mall.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="The Store">
+      <Satellite />
+    </Item>
+    <File>The Store.png</File>
   </Channel>
   <Channel>
     <Item Name="The Style Ntwk">
