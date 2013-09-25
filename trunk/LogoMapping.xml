@@ -566,12 +566,6 @@
     <File>Brit Asia TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="BT Sport">
-      <Satellite />
-    </Item>
-    <File>BT Sport.png</File>
-  </Channel>
-  <Channel>
     <Item Name="BT Sport 1">
       <Satellite />
     </Item>
@@ -594,6 +588,12 @@
       <Satellite />
     </Item>
     <File>BT Sport 2 HD.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BT Sport Preview">
+      <Satellite />
+    </Item>
+    <File>BT Sport Preview.png</File>
   </Channel>
   <Channel>
     <Item Name="BuzMuzik">
@@ -3543,6 +3543,9 @@
       <Satellite />
     </Item>
     <Item Name="xxXpanded 2">
+      <Satellite />
+    </Item>
+    <Item Name="Adult xxXpanded TV">
       <Satellite />
     </Item>
     <File>xxXpanded TV.png</File>
