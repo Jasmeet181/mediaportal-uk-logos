@@ -2321,10 +2321,22 @@
     <File>RT HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="RTE News Now">
+      <Satellite />
+    </Item>
+    <File>RTE News Now.png</File>
+  </Channel>
+  <Channel>
     <Item Name="RTE ONE">
       <Satellite />
     </Item>
     <File>RTE ONE.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTE ONE +1">
+      <Satellite />
+    </Item>
+    <File>RTE ONE +1.png</File>
   </Channel>
   <Channel>
     <Item Name="RTE TWO">
