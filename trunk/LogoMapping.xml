@@ -1652,12 +1652,6 @@
     <File>JML Direct.png</File>
   </Channel>
   <Channel>
-    <Item Name="JML Living">
-      <Satellite />
-    </Item>
-    <File>JML Living.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Kerrang!">
       <Satellite />
     </Item>
@@ -1682,22 +1676,10 @@
     <File>Kix.png</File>
   </Channel>
   <Channel>
-    <Item Name="Kix +1">
+    <Item Name="Kix+1">
       <Satellite />
     </Item>
-    <File>Kix +1.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Kix Power">
-      <Satellite />
-    </Item>
-    <File>Kix Power.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Klear TV">
-      <Satellite />
-    </Item>
-    <File>Klear TV.png</File>
+    <File>Kix+1.png</File>
   </Channel>
   <Channel>
     <Item Name="LiverpoolFCTV">
@@ -1991,6 +1973,12 @@
     <File>Nick Jr. 2.png</File>
   </Channel>
   <Channel>
+    <Item Name="Nick Jr Peppa">
+      <Satellite />
+    </Item>
+    <File>Nick Jr Peppa.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Nickelodeon">
       <Satellite />
     </Item>
@@ -2115,6 +2103,9 @@
   </Channel>
   <Channel>
     <Item Name="PlayboyTV Chat">
+      <Satellite />
+    </Item>
+    <Item Name="Adult Playboy TV Chat">
       <Satellite />
     </Item>
     <File>PlayboyTV Chat.png</File>
@@ -3977,12 +3968,6 @@
       <Satellite />
     </Item>
     <File>Solar Radio.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Star Beats">
-      <Satellite />
-    </Item>
-    <File>Star Beats.png</File>
   </Channel>
   <Channel>
     <Item Name="Sukh Sagar">
