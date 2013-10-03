@@ -908,6 +908,12 @@
     <File>CommunityChnl.png</File>
   </Channel>
   <Channel>
+    <Item Name="Craft Extra">
+      <Satellite />
+    </Item>
+    <File>Craft Extra.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Create &amp; Craft">
       <Satellite />
     </Item>
@@ -3254,12 +3260,6 @@
     <File>The Zone.png</File>
   </Channel>
   <Channel>
-    <Item Name="TheDealChannel">
-      <Satellite />
-    </Item>
-    <File>TheDealChannel.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Tiny Pop">
       <Satellite />
     </Item>
@@ -3769,16 +3769,16 @@
     <File>Capital FM.png</File>
   </Channel>
   <Channel>
+    <Item Name="Capital Xtra">
+      <Satellite />
+    </Item>
+    <File>Capital Xtra.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Chl Line-up">
       <Satellite />
     </Item>
     <File>Sky.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Choice FM">
-      <Satellite />
-    </Item>
-    <File>Choice FM.png</File>
   </Channel>
   <Channel>
     <Item Name="Classic FM">
