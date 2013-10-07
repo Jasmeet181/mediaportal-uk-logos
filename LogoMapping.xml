@@ -2075,19 +2075,19 @@
     <File>Peace TV Urdu.png</File>
   </Channel>
   <Channel>
-    <Item Name="Pick TV">
+    <Item Name="Pick">
       <Satellite />
     </Item>
-    <Item Name="Pick TV FSAT">
+    <Item Name="Pick FSAT">
       <Satellite />
     </Item>
-    <File>Pick TV.png</File>
+    <File>Pick.png</File>
   </Channel>
   <Channel>
-    <Item Name="Pick TV+1">
+    <Item Name="Pick+1">
       <Satellite />
     </Item>
-    <File>Pick TV+1.png</File>
+    <File>Pick+1.png</File>
   </Channel>
   <Channel>
     <Item Name="Planet Pop">
@@ -3252,12 +3252,6 @@
       <Satellite />
     </Item>
     <File>The Vault.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="The Zone">
-      <Satellite />
-    </Item>
-    <File>The Zone.png</File>
   </Channel>
   <Channel>
     <Item Name="Tiny Pop">
