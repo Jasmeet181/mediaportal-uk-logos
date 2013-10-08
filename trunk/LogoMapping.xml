@@ -2081,6 +2081,9 @@
     <Item Name="Pick FSAT">
       <Satellite />
     </Item>
+    <Item Name="Pick TV">
+      <Satellite />
+    </Item>
     <File>Pick.png</File>
   </Channel>
   <Channel>
