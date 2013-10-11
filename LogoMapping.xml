@@ -200,6 +200,12 @@
     <File>AnimalPlnt HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="Arise News">
+      <Satellite />
+    </Item>
+    <File>Arise News.png</File>
+  </Channel>
+  <Channel>
     <Item Name="ARY Ent">
       <Satellite />
     </Item>
@@ -1688,6 +1694,18 @@
     <File>Kix+1.png</File>
   </Channel>
   <Channel>
+    <Item Name="Lifetime">
+      <Satellite />
+    </Item>
+    <File>Lifetime.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Lifetime+1">
+      <Satellite />
+    </Item>
+    <File>Lifetime+1.png</File>
+  </Channel>
+  <Channel>
     <Item Name="LiverpoolFCTV">
       <Satellite />
     </Item>
@@ -2027,6 +2045,12 @@
     <File>Northern Birds.png</File>
   </Channel>
   <Channel>
+    <Item Name="Now Music TV">
+      <Satellite />
+    </Item>
+    <File>Now Music TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="NTV">
       <Satellite />
     </Item>
@@ -2079,9 +2103,6 @@
       <Satellite />
     </Item>
     <Item Name="Pick FSAT">
-      <Satellite />
-    </Item>
-    <Item Name="Pick TV">
       <Satellite />
     </Item>
     <File>Pick.png</File>
