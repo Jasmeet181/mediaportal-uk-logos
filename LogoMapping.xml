@@ -662,10 +662,10 @@
     <File>CBBC Channel.png</File>
   </Channel>
   <Channel>
-    <Item Name="CBBC Channel HD">
+    <Item Name="CBBC HD">
       <Satellite />
     </Item>
-    <File>CBBC Channel HD.png</File>
+    <File>CBBC HD.png</File>
   </Channel>
   <Channel>
     <Item Name="CBeebies">
