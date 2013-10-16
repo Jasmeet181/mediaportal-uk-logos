@@ -158,6 +158,12 @@
     <File>Al Jazeera Eng.png</File>
   </Channel>
   <Channel>
+    <Item Name="Al Jazeera Eng HD">
+      <Satellite />
+    </Item>
+    <File>Al Jazeera Eng HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Alexcasino">
       <Satellite />
     </Item>
@@ -368,10 +374,22 @@
     <File>BBC Four.png</File>
   </Channel>
   <Channel>
+    <Item Name="BBC Four HD">
+      <Satellite />
+    </Item>
+    <File>BBC Four HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="BBC News">
       <Satellite />
     </Item>
     <File>BBC News.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC News HD">
+      <Satellite />
+    </Item>
+    <File>BBC News HD.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC One">
@@ -474,6 +492,12 @@
       <Satellite />
     </Item>
     <File>BBC Three.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="BBC Three HD">
+      <Satellite />
+    </Item>
+    <File>BBC Three HD.png</File>
   </Channel>
   <Channel>
     <Item Name="BBC Two HD">
@@ -638,10 +662,22 @@
     <File>CBBC Channel.png</File>
   </Channel>
   <Channel>
+    <Item Name="CBBC Channel HD">
+      <Satellite />
+    </Item>
+    <File>CBBC Channel HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="CBeebies">
       <Satellite />
     </Item>
     <File>CBeebies.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="CBeebies HD">
+      <Satellite />
+    </Item>
+    <File>CBeebies HD.png</File>
   </Channel>
   <Channel>
     <Item Name="CBS Action">
