@@ -443,6 +443,12 @@
     <File>BBC One.png</File>
   </Channel>
   <Channel>
+    <Item Name="BBC One +1">
+      <Satellite />
+    </Item>
+    <File>BBC One +1.png</File>
+  </Channel>
+  <Channel>
     <Item Name="BBC One HD">
       <Satellite />
     </Item>
