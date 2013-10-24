@@ -833,12 +833,6 @@
     <File>Christmas 24+.png</File>
   </Channel>
   <Channel>
-    <Item Name="Christmas Hits">
-      <Satellite />
-    </Item>
-    <File>Christmas Hits.png</File>
-  </Channel>
-  <Channel>
     <Item Name="CHSTV">
       <Satellite />
     </Item>
@@ -1434,12 +1428,6 @@
       <Satellite />
     </Item>
     <File>Gospel Channel.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Greatest Hits TV">
-      <Satellite />
-    </Item>
-    <File>Greatest Hits TV.png</File>
   </Channel>
   <Channel>
     <Item Name="H2">
@@ -2087,10 +2075,10 @@
     <File>Northern Birds.png</File>
   </Channel>
   <Channel>
-    <Item Name="Now Music TV">
+    <Item Name="Now Music">
       <Satellite />
     </Item>
-    <File>Now Music TV.png</File>
+    <File>Now Music.png</File>
   </Channel>
   <Channel>
     <Item Name="NTV">
@@ -3180,12 +3168,6 @@
       <Satellite />
     </Item>
     <File>STV HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Summer Hits TV">
-      <Satellite />
-    </Item>
-    <File>Summer Hits TV.png</File>
   </Channel>
   <Channel>
     <Item Name="SuperCasino">
