@@ -1277,6 +1277,12 @@
     <File>Film4 HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="FilmOn.com">
+      <Satellite />
+    </Item>
+    <File>FilmOn.com.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Fire Hit TV">
       <Satellite />
     </Item>
