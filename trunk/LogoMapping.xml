@@ -2390,6 +2390,12 @@
     <File>RTE ONE +1.png</File>
   </Channel>
   <Channel>
+    <Item Name="RTE ONE HD">
+      <Satellite />
+    </Item>
+    <File>RTE ONE HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="RTE TWO">
       <Satellite />
     </Item>
