@@ -2375,6 +2375,9 @@
     <Item Name="RTE News Now">
       <Satellite />
     </Item>
+    <Item Name="RTÉ News Now">
+      <Satellite />
+    </Item>
     <File>RTE News Now.png</File>
   </Channel>
   <Channel>
@@ -2387,10 +2390,19 @@
     <Item Name="RTE ONE +1">
       <Satellite />
     </Item>
+    <Item Name="RTÉ One +1">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ 1 +1">
+      <Satellite />
+    </Item>
     <File>RTE ONE +1.png</File>
   </Channel>
   <Channel>
     <Item Name="RTE ONE HD">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ ONE HD">
       <Satellite />
     </Item>
     <File>RTE ONE HD.png</File>
@@ -2405,10 +2417,16 @@
     <Item Name="RTE TWO HD">
       <Satellite />
     </Item>
+    <Item Name="RTÉ TWO HD">
+      <Satellite />
+    </Item>
     <File>RTE TWO HD.png</File>
   </Channel>
   <Channel>
     <Item Name="RTEJR">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉjr">
       <Satellite />
     </Item>
     <File>RTEJR.png</File>
@@ -3982,16 +4000,55 @@
     <Item Name="RTE 2FM">
       <Satellite />
     </Item>
+    <Item Name="RTÉ 2FM">
+      <Satellite />
+    </Item>
     <File>RTE 2FM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTE Chill / RTE Junior">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ Chill / RTÉ Junior">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ Chill/RTÉ Junior">
+      <Satellite />
+    </Item>
+    <File>RTE Chill RTE Junior.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTE Gold">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ Gold">
+      <Satellite />
+    </Item>
+    <File>RTE Gold.png</File>
   </Channel>
   <Channel>
     <Item Name="RTE Lyric fm">
       <Satellite />
     </Item>
+    <Item Name="RTÉ Lyric fm">
+      <Satellite />
+    </Item>
     <File>RTE Lyric fm.png</File>
   </Channel>
   <Channel>
+    <Item Name="RTE Pulse">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ Pulse">
+      <Satellite />
+    </Item>
+    <File>RTE Pulse.png</File>
+  </Channel>
+  <Channel>
     <Item Name="RTE R na G">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ Raidió na Gaeltachta">
       <Satellite />
     </Item>
     <File>RTE R na G.png</File>
@@ -4000,7 +4057,19 @@
     <Item Name="RTE Radio 1">
       <Satellite />
     </Item>
+    <Item Name="RTÉ Radio 1">
+      <Satellite />
+    </Item>
     <File>RTE Radio 1.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTE Radio 1 Extra">
+      <Satellite />
+    </Item>
+    <Item Name="RTÉ Radio 1 Extra">
+      <Satellite />
+    </Item>
+    <File>RTE Radio 1 Extra.png</File>
   </Channel>
   <Channel>
     <Item Name="Smooth">
