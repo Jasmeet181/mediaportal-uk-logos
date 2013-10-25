@@ -2183,12 +2183,6 @@
     <File>PopGirl.png</File>
   </Channel>
   <Channel>
-    <Item Name="Praise TV">
-      <Satellite />
-    </Item>
-    <File>Praise TV.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Premier Sports">
       <Satellite />
     </Item>
