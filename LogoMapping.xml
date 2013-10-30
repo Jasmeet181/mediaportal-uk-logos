@@ -44,12 +44,18 @@
     <File>5 USA +1.png</File>
   </Channel>
   <Channel>
+    <Item Name="5_">
+      <Satellite />
+    </Item>
     <Item Name="5*">
       <Satellite />
     </Item>
     <File>5_.png</File>
   </Channel>
   <Channel>
+    <Item Name="5_ +1">
+      <Satellite />
+    </Item>
     <Item Name="5* +1">
       <Satellite />
     </Item>
@@ -530,6 +536,9 @@
     <File>Best Direct.png</File>
   </Channel>
   <Channel>
+    <Item Name="BET_BlackEntTv">
+      <Satellite />
+    </Item>
     <Item Name="BET:BlackEntTv">
       <Satellite />
     </Item>
@@ -1814,6 +1823,9 @@
     <File>MGM HD.png</File>
   </Channel>
   <Channel>
+    <Item Name="More_Movies">
+      <Satellite />
+    </Item>
     <Item Name="More>Movies">
       <Satellite />
     </Item>
@@ -1821,6 +1833,9 @@
   </Channel>
   <Channel>
     <Item Name="M>Movies+1">
+      <Satellite />
+    </Item>
+    <Item Name="M_Movies+1">
       <Satellite />
     </Item>
     <File>M_Movies+1.png</File>
@@ -2022,6 +2037,9 @@
   </Channel>
   <Channel>
     <Item Name="Nick Jr.">
+      <Satellite />
+    </Item>
+    <Item Name="Nick Jr">
       <Satellite />
     </Item>
     <File>Nick Jr..png</File>
