@@ -44,13 +44,13 @@
     <File>5 USA +1.png</File>
   </Channel>
   <Channel>
-    <Item Name="5_">
+    <Item Name="5*">
       <Satellite />
     </Item>
     <File>5_.png</File>
   </Channel>
   <Channel>
-    <Item Name="5_ +1">
+    <Item Name="5* +1">
       <Satellite />
     </Item>
     <File>5_ +1.png</File>
@@ -530,7 +530,7 @@
     <File>Best Direct.png</File>
   </Channel>
   <Channel>
-    <Item Name="BET_BlackEntTv">
+    <Item Name="BET:BlackEntTv">
       <Satellite />
     </Item>
     <File>BET_BlackEntTv.png</File>
@@ -1742,6 +1742,12 @@
     <File>Lifetime+1.png</File>
   </Channel>
   <Channel>
+    <Item Name="Lifetime HD">
+      <Satellite />
+    </Item>
+    <File>Lifetime HD.png</File>
+  </Channel>
+  <Channel>
     <Item Name="LiverpoolFCTV">
       <Satellite />
     </Item>
@@ -1808,13 +1814,13 @@
     <File>MGM HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="More_Movies">
+    <Item Name="More>Movies">
       <Satellite />
     </Item>
     <File>More_Movies.png</File>
   </Channel>
   <Channel>
-    <Item Name="M_Movies+1">
+    <Item Name="M>Movies+1">
       <Satellite />
     </Item>
     <File>M_Movies+1.png</File>
@@ -2391,9 +2397,6 @@
       <Satellite />
     </Item>
     <Item Name="RTÉ One +1">
-      <Satellite />
-    </Item>
-    <Item Name="RTÉ 1 +1">
       <Satellite />
     </Item>
     <File>RTE ONE +1.png</File>
