@@ -3422,6 +3422,12 @@
     <File>Tristar.png</File>
   </Channel>
   <Channel>
+    <Item Name="True Christmas">
+      <Satellite />
+    </Item>
+    <File>True Christmas.png</File>
+  </Channel>
+  <Channel>
     <Item Name="True Drama">
       <Satellite />
     </Item>
