@@ -557,12 +557,6 @@
     <File>Bid.png</File>
   </Channel>
   <Channel>
-    <Item Name="Bio">
-      <Satellite />
-    </Item>
-    <File>Bio.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Bliss">
       <Satellite />
     </Item>
@@ -633,12 +627,6 @@
       <Satellite />
     </Item>
     <File>BT Sport 2 HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="BT Sport Preview">
-      <Satellite />
-    </Item>
-    <File>BT Sport Preview.png</File>
   </Channel>
   <Channel>
     <Item Name="BuzMuzik">
@@ -1205,12 +1193,6 @@
     <File>ESPN HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="Essex Babes">
-      <Satellite />
-    </Item>
-    <File>Essex Babes.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Euronews">
       <Satellite />
     </Item>
@@ -1407,9 +1389,6 @@
   </Channel>
   <Channel>
     <Item Name="Gold">
-      <Satellite />
-    </Item>
-    <Item Name="G.O.L.D.">
       <Satellite />
     </Item>
     <File>Gold.png</File>
@@ -1763,12 +1742,6 @@
     <File>LiverpoolFCTV.png</File>
   </Channel>
   <Channel>
-    <Item Name="LiveXXX Babes">
-      <Satellite />
-    </Item>
-    <File>LiveXXX Babes.png</File>
-  </Channel>
-  <Channel>
     <Item Name="LoveWorld TV">
       <Satellite />
     </Item>
@@ -1785,12 +1758,6 @@
       <Satellite />
     </Item>
     <File>Lamhe.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Luxury Life">
-      <Satellite />
-    </Item>
-    <File>Luxury Life.png</File>
   </Channel>
   <Channel>
     <Item Name="Madani Chnl">
@@ -2097,12 +2064,6 @@
       <Satellite />
     </Item>
     <File>Noor TV.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Northern Birds">
-      <Satellite />
-    </Item>
-    <File>Northern Birds.png</File>
   </Channel>
   <Channel>
     <Item Name="Now Music">
@@ -3131,12 +3092,6 @@
     <File>Sparkle TV.png</File>
   </Channel>
   <Channel>
-    <Item Name="SportxxxGirls">
-      <Satellite />
-    </Item>
-    <File>SportxxxGirls.png</File>
-  </Channel>
-  <Channel>
     <Item Name="Star Gold">
       <Satellite />
     </Item>
@@ -3381,21 +3336,6 @@
       <Satellite />
     </Item>
     <File>TLC HD.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="TopUp Anytime1">
-      <Satellite />
-    </Item>
-    <Item Name="TopUp Anytime3">
-      <Satellite />
-    </Item>
-    <Item Name="TopUp Anytime5">
-      <Satellite />
-    </Item>
-    <Item Name="TopUp Anytime6">
-      <Satellite />
-    </Item>
-    <File>TopUp Anytime1.png</File>
   </Channel>
   <Channel>
     <Item Name="Trace Spt Stars ">
