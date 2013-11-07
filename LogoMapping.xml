@@ -1268,10 +1268,10 @@
     <File>Film4 HD.png</File>
   </Channel>
   <Channel>
-    <Item Name="FilmOn.com">
+    <Item Name="FilmOn.TV">
       <Satellite />
     </Item>
-    <File>FilmOn.com.png</File>
+    <File>FilmOn.TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Fire Hit TV">
