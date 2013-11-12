@@ -2285,6 +2285,12 @@
     <File>Really.png</File>
   </Channel>
   <Channel>
+    <Item Name="Reality TV">
+      <Satellite />
+    </Item>
+    <File>Reality TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Record TV">
       <Satellite />
     </Item>
@@ -3000,12 +3006,6 @@
       <Satellite />
     </Item>
     <File>Sony TV Asia.png</File>
-  </Channel>
-  <Channel>
-    <Item Name="Sparkle TV">
-      <Satellite />
-    </Item>
-    <File>Sparkle TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Star Gold">
