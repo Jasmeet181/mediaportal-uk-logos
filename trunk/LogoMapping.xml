@@ -2138,6 +2138,12 @@
     <File>Planet Pop.png</File>
   </Channel>
   <Channel>
+    <Item Name="Play TV">
+      <Satellite />
+    </Item>
+    <File>Play TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Playboy Lovers">
       <Satellite />
     </Item>
@@ -3054,9 +3060,6 @@
       <Satellite />
     </Item>
     <Item Name="Studio 66 TV 3">
-      <Satellite />
-    </Item>
-    <Item Name="Studio 66 TV 4">
       <Satellite />
     </Item>
     <File>Studio 66 TV 1.png</File>
