@@ -698,9 +698,6 @@
     <Item Name="CBS Reality">
       <Satellite />
     </Item>
-    <Item Name="Reality TV">
-      <Satellite />
-    </Item>
     <File>CBS Reality.png</File>
   </Channel>
   <Channel>
