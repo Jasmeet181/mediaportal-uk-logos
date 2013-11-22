@@ -398,6 +398,9 @@
     <Item Name="BBC News HD">
       <Satellite />
     </Item>
+    <Item Name="8921">
+      <Satellite />
+    </Item>
     <File>BBC News HD.png</File>
   </Channel>
   <Channel>
@@ -1004,6 +1007,12 @@
     <File>Daystar.png</File>
   </Channel>
   <Channel>
+    <Item Name="Dirty Talk">
+      <Satellite />
+    </Item>
+    <File>Dirty Talk.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Disc.History">
       <Satellite />
     </Item>
@@ -1256,6 +1265,12 @@
     <File>Faith World TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="Fantasy">
+      <Satellite />
+    </Item>
+    <File>Fantasy.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Film4">
       <Satellite />
     </Item>
@@ -1283,6 +1298,12 @@
     <File>FilmOn.TV.png</File>
   </Channel>
   <Channel>
+    <Item Name="Filth">
+      <Satellite />
+    </Item>
+    <File>Filth.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Fire Hit TV">
       <Satellite />
     </Item>
@@ -1299,6 +1320,12 @@
       <Satellite />
     </Item>
     <File>Flava.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Flirt TV">
+      <Satellite />
+    </Item>
+    <File>Flirt TV.png</File>
   </Channel>
   <Channel>
     <Item Name="Food Network">
@@ -2079,6 +2106,12 @@
       <Satellite />
     </Item>
     <File>Noor TV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Now Christmas">
+      <Satellite />
+    </Item>
+    <File>Now Christmas.png</File>
   </Channel>
   <Channel>
     <Item Name="Now Music">
