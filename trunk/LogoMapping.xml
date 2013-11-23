@@ -494,7 +494,7 @@
     <File>BBC Red Button.png</File>
   </Channel>
   <Channel>
-    <Item Name="8900">
+    <Item Name="BBC RB HD">
       <Satellite />
     </Item>
     <Item Name="BBC RB 303 HD">
@@ -1977,6 +1977,12 @@
       <Satellite />
     </Item>
     <File>MTV Rocks.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="MTV Xmas">
+      <Satellite />
+    </Item>
+    <File>MTV Xmas.png</File>
   </Channel>
   <Channel>
     <Item Name="Muslim World">
