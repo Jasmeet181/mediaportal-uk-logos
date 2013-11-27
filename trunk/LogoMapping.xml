@@ -458,10 +458,10 @@
     <Item Name="BBC One E Mid">
       <Satellite />
     </Item>
-    <Item Name="BBC One East (E)">
+    <Item Name="BBC One East E">
       <Satellite />
     </Item>
-    <Item Name="BBC One East (W)">
+    <Item Name="BBC One East W">
       <Satellite />
     </Item>
     <Item Name="BBC One Lon">
@@ -470,19 +470,19 @@
     <Item Name="BBC One NWest">
       <Satellite />
     </Item>
-    <Item Name="BBC One NE &amp; C">
+    <Item Name="BBC One NE&amp;C">
       <Satellite />
     </Item>
-    <Item Name="BBC One Oxford">
+    <Item Name="BBC One Oxf">
       <Satellite />
     </Item>
-    <Item Name="BBC One S East">
-      <Satellite />
-    </Item>
-    <Item Name="BBC One S West">
+    <Item Name="BBC One SEast">
       <Satellite />
     </Item>
     <Item Name="BBC One South">
+      <Satellite />
+    </Item>
+    <Item Name="BBC One SWest">
       <Satellite />
     </Item>
     <Item Name="BBC One W Mid">
@@ -494,7 +494,7 @@
     <Item Name="BBC One Yorks">
       <Satellite />
     </Item>
-    <Item Name="BBC One Yrks&amp;Lin">
+    <Item Name="BBC One Yk&amp;Li">
       <Satellite />
     </Item>
     <File>BBC One.png</File>
