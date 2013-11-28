@@ -2858,7 +2858,7 @@
     <Item Name="Sky ScFi_Horror">
       <Satellite />
     </Item>
-    <Item Name="Sky ScFi&Horror">
+    <Item Name="Sky ScFi/Horror">
       <Satellite />
     </Item>
     <File>Sky ScFi_Horror.png</File>
@@ -2867,7 +2867,7 @@
     <Item Name="Sky ScFi_HorHD">
       <Satellite />
     </Item>
-    <Item Name="Sky ScFi&HorHD">
+    <Item Name="Sky ScFi/HorHD">
       <Satellite />
     </Item>
     <File>Sky ScFi_HorHD.png</File>
