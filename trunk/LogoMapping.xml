@@ -5,6 +5,9 @@
     <Item Name="_TV">
       <Satellite />
     </Item>
+    <Item Name="?TV">
+      <Satellite />
+    </Item>
     <File>_TV.png</File>
   </Channel>
   <Channel>
@@ -2855,10 +2858,16 @@
     <Item Name="Sky ScFi_Horror">
       <Satellite />
     </Item>
+    <Item Name="Sky ScFi&Horror">
+      <Satellite />
+    </Item>
     <File>Sky ScFi_Horror.png</File>
   </Channel>
   <Channel>
     <Item Name="Sky ScFi_HorHD">
+      <Satellite />
+    </Item>
+    <Item Name="Sky ScFi&HorHD">
       <Satellite />
     </Item>
     <File>Sky ScFi_HorHD.png</File>
