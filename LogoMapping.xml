@@ -1796,6 +1796,12 @@
     <File>Kix+1.png</File>
   </Channel>
   <Channel>
+    <Item Name="Kix Power">
+      <Satellite />
+    </Item>
+    <File>Kix Power.png</File>
+  </Channel>
+  <Channel>
     <Item Name="LBP TV">
       <Satellite />
     </Item>
@@ -1824,6 +1830,15 @@
       <Satellite />
     </Item>
     <File>LiverpoolFCTV.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Local TV Test 1">
+      <Satellite />
+    </Item>
+    <Item Name="Local TV Test 2">
+      <Satellite />
+    </Item>
+    <File>Local TV Test 1.png</File>
   </Channel>
   <Channel>
     <Item Name="LoveWorld TV">
