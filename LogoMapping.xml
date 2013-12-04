@@ -1187,6 +1187,12 @@
     <File>E!.png</File>
   </Channel>
   <Channel>
+    <Item Name="E! +1">
+      <Satellite />
+    </Item>
+    <File>E! +1.png</File>
+  </Channel>
+  <Channel>
     <Item Name="E! HD">
       <Satellite />
     </Item>
@@ -2598,6 +2604,12 @@
       <Satellite />
     </Item>
     <File>Showcase 2.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Showcase 2 +1">
+      <Satellite />
+    </Item>
+    <File>Showcase 2 +1.png</File>
   </Channel>
   <Channel>
     <Item Name="Sikh Channel">
