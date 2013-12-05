@@ -2117,9 +2117,6 @@
     <Item Name="Nick Jr.">
       <Satellite />
     </Item>
-    <Item Name="Nick Jr Xmas">
-      <Satellite />
-    </Item>
     <Item Name="Nick Jr">
       <Satellite />
     </Item>
@@ -2142,6 +2139,12 @@
       <Satellite />
     </Item>
     <File>Nick Jr Peppa.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="Nick Jr Xmas">
+      <Satellite />
+    </Item>
+    <File>Nick Jr Xmas.png</File>
   </Channel>
   <Channel>
     <Item Name="Nickelodeon">
