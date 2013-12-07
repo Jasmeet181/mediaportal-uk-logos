@@ -1424,6 +1424,12 @@
     <File>Gay Network .png</File>
   </Channel>
   <Channel>
+    <Item Name="GEM TV">
+      <Satellite />
+    </Item>
+    <File>GEM TV.png</File>
+  </Channel>
+  <Channel>
     <Item Name="Gems TV">
       <Satellite />
     </Item>
