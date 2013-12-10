@@ -3356,12 +3356,6 @@
     <File>The Store.png</File>
   </Channel>
   <Channel>
-    <Item Name="The Style Ntwk">
-      <Satellite />
-    </Item>
-    <File>The Style Ntwk.png</File>
-  </Channel>
-  <Channel>
     <Item Name="The Vault">
       <Satellite />
     </Item>
