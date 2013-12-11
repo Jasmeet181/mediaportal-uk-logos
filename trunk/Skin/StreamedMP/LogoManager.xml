@@ -83,9 +83,16 @@
       <textureNoFocus>-</textureNoFocus-->
       <!--pinPosX>1828</spinPosX>
       <spinPosY>1000</spinPosY-->
-      <spinPosX>1880</spinPosX>
-      <spinPosY>1040</spinPosY>
+      <spinPosX>1747</spinPosX>
+      <spinPosY>1023</spinPosY>
+      <spinColor>ff006698</spinColor>
       <spinAlign>Right</spinAlign>
+      <spinWidth>75</spinWidth>
+      <spinHeight>55</spinHeight>
+      <textureUp>arrow_round_up_nofocus.png</textureUp>
+      <textureDown>arrow_round_down_nofocus.png</textureDown>
+      <textureUpFocus>arrow_round_up_focus.png</textureUpFocus>
+      <textureDownFocus>arrow_round_down_focus.png</textureDownFocus>
     </control>
     <control>
       <description>Channel Group</description>

@@ -77,20 +77,27 @@
         <height>500</height>
         <textXOff2>875</textXOff2>
         <textYOff2>16</textYOff2>
-        <spinPosX>1425</spinPosX>
+        <spinPosX>1301</spinPosX>
         <spinPosY>890</spinPosY>
-        <spinColor>FFFFFFFF</spinColor>
+	<spinColor>ff006698</spinColor>
+	<spinAlign>Right</spinAlign>
+        <spinWidth>75</spinWidth>
+        <spinHeight>55</spinHeight>
+	<textureUp>arrow_round_up_nofocus.png</textureUp>
+	<textureDown>arrow_round_down_nofocus.png</textureDown>
+	<textureUpFocus>arrow_round_up_focus.png</textureUpFocus>
+	<textureDownFocus>arrow_round_down_focus.png</textureDownFocus>
         <textXOff>35</textXOff>
         <textYOff>16</textYOff>
 				<font>mediastream11c</font>
 				<font>mediastream11c</font>
         <textcolor>FFFFFFFF</textcolor>
         <textcolor2>FFFFFFFF</textcolor2>
-        <textcolorNoFocus>FF393939</textcolorNoFocus>
-        <textcolorNoFocus2>FF393939</textcolorNoFocus2>
+        <textcolorNoFocus>FFFFFFFF</textcolorNoFocus>
+        <textcolorNoFocus2>FFFFFFFF</textcolorNoFocus2>
      		<selectedColor>FF000000</selectedColor>                
         <textureFocus>dialogmenubutton.png</textureFocus>
-        <textureNoFocus></textureNoFocus>
+        <textureNoFocus>listbg_nf.png</textureNoFocus>
         <textureHeight>69</textureHeight>
         <spaceBetweenItems>1</spaceBetweenItems>
 				<PinIconWidth>15</PinIconWidth>
@@ -108,6 +115,56 @@
         <width>200</width>
         <height>200</height>
       </control>
+
+      <control>
+	<type>button</type>
+	<description>Exit button</description>
+	<id>2</id>
+	<posX>1420</posX>
+	<posY>287</posY>
+	<width>30</width>
+	<height>30</height>
+	<onleft>3</onleft>
+	<onright>3</onright>
+	<onup>3</onup>
+	<ondown>3</ondown>
+	<label>-</label>
+	<textcolor>FFFFFFFF</textcolor>
+	<textureFocus>top_exit_enabled.png</textureFocus>
+	<textureNoFocus>top_exit_disabled.png</textureNoFocus>
+      </control>
+
+          <control>
+                <description>Page Count Background</description>
+		<type>image</type>
+		<id>0</id>
+		<posX>1062</posX>
+		<posY>892</posY>
+		<width>390</width>
+		<height>48</height>
+		<texture>mediacountbg_Spin.png</texture>
+		<visible>yes</visible>
+		<animation effect="fade" time="250">WindowOpen</animation>
+		<animation effect="fade" time="250">WindowClose</animation>
+		<animation effect="slide" time="150" start="1200,0">WindowOpen</animation>
+		<animation effect="slide" time="250" end="1200,0">WindowClose</animation>
+	</control>
+
+	<control>
+		<description>Page Count Label</description>
+		<type>label</type>
+		<label>30009</label>
+		<id>0</id>
+		<posX>1077</posX>
+		<posY>899</posY>
+		<font>mediastream12tc</font>
+		<textcolor>ff909090</textcolor>
+		<visible>yes</visible>
+		<animation effect="fade" time="250">WindowOpen</animation>
+		<animation effect="fade" time="250">WindowClose</animation>
+		<animation effect="slide" time="150" start="1200,0">WindowOpen</animation>
+		<animation effect="slide" time="250" end="1200,0">WindowClose</animation>
+	</control>
     </control>
   </controls>
 </window>
