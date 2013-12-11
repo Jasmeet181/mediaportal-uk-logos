@@ -77,21 +77,29 @@
                 <id>3</id>
                 <description>options listcontrol</description>
                 <type>checklistcontrol</type>
-                <onleft>3</onleft>
-                <onright>3</onright>
+                <onleft>10</onleft>
+                <onright>10</onright>
                 <posX>515</posX>
-                <posY>390</posY>
+                <posY>362</posY>
                 <width>890</width>
                 <height>500</height>
                 <textXOff2>875</textXOff2>
                 <textYOff2>16</textYOff2>
-                <spinPosX>1425</spinPosX>
+                <spinPosX>1301</spinPosX>
                 <spinPosY>890</spinPosY>
+		<spinColor>ff006698</spinColor>
+		<spinAlign>Right</spinAlign>
+      		<spinWidth>75</spinWidth>
+        	<spinHeight>55</spinHeight>
+	  	<textureUp>arrow_round_up_nofocus.png</textureUp>
+	        <textureDown>arrow_round_down_nofocus.png</textureDown>
+	        <textureUpFocus>arrow_round_up_focus.png</textureUpFocus>
+	        <textureDownFocus>arrow_round_down_focus.png</textureDownFocus>
                 <textXOff>35</textXOff>
                 <textYOff>16</textYOff>
 		<font>mediastream11c</font>
                 <textureFocus>dialogmenubutton.png</textureFocus>
-                <textureNoFocus>-</textureNoFocus>
+                <textureNoFocus>listbg_nf.png</textureNoFocus>
                 <textureHeight>70</textureHeight>
                 <spaceBetweenItems>1</spaceBetweenItems>
 				        <PinIconWidth>105</PinIconWidth>
@@ -107,29 +115,33 @@
 				        <unfocusedAlpha>255</unfocusedAlpha>            
           </control>
 
-		<!--control>
+		<control>
 			<type>button</type>
 			<description>Exit button</description>
 			<id>2</id>
-			<posX>-2000</posX>
-			<posY>96</posY>
+			<posX>1420</posX>
+			<posY>287</posY>
+			<width>30</width>
+			<height>30</height>
 			<onleft>3</onleft>
 			<onright>3</onright>
 			<onup>3</onup>
 			<ondown>3</ondown>
 			<label>-</label>
 			<textcolor>FFFFFFFF</textcolor>
-		</control-->
+			<textureFocus>top_exit_enabled.png</textureFocus>
+			<textureNoFocus>top_exit_disabled.png</textureNoFocus>
+		</control>
 
 		<control>
 			<type>button</type>
 			<description>Okay button</description>
 			<id>10</id>
-    		<posX>645</posX>
-    		<posY>865</posY>
+    		<posX>655</posX>
+    		<posY>815</posY>
     		<textXOff>70</textXOff>
     		<textYOff>0</textYOff>
-    		<width>300</width>
+    		<width>280</width>
     		<height>68</height>
     		<font>mediastream12tc</font>
     		<textalign>center</textalign>
@@ -147,11 +159,11 @@
 			<type>button</type>
 			<description>Cancel button</description>
 			<id>11</id>
-    		<posX>960</posX>
-    		<posY>865</posY>
+    		<posX>950</posX>
+    		<posY>815</posY>
     		<textXOff>70</textXOff>
     		<textYOff>0</textYOff>
-    		<width>300</width>
+    		<width>280</width>
     		<height>68</height>
     		<font>mediastream12tc</font>
     		<textalign>center</textalign>
@@ -163,6 +175,38 @@
 			<ondown>3</ondown>
 			<label>510</label>
 		</control>
+
+          <control>
+                <description>Page Count Background</description>
+		<type>image</type>
+		<id>0</id>
+		<posX>1062</posX>
+		<posY>892</posY>
+		<width>390</width>
+		<height>48</height>
+		<texture>mediacountbg_Spin.png</texture>
+		<visible>yes</visible>
+		<animation effect="fade" time="250">WindowOpen</animation>
+		<animation effect="fade" time="250">WindowClose</animation>
+		<animation effect="slide" time="150" start="1200,0">WindowOpen</animation>
+		<animation effect="slide" time="250" end="1200,0">WindowClose</animation>
+	</control>
+
+	<control>
+		<description>Page Count Label</description>
+		<type>label</type>
+		<label>30009</label>
+		<id>0</id>
+		<posX>1077</posX>
+		<posY>899</posY>
+		<font>mediastream12tc</font>
+		<textcolor>ff909090</textcolor>
+		<visible>yes</visible>
+		<animation effect="fade" time="250">WindowOpen</animation>
+		<animation effect="fade" time="250">WindowClose</animation>
+		<animation effect="slide" time="150" start="1200,0">WindowOpen</animation>
+		<animation effect="slide" time="250" end="1200,0">WindowClose</animation>
+	</control>
 
 	</control>
 
