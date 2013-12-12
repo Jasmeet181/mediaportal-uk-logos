@@ -386,9 +386,6 @@
     <Item Name="BBC Four HD">
       <Satellite />
     </Item>
-    <Item Name="8931">
-      <Satellite />
-    </Item>
     <File>BBC Four HD.png</File>
   </Channel>
   <Channel>
@@ -399,9 +396,6 @@
   </Channel>
   <Channel>
     <Item Name="BBC News HD">
-      <Satellite />
-    </Item>
-    <Item Name="8921">
       <Satellite />
     </Item>
     <File>BBC News HD.png</File>
@@ -549,9 +543,6 @@
   </Channel>
   <Channel>
     <Item Name="BBC Three HD">
-      <Satellite />
-    </Item>
-    <Item Name="6951">
       <Satellite />
     </Item>
     <File>BBC Three HD.png</File>
@@ -713,9 +704,6 @@
     <Item Name="CBBC HD">
       <Satellite />
     </Item>
-    <Item Name="6952">
-      <Satellite />
-    </Item>
     <File>CBBC HD.png</File>
   </Channel>
   <Channel>
@@ -726,9 +714,6 @@
   </Channel>
   <Channel>
     <Item Name="CBeebies HD">
-      <Satellite />
-    </Item>
-    <Item Name="8932">
       <Satellite />
     </Item>
     <File>CBeebies HD.png</File>
