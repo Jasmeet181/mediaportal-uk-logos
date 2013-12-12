@@ -2510,9 +2510,6 @@
     <Item Name="RTE ONE">
       <Satellite />
     </Item>
-    <Item Name="RTÉ ONE">
-      <Satellite />
-    </Item>
     <File>RTE ONE.png</File>
   </Channel>
   <Channel>
@@ -2528,7 +2525,7 @@
     <Item Name="RTE ONE HD">
       <Satellite />
     </Item>
-    <Item Name="RTÉ ONE HD">
+    <Item Name="RTÉ ONE">
       <Satellite />
     </Item>
     <File>RTE ONE HD.png</File>
@@ -2537,16 +2534,13 @@
     <Item Name="RTE TWO">
       <Satellite />
     </Item>
-    <Item Name="RTÉ TWO">
-      <Satellite />
-    </Item>
     <File>RTE TWO.png</File>
   </Channel>
   <Channel>
     <Item Name="RTE TWO HD">
       <Satellite />
     </Item>
-    <Item Name="RTÉ TWO HD">
+    <Item Name="RTÉ TWO">
       <Satellite />
     </Item>
     <File>RTE TWO HD.png</File>
@@ -4033,16 +4027,16 @@
     <File>RTE 2FM.png</File>
   </Channel>
   <Channel>
-    <Item Name="RTE Chill / RTE Junior">
+    <Item Name="RTÉ 2XM">
       <Satellite />
     </Item>
-    <Item Name="RTÉ Chill / RTÉ Junior">
+    <File>RTE 2XM.png</File>
+  </Channel>
+  <Channel>
+    <Item Name="RTÉ Chill">
       <Satellite />
     </Item>
-    <Item Name="RTÉ Chill/RTÉ Junior">
-      <Satellite />
-    </Item>
-    <File>RTE Chill RTE Junior.png</File>
+    <File>RTE Chill.png</File>
   </Channel>
   <Channel>
     <Item Name="RTE Gold">
@@ -4053,6 +4047,11 @@
     </Item>
     <File>RTE Gold.png</File>
   </Channel>
+  <Channel>
+    <Item Name="RTÉ Junior">
+      <Satellite />
+    </Item>
+    <File>RTE Junior.png</File>
   <Channel>
     <Item Name="RTE Lyric fm">
       <Satellite />
