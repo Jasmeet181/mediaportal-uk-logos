@@ -270,12 +270,6 @@
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bangla TV">
-        <Satellite />
-      </Item>
-      <File>Bangla TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC 1 NI">
         <Satellite />
       </Item>
@@ -2022,12 +2016,6 @@
       <File>MTV Xmas.png</File>
     </Channel>
     <Channel>
-      <Item Name="Muslim World">
-        <Satellite />
-      </Item>
-      <File>Muslim World.png</File>
-    </Channel>
-    <Channel>
       <Item Name="MUTV">
         <Satellite />
       </Item>
@@ -2290,12 +2278,6 @@
         <Satellite />
       </Item>
       <File>Price Drop.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Primetime">
-        <Satellite />
-      </Item>
-      <File>Primetime.png</File>
     </Channel>
     <Channel>
       <Item Name="Propeller">

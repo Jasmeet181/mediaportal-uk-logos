@@ -75,6 +75,7 @@
       <PinIconXOff>1500</PinIconXOff>
       <PinIconHeight>200</PinIconHeight>
       <PinIconWidth>200</PinIconWidth>
+      <keepaspectratio>true</keepaspectratio>
       <IconXOff>1000</IconXOff>
       <IconYOff>0</IconYOff>
       <itemWidth>200</itemWidth>
