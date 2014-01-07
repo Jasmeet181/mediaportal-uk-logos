@@ -1392,12 +1392,6 @@
       <File>Gay Network .png</File>
     </Channel>
     <Channel>
-      <Item Name="GEM TV">
-        <Satellite />
-      </Item>
-      <File>GEM TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Gems TV">
         <Satellite />
       </Item>
@@ -1780,12 +1774,6 @@
         <Satellite />
       </Item>
       <File>Kix Power.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="LBP TV">
-        <Satellite />
-      </Item>
-      <File>LBP TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Lifetime">
