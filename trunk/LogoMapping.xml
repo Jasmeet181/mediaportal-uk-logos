@@ -153,6 +153,12 @@
       <File>Akaal Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Al Jazeera Arabic">
+        <Satellite />
+      </Item>
+      <File>Al Jazeera Arabic.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Al Jazeera Eng">
         <Satellite />
       </Item>
@@ -1314,12 +1320,6 @@
       <File>FilmOn.TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Filth">
-        <Satellite />
-      </Item>
-      <File>Filth.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Fire Hit TV">
         <Satellite />
       </Item>
@@ -2218,6 +2218,12 @@
         <Satellite />
       </Item>
       <File>Play TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Play TV 2">
+        <Satellite />
+      </Item>
+      <File>Play TV 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Playboy Lovers">
