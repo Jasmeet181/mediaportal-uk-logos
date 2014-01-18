@@ -1131,10 +1131,10 @@
       <File>Disney XD HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DM Digital">
+      <Item Name="DM Plus TV">
         <Satellite />
       </Item>
-      <File>DM Digital.png</File>
+      <File>DM Plus TV.png</File>
     </Channel>
     <Channel>
       <Item Name="DMAX">
