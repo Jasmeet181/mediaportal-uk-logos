@@ -1851,12 +1851,6 @@
       <File>MATV National.png</File>
     </Channel>
     <Channel>
-      <Item Name="MGM HD">
-        <Satellite />
-      </Item>
-      <File>MGM HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="More>Movies">
         <Satellite />
       </Item>
