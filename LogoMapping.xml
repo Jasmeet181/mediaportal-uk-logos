@@ -513,6 +513,9 @@
       <Item Name="302">
         <Satellite />
       </Item>
+      <Item Name="54190">
+        <Satellite />
+      </Item>
       <Item Name="6390">
         <Satellite />
       </Item>
@@ -2487,7 +2490,7 @@
       <Item Name="RTEJR">
         <Satellite />
       </Item>
-      <Item Name="RTÉjr">
+      <Item Name="RTÉ Junior">
         <Satellite />
       </Item>
       <File>RTEJR.png</File>
@@ -3990,7 +3993,7 @@
       <Item Name="RTE Lyric fm">
         <Satellite />
       </Item>
-      <Item Name="RTÉ Lyric fm">
+      <Item Name="RTÉ Lyric">
         <Satellite />
       </Item>
       <File>RTE Lyric fm.png</File>
