@@ -510,7 +510,7 @@
       <File>BBC Parl'mnt.png</File>
     </Channel>
     <Channel>
-      <Item Name="302">
+      <Item Name="303">
         <Satellite />
       </Item>
       <Item Name="54190">
@@ -523,6 +523,9 @@
         <Satellite />
       </Item>
       <Item Name="BBC RB 301">
+        <Satellite />
+      </Item>
+      <Item Name="BBC RB 302">
         <Satellite />
       </Item>
       <Item Name="BBC Red Button">
