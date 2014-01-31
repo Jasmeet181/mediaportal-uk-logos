@@ -3573,9 +3573,6 @@
       <Item Name="xxXpanded 2">
         <Satellite />
       </Item>
-      <Item Name="Adult xxXpanded TV">
-        <Satellite />
-      </Item>
       <File>xxXpanded TV.png</File>
     </Channel>
     <Channel>
