@@ -456,6 +456,9 @@
       <Item Name="BBC One Lon">
         <Satellite />
       </Item>
+      <Item Name="BBC One  Lon">
+        <Satellite />
+      </Item>
       <Item Name="BBC One NWest">
         <Satellite />
       </Item>
@@ -513,25 +516,31 @@
       <Item Name="303">
         <Satellite />
       </Item>
+      <Item Name="BBC Red Button">
+        <Satellite />
+      </Item>
+      <File>BBC Red Button.png</File>
+    </Channel>
+    <Channel>
       <Item Name="6390">
         <Satellite />
       </Item>
       <Item Name="BBC RB 1">
         <Satellite />
       </Item>
-      <Item Name="BBC RB2">
+      <Item Name="BBC RB 301">
         <Satellite />
       </Item>
-      <Item Name="BBC RB 301">
+      <File>BBC Red Button One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC RB2">
         <Satellite />
       </Item>
       <Item Name="BBC RB 302">
         <Satellite />
       </Item>
-      <Item Name="BBC Red Button">
-        <Satellite />
-      </Item>
-      <File>BBC Red Button.png</File>
+      <File>BBC Red Button Two.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
@@ -2992,6 +3001,18 @@
         <Satellite />
       </Item>
       <File>Sky Thriller HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Valentine">
+        <Satellite />
+      </Item>
+      <File>Sky Valentine.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky ValentneHD">
+        <Satellite />
+      </Item>
+      <File>Sky ValentneHD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky1">
