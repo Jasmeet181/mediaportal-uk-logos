@@ -633,6 +633,12 @@
       <File>BoxNation.png</File>
     </Channel>
     <Channel>
+      <Item Name="BoxNation HD">
+        <Satellite />
+      </Item>
+      <File>BoxNation HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Brit Asia TV">
         <Satellite />
       </Item>
