@@ -51,12 +51,6 @@
       <File>5_.png</File>
     </Channel>
     <Channel>
-      <Item Name="5* +1">
-        <Satellite />
-      </Item>
-      <File>5_ +1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Aaj Tak">
         <Satellite />
       </Item>
@@ -805,6 +799,12 @@
         <Satellite />
       </Item>
       <File>Channel 5+1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel 5+24">
+        <Satellite />
+      </Item>
+      <File>Channel 5+24.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5 HD">
@@ -1852,12 +1852,6 @@
         <Satellite />
       </Item>
       <File>Magic.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Marketplace">
-        <Satellite />
-      </Item>
-      <File>Marketplace.png</File>
     </Channel>
     <Channel>
       <Item Name="MATV National">
