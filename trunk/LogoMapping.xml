@@ -27,12 +27,6 @@
       <File>4seven.png</File>
     </Channel>
     <Channel>
-      <Item Name="5 Later">
-        <Satellite />
-      </Item>
-      <File>5 Later.png</File>
-    </Channel>
-    <Channel>
       <Item Name="5 USA">
         <Satellite />
       </Item>
