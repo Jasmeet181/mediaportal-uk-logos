@@ -513,6 +513,9 @@
       <Item Name="6390">
         <Satellite />
       </Item>
+      <Item Name="BBC RB1">
+        <Satellite />
+      </Item>
       <Item Name="BBC RB 1">
         <Satellite />
       </Item>
@@ -523,6 +526,9 @@
     </Channel>
     <Channel>
       <Item Name="BBC RB2">
+        <Satellite />
+      </Item>
+      <Item Name="BBC RB 2">
         <Satellite />
       </Item>
       <Item Name="BBC RB 302">
