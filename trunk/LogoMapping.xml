@@ -264,6 +264,12 @@
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bangla TV">
+        <Satellite />
+      </Item>
+      <File>Bangla TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC 1 NI">
         <Satellite />
       </Item>
@@ -1363,6 +1369,12 @@
         <Satellite />
       </Item>
       <File>Flirt TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Flow TV">
+        <Satellite />
+      </Item>
+      <File>Flow TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Food Network">
@@ -3406,6 +3418,12 @@
         <Satellite />
       </Item>
       <File>True Movies 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV 99">
+        <Satellite />
+      </Item>
+      <File>TV 99.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Shop">
