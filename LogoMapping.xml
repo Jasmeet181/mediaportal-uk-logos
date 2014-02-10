@@ -621,6 +621,12 @@
       <File>BON TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="BonanzaBonanza">
+        <Satellite />
+      </Item>
+      <File>BonanzaBonanza.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Boomerang">
         <Satellite />
       </Item>
