@@ -3939,10 +3939,10 @@
       <File>Kisstory.png</File>
     </Channel>
     <Channel>
-      <Item Name="LBC 97.3">
+      <Item Name="LBC">
         <Satellite />
       </Item>
-      <File>LBC 97.3.png</File>
+      <File>LBC.png</File>
     </Channel>
     <Channel>
       <Item Name="LBC News">
