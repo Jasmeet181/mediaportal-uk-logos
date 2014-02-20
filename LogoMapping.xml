@@ -270,91 +270,88 @@
       <File>Bangla TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC 1 NI">
-        <Satellite />
-      </Item>
       <Item Name="BBC One N Ireland">
         <Satellite />
       </Item>
-      <File>BBC 1 NI.png</File>
+      <Item Name="BBC One NI">
+        <Satellite />
+      </Item>
+      <File>BBC One NI.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 NI HD">
         <Satellite />
       </Item>
-      <File>BBC 1 NI HD.png</File>
+      <Item Name="BBC One NI HD">
+        <Satellite />
+      </Item>
+      <File>BBC One NI HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC 1 Scotland">
+      <Item Name="BBC One Scot">
         <Satellite />
       </Item>
       <Item Name="BBC One Scotland">
         <Satellite />
       </Item>
-      <File>BBC 1 Scotland.png</File>
+      <File>BBC One Scot.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 Scot HD">
         <Satellite />
       </Item>
-      <File>BBC 1 Scot HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC 1 Wales">
+      <Item Name="BBC One ScotHD">
         <Satellite />
       </Item>
+      <File>BBC One ScotHD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC One Wales">
         <Satellite />
       </Item>
-      <File>BBC 1 Wales.png</File>
+      <File>BBC One Wales.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC 1 Wal HD">
+      <Item Name="BBC 1 Wales HD">
         <Satellite />
       </Item>
-      <Item Name="BBC 1 Wales HD">
+      <Item Name="BBC One Wal HD">
         <Satellite />
       </Item>
       <Item Name="BBC One Wales HD">
         <Satellite />
       </Item>
-      <File>BBC 1 Wal HD.png</File>
+      <File>BBC One Wal HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC 2 England">
-        <Satellite />
-      </Item>
       <Item Name="BBC Two">
         <Satellite />
       </Item>
-      <File>BBC 2 England.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC 2 NI">
+      <Item Name="BBC Two Eng">
         <Satellite />
       </Item>
+      <File>BBC Two Eng.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Two N Ireland">
         <Satellite />
       </Item>
-      <File>BBC 2 NI.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC 2 Scotland">
+      <Item Name="BBC Two NI">
         <Satellite />
       </Item>
+      <File>BBC Two NI.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Two Scot">
         <Satellite />
       </Item>
-      <File>BBC 2 Scotland.png</File>
+      <File>BBC Two Scot.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC 2 Wales">
-        <Satellite />
-      </Item>
       <Item Name="BBC Two Wales">
         <Satellite />
       </Item>
-      <File>BBC 2 Wales.png</File>
+      <File>BBC Two Wales.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Alba">
@@ -390,51 +387,6 @@
       <Item Name="BBC One">
         <Satellite />
       </Item>
-      <Item Name="BBC 1 CI">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 E Mids">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 East (E)">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 East (W)">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 London">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 N West">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 NE &amp; C">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 Oxford">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 S East">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 S West">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 South">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 W Mids">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 West">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 Yorks">
-        <Satellite />
-      </Item>
-      <Item Name="BBC 1 Yrks&amp;Lin">
-        <Satellite />
-      </Item>
       <Item Name="BBC One CI">
         <Satellite />
       </Item>
@@ -447,25 +399,37 @@
       <Item Name="BBC One East W">
         <Satellite />
       </Item>
-      <Item Name="BBC One Lon">
-        <Satellite />
-      </Item>
       <Item Name="BBC One  Lon">
         <Satellite />
       </Item>
-      <Item Name="BBC One NWest">
+      <Item Name="BBC One Lon">
         <Satellite />
       </Item>
       <Item Name="BBC One NE&amp;C">
         <Satellite />
       </Item>
+      <Item Name="BBC One N West">
+        <Satellite />
+      </Item>
+      <Item Name="BBC One NWest">
+        <Satellite />
+      </Item>
       <Item Name="BBC One Oxf">
+        <Satellite />
+      </Item>
+      <Item Name="BBC One Oxford">
+        <Satellite />
+      </Item>
+      <Item Name="BBC One S East">
         <Satellite />
       </Item>
       <Item Name="BBC One SEast">
         <Satellite />
       </Item>
       <Item Name="BBC One South">
+        <Satellite />
+      </Item>
+      <Item Name="BBC One S West">
         <Satellite />
       </Item>
       <Item Name="BBC One SWest">
@@ -477,10 +441,10 @@
       <Item Name="BBC One West">
         <Satellite />
       </Item>
-      <Item Name="BBC One Yorks">
+      <Item Name="BBC One Yk&amp;Li">
         <Satellite />
       </Item>
-      <Item Name="BBC One Yk&amp;Li">
+      <Item Name="BBC One Yorks">
         <Satellite />
       </Item>
       <File>BBC One.png</File>
@@ -498,13 +462,10 @@
       <File>BBC One HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Parl'mnt">
-        <Satellite />
-      </Item>
       <Item Name="BBC Parliament">
         <Satellite />
       </Item>
-      <File>BBC Parl'mnt.png</File>
+      <File>BBC Parliament.png</File>
     </Channel>
     <Channel>
       <Item Name="303">
@@ -711,10 +672,13 @@
       <File>Cartoonito.png</File>
     </Channel>
     <Channel>
+      <Item Name="CBBC">
+        <Satellite />
+      </Item>
       <Item Name="CBBC Channel">
         <Satellite />
       </Item>
-      <File>CBBC Channel.png</File>
+      <File>CBBC.png</File>
     </Channel>
     <Channel>
       <Item Name="CBBC HD">
@@ -2245,12 +2209,6 @@
         <Satellite />
       </Item>
       <File>Play TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Play TV 2">
-        <Satellite />
-      </Item>
-      <File>Play TV 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Playboy Lovers">
