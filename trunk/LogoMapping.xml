@@ -978,10 +978,10 @@
       <File>Create &amp; Craft.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cruzr Gay TV">
+      <Item Name="Cruzr TV">
         <Satellite />
       </Item>
-      <File>Cruzr Gay TV.png</File>
+      <File>Cruzr TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Dating Channel">
@@ -3570,13 +3570,16 @@
       <File>XXXFirst Timers.png</File>
     </Channel>
     <Channel>
+      <Item Name="Xpanded TV">
+        <Satellite />
+      </Item>
+      <Item Name="Xpanded TV 2">
+        <Satellite />
+      </Item>
       <Item Name="xxXpanded TV">
         <Satellite />
       </Item>
-      <Item Name="xxXpanded 2">
-        <Satellite />
-      </Item>
-      <File>xxXpanded TV.png</File>
+      <File>Xpanded TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
