@@ -9,6 +9,15 @@
       <File>_TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="21stCent Bliss">
+        <Satellite />
+      </Item>
+      <Item Name="21stCentBliss">
+        <Satellite />
+      </Item>
+      <File>21stCent Bliss.png</File>
+    </Channel>
+    <Channel>
       <Item Name="3e">
         <Satellite />
       </Item>
@@ -1719,12 +1728,6 @@
       <File>ITV4 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Jeem.TV">
-        <Satellite />
-      </Item>
-      <File>Jeem.TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Jewellery Ch.">
         <Satellite />
       </Item>
@@ -3159,9 +3162,6 @@
       <Item Name="STV HD">
         <Satellite />
       </Item>
-      <Item Name="3855">
-        <Satellite />
-      </Item>
       <File>STV HD.png</File>
     </Channel>
     <Channel>
@@ -4129,4 +4129,4 @@
     </Channel>
   </Radio>
   <!-- ******************************************************************** -->
-  </Mappings>
+</Mappings>
