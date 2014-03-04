@@ -1809,10 +1809,13 @@
       <Item Name="Local TV Test 1">
         <Satellite />
       </Item>
-      <Item Name="Local TV Test 2">
+      <File>Local TV Test 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="London Live">
         <Satellite />
       </Item>
-      <File>Local TV Test 1.png</File>
+      <File>London Live.png</File>
     </Channel>
     <Channel>
       <Item Name="LoveWorld TV">
