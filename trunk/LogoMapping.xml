@@ -1587,6 +1587,12 @@
       <File>Horse &amp; Country.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hum Europe">
+        <Satellite />
+      </Item>
+      <File>Hum Europe.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ID">
         <Satellite />
       </Item>
