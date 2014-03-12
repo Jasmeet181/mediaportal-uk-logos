@@ -924,12 +924,6 @@
       <File>CNN.png</File>
     </Channel>
     <Channel>
-      <Item Name="CNN HD">
-        <Satellite />
-      </Item>
-      <File>CNN HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Colors">
         <Satellite />
       </Item>
