@@ -2001,6 +2001,12 @@
       <File>MTV Xmas.png</File>
     </Channel>
     <Channel>
+      <Item Name="Mustard TV">
+        <Satellite />
+      </Item>
+      <File>Mustard TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MUTV">
         <Satellite />
       </Item>
