@@ -969,6 +969,12 @@
       <File>CommunityChnl.png</File>
     </Channel>
     <Channel>
+      <Item Name="Community HD">
+        <Satellite />
+      </Item>
+      <File>Community HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Craft Extra">
         <Satellite />
       </Item>
