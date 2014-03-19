@@ -1941,10 +1941,10 @@
       <File>MTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV+1 ">
+      <Item Name="MTV+1">
         <Satellite />
       </Item>
-      <File>MTV+1 .png</File>
+      <File>MTV+1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV HD">
@@ -3219,9 +3219,6 @@
       <Item Name="TCM">
         <Satellite />
       </Item>
-      <Item Name="TCM ">
-        <Satellite />
-      </Item>
       <Item Name="TCM Western">
         <Satellite />
       </Item>
@@ -3342,10 +3339,10 @@
       <File>TLC HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Trace Spt Stars ">
+      <Item Name="Trace Spt Stars">
         <Satellite />
       </Item>
-      <File>Trace Spt Stars .png</File>
+      <File>Trace Spt Stars.png</File>
     </Channel>
     <Channel>
       <Item Name="Travel Channel">
