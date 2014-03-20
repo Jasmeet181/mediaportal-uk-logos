@@ -1623,6 +1623,12 @@
       <File>Information TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Info TV+1">
+        <Satellite />
+      </Item>
+      <File>Info TV+1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Inspiration">
         <Satellite />
       </Item>
@@ -1810,12 +1816,6 @@
         <Satellite />
       </Item>
       <File>LiverpoolFCTV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Local TV Test 1">
-        <Satellite />
-      </Item>
-      <File>Local TV Test 1.png</File>
     </Channel>
     <Channel>
       <Item Name="London Live">
