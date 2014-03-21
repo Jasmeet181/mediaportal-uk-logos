@@ -1623,10 +1623,10 @@
       <File>Information TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Info TV+1">
+      <Item Name="Info TV +1">
         <Satellite />
       </Item>
-      <File>Info TV+1.png</File>
+      <File>Info TV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Inspiration">
