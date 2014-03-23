@@ -1398,10 +1398,10 @@
       <File>France Eng.png</File>
     </Channel>
     <Channel>
-      <Item Name="Gay Network ">
+      <Item Name="Gay Network">
         <Satellite />
       </Item>
-      <File>Gay Network .png</File>
+      <File>Gay Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Gems TV">
@@ -2112,10 +2112,10 @@
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nickelodeon+1 ">
+      <Item Name="Nickelodeon+1">
         <Satellite />
       </Item>
-      <File>Nickelodeon+1 .png</File>
+      <File>Nickelodeon+1.png</File>
     </Channel>
     <Channel>
       <Item Name="NickelodeonHD">
@@ -2602,9 +2602,6 @@
     </Channel>
     <Channel>
       <Item Name="Sky Arts 1">
-        <Satellite />
-      </Item>
-      <Item Name="Sky Arts 1 ">
         <Satellite />
       </Item>
       <File>Sky Arts 1.png</File>
