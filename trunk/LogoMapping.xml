@@ -1740,6 +1740,12 @@
       <File>ITV4 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="ITV4 Plus">
+        <Satellite />
+      </Item>
+      <File>ITV4 Plus.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Jewellery Ch.">
         <Satellite />
       </Item>
