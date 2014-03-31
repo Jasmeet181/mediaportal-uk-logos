@@ -3585,13 +3585,13 @@
       <File>XXXFirst Timers.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Xpanded TV">
+        <Satellite />
+      </Item>
       <Item Name="Xpanded TV">
         <Satellite />
       </Item>
       <Item Name="Xpanded TV 2">
-        <Satellite />
-      </Item>
-      <Item Name="xxXpanded TV">
         <Satellite />
       </Item>
       <File>Xpanded TV.png</File>
