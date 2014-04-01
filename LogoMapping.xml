@@ -669,6 +669,12 @@
       <File>Cartoon Netwrk.png</File>
     </Channel>
     <Channel>
+      <Item Name="CN+1">
+        <Satellite />
+      </Item>
+      <File>CN+1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Cartoon Net HD">
         <Satellite />
       </Item>
@@ -898,12 +904,6 @@
         <Satellite />
       </Item>
       <File>Clubland TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CN Too">
-        <Satellite />
-      </Item>
-      <File>CN Too.png</File>
     </Channel>
     <Channel>
       <Item Name="CNBC">
@@ -3868,6 +3868,9 @@
     </Channel>
     <Channel>
       <Item Name="InsightRadio">
+        <Satellite />
+      </Item>
+      <Item Name="Insight Radio">
         <Satellite />
       </Item>
       <File>InsightRadio.png</File>
