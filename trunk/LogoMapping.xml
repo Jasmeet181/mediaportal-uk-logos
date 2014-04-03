@@ -651,12 +651,6 @@
       <File>BT Sport 2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BuzMuzik">
-        <Satellite />
-      </Item>
-      <File>BuzMuzik.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Capital TV">
         <Satellite />
       </Item>
@@ -1213,6 +1207,12 @@
         <Satellite />
       </Item>
       <File>Eden HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ElectricBlue">
+        <Satellite />
+      </Item>
+      <File>ElectricBlue.png</File>
     </Channel>
     <Channel>
       <Item Name="eNCA Africa">
@@ -2361,12 +2361,6 @@
       <File>Racing UK.png</File>
     </Channel>
     <Channel>
-      <Item Name="Reality Hub">
-        <Satellite />
-      </Item>
-      <File>Reality Hub.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Really">
         <Satellite />
       </Item>
@@ -3387,6 +3381,12 @@
       <File>True Ent.png</File>
     </Channel>
     <Channel>
+      <Item Name="True Ent+1">
+        <Satellite />
+      </Item>
+      <File>True Ent+1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="True Movies 1">
         <Satellite />
       </Item>
@@ -3567,10 +3567,10 @@
       <File>Xplicit Nightly.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Gay">
+      <Item Name="XXX Brits">
         <Satellite />
       </Item>
-      <File>XXX Gay.png</File>
+      <File>XXX Brits.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Mums">
