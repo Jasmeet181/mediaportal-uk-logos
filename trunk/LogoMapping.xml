@@ -1287,6 +1287,12 @@
       <File>Extreme Sports.png</File>
     </Channel>
     <Channel>
+      <Item Name="FAB TV">
+        <Satellite />
+      </Item>
+      <File>FAB TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Faith World TV">
         <Satellite />
       </Item>
@@ -1330,12 +1336,6 @@
         <Satellite />
       </Item>
       <File>Fire Hit TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Fitness TV">
-        <Satellite />
-      </Item>
-      <File>Fitness TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Flava">
