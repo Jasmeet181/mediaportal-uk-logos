@@ -948,13 +948,10 @@
       <File>ComedyCtlX+1.png</File>
     </Channel>
     <Channel>
-      <Item Name="CommunityChnl">
-        <Satellite />
-      </Item>
       <Item Name="Community">
         <Satellite />
       </Item>
-      <File>CommunityChnl.png</File>
+      <File>Community.png</File>
     </Channel>
     <Channel>
       <Item Name="Community HD">
