@@ -1779,6 +1779,12 @@
       <File>Kix.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kix+">
+        <Satellite />
+      </Item>
+      <File>Kix+.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Kix+1">
         <Satellite />
       </Item>
@@ -3957,12 +3963,6 @@
       <File>Rainbow.png</File>
     </Channel>
     <Channel>
-      <Item Name="Real Radio">
-        <Satellite />
-      </Item>
-      <File>Real Radio.png</File>
-    </Channel>
-    <Channel>
       <Item Name="RTE 2FM">
         <Satellite />
       </Item>
@@ -4069,6 +4069,12 @@
         <Satellite />
       </Item>
       <File>Talksport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Arrow">
+        <Satellite />
+      </Item>
+      <File>The Arrow.png</File>
     </Channel>
     <Channel>
       <Item Name="The Hits Radio">
