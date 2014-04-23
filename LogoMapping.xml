@@ -3783,6 +3783,12 @@
       <File>BBC R5SX.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC WM">
+        <Satellite />
+      </Item>
+      <File>BBC WM.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC WS">
         <Satellite />
       </Item>
