@@ -555,12 +555,6 @@
       <File>BET +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bid">
-        <Satellite />
-      </Item>
-      <File>Bid.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Bliss">
         <Satellite />
       </Item>
@@ -2269,15 +2263,6 @@
         <Satellite />
       </Item>
       <File>Premier Sports.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Price Drop">
-        <Satellite />
-      </Item>
-      <Item Name="price-drop">
-        <Satellite />
-      </Item>
-      <File>Price Drop.png</File>
     </Channel>
     <Channel>
       <Item Name="Propeller">
