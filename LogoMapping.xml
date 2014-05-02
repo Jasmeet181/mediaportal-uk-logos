@@ -3225,10 +3225,10 @@
       <File>TG4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Thane Direct">
+      <Item Name="Thane">
         <Satellite />
       </Item>
-      <File>Thane Direct.png</File>
+      <File>Thane.png</File>
     </Channel>
     <Channel>
       <Item Name="The Active Ch">
