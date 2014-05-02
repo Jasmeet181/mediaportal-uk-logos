@@ -579,12 +579,6 @@
       <File>BON TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="BonanzaBonanza">
-        <Satellite />
-      </Item>
-      <File>BonanzaBonanza.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Boomerang">
         <Satellite />
       </Item>
@@ -2554,9 +2548,6 @@
         <Satellite />
       </Item>
       <Item Name="HD Retail Info">
-        <Satellite />
-      </Item>
-      <Item Name="Sky Chnl 995">
         <Satellite />
       </Item>
       <Item Name="Sky Intro">
