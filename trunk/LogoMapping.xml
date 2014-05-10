@@ -3807,6 +3807,12 @@
       <File>Desi Radio.png</File>
     </Channel>
     <Channel>
+      <Item Name="Diamond RD">
+        <Satellite />
+      </Item>
+      <File>Diamond RD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="EWTN">
         <Satellite />
       </Item>
