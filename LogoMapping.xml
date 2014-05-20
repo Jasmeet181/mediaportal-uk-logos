@@ -3360,6 +3360,9 @@
       <Item Name="True Movies 2">
         <Satellite />
       </Item>
+      <Item Name="True Murder">
+        <Satellite />
+      </Item>
       <File>True Movies 2.png</File>
     </Channel>
     <Channel>
