@@ -2130,6 +2130,12 @@
       <File>Noor TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Notts TV">
+        <Satellite />
+      </Item>
+      <File>Notts TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Now Christmas">
         <Satellite />
       </Item>
