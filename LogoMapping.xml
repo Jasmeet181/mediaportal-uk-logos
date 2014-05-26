@@ -3543,6 +3543,12 @@
       <File>Xplicit Nightly.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX 18 &amp; Dirty">
+        <Satellite />
+      </Item>
+      <File>XXX 18 &amp; Dirty.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Brits">
         <Satellite />
       </Item>
@@ -3553,12 +3559,6 @@
         <Satellite />
       </Item>
       <File>XXX Mums.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="XXXFirst Timers">
-        <Satellite />
-      </Item>
-      <File>XXXFirst Timers.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Xpanded TV">
