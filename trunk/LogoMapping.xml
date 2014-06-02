@@ -3147,6 +3147,12 @@
       <File>STV +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="STV Glasgow">
+        <Satellite />
+      </Item>
+      <File>STV Glasgow.png</File>
+    </Channel>
+    <Channel>
       <Item Name="STV HD">
         <Satellite />
       </Item>
