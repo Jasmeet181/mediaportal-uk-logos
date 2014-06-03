@@ -1647,6 +1647,24 @@
       <File>ITV Border.png</File>
     </Channel>
     <Channel>
+      <Item Name="ITV Encore">
+        <Satellite />
+      </Item>
+      <File>ITV Encore.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ITV Encore+1">
+        <Satellite />
+      </Item>
+      <File>ITV Encore+1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ITV Encore HD">
+        <Satellite />
+      </Item>
+      <File>ITV Encore HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ITV HD">
         <Satellite />
       </Item>
