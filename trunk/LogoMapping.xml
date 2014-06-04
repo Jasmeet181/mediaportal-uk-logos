@@ -915,28 +915,28 @@
       <File>ComedyCentral.png</File>
     </Channel>
     <Channel>
-      <Item Name="ComedyCtrl+1">
+      <Item Name="ComedyCent+1">
         <Satellite />
       </Item>
-      <File>ComedyCtrl+1.png</File>
+      <File>ComedyCent+1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Comedy Cen HD">
+      <Item Name="ComedyCentHD">
         <Satellite />
       </Item>
-      <File>Comedy Cen HD.png</File>
+      <File>ComedyCentHD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ComedyCtralX">
+      <Item Name="ComedyXtra">
         <Satellite />
       </Item>
-      <File>ComedyCtralX.png</File>
+      <File>ComedyXtra.png</File>
     </Channel>
     <Channel>
-      <Item Name="ComedyCtlX+1">
+      <Item Name="ComedyXtra+1">
         <Satellite />
       </Item>
-      <File>ComedyCtlX+1.png</File>
+      <File>ComedyXtra+1.png</File>
     </Channel>
     <Channel>
       <Item Name="Community">
