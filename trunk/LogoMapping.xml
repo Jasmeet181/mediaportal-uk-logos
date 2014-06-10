@@ -609,6 +609,12 @@
       <File>Brit Asia TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="British Muslim">
+        <Satellite />
+      </Item>
+      <File>British Muslim.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Sport 1">
         <Satellite />
       </Item>
@@ -1348,6 +1354,12 @@
         <Satellite />
       </Item>
       <File>Food Netwrk+1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Forces TV">
+        <Satellite />
+      </Item>
+      <File>Forces TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox">
