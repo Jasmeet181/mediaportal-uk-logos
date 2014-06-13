@@ -2562,6 +2562,12 @@
       <File>Showcase 2 +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Showcase 3">
+        <Satellite />
+      </Item>
+      <File>Showcase 3.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sikh Channel">
         <Satellite />
       </Item>
@@ -3409,6 +3415,12 @@
         <Satellite />
       </Item>
       <File>True Murder.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TruTV">
+        <Satellite />
+      </Item>
+      <File>TruTV.png</File>
     </Channel>
     <Channel>
       <Item Name="TV 99">
