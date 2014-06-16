@@ -2508,6 +2508,12 @@
       <File>S4C.png</File>
     </Channel>
     <Channel>
+      <Item Name="Safeer TV">
+        <Satellite />
+      </Item>
+      <File>Safeer TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Samaa">
         <Satellite />
       </Item>
