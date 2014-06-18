@@ -480,6 +480,15 @@
       <File>BBC Red Button.png</File>
     </Channel>
     <Channel>
+      <Item Name="22110">
+        <Satellite />
+      </Item>
+      <Item Name="BBC RB HD">
+        <Satellite />
+      </Item>
+      <File>BBC Red Button HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC RB 1">
         <Satellite />
       </Item>
@@ -489,6 +498,9 @@
       <File>BBC Red Button One.png</File>
     </Channel>
     <Channel>
+      <Item Name="22102">
+        <Satellite />
+      </Item>
       <Item Name="BBC RB 2">
         <Satellite />
       </Item>
@@ -496,6 +508,33 @@
         <Satellite />
       </Item>
       <File>BBC Red Button Two.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="22103">
+        <Satellite />
+      </Item>
+      <Item Name="BBC RB 3">
+        <Satellite />
+      </Item>
+      <File>BBC Red Button Three.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="22104">
+        <Satellite />
+      </Item>
+      <Item Name="BBC RB 4">
+        <Satellite />
+      </Item>
+      <File>BBC Red Button Four.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="22105">
+        <Satellite />
+      </Item>
+      <Item Name="BBC RB 5">
+        <Satellite />
+      </Item>
+      <File>BBC Red Button Five.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
