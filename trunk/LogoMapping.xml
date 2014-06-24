@@ -1020,12 +1020,6 @@
       <File>Daystar.png</File>
     </Channel>
     <Channel>
-      <Item Name="Dirty Talk">
-        <Satellite />
-      </Item>
-      <File>Dirty Talk.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Disc.History">
         <Satellite />
       </Item>
@@ -1636,12 +1630,6 @@
         <Satellite />
       </Item>
       <File>Info TV +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Inspiration">
-        <Satellite />
-      </Item>
-      <File>Inspiration.png</File>
     </Channel>
     <Channel>
       <Item Name="Iqra TV">
