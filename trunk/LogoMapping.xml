@@ -741,12 +741,6 @@
       <File>CCTV News.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ch Nine UK">
-        <Satellite />
-      </Item>
-      <File>Ch Nine UK.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Challenge">
         <Satellite />
       </Item>
@@ -1632,6 +1626,9 @@
       <File>Info TV +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Iqra Bangla">
+        <Satellite />
+      </Item>
       <Item Name="Iqra TV">
         <Satellite />
       </Item>
