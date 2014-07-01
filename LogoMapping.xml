@@ -36,6 +36,12 @@
       <File>4seven.png</File>
     </Channel>
     <Channel>
+      <Item Name="4seven HD">
+        <Satellite />
+      </Item>
+      <File>4seven HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="5 USA">
         <Satellite />
       </Item>
@@ -769,6 +775,12 @@
         <Satellite />
       </Item>
       <File>Channel 4 +1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Channel 4+1 HD">
+        <Satellite />
+      </Item>
+      <File>Channel 4+1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4 HD">
@@ -1758,6 +1770,9 @@
       <File>Jewellery Ch..png</File>
     </Channel>
     <Channel>
+      <Item Name="Jewellery Maker">
+        <Satellite />
+      </Item>
       <Item Name="Jewelry Maker">
         <Satellite />
       </Item>
