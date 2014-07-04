@@ -1272,7 +1272,7 @@
       <File>Eurosport 2 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="EWTN">
+      <Item Name="EWTN Catholic">
         <Satellite />
       </Item>
       <File>EWTN.png</File>
