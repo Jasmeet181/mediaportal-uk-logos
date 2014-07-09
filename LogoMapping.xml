@@ -90,40 +90,10 @@
       <File>Abu Dhabi TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Adult Babestn">
-        <Satellite />
-      </Item>
-      <File>Adult Babestn.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Adult Blue">
-        <Satellite />
-      </Item>
-      <File>Adult Blue.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Adult Channel">
         <Satellite />
       </Item>
       <File>Adult Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Adult Party">
-        <Satellite />
-      </Item>
-      <File>Adult Party.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Adult smileTV2">
-        <Satellite />
-      </Item>
-      <File>Adult smileTV2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Adult smileTV3">
-        <Satellite />
-      </Item>
-      <File>Adult smileTV3.png</File>
     </Channel>
     <Channel>
       <Item Name="Africa Channel">
@@ -147,7 +117,7 @@
       <Item Name="AIT Int'l">
         <Satellite />
       </Item>
-      <File>AIT Int'l.png</File>
+      <File>AIT International.png</File>
     </Channel>
     <Channel>
       <Item Name="Akaal Channel">
@@ -165,19 +135,19 @@
       <Item Name="Al Jazeera Eng">
         <Satellite />
       </Item>
-      <File>Al Jazeera Eng.png</File>
+      <File>Al Jazeera English.png</File>
     </Channel>
     <Channel>
       <Item Name="Al Jazeera Eng HD">
         <Satellite />
       </Item>
-      <File>Al Jazeera Eng HD.png</File>
+      <File>Al Jazeera English HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Alexcasino">
         <Satellite />
       </Item>
-      <File>Alexcasino.png</File>
+      <File>Alexander Casino.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi">
@@ -207,13 +177,13 @@
       <Item Name="Animal Plnt+1">
         <Satellite />
       </Item>
-      <File>Animal Plnt+1.png</File>
+      <File>Animal Planet +1.png</File>
     </Channel>
     <Channel>
       <Item Name="AnimalPlnt HD">
         <Satellite />
       </Item>
-      <File>AnimalPlnt HD.png</File>
+      <File>Animal Planet HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Arise News">
@@ -225,7 +195,7 @@
       <Item Name="ARY Ent">
         <Satellite />
       </Item>
-      <File>ARY Ent.png</File>
+      <File>ARY Digital.png</File>
     </Channel>
     <Channel>
       <Item Name="ARY QTV">
@@ -273,6 +243,12 @@
       <File>Babestation.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Babestn">
+        <Satellite />
+      </Item>
+      <File>Babestation BSX.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BabyTV">
         <Satellite />
       </Item>
@@ -291,7 +267,7 @@
       <Item Name="BBC One NI">
         <Satellite />
       </Item>
-      <File>BBC One NI.png</File>
+      <File>BBC One Northern Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 NI HD">
@@ -300,7 +276,7 @@
       <Item Name="BBC One NI HD">
         <Satellite />
       </Item>
-      <File>BBC One NI HD.png</File>
+      <File>BBC One Northern Ireland HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One Scot">
@@ -309,7 +285,7 @@
       <Item Name="BBC One Scotland">
         <Satellite />
       </Item>
-      <File>BBC One Scot.png</File>
+      <File>BBC One Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 Scot HD">
@@ -318,7 +294,7 @@
       <Item Name="BBC One ScotHD">
         <Satellite />
       </Item>
-      <File>BBC One ScotHD.png</File>
+      <File>BBC One Scotland HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One Wales">
@@ -336,7 +312,7 @@
       <Item Name="BBC One Wales HD">
         <Satellite />
       </Item>
-      <File>BBC One Wal HD.png</File>
+      <File>BBC One Wales HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two">
@@ -345,7 +321,7 @@
       <Item Name="BBC Two Eng">
         <Satellite />
       </Item>
-      <File>BBC Two Eng.png</File>
+      <File>BBC Two.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two N Ireland">
@@ -354,13 +330,13 @@
       <Item Name="BBC Two NI">
         <Satellite />
       </Item>
-      <File>BBC Two NI.png</File>
+      <File>BBC Two Northern Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two Scot">
         <Satellite />
       </Item>
-      <File>BBC Two Scot.png</File>
+      <File>BBC Two Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two Wales">
@@ -567,7 +543,7 @@
       <Item Name="BET:BlackEntTv">
         <Satellite />
       </Item>
-      <File>BET_BlackEntTv.png</File>
+      <File>BET.png</File>
     </Channel>
     <Channel>
       <Item Name="BET +1">
@@ -592,6 +568,12 @@
         <Satellite />
       </Item>
       <File>Bloomberg.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adult Blue">
+        <Satellite />
+      </Item>
+      <File>Blue Kiss TV.png</File>
     </Channel>
     <Channel>
       <Item Name="BON TV">
@@ -669,19 +651,19 @@
       <Item Name="Cartoon Netwrk">
         <Satellite />
       </Item>
-      <File>Cartoon Netwrk.png</File>
+      <File>Cartoon Network.png</File>
     </Channel>
     <Channel>
       <Item Name="CN+1">
         <Satellite />
       </Item>
-      <File>CN+1.png</File>
+      <File>Cartoon Network +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoon Net HD">
         <Satellite />
       </Item>
-      <File>Cartoon Net HD.png</File>
+      <File>Cartoon Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoonito">
@@ -738,7 +720,7 @@
       <Item Name="CBS Reality+1">
         <Satellite />
       </Item>
-      <File>CBS Reality+1.png</File>
+      <File>CBS Reality +1.png</File>
     </Channel>
     <Channel>
       <Item Name="CCTV News">
@@ -759,7 +741,7 @@
       <Item Name="Challenge+1">
         <Satellite />
       </Item>
-      <File>Challenge+1.png</File>
+      <File>Challenge +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4">
@@ -780,7 +762,7 @@
       <Item Name="Channel 4+1 HD">
         <Satellite />
       </Item>
-      <File>Channel 4+1 HD.png</File>
+      <File>Channel 4 +1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4 HD">
@@ -798,13 +780,13 @@
       <Item Name="Channel 5+1">
         <Satellite />
       </Item>
-      <File>Channel 5+1.png</File>
+      <File>Channel 5 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5+24">
         <Satellite />
       </Item>
-      <File>Channel 5+24.png</File>
+      <File>Channel 5 +24.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5 HD">
@@ -837,7 +819,7 @@
       <Item Name="Chartshw Dnce">
         <Satellite />
       </Item>
-      <File>Chartshw Dnce.png</File>
+      <File>Chartshow Dance.png</File>
     </Channel>
     <Channel>
       <Item Name="Chat Box">
@@ -939,31 +921,31 @@
       <Item Name="ComedyCentral">
         <Satellite />
       </Item>
-      <File>ComedyCentral.png</File>
+      <File>Comedy Central.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyCent+1">
         <Satellite />
       </Item>
-      <File>ComedyCent+1.png</File>
+      <File>Comedy Central +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyCentHD">
         <Satellite />
       </Item>
-      <File>ComedyCentHD.png</File>
+      <File>Comedy Central HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyXtra">
         <Satellite />
       </Item>
-      <File>ComedyXtra.png</File>
+      <File>Comedy Central Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyXtra+1">
         <Satellite />
       </Item>
-      <File>ComedyXtra+1.png</File>
+      <File>Comedy Central Extra +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Community">
@@ -987,7 +969,7 @@
       <Item Name="Create &amp; Craft">
         <Satellite />
       </Item>
-      <File>Create &amp; Craft.png</File>
+      <File>Create and Craft.png</File>
     </Channel>
     <Channel>
       <Item Name="Cruzr TV">
@@ -1029,31 +1011,31 @@
       <Item Name="Disc.History">
         <Satellite />
       </Item>
-      <File>Disc.History.png</File>
+      <File>Discovery History.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.History+1">
         <Satellite />
       </Item>
-      <File>Disc.History+1.png</File>
+      <File>Discovery History +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Science">
         <Satellite />
       </Item>
-      <File>Disc.Science.png</File>
+      <File>Discovery Science.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Sci+1">
         <Satellite />
       </Item>
-      <File>Disc.Sci+1.png</File>
+      <File>Discovery Science +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Turbo">
         <Satellite />
       </Item>
-      <File>Disc.Turbo.png</File>
+      <File>Discovery Turbo.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery">
@@ -1065,7 +1047,7 @@
       <Item Name="Discovery+1">
         <Satellite />
       </Item>
-      <File>Discovery+1.png</File>
+      <File>Discovery +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery HD">
@@ -1083,19 +1065,19 @@
       <Item Name="Disney Chnl">
         <Satellite />
       </Item>
-      <File>Disney Chnl.png</File>
+      <File>Disney Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Chnl+1">
         <Satellite />
       </Item>
-      <File>Disney Chnl+1.png</File>
+      <File>Disney Channel +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Chnl HD">
         <Satellite />
       </Item>
-      <File>Disney Chnl HD.png</File>
+      <File>Disney Channel HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Junior">
@@ -1113,7 +1095,7 @@
       <Item Name="Disney Jnr HD">
         <Satellite />
       </Item>
-      <File>Disney Jnr HD.png</File>
+      <File>Disney Junior HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney XD">
@@ -1125,7 +1107,7 @@
       <Item Name="Disney XD+1">
         <Satellite />
       </Item>
-      <File>Disney XD+1.png</File>
+      <File>Disney XD +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney XD HD">
@@ -1149,7 +1131,7 @@
       <Item Name="DMAX+1">
         <Satellite />
       </Item>
-      <File>DMAX+1.png</File>
+      <File>DMAX +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Drama">
@@ -1185,7 +1167,7 @@
       <Item Name="E4+1">
         <Satellite />
       </Item>
-      <File>E4+1.png</File>
+      <File>E4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="E4 HD">
@@ -1203,7 +1185,7 @@
       <Item Name="Eden+1">
         <Satellite />
       </Item>
-      <File>Eden+1.png</File>
+      <File>Eden +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Eden HD">
@@ -1215,7 +1197,7 @@
       <Item Name="ElectricBlue">
         <Satellite />
       </Item>
-      <File>ElectricBlue.png</File>
+      <File>Electric Blue.png</File>
     </Channel>
     <Channel>
       <Item Name="eNCA Africa">
@@ -1251,25 +1233,25 @@
       <Item Name="Eurosport">
         <Satellite />
       </Item>
-      <File>Eurosport.png</File>
+      <File>British Eurosport.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport HD">
         <Satellite />
       </Item>
-      <File>Eurosport HD.png</File>
+      <File>British Eurosport HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport 2">
         <Satellite />
       </Item>
-      <File>Eurosport 2.png</File>
+      <File>British Eurosport 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport 2 HD">
         <Satellite />
       </Item>
-      <File>Eurosport 2 HD.png</File>
+      <File>British Eurosport 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN Catholic">
@@ -1368,7 +1350,7 @@
       <Item Name="Food Netwrk+1">
         <Satellite />
       </Item>
-      <File>Food Netwrk+1.png</File>
+      <File>Food Network +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Forces TV">
@@ -1404,7 +1386,7 @@
       <Item Name="France Eng">
         <Satellite />
       </Item>
-      <File>France Eng.png</File>
+      <File>France 24.png</File>
     </Channel>
     <Channel>
       <Item Name="Gay Network">
@@ -1539,7 +1521,7 @@
       <Item Name="History +1 hour">
         <Satellite />
       </Item>
-      <File>History +1 hour.png</File>
+      <File>History +1.png</File>
     </Channel>
     <Channel>
       <Item Name="History HD">
@@ -1557,13 +1539,13 @@
       <Item Name="Home &amp; Health">
         <Satellite />
       </Item>
-      <File>Home &amp; Health.png</File>
+      <File>Home and Health.png</File>
     </Channel>
     <Channel>
       <Item Name="Home&amp;Health+">
         <Satellite />
       </Item>
-      <File>Home&amp;Health+.png</File>
+      <File>Home and Health+.png</File>
     </Channel>
     <Channel>
       <Item Name="Home">
@@ -1575,7 +1557,7 @@
       <Item Name="Home+1">
         <Satellite />
       </Item>
-      <File>Home+1.png</File>
+      <File>Home +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Horror Channel">
@@ -1587,13 +1569,13 @@
       <Item Name="horror ch+1">
         <Satellite />
       </Item>
-      <File>horror ch+1.png</File>
+      <File>Horror Channel +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Horse &amp; Country">
         <Satellite />
       </Item>
-      <File>Horse &amp; Country.png</File>
+      <File>Horse and Country.png</File>
     </Channel>
     <Channel>
       <Item Name="Hum Europe">
@@ -1611,7 +1593,7 @@
       <Item Name="ID+1">
         <Satellite />
       </Item>
-      <File>ID+1.png</File>
+      <File>ID +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Ideal Extra">
@@ -1680,7 +1662,7 @@
       <Item Name="ITV Encore+1">
         <Satellite />
       </Item>
-      <File>ITV Encore+1.png</File>
+      <File>ITV Encore +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Encore HD">
@@ -1713,7 +1695,7 @@
       <Item Name="ITV2 +1">
         <Satellite />
       </Item>
-      <File>ITV2+1.png</File>
+      <File>ITV2 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV2 HD">
@@ -1734,7 +1716,7 @@
       <Item Name="ITV3 +1">
         <Satellite />
       </Item>
-      <File>ITV3+1.png</File>
+      <File>ITV3 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV3 HD">
@@ -1755,7 +1737,7 @@
       <Item Name="ITV4 +1">
         <Satellite />
       </Item>
-      <File>ITV4+1.png</File>
+      <File>ITV4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV4 HD">
@@ -1767,7 +1749,7 @@
       <Item Name="Jewellery Ch.">
         <Satellite />
       </Item>
-      <File>Jewellery Ch..png</File>
+      <File>Jewellery Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Jewellery Maker">
@@ -1818,7 +1800,7 @@
       <Item Name="Kix+1">
         <Satellite />
       </Item>
-      <File>Kix+1.png</File>
+      <File>Kix +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Kix Power">
@@ -1836,7 +1818,7 @@
       <Item Name="Lifetime+1">
         <Satellite />
       </Item>
-      <File>Lifetime+1.png</File>
+      <File>Lifetime +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Lifetime HD">
@@ -1848,7 +1830,7 @@
       <Item Name="LiverpoolFCTV">
         <Satellite />
       </Item>
-      <File>LiverpoolFCTV.png</File>
+      <File>LFC TV.png</File>
     </Channel>
     <Channel>
       <Item Name="London Live">
@@ -1878,7 +1860,7 @@
       <Item Name="Madani Chnl">
         <Satellite />
       </Item>
-      <File>Madani Chnl.png</File>
+      <File>Madani Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
@@ -1902,7 +1884,7 @@
       <Item Name="M>Movies+1">
         <Satellite />
       </Item>
-      <File>M_Movies+1.png</File>
+      <File>More_Movies +1.png</File>
     </Channel>
     <Channel>
       <Item Name="More4">
@@ -1959,7 +1941,7 @@
       <Item Name="Mov4Men+1">
         <Satellite />
       </Item>
-      <File>Mov4Men+1.png</File>
+      <File>Movies4Men +1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTA-Muslim TV">
@@ -1977,7 +1959,7 @@
       <Item Name="MTV+1">
         <Satellite />
       </Item>
-      <File>MTV+1.png</File>
+      <File>MTV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV HD">
@@ -2067,7 +2049,7 @@
       <Item Name="Nat Geo+1hr">
         <Satellite />
       </Item>
-      <File>Nat Geo+1hr.png</File>
+      <File>Nat Geo +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo HD">
@@ -2085,7 +2067,7 @@
       <Item Name="NatGeoWild HD">
         <Satellite />
       </Item>
-      <File>NatGeoWild HD.png</File>
+      <File>Nat Geo Wild HD.png</File>
     </Channel>
     <Channel>
       <Item Name="NDTV 24x7">
@@ -2118,7 +2100,7 @@
       <Item Name="Nick Jr+1">
         <Satellite />
       </Item>
-      <File>Nick Jr+1.png</File>
+      <File>Nick Jr +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr. 2">
@@ -2148,13 +2130,13 @@
       <Item Name="Nickelodeon+1">
         <Satellite />
       </Item>
-      <File>Nickelodeon+1.png</File>
+      <File>Nickelodeon +1.png</File>
     </Channel>
     <Channel>
       <Item Name="NickelodeonHD">
         <Satellite />
       </Item>
-      <File>NickelodeonHD.png</File>
+      <File>Nickelodeon HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nicktoons">
@@ -2166,7 +2148,7 @@
       <Item Name="Nollywood">
         <Satellite />
       </Item>
-      <File>Nollywood.png</File>
+      <File>Nollywood Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="Noor TV">
@@ -2211,6 +2193,12 @@
       <File>Olive TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Party">
+        <Satellite />
+      </Item>
+      <File>Partyland.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Paversshoes.tv">
         <Satellite />
       </Item>
@@ -2253,7 +2241,7 @@
       <Item Name="Pick+1">
         <Satellite />
       </Item>
-      <File>Pick+1.png</File>
+      <File>Pick +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Planet Pop">
@@ -2286,7 +2274,7 @@
       <Item Name="Adult Playboy TV Chat">
         <Satellite />
       </Item>
-      <File>PlayboyTV Chat.png</File>
+      <File>Playboy TV Chat.png</File>
     </Channel>
     <Channel>
       <Item Name="Pop">
@@ -2352,7 +2340,7 @@
       <Item Name="Quest+1">
         <Satellite />
       </Item>
-      <File>Quest+1.png</File>
+      <File>Quest +1.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC">
@@ -2454,7 +2442,7 @@
       <Item Name="Rocks &amp; Co 1">
         <Satellite />
       </Item>
-      <File>Rocks &amp; Co 1.png</File>
+      <File>Rocks and Co 1.png</File>
     </Channel>
     <Channel>
       <Item Name="RT">
@@ -2523,7 +2511,7 @@
       <Item Name="RTÉ Junior">
         <Satellite />
       </Item>
-      <File>RTEJR.png</File>
+      <File>RTE Junior.png</File>
     </Channel>
     <Channel>
       <Item Name="S4C">
@@ -2565,7 +2553,7 @@
       <Item Name="Setanta Sports1">
         <Satellite />
       </Item>
-      <File>Setanta Sports1.png</File>
+      <File>Setanta Sports 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase">
@@ -2625,13 +2613,13 @@
       <Item Name="Sky Action">
         <Satellite />
       </Item>
-      <File>Sky Action.png</File>
+      <File>Sky Movies Action.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action HD">
         <Satellite />
       </Item>
-      <File>Sky Action HD.png</File>
+      <File>Sky Movies Action HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 1">
@@ -2682,7 +2670,7 @@
       <Item Name="Sky Atlantic+1">
         <Satellite />
       </Item>
-      <File>Sky Atlantic+1.png</File>
+      <File>Sky Atlantic +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Atlantic HD">
@@ -2700,79 +2688,79 @@
       <Item Name="SBO HD">
         <Satellite />
       </Item>
-      <File>SBO HD.png</File>
+      <File>Sky Box Office HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Christmas">
         <Satellite />
       </Item>
-      <File>Sky Christmas.png</File>
+      <File>Sky Movies Christmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ChristmsHD">
         <Satellite />
       </Item>
-      <File>Sky ChristmsHD.png</File>
+      <File>Sky Movies Christmas HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Comedy">
         <Satellite />
       </Item>
-      <File>Sky Comedy.png</File>
+      <File>Sky Movies Comedy.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Comedy HD">
         <Satellite />
       </Item>
-      <File>Sky Comedy HD.png</File>
+      <File>Sky Movies Comedy HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Disney">
         <Satellite />
       </Item>
-      <File>Sky Disney.png</File>
+      <File>Sky Movies Disney.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Disney HD">
         <Satellite />
       </Item>
-      <File>Sky Disney HD.png</File>
+      <File>Sky Movies Disney HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky DramaRom">
         <Satellite />
       </Item>
-      <File>Sky DramaRom.png</File>
+      <File>Sky Movies Drama and Romance.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky DraRomHD">
         <Satellite />
       </Item>
-      <File>Sky DraRomHD.png</File>
+      <File>Sky Movies Drama and Romance HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Family">
         <Satellite />
       </Item>
-      <File>Sky Family.png</File>
+      <File>Sky Movies Family.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Family HD">
         <Satellite />
       </Item>
-      <File>Sky Family HD.png</File>
+      <File>Sky Movies Family HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Greats">
         <Satellite />
       </Item>
-      <File>Sky Greats.png</File>
+      <File>Sky Movies Greats.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Greats HD">
         <Satellite />
       </Item>
-      <File>Sky Greats HD.png</File>
+      <File>Sky Movies Greats HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Insider HD">
@@ -2790,7 +2778,7 @@
       <Item Name="Sky Living+1">
         <Satellite />
       </Item>
-      <File>Sky Living+1.png</File>
+      <File>Sky Living +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living HD">
@@ -2808,19 +2796,7 @@
       <Item Name="Sky Livingit+1">
         <Satellite />
       </Item>
-      <File>Sky Livingit+1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies 007">
-        <Satellite />
-      </Item>
-      <File>Sky Movies 007.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky 007 HD">
-        <Satellite />
-      </Item>
-      <File>Sky 007 HD.png</File>
+      <File>Sky Livingit +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News">
@@ -2838,67 +2814,67 @@
       <Item Name="Sky Oscars">
         <Satellite />
       </Item>
-      <File>Sky Oscars.png</File>
+      <File>Sky Movies Oscars.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Oscars HD">
         <Satellite />
       </Item>
-      <File>Sky Oscars HD.png</File>
+      <File>Sky Movies Oscars HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Premiere">
         <Satellite />
       </Item>
-      <File>Sky Premiere.png</File>
+      <File>Sky Movies Premiere.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Prem+1">
         <Satellite />
       </Item>
-      <File>Sky Prem+1.png</File>
+      <File>Sky Movies Premiere +1.png</File>
     </Channel>
     <Channel>
       <Item Name="SkyPremiereHD">
         <Satellite />
       </Item>
-      <File>SkyPremiereHD.png</File>
+      <File>Sky Movies Premiere HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ScFi/Horror">
         <Satellite />
       </Item>
-      <File>Sky ScFi_Horror.png</File>
+      <File>Sky Movies Sci-fi and Horror.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ScFi/HorHD">
         <Satellite />
       </Item>
-      <File>Sky ScFi_HorHD.png</File>
+      <File>Sky Movies Sci-fi and Horror HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Select">
         <Satellite />
       </Item>
-      <File>Sky Select.png</File>
+      <File>Sky Movies Select.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Select HD">
         <Satellite />
       </Item>
-      <File>Sky Select HD.png</File>
+      <File>Sky Movies Select HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Showcase">
         <Satellite />
       </Item>
-      <File>Sky Showcase.png</File>
+      <File>Sky Movies Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ShowcseHD">
         <Satellite />
       </Item>
-      <File>Sky ShowcseHD.png</File>
+      <File>Sky Movies Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 1">
@@ -2970,13 +2946,13 @@
       <Item Name="Sky Spts Ashes">
         <Satellite />
       </Item>
-      <File>Sky Spts Ashes.png</File>
+      <File>Sky Sports Ashes.png</File>
     </Channel>
     <Channel>
       <Item Name="SkySp AshesHD">
         <Satellite />
       </Item>
-      <File>SkySp AshesHD.png</File>
+      <File>Sky Sports Ashes HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports F1">
@@ -2988,67 +2964,67 @@
       <Item Name="Sky Spts F1 HD">
         <Satellite />
       </Item>
-      <File>Sky Spts F1 HD.png</File>
+      <File>Sky Sports F1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Spts News">
         <Satellite />
       </Item>
-      <File>Sky Spts News.png</File>
+      <File>Sky Sports News.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sp NewsHD">
         <Satellite />
       </Item>
-      <File>Sky Sp NewsHD.png</File>
+      <File>Sky Sports News HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Summer">
         <Satellite />
       </Item>
-      <File>Sky Summer.png</File>
+      <File>Sky Movies Summer.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Summer HD">
         <Satellite />
       </Item>
-      <File>Sky Summer HD.png</File>
+      <File>Sky Movies Summer HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Superhero">
         <Satellite />
       </Item>
-      <File>Sky Superhero.png</File>
+      <File>Sky Movies Superhero.png</File>
     </Channel>
     <Channel>
       <Item Name="SkySuperheroHD">
         <Satellite />
       </Item>
-      <File>SkySuperheroHD.png</File>
+      <File>Sky Movies Superhero HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Thriller">
         <Satellite />
       </Item>
-      <File>Sky Thriller.png</File>
+      <File>Sky Movies Thriller.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Thriller HD">
         <Satellite />
       </Item>
-      <File>Sky Thriller HD.png</File>
+      <File>Sky Movies Thriller HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Valentine">
         <Satellite />
       </Item>
-      <File>Sky Valentine.png</File>
+      <File>Sky Movies Valentine.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ValentneHD">
         <Satellite />
       </Item>
-      <File>Sky ValentneHD.png</File>
+      <File>Sky Movies Valentne HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky1">
@@ -3081,7 +3057,7 @@
       <Item Name="SkyNws Arabia">
         <Satellite />
       </Item>
-      <File>SkyNws Arabia.png</File>
+      <File>Sky News Arabia.png</File>
     </Channel>
     <Channel>
       <Item Name="SkyPoker.com">
@@ -3093,13 +3069,25 @@
       <Item Name="SmartLive">
         <Satellite />
       </Item>
-      <File>SmartLive.png</File>
+      <File>Smart Live Casino.png</File>
     </Channel>
     <Channel>
       <Item Name="Smash Hits!">
         <Satellite />
       </Item>
       <File>Smash Hits!.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adult smileTV2">
+        <Satellite />
+      </Item>
+      <File>SmileTV2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adult smileTV3">
+        <Satellite />
+      </Item>
+      <File>SmileTV3.png</File>
     </Channel>
     <Channel>
       <Item Name="Sonlife">
@@ -3123,7 +3111,7 @@
       <Item Name="Sony Movies+1">
         <Satellite />
       </Item>
-      <File>Sony Movies+1.png</File>
+      <File>Sony Movies +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Sab">
@@ -3279,7 +3267,7 @@
       <Item Name="TCMWestern+1">
         <Satellite />
       </Item>
-      <File>TCM+1.png</File>
+      <File>TCM +1.png</File>
     </Channel>
     <Channel>
       <Item Name="TCM HD">
@@ -3372,13 +3360,13 @@
       <Item Name="TLC+1">
         <Satellite />
       </Item>
-      <File>TLC+1.png</File>
+      <File>TLC +1.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC+2">
         <Satellite />
       </Item>
-      <File>TLC+2.png</File>
+      <File>TLC +2.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC HD">
@@ -3396,7 +3384,7 @@
       <Item Name="Travel Ch +1">
         <Satellite />
       </Item>
-      <File>Travel Ch +1.png</File>
+      <File>Travel Channel +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Tristar">
@@ -3423,13 +3411,13 @@
       <Item Name="True Entertainment">
         <Satellite />
       </Item>
-      <File>True Ent.png</File>
+      <File>True Entertainment.png</File>
     </Channel>
     <Channel>
       <Item Name="True Ent+1">
         <Satellite />
       </Item>
-      <File>True Ent+1.png</File>
+      <File>True Entertainment +1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Movies 1">
@@ -3483,7 +3471,7 @@
       <Item Name="TV5">
         <Satellite />
       </Item>
-      <File>TV5.png</File>
+      <File>TV5Monde.png</File>
     </Channel>
     <Channel>
       <Item Name="TVC News">
@@ -3525,7 +3513,7 @@
       <Item Name="Universal+1">
         <Satellite />
       </Item>
-      <File>Universal+1.png</File>
+      <File>Universal +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal HD">
@@ -3627,7 +3615,7 @@
       <Item Name="XXX 18 &amp; Dirty">
         <Satellite />
       </Item>
-      <File>XXX 18 &amp; Dirty.png</File>
+      <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
@@ -3663,7 +3651,7 @@
       <Item Name="Yesterday+1">
         <Satellite />
       </Item>
-      <File>Yesterday+1.png</File>
+      <File>Yesterday +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee Cinema">
@@ -3705,37 +3693,37 @@
       <Item Name="Absolute Radio">
         <Satellite />
       </Item>
-      <File>Absolute.png</File>
+      <File>Absolute Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Abs Rad 90s">
         <Satellite />
       </Item>
-      <File>Abs Rad 90s.png</File>
+      <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
       <Item Name="Absolute CR">
         <Satellite />
       </Item>
-      <File>Absolute CR.png</File>
+      <File>Absolute Classic Rock.png</File>
     </Channel>
     <Channel>
       <Item Name="Absolute80s">
         <Satellite />
       </Item>
-      <File>Absolute80s.png</File>
+      <File>Absolute 80s.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC  London">
+      <Item Name="BBC London">
         <Satellite />
       </Item>
-      <File>BBC  London.png</File>
+      <File>BBC London.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 6 Music">
         <Satellite />
       </Item>
-      <File>BBC 6 Music.png</File>
+      <File>BBC Radio 6 Music.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Asian">
@@ -3744,43 +3732,43 @@
       <Item Name="BBC Asian Net.">
         <Satellite />
       </Item>
-      <File>BBC Asian.png</File>
+      <File>BBC Asian Network.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Cymru">
         <Satellite />
       </Item>
-      <File>BBC R Cymru.png</File>
+      <File>BBC Radio Cymru.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Foyle">
         <Satellite />
       </Item>
-      <File>BBC R Foyle.png</File>
+      <File>BBC Radio Foyle.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R n Gael">
         <Satellite />
       </Item>
-      <File>BBC R n Gael.png</File>
+      <File>BBC Radio nan Gaidheal.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Scot.">
         <Satellite />
       </Item>
-      <File>BBC R Scot..png</File>
+      <File>BBC Radio Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Ulster">
         <Satellite />
       </Item>
-      <File>BBC R Ulster.png</File>
+      <File>BBC Radio Ulster.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Wales">
         <Satellite />
       </Item>
-      <File>BBC R Wales.png</File>
+      <File>BBC Radio Wales.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R1">
@@ -3789,13 +3777,13 @@
       <Item Name="BBC Radio 1">
         <Satellite />
       </Item>
-      <File>BBC R1.png</File>
+      <File>BBC Radio 1.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R1X">
         <Satellite />
       </Item>
-      <File>BBC R1X.png</File>
+      <File>BBC Radio 1Xtra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R2">
@@ -3804,7 +3792,7 @@
       <Item Name="BBC Radio 2">
         <Satellite />
       </Item>
-      <File>BBC R2.png</File>
+      <File>BBC Radio 2.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R3">
@@ -3813,7 +3801,7 @@
       <Item Name="BBC Radio 3">
         <Satellite />
       </Item>
-      <File>BBC R3.png</File>
+      <File>BBC Radio 3.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R4 Ex">
@@ -3822,7 +3810,7 @@
       <Item Name="BBC Radio 4 Ex">
         <Satellite />
       </Item>
-      <File>BBC R4 Ex.png</File>
+      <File>BBC Radio 4 Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R4 FM">
@@ -3834,19 +3822,19 @@
       <Item Name="BBC Radio 4">
         <Satellite />
       </Item>
-      <File>BBC R4 FM.png</File>
+      <File>BBC Radio 4.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5L">
         <Satellite />
       </Item>
-      <File>BBC R5L.png</File>
+      <File>BBC Radio 5 Live.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5SX">
         <Satellite />
       </Item>
-      <File>BBC R5SX.png</File>
+      <File>BBC Radio 5 Live Sports Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC WM">
@@ -3861,7 +3849,7 @@
       <Item Name="BBC World Sv.">
         <Satellite />
       </Item>
-      <File>BBC WS.png</File>
+      <File>BBC World Service.png</File>
     </Channel>
     <Channel>
       <Item Name="BFBS Radio">
@@ -3903,7 +3891,7 @@
       <Item Name="Diamond RD">
         <Satellite />
       </Item>
-      <File>Diamond RD.png</File>
+      <File>Diamond Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN">
@@ -3936,7 +3924,7 @@
       <Item Name="Insight Radio">
         <Satellite />
       </Item>
-      <File>InsightRadio.png</File>
+      <File>Insight Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Jazz FM">
@@ -3984,19 +3972,19 @@
       <Item Name="LBC">
         <Satellite />
       </Item>
-      <File>LBC.png</File>
+      <File>LBC Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="LBC News">
         <Satellite />
       </Item>
-      <File>LBC News.png</File>
+      <File>LBC News 1152.png</File>
     </Channel>
     <Channel>
       <Item Name="Liberty">
         <Satellite />
       </Item>
-      <File>Liberty.png</File>
+      <File>Liberty Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
@@ -4032,7 +4020,7 @@
       <Item Name="Rainbow">
         <Satellite />
       </Item>
-      <File>Rainbow.png</File>
+      <File>Rainbow Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE 2FM">
@@ -4095,7 +4083,7 @@
       <Item Name="RTÉ Raidió na Gaeltachta">
         <Satellite />
       </Item>
-      <File>RTE R na G.png</File>
+      <File>RTE Raidio na Gaeltachta.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Radio 1">
@@ -4122,7 +4110,7 @@
       <Item Name="Smooth Radio">
         <Satellite />
       </Item>
-      <File>Smooth.png</File>
+      <File>Smooth Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Solar Radio">
@@ -4134,7 +4122,7 @@
       <Item Name="Sukh Sagar">
         <Satellite />
       </Item>
-      <File>Sukh Sagar.png</File>
+      <File>Sukh Sagar Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Talksport">
@@ -4158,7 +4146,7 @@
       <Item Name="TWR">
         <Satellite />
       </Item>
-      <File>TWR.png</File>
+      <File>Trans World Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="U105">
