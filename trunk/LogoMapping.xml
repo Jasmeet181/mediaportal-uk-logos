@@ -1785,30 +1785,6 @@
       <File>Kiss.png</File>
     </Channel>
     <Channel>
-      <Item Name="Kix">
-        <Satellite />
-      </Item>
-      <File>Kix.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kix+">
-        <Satellite />
-      </Item>
-      <File>Kix+.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kix+1">
-        <Satellite />
-      </Item>
-      <File>Kix +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kix Power">
-        <Satellite />
-      </Item>
-      <File>Kix Power.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Lifetime">
         <Satellite />
       </Item>
@@ -2032,6 +2008,11 @@
         <Satellite />
       </Item>
       <File>MUTV.png</File>
+    </Channel>
+      <Item Name="MUTV HD">
+        <Satellite />
+      </Item>
+      <File>MUTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="My Channel">
@@ -2281,6 +2262,15 @@
         <Satellite />
       </Item>
       <File>Pop.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pop+1">
+        <Satellite />
+      </Item>
+      <Item Name="Pop +1">
+        <Satellite />
+      </Item>
+      <File>Pop +1.png</File>
     </Channel>
     <Channel>
       <Item Name="PopGirl">
