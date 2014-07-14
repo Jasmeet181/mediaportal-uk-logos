@@ -1785,6 +1785,12 @@
       <File>Kiss.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kix">		
+        <Satellite />		
+      </Item>		
+      <File>Kix.png</File>		
+    </Channel>
+    <Channel>
       <Item Name="Lifetime">
         <Satellite />
       </Item>
