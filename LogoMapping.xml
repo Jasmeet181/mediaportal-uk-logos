@@ -2009,6 +2009,7 @@
       </Item>
       <File>MUTV.png</File>
     </Channel>
+    <Channel>
       <Item Name="MUTV HD">
         <Satellite />
       </Item>
