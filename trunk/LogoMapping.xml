@@ -4,3679 +4,3755 @@
   <TV>
     <Channel>
       <Item Name="?TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>_TV.png</File>
     </Channel>
     <Channel>
       <Item Name="21stCent Bliss">
-        <Satellite />
+        <Provider>Freesat</Provider>
       </Item>
       <Item Name="21stCentBliss">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>21stCent Bliss.png</File>
     </Channel>
     <Channel>
       <Item Name="3e">
-        <Satellite />
+        <Provider>Saorview</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>3e.png</File>
     </Channel>
     <Channel>
       <Item Name="4music">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>4music.png</File>
     </Channel>
     <Channel>
       <Item Name="4seven">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>4seven.png</File>
     </Channel>
     <Channel>
       <Item Name="4seven HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>4seven HD.png</File>
     </Channel>
     <Channel>
       <Item Name="5 USA">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>5 USA.png</File>
     </Channel>
     <Channel>
       <Item Name="5 USA +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>5 USA +1.png</File>
     </Channel>
     <Channel>
       <Item Name="5*">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>5_.png</File>
     </Channel>
     <Channel>
       <Item Name="Aaj Tak">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Aaj Tak.png</File>
     </Channel>
     <Channel>
       <Item Name="Aastha">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Aastha.png</File>
     </Channel>
     <Channel>
       <Item Name="ABN TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ABN TV.png</File>
     </Channel>
     <Channel>
       <Item Name="ABP News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ABP News.png</File>
     </Channel>
     <Channel>
       <Item Name="Abu Dhabi TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Abu Dhabi TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Adult Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Africa Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Africa Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Ahlebait TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ahlebait TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Ahlulbayt TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ahlulbayt TV.png</File>
     </Channel>
     <Channel>
       <Item Name="AIT Int'l">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>AIT International.png</File>
     </Channel>
     <Channel>
       <Item Name="Akaal Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Akaal Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Al Jazeera Arabic">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Al Jazeera Arabic.png</File>
     </Channel>
     <Channel>
       <Item Name="Al Jazeera Eng">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Al Jazeera English.png</File>
     </Channel>
     <Channel>
       <Item Name="Al Jazeera Eng HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Al Jazeera English HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Alexcasino">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Alexander Casino.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Alibi.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Alibi +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Alibi HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Animal Planet">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Animal Planet.png</File>
     </Channel>
     <Channel>
       <Item Name="Animal Plnt+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Animal Planet +1.png</File>
     </Channel>
     <Channel>
       <Item Name="AnimalPlnt HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Animal Planet HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Arise News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Arise News.png</File>
     </Channel>
     <Channel>
       <Item Name="ARY Ent">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ARY Digital.png</File>
     </Channel>
     <Channel>
       <Item Name="ARY QTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ARY QTV.png</File>
     </Channel>
     <Channel>
       <Item Name="ARY World">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ARY World.png</File>
     </Channel>
     <Channel>
       <Item Name="At The Races">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>At The Races.png</File>
     </Channel>
     <Channel>
       <Item Name="ATN Bangla UK">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ATN Bangla UK.png</File>
     </Channel>
     <Channel>
       <Item Name="B4U Movies">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>B4U Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="B4U Music">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>B4U Music.png</File>
     </Channel>
     <Channel>
       <Item Name="Babestation">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="ADULT Babestn2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Babestation.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Babestn">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Babestation BSX.png</File>
     </Channel>
     <Channel>
       <Item Name="BabyTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Bangla TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Bangla TV.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One N Ireland">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One NI">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC One Northern Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 NI HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One NI HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC One Northern Ireland HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One Scot">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One Scotland">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC One Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 Scot HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One ScotHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC One Scotland HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One Wales">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC One Wales.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 1 Wales HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One Wal HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One Wales HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC One Wales HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC Two Eng">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Two.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two N Ireland">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC Two NI">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Two Northern Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two Scot">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Two Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two Wales">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Two Wales.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Alba">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Alba.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Four">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Four.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Four HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Four HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC News">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC News.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC News HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC News HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One CI">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One E Mid">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One East E">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One East W">
-        <Satellite />
-      </Item>
-      <Item Name="BBC One  Lon">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One Lon">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One NE&amp;C">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One N West">
-        <Satellite />
-      </Item>
-      <Item Name="BBC One NWest">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One Oxf">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One Oxford">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One S East">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One SEast">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One South">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One S West">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One SWest">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One W Mid">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One West">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One Yk&amp;Li">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC One Yorks">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC One.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC One HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Parliament">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Parliament.png</File>
     </Channel>
     <Channel>
-      <Item Name="303">
-        <Satellite />
-      </Item>
       <Item Name="BBC Red Button">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Red Button.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC RB 301">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Red Button One.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC RB 302">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Red Button Two.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB 3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Three.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB 4">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Four.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB 5">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Five.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Three.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Three HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Two HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Believe TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Believe TV.png</File>
     </Channel>
     <Channel>
       <Item Name="BEN">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BEN.png</File>
     </Channel>
     <Channel>
       <Item Name="Best Direct">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Best Direct.png</File>
     </Channel>
     <Channel>
       <Item Name="BET:BlackEntTv">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BET.png</File>
     </Channel>
     <Channel>
       <Item Name="BET +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BET +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Bliss">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Bliss.png</File>
     </Channel>
     <Channel>
       <Item Name="Blissmas">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Blissmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Bloomberg">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Bloomberg.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Blue">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Blue Kiss TV.png</File>
     </Channel>
     <Channel>
       <Item Name="BON TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BON TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Boomerang">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Boomerang.png</File>
     </Channel>
     <Channel>
       <Item Name="Boomerang +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Boomerang +1.png</File>
     </Channel>
     <Channel>
       <Item Name="BoxNation">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BoxNation.png</File>
     </Channel>
     <Channel>
       <Item Name="BoxNation HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BoxNation HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Brit Asia TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Brit Asia TV.png</File>
     </Channel>
     <Channel>
       <Item Name="British Muslim">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>British Muslim.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 1.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 1 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 2">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 2.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 2 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Capital TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoon Netwrk">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cartoon Network.png</File>
     </Channel>
     <Channel>
       <Item Name="CN+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cartoon Network +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoon Net HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cartoon Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoonito">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cartoonito.png</File>
     </Channel>
     <Channel>
       <Item Name="CBBC">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="CBBC Channel">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>CBBC.png</File>
     </Channel>
     <Channel>
       <Item Name="CBBC HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBBC HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CBeebies">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBeebies.png</File>
     </Channel>
     <Channel>
       <Item Name="CBeebies HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBeebies HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Action">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBS Action.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Drama">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBS Drama.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Reality">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBS Reality.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Reality+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CBS Reality +1.png</File>
     </Channel>
     <Channel>
       <Item Name="CCTV News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CCTV News.png</File>
     </Channel>
     <Channel>
       <Item Name="Challenge">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Challenge TV FSAT">
-        <Satellite />
+        <Provider>Freesat</Provider>
       </Item>
       <File>Challenge.png</File>
     </Channel>
     <Channel>
       <Item Name="Challenge+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Challenge +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 4.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4 +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Channel 4+1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Channel 4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4+1 HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Channel 4 +1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4 HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5+1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5+24">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5 +24.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel AKA">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel AKA.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel i">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel i.png</File>
     </Channel>
     <Channel>
       <Item Name="Chart Show">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Chart Show TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Chart Show TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Chartshw Dnce">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Chartshow Dance.png</File>
     </Channel>
     <Channel>
       <Item Name="Chat Box">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Chat Box.png</File>
     </Channel>
     <Channel>
       <Item Name="Cheeky Chat">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cheeky Chat.png</File>
     </Channel>
     <Channel>
       <Item Name="Chelsea TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Chelsea TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Christmas 24">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Christmas 24.png</File>
     </Channel>
     <Channel>
       <Item Name="Christmas 24+">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Christmas 24+.png</File>
     </Channel>
     <Channel>
       <Item Name="CHSTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CHSTV.png</File>
     </Channel>
     <Channel>
       <Item Name="CI">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CI.png</File>
     </Channel>
     <Channel>
       <Item Name="CI +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CI +1.png</File>
     </Channel>
     <Channel>
       <Item Name="CI HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CI HD.png</File>
     </Channel>
     <Channel>
       <Item Name="CITV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CITV.png</File>
     </Channel>
     <Channel>
       <Item Name="Climax">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Climax.png</File>
     </Channel>
     <Channel>
       <Item Name="Clubland TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Clubland TV.png</File>
     </Channel>
     <Channel>
       <Item Name="CNBC">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CNBC.png</File>
     </Channel>
     <Channel>
       <Item Name="CNC World">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CNC World.png</File>
     </Channel>
     <Channel>
       <Item Name="CNN">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CNN.png</File>
     </Channel>
     <Channel>
       <Item Name="Colors">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Colors.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyCentral">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyCent+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyCentHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyXtra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="ComedyXtra+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central Extra +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Community">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Community.png</File>
     </Channel>
     <Channel>
       <Item Name="Community HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Community HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Craft Extra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Craft Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="Create &amp; Craft">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Create and Craft.png</File>
     </Channel>
     <Channel>
       <Item Name="Cruzr TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cruzr TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Dating Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Dating Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Dave.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave ja vu">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Dave ja vu.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Dave HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Daystar">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Daystar.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.History">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery History.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.History+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery History +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Science">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Science.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Sci+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Science +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Turbo">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Turbo.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery Shed">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Shed.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Chnl">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Chnl+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Channel +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Chnl HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Channel HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Junior">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Junior.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Junior+">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Junior+.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney Jnr HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Junior HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney XD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney XD+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney XD +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Disney XD HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney XD HD.png</File>
     </Channel>
     <Channel>
       <Item Name="DM Plus TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>DM Plus TV.png</File>
     </Channel>
     <Channel>
       <Item Name="DMAX">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>DMAX.png</File>
     </Channel>
     <Channel>
       <Item Name="DMAX+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>DMAX +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Drama">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Drama.png</File>
     </Channel>
     <Channel>
       <Item Name="E!">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>E!.png</File>
     </Channel>
     <Channel>
       <Item Name="E! +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>E! +1.png</File>
     </Channel>
     <Channel>
       <Item Name="E! HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>E! HD.png</File>
     </Channel>
     <Channel>
       <Item Name="E4">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>E4.png</File>
     </Channel>
     <Channel>
       <Item Name="E4+1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>E4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="E4 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>E4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Eden">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Eden.png</File>
     </Channel>
     <Channel>
       <Item Name="Eden+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Eden +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Eden HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Eden HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ElectricBlue">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Electric Blue.png</File>
     </Channel>
     <Channel>
       <Item Name="eNCA Africa">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>eNCA Africa.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ESPN.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ESPN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Estuary TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Estuary TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Euronews">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Euronews.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>British Eurosport.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>British Eurosport HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>British Eurosport 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Eurosport 2 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>British Eurosport 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN Catholic">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>EWTN.png</File>
     </Channel>
     <Channel>
       <Item Name="ExGirlfriends">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ExGirlfriends.png</File>
     </Channel>
     <Channel>
       <Item Name="Extreme Sports">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Extreme Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="FAB TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>FAB TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Faith World TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Fantasy">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Fantasy.png</File>
     </Channel>
     <Channel>
       <Item Name="Film4">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Film4.png</File>
     </Channel>
     <Channel>
       <Item Name="Film4 +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Film4+1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Film4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Film4 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Film4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="FilmOn.TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>FilmOn.TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Fire Hit TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Fire Hit TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Flava">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Flava.png</File>
     </Channel>
     <Channel>
       <Item Name="Flirt TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Flirt TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Flow TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Flow TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Food Network">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Food Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Food Netwrk+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Food Network +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Forces TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Forces TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Fox.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox+">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Fox+.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Fox HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Fox News.png</File>
     </Channel>
     <Channel>
       <Item Name="France Eng">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>France 24.png</File>
     </Channel>
     <Channel>
       <Item Name="Gay Network">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gay Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Gems TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gems TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Girl Next Door">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Girl Next Door.png</File>
     </Channel>
     <Channel>
       <Item Name="GEO News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>GEO News.png</File>
     </Channel>
     <Channel>
       <Item Name="GEO Tez">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>GEO Tez.png</File>
     </Channel>
     <Channel>
       <Item Name="GEO UK">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>GEO UK.png</File>
     </Channel>
     <Channel>
       <Item Name="Get Lucky TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Get Lucky TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Glory TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Glory TV.png</File>
     </Channel>
     <Channel>
       <Item Name="God Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>God Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gold +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Good Food.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Good Food +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Good Food HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Gospel Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gospel Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="H2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>H2.png</File>
     </Channel>
     <Channel>
       <Item Name="Heart TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heart TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Heat">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heat.png</File>
     </Channel>
     <Channel>
       <Item Name="Hidayat TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Hidayat TV.png</File>
     </Channel>
     <Channel>
       <Item Name="High Street TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="High Street Xtra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>High Street TV.png</File>
     </Channel>
     <Channel>
       <Item Name="History">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>History.png</File>
     </Channel>
     <Channel>
       <Item Name="History +1 hour">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>History +1.png</File>
     </Channel>
     <Channel>
       <Item Name="History HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>History HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Holiday+Cruise">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Holiday+Cruise.png</File>
     </Channel>
     <Channel>
       <Item Name="Home &amp; Health">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Home and Health.png</File>
     </Channel>
     <Channel>
       <Item Name="Home&amp;Health+">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Home and Health+.png</File>
     </Channel>
     <Channel>
       <Item Name="Home">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Home.png</File>
     </Channel>
     <Channel>
       <Item Name="Home+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Home +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Horror Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Horror Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="horror ch+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Horror Channel +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Horse &amp; Country">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Horse and Country.png</File>
     </Channel>
     <Channel>
       <Item Name="Hum Europe">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Hum Europe.png</File>
     </Channel>
     <Channel>
       <Item Name="ID">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ID.png</File>
     </Channel>
     <Channel>
       <Item Name="ID+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ID +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Ideal Extra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ideal Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="Ideal World">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ideal World.png</File>
     </Channel>
     <Channel>
       <Item Name="Information TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Information TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Info TV +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Info TV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Iqra Bangla">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Iqra TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Iqra TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Islam Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Islam Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV +1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Border">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Border.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Encore">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Encore.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Encore+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Encore +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Encore HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Encore HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Wales">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Wales.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV2">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV2.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV2+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="ITV2 +1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>ITV2 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV2 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV3">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV3.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV3+1">
-        <Satellite />
-      </Item>
-      <Item Name="ITV3 +1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV3 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV3 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV3 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV4">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV4.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV4+1">
-        <Satellite />
-      </Item>
-      <Item Name="ITV4 +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>ITV4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV4 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Jewellery Ch.">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Jewellery Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Jewellery Maker">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Jewelry Maker">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Jewelry Maker.png</File>
     </Channel>
     <Channel>
       <Item Name="JML Direct">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>JML Direct.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang!">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kerrang!.png</File>
     </Channel>
     <Channel>
       <Item Name="KICC TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>KICC TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Kiss">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kiss.png</File>
     </Channel>
     <Channel>
       <Item Name="Kix">		
-        <Satellite />		
+        <Provider>Sky (UK)</Provider>		
       </Item>		
       <File>Kix.png</File>		
     </Channel>
     <Channel>
       <Item Name="Lifetime">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Lifetime.png</File>
     </Channel>
     <Channel>
       <Item Name="Lifetime+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Lifetime +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Lifetime HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Lifetime HD.png</File>
     </Channel>
     <Channel>
       <Item Name="LiverpoolFCTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>LFC TV.png</File>
     </Channel>
     <Channel>
       <Item Name="London Live">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>London Live.png</File>
     </Channel>
     <Channel>
       <Item Name="LoveWorld TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>LoveWorld TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Lucky Star">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Lucky Star.png</File>
     </Channel>
     <Channel>
       <Item Name="Lamhe">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Lamhe.png</File>
     </Channel>
     <Channel>
       <Item Name="Madani Chnl">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Madani Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Magic.png</File>
     </Channel>
     <Channel>
       <Item Name="MATV National">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MATV National.png</File>
     </Channel>
     <Channel>
       <Item Name="More>Movies">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>More_Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="M>Movies+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>More_Movies +1.png</File>
     </Channel>
     <Channel>
       <Item Name="More4">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="More 4">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>More4.png</File>
     </Channel>
     <Channel>
       <Item Name="More4 +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>More4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="More4 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>More4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Motors TV UK">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Motors TV UK.png</File>
     </Channel>
     <Channel>
       <Item Name="Movie Mix">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Movie Mix.png</File>
     </Channel>
     <Channel>
       <Item Name="Movies 24">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Movies 24.png</File>
     </Channel>
     <Channel>
       <Item Name="Movies 24+">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Movies 24+.png</File>
     </Channel>
     <Channel>
       <Item Name="Movies4Men">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Movies4Men.png</File>
     </Channel>
     <Channel>
       <Item Name="Mov4Men+1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Movies4Men +1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTA-Muslim TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTA-Muslim TV.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Base">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Base.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Classic">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Classic.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Dance">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Dance.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Hits">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Hits.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Live">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Live.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Live HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Live HD.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Music">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Music.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Rocks">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Rocks.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Xmas">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Xmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Mustard TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Mustard TV.png</File>
     </Channel>
     <Channel>
       <Item Name="MUTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MUTV.png</File>
     </Channel>
     <Channel>
       <Item Name="MUTV HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>MUTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="My Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>My Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nat Geo.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo+1hr">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nat Geo +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nat Geo HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo Wild">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nat Geo Wild.png</File>
     </Channel>
     <Channel>
       <Item Name="NatGeoWild HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nat Geo Wild HD.png</File>
     </Channel>
     <Channel>
       <Item Name="NDTV 24x7">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>NDTV 24x7.png</File>
     </Channel>
     <Channel>
       <Item Name="News 18 India">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>News 18 India.png</File>
     </Channel>
     <Channel>
       <Item Name="NHK World HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>NHK World HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr.">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Nick Jr">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nick Jr..png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nick Jr +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr. 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nick Jr. 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr Peppa">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nick Jr Peppa.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr Xmas">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nick Jr Xmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Nickelodeon">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
       <Item Name="Nickelodeon+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nickelodeon +1.png</File>
     </Channel>
     <Channel>
       <Item Name="NickelodeonHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nickelodeon HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nicktoons">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nicktoons.png</File>
     </Channel>
     <Channel>
       <Item Name="Nollywood">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nollywood Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="Noor TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Noor TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Notts TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Notts TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Now Christmas">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Now Christmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Now Music">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Now Music.png</File>
     </Channel>
     <Channel>
       <Item Name="NTV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>NTV.png</File>
     </Channel>
     <Channel>
       <Item Name="OH TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>OH TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Olive TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Olive TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Party">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Partyland.png</File>
     </Channel>
     <Channel>
       <Item Name="Paversshoes.tv">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Paversshoes.tv.png</File>
     </Channel>
     <Channel>
       <Item Name="PBS America">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>PBS America.png</File>
     </Channel>
     <Channel>
       <Item Name="PCNE Chinese">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>PCNE Chinese.png</File>
     </Channel>
     <Channel>
       <Item Name="Peace TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Peace TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Peace TV Urdu">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Peace TV Urdu.png</File>
     </Channel>
     <Channel>
       <Item Name="Pick">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Pick FSAT">
-        <Satellite />
+        <Provider>Freesat</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pick.png</File>
     </Channel>
     <Channel>
       <Item Name="Pick+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pick +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Planet Pop">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Planet Pop.png</File>
     </Channel>
     <Channel>
       <Item Name="Play TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Play TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Playboy Lovers">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Playboy Lovers.png</File>
     </Channel>
     <Channel>
       <Item Name="Playboy TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Playboy TV.png</File>
     </Channel>
     <Channel>
       <Item Name="PlayboyTV Chat">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Adult Playboy TV Chat">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Playboy TV Chat.png</File>
     </Channel>
     <Channel>
       <Item Name="Pop">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pop.png</File>
     </Channel>
     <Channel>
       <Item Name="Pop+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Pop +1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Pop +1.png</File>
     </Channel>
     <Channel>
       <Item Name="PopGirl">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>PopGirl.png</File>
     </Channel>
     <Channel>
       <Item Name="Premier Sports">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Premier Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="Propeller">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Propeller.png</File>
     </Channel>
     <Channel>
       <Item Name="Psychic Today">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Psychic Today.png</File>
     </Channel>
     <Channel>
       <Item Name="PTC Punjabi">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>PTC Punjabi.png</File>
     </Channel>
     <Channel>
       <Item Name="PTV Global">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>PTV Global.png</File>
     </Channel>
     <Channel>
       <Item Name="PTV Prime">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>PTV Prime.png</File>
     </Channel>
     <Channel>
       <Item Name="Pub Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pub Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Quest">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Quest.png</File>
     </Channel>
     <Channel>
       <Item Name="Quest+1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Quest +1.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC Beauty">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Beauty.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC Extra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC Style">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Style.png</File>
     </Channel>
     <Channel>
       <Item Name="Racing UK">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Racing UK.png</File>
     </Channel>
     <Channel>
       <Item Name="Really">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Really.png</File>
     </Channel>
     <Channel>
       <Item Name="Reality TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Reality TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Record TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Record TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Red Light 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Red Light 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Red Light 3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Red Light 1.png</File>
     </Channel>
     <Channel>
       <Item Name="RedHot 18s">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RedHot 18s.png</File>
     </Channel>
     <Channel>
       <Item Name="RedHot Amateur">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RedHot Amateur.png</File>
     </Channel>
     <Channel>
       <Item Name="RedHot Mums">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RedHot Mums.png</File>
     </Channel>
     <Channel>
       <Item Name="Retail TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Retail TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Revelation">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Revelation.png</File>
     </Channel>
     <Channel>
       <Item Name="Rishtey">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Rishtey.png</File>
     </Channel>
     <Channel>
       <Item Name="Rocks &amp; Co 1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Rocks and Co 1.png</File>
     </Channel>
     <Channel>
       <Item Name="RT">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RT.png</File>
     </Channel>
     <Channel>
       <Item Name="RT HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RT HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE News Now">
-        <Satellite />
-      </Item>
       <Item Name="RTÉ News Now">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE News Now.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE ONE">
-        <Satellite />
+      <Item Name="RTE One">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RTE ONE.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE ONE +1">
-        <Satellite />
+      <Item Name="RTE One +1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ One +1">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE ONE +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE ONE HD">
-        <Satellite />
-      </Item>
-      <Item Name="RTÉ ONE">
-        <Satellite />
+      <Item Name="RTÉ One">
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE ONE HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE TWO">
-        <Satellite />
+      <Item Name="RTE Two">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>RTE TWO.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE TWO HD">
-        <Satellite />
+      <Item Name="RTE Two HD">
+        <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ TWO">
-        <Satellite />
+      <Item Name="RTÉ Two">
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE TWO HD.png</File>
     </Channel>
     <Channel>
       <Item Name="RTEJR">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Junior">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Junior.png</File>
     </Channel>
     <Channel>
       <Item Name="S4C">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>S4C.png</File>
     </Channel>
     <Channel>
       <Item Name="Safeer TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Safeer TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Samaa">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Samaa.png</File>
     </Channel>
     <Channel>
       <Item Name="Sangat">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sangat.png</File>
     </Channel>
     <Channel>
       <Item Name="Scuzz">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Scuzz.png</File>
     </Channel>
     <Channel>
       <Item Name="Setanta Ireland">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Setanta Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="Setanta Sports1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Setanta Sports 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase 2 +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase 2 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase 3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase 3.png</File>
     </Channel>
     <Channel>
       <Item Name="Sikh Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sikh Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="HD Retail Info">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Intro">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky 3D">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky 3D.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Action.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Action HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Arts 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 1 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Arts 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Arts 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 2 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Arts 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts Rieu">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Arts Rieu.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts Rieu HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Arts Rieu HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Atlantic">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Atlantic ">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Atlantic.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Atlantic+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Atlantic +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Atlantic HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Atlantic HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Box Office">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Box Office.png</File>
     </Channel>
     <Channel>
       <Item Name="SBO HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Box Office HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Christmas">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Christmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ChristmsHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Christmas HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Comedy">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Comedy.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Comedy HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Comedy HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Disney">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Disney.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Disney HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Disney HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky DramaRom">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Drama and Romance.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky DraRomHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Drama and Romance HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Family">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Family.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Family HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Family HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Greats">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Greats.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Greats HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Greats HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Insider HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Insider HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Living.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Living +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Living HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Livingit">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Livingit.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Livingit+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Livingit +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky News.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky News HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Oscars">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Oscars.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Oscars HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Oscars HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Premiere">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Premiere.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Prem+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Premiere +1.png</File>
     </Channel>
     <Channel>
       <Item Name="SkyPremiereHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Premiere HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ScFi/Horror">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Sci-fi and Horror.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ScFi/HorHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Sci-fi and Horror HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Select">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Select.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Select HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Select HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Showcase">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ShowcseHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 1 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 2 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 3.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 3 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 3 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 4">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 4.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 4 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 5">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 5.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 5 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports 5 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sports Active">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Active.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Spts Ashes">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Ashes.png</File>
     </Channel>
     <Channel>
       <Item Name="SkySp AshesHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Ashes HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports F1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports F1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Spts F1 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports F1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Spts News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports News.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sp NewsHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports News HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Summer">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Summer.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Summer HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Summer HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Superhero">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Superhero.png</File>
     </Channel>
     <Channel>
       <Item Name="SkySuperheroHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Superhero HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Thriller">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Thriller.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Thriller HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Thriller HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Valentine">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Valentine.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ValentneHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Valentne HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky1 ">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky1 +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky1 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky1 HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky2.png</File>
     </Channel>
     <Channel>
       <Item Name="SkyNws Arabia">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky News Arabia.png</File>
     </Channel>
     <Channel>
       <Item Name="SkyPoker.com">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>SkyPoker.com.png</File>
     </Channel>
     <Channel>
       <Item Name="SmartLive">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Smart Live Casino.png</File>
     </Channel>
     <Channel>
       <Item Name="Smash Hits!">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Smash Hits!.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult smileTV2">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>SmileTV2.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult smileTV3">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>SmileTV3.png</File>
     </Channel>
     <Channel>
       <Item Name="Sonlife">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sonlife.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Max">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony Max.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Movies">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Movies+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony Movies +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Sab">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony Sab.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony TV +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony TV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony TV Asia">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony TV Asia.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Gold">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Star Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Jalsha">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Star Jalsha.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Life Ok">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Star Life Ok.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Star Plus.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Star Plus HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Starz TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Starz TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Storm">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Storm.png</File>
     </Channel>
     <Channel>
       <Item Name="Studio 66 TV 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Studio 66 TV 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Studio 66 TV 3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Studio 66 TV 1.png</File>
     </Channel>
     <Channel>
       <Item Name="STV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>STV.png</File>
     </Channel>
     <Channel>
       <Item Name="STV +1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>STV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="STV Glasgow">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>STV Glasgow.png</File>
     </Channel>
     <Channel>
       <Item Name="STV HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>STV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="SuperCasino">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>SuperCasino.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Syfy.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Syfy +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Syfy HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Takbeer TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Takbeer TV.png</File>
     </Channel>
     <Channel>
       <Item Name="TBN Europe">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TBN Europe.png</File>
     </Channel>
     <Channel>
       <Item Name="TCM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="TCM Western">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TCM.png</File>
     </Channel>
     <Channel>
       <Item Name="TCM+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="TCMWestern+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TCM +1.png</File>
     </Channel>
     <Channel>
       <Item Name="TCM HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="TCMWesternHD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TCM HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Television X">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Television X.png</File>
     </Channel>
     <Channel>
       <Item Name="TG4">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Saorview</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TG4.png</File>
     </Channel>
     <Channel>
       <Item Name="Thane">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Thane.png</File>
     </Channel>
     <Channel>
       <Item Name="The Active Ch">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Active Ch.png</File>
     </Channel>
     <Channel>
       <Item Name="The Boutique">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Boutique.png</File>
     </Channel>
     <Channel>
       <Item Name="The Box">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Box.png</File>
     </Channel>
     <Channel>
       <Item Name="The Dept Store">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Dept Store.png</File>
     </Channel>
     <Channel>
       <Item Name="The Mall">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Mall.png</File>
     </Channel>
     <Channel>
       <Item Name="The Store">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Store.png</File>
     </Channel>
     <Channel>
       <Item Name="The Vault">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Vault.png</File>
     </Channel>
     <Channel>
       <Item Name="Tiny Pop">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Tiny Pop.png</File>
     </Channel>
     <Channel>
       <Item Name="Tiny Pop +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Tiny Pop +1.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TLC.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TLC +1.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC+2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TLC +2.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TLC HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Travel Channel">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Travel Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Travel Ch +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Travel Channel +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Tristar">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Tristar.png</File>
     </Channel>
     <Channel>
       <Item Name="True Christmas">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Christmas.png</File>
     </Channel>
     <Channel>
       <Item Name="True Drama">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Drama.png</File>
     </Channel>
     <Channel>
       <Item Name="True Ent">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="True Entertainment">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>True Entertainment.png</File>
     </Channel>
     <Channel>
       <Item Name="True Ent+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Entertainment +1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Movies 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Movies 1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Movies 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Movies 2.png</File>
     </Channel>
     <Channel>
       <Item Name="True Murder">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Murder.png</File>
     </Channel>
     <Channel>
       <Item Name="TruTV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>TruTV.png</File>
     </Channel>
     <Channel>
       <Item Name="TV 99">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV 99.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Shop">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Shop.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Warehouse">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Warehouse.png</File>
     </Channel>
     <Channel>
       <Item Name="TV3">
-        <Satellite />
+        <Provider>Saorview</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV3.png</File>
     </Channel>
     <Channel>
       <Item Name="TV5">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV5Monde.png</File>
     </Channel>
     <Channel>
       <Item Name="TVC News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News.png</File>
     </Channel>
     <Channel>
       <Item Name="TVX Brits">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVX Brits.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Ummah TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ummah TV.png</File>
     </Channel>
     <Channel>
       <Item Name="UMP Movies">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UMP Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Universal.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Universal +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Universal HD.png</File>
     </Channel>
     <Channel>
       <Item Name="UTV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UTV.png</File>
     </Channel>
     <Channel>
       <Item Name="UTV +1">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>UTV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="UTV HD">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="V Channel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>V Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Venus TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Venus TV.png</File>
     </Channel>
     <Channel>
       <Item Name="VH1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>VH1.png</File>
     </Channel>
     <Channel>
       <Item Name="Viewers' Wives">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Viewers' Wives.png</File>
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Vintage TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Viva">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Viva.png</File>
     </Channel>
     <Channel>
       <Item Name="Vox Africa">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Vox Africa.png</File>
     </Channel>
     <Channel>
       <Item Name="Watch">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Watch.png</File>
     </Channel>
     <Channel>
       <Item Name="Watch +1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Watch +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Watch HD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Watch HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Word Network">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Word Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Xplicit Nightly">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Xplicit Nightly.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX 18 &amp; Dirty">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Brits.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Mums">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Mums.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Xpanded TV">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="Xpanded TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Xpanded TV 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Xpanded TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
-        <Satellite />
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Yesterday.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday+1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Yesterday +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee Cinema">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Zee Cinema.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Zee News.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee Punjabi">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Zee Punjabi.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee TV">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Zee TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Zing">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Zing.png</File>
     </Channel>
@@ -3685,511 +3761,514 @@
   <Radio>
     <Channel>
       <Item Name="Absolute">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Absolute Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Abs Rad 90s">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
       <Item Name="Absolute CR">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Classic Rock.png</File>
     </Channel>
     <Channel>
       <Item Name="Absolute80s">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute 80s.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC London">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC London.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 6 Music">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 6 Music.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Asian">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Asian Net.">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Asian Network.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Cymru">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Cymru.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Foyle">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Foyle.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R n Gael">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio nan Gaidheal.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Scot.">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Ulster">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Ulster.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Wales">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Wales.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 1.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R1X">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 1Xtra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 2">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 2.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 3">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 3.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R4 Ex">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 4 Ex">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 4 Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R4 FM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC R4 LW">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 4">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 4.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5L">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 5 Live.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5SX">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 5 Live Sports Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC WM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC WM.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC WS">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC World Sv.">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC World Service.png</File>
     </Channel>
     <Channel>
       <Item Name="BFBS Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BFBS Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital FM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Capital FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital Xtra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Capital Xtra.png</File>
     </Channel>
     <Channel>
       <Item Name="Chl Line-up">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky.png</File>
     </Channel>
     <Channel>
       <Item Name="Classic FM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Classic FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Desi Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Desi Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Diamond RD">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Diamond Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>EWTN.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="Heart">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Heart TV">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Heart.png</File>
     </Channel>
     <Channel>
       <Item Name="Heat">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heat.png</File>
     </Channel>
     <Channel>
       <Item Name="InsightRadio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Insight Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Insight Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Jazz FM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Jazz FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Kanshi Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kanshi Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang!">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kerrang!.png</File>
     </Channel>
     <Channel>
       <Item Name="Khushkhabri">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Khushkhabri.png</File>
     </Channel>
     <Channel>
       <Item Name="Kiss">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kiss.png</File>
     </Channel>
     <Channel>
       <Item Name="Kiss Fresh">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kiss Fresh.png</File>
     </Channel>
     <Channel>
       <Item Name="Kisstory">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kisstory.png</File>
     </Channel>
     <Channel>
       <Item Name="LBC">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>LBC Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="LBC News">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>LBC News 1152.png</File>
     </Channel>
     <Channel>
       <Item Name="Liberty">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Liberty Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Magic.png</File>
     </Channel>
     <Channel>
       <Item Name="Newstalk">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Newstalk.png</File>
     </Channel>
     <Channel>
       <Item Name="Panjab Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Panjab Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Planet Rock">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Planet Rock.png</File>
     </Channel>
     <Channel>
       <Item Name="Premier Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Premier Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Rainbow">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Rainbow Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE 2FM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ 2FM">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE 2FM.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ 2XM">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE 2XM.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ Chill">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Chill.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Gold">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Gold">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ Junior">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Junior.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Lyric fm">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Lyric">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Lyric fm.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Pulse">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Pulse">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Pulse.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE R na G">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Raidió na Gaeltachta">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Raidio na Gaeltachta.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Radio 1">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Radio 1">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Radio 1.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Radio 1 Extra">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Radio 1 Extra">
-        <Satellite />
+        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Radio 1 Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="Smooth">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Smooth Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Smooth Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Solar Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Solar Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Sukh Sagar">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sukh Sagar Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Talksport">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Talksport.png</File>
     </Channel>
     <Channel>
       <Item Name="The Arrow">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Arrow.png</File>
     </Channel>
     <Channel>
       <Item Name="The Hits Radio">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Hits Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="TWR">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Trans World Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="U105">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>U105.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB Bible">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB Bible.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB Gospel">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB Gospel.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB Insp">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB Insp.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB Ireland">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB UK">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB UK.png</File>
     </Channel>
     <Channel>
       <Item Name="WRN Europe">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>WRN Europe.png</File>
     </Channel>
     <Channel>
       <Item Name="XFM">
-        <Satellite />
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>XFM.png</File>
     </Channel>
