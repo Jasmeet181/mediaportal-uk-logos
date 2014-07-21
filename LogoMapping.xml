@@ -1531,6 +1531,7 @@
     </Channel>
     <Channel>
       <Item Name="Heart TV">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heart TV.png</File>
@@ -3764,7 +3765,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Absolute Radio">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Absolute Radio.png</File>
     </Channel>
@@ -3788,12 +3789,14 @@
     </Channel>
     <Channel>
       <Item Name="BBC London">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC London.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC 6 Music">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 6 Music.png</File>
@@ -3803,42 +3806,48 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Asian Net.">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Asian Network.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Cymru">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Cymru.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Foyle">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Foyle.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R n Gael">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio nan Gaidheal.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Scot.">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Ulster">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Ulster.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Wales">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio Wales.png</File>
@@ -3848,12 +3857,13 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 1">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Radio 1.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R1X">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 1Xtra.png</File>
@@ -3863,7 +3873,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 2">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Radio 2.png</File>
     </Channel>
@@ -3872,7 +3882,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 3">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Radio 3.png</File>
     </Channel>
@@ -3881,7 +3891,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 4 Ex">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Radio 4 Extra.png</File>
     </Channel>
@@ -3893,25 +3903,27 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Radio 4">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Radio 4.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5L">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 5 Live.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5SX">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Radio 5 Live Sports Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC WM">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC WM.png</File>
     </Channel>
@@ -3920,7 +3932,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC World Sv.">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC World Service.png</File>
     </Channel>
@@ -3932,6 +3944,7 @@
     </Channel>
     <Channel>
       <Item Name="Capital FM">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Capital FM.png</File>
@@ -3980,16 +3993,14 @@
     </Channel>
     <Channel>
       <Item Name="Heart">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Heart TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heart.png</File>
     </Channel>
     <Channel>
       <Item Name="Heat">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Heat.png</File>
     </Channel>
@@ -3998,7 +4009,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Insight Radio">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Insight Radio.png</File>
     </Channel>
@@ -4016,7 +4027,7 @@
     </Channel>
     <Channel>
       <Item Name="Kerrang!">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Kerrang!.png</File>
     </Channel>
@@ -4028,18 +4039,20 @@
     </Channel>
     <Channel>
       <Item Name="Kiss">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kiss.png</File>
     </Channel>
     <Channel>
       <Item Name="Kiss Fresh">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Kiss Fresh.png</File>
     </Channel>
     <Channel>
       <Item Name="Kisstory">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Kisstory.png</File>
@@ -4064,6 +4077,7 @@
     </Channel>
     <Channel>
       <Item Name="Magic">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Magic.png</File>
@@ -4088,7 +4102,7 @@
     </Channel>
     <Channel>
       <Item Name="Premier Radio">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Premier Radio.png</File>
     </Channel>
@@ -4157,6 +4171,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Raidió na Gaeltachta">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Saorview</Provider>
       </Item>
       <File>RTE Raidio na Gaeltachta.png</File>
@@ -4184,7 +4199,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Smooth Radio">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Smooth Radio.png</File>
     </Channel>
@@ -4202,6 +4217,7 @@
     </Channel>
     <Channel>
       <Item Name="Talksport">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Talksport.png</File>
@@ -4214,7 +4230,7 @@
     </Channel>
     <Channel>
       <Item Name="The Hits Radio">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>The Hits Radio.png</File>
     </Channel>
@@ -4226,7 +4242,7 @@
     </Channel>
     <Channel>
       <Item Name="U105">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>U105.png</File>
     </Channel>
