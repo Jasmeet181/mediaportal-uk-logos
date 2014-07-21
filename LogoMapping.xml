@@ -2527,8 +2527,10 @@
     </Channel>
     <Channel>
       <Item Name="RTE One">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="RTÉ One">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>RTE ONE.png</File>
     </Channel>
@@ -2549,8 +2551,10 @@
     </Channel>
     <Channel>
       <Item Name="RTE Two">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="RTÉ Two">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>RTE TWO.png</File>
     </Channel>
@@ -4171,8 +4175,10 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="RTÉ Raidió na Gaeltachta">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Saorview</Provider>
+      </Item>
+      <Item Name="RTÉ RnaG">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>RTE Raidio na Gaeltachta.png</File>
     </Channel>
