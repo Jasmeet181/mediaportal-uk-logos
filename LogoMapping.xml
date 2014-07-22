@@ -488,6 +488,12 @@
       <File>BBC Red Button HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC RB 0">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BBC Red Button Zero.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC RB 1">
         <Provider>Sky (UK)</Provider>
       </Item>
