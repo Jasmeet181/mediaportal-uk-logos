@@ -9,9 +9,6 @@
       <File>_TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="21stCent Bliss">
-        <Provider>Freesat</Provider>
-      </Item>
       <Item Name="21stCentBliss">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1254,6 +1251,12 @@
       <File>eNCA Africa.png</File>
     </Channel>
     <Channel>
+      <Item Name="EqualWorld">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Equal World.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ESPN">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1671,6 +1674,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Info TV +1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Inspiration">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Inspiration TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Iqra Bangla">
