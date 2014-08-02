@@ -1823,7 +1823,13 @@
       <File>Jewelry Maker.png</File>
     </Channel>
     <Channel>
+      <Item Name="Home Store">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="JML Direct">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="JML Store">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>JML Direct.png</File>
@@ -2062,6 +2068,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Rocks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Summer">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MTV Summer.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Xmas">
@@ -3389,12 +3401,6 @@
       <File>The Active Ch.png</File>
     </Channel>
     <Channel>
-      <Item Name="The Boutique">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>The Boutique.png</File>
-    </Channel>
-    <Channel>
       <Item Name="The Box">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3413,9 +3419,6 @@
       <File>The Mall.png</File>
     </Channel>
     <Channel>
-      <Item Name="JML Store">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="The Store">
         <Provider>Freeview (UK)</Provider>
       </Item>
