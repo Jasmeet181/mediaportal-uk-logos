@@ -1019,12 +1019,6 @@
       <File>Cruzr TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Dating Channel">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Dating Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Dave">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3335,6 +3329,12 @@
       <File>TBN Europe.png</File>
     </Channel>
     <Channel>
+      <Item Name="TBN UK">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>TBN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TCM">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3413,9 +3413,11 @@
       <File>The Mall.png</File>
     </Channel>
     <Channel>
+      <Item Name="JML Store">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="The Store">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Store.png</File>
     </Channel>
