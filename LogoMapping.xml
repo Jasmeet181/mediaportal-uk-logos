@@ -1679,6 +1679,9 @@
       <Item Name="Iqra Bangla">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <File>Iqra Bangla.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Iqra TV">
         <Provider>Sky (UK)</Provider>
       </Item>
