@@ -1329,12 +1329,6 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fantasy">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Fantasy.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Film4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -1667,7 +1661,7 @@
       <Item Name="Info TV +1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Info TV +1.png</File>
+      <File>Infoformation TV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Inspiration">
@@ -2666,12 +2660,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase 2 +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Showcase 3">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Showcase 3.png</File>
     </Channel>
     <Channel>
       <Item Name="Sikh Channel">
