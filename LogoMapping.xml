@@ -237,17 +237,23 @@
       <File>B4U Music.png</File>
     </Channel>
     <Channel>
+      <Item Name="Babes From TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Babes From TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Babestation">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="ADULT Babestn2">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Babestation.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Babestn">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Babestation BSX.png</File>
     </Channel>
@@ -597,7 +603,7 @@
     </Channel>
     <Channel>
       <Item Name="Adult Blue">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Blue Kiss TV.png</File>
     </Channel>
