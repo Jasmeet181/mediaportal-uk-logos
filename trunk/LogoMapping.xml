@@ -195,22 +195,22 @@
       <File>Arise News.png</File>
     </Channel>
     <Channel>
-      <Item Name="ARY Ent">
+      <Item Name="ARY Digital">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>ARY Digital.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="ARY News">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ARY News.png</File>
     </Channel>
     <Channel>
       <Item Name="ARY QTV">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>ARY QTV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ARY World">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ARY World.png</File>
     </Channel>
     <Channel>
       <Item Name="At The Races">
@@ -870,12 +870,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Chat Box.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Cheeky Chat">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Cheeky Chat.png</File>
     </Channel>
     <Channel>
       <Item Name="Chelsea TV">
