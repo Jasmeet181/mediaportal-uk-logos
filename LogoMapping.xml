@@ -16,7 +16,6 @@
     </Channel>
     <Channel>
       <Item Name="3e">
-        <Provider>Saorview</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>3e.png</File>
@@ -2538,12 +2537,6 @@
       <File>RT HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTÉ News Now">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>RTE News Now.png</File>
-    </Channel>
-    <Channel>
       <Item Name="RTE One">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2556,16 +2549,7 @@
       <Item Name="RTE One +1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ One +1">
-        <Provider>Saorview</Provider>
-      </Item>
       <File>RTE ONE +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="RTÉ One">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>RTE ONE HD.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Two">
@@ -2580,17 +2564,11 @@
       <Item Name="RTE Two HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ Two">
-        <Provider>Saorview</Provider>
-      </Item>
       <File>RTE TWO HD.png</File>
     </Channel>
     <Channel>
       <Item Name="RTEJR">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="RTÉ Junior">
-        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Junior.png</File>
     </Channel>
@@ -3374,7 +3352,6 @@
     <Channel>
       <Item Name="TG4">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Saorview</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TG4.png</File>
@@ -3550,7 +3527,6 @@
     </Channel>
     <Channel>
       <Item Name="TV3">
-        <Provider>Saorview</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV3.png</File>
@@ -4134,44 +4110,17 @@
       <Item Name="RTE 2FM">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ 2FM">
-        <Provider>Saorview</Provider>
-      </Item>
       <File>RTE 2FM.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="RTÉ 2XM">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>RTE 2XM.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="RTÉ Chill">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>RTE Chill.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Gold">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ Gold">
-        <Provider>Saorview</Provider>
-      </Item>
       <File>RTE Gold.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="RTÉ Junior">
-        <Provider>Saorview</Provider>
-      </Item>
-      <File>RTE Junior.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Lyric fm">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="RTÉ Lyric">
-        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Lyric fm.png</File>
     </Channel>
@@ -4179,17 +4128,11 @@
       <Item Name="RTE Pulse">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ Pulse">
-        <Provider>Saorview</Provider>
-      </Item>
       <File>RTE Pulse.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE R na G">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="RTÉ Raidió na Gaeltachta">
-        <Provider>Saorview</Provider>
       </Item>
       <Item Name="RTÉ RnaG">
         <Provider>Freeview (UK)</Provider>
@@ -4200,17 +4143,11 @@
       <Item Name="RTE Radio 1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ Radio 1">
-        <Provider>Saorview</Provider>
-      </Item>
       <File>RTE Radio 1.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Radio 1 Extra">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="RTÉ Radio 1 Extra">
-        <Provider>Saorview</Provider>
       </Item>
       <File>RTE Radio 1 Extra.png</File>
     </Channel>
