@@ -1,7 +1,7 @@
 This page contains information on how to source, create and add the logos.
 
 = About the logos =
-Logos are split in to TV and Radio folders. The original versions of the logos are placed into the Source folder. Changes are then made to improve the readability of the logos on dark skins and making the backgrounds transparent and placed into the Simple folder. Finally the logos are resized to a maximum of 190px either way, within a 200x200px canvas in the Simple200 folder. It's a slightly long winded process but will help greatly if there is a need to make any further changes.
+Logos are split in to TV and Radio folders. The original versions of the logos are placed into the Source folder. Changes are then made to improve the readability of the logos on dark skins and making the backgrounds transparent and placed into the Simple folder. Finally the logos are resized to a maximum of 190px either way in the Simple200 folder. It's a slightly long winded process but will help greatly if there is a need to make any further changes.
 
 Adding to the mapping XML is explained [http://forum.team-mediaportal.com/threads/logomanager-0-0-0-1-31-05-2013.119376/ here].
 
