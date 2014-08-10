@@ -2622,12 +2622,6 @@
       <File>Showcase.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showcase +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Showcase +1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Showcase 2">
         <Provider>Sky (UK)</Provider>
       </Item>
