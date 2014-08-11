@@ -3313,7 +3313,7 @@
       <Item Name="TBN UK">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>TBN.png</File>
+      <File>TBN UK.png</File>
     </Channel>
     <Channel>
       <Item Name="TCM">
