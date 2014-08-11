@@ -91,6 +91,12 @@
       <File>Abu Dhabi TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="ACBN">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ACBN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Adult Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
