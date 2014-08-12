@@ -3022,16 +3022,16 @@
       <File>Sky Sports F1 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Spts News">
+      <Item Name="Sky Sp NewsHQ">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Sports News.png</File>
+      <File>Sky Sports News HQ.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sp NewsHD">
+      <Item Name="Sky SpN HQ HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Sports News HD.png</File>
+      <File>Sky Sports News HQ HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Summer">
