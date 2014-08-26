@@ -275,6 +275,12 @@
       <File>Bangla TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="BayTVLiverpool">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Bay TV Liverpool.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC One N Ireland">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -1915,6 +1921,18 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Madani Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Made In Bristol">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Made In Bristol.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Made In Cardiff">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Made In Cardiff.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
