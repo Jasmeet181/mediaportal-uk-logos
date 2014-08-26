@@ -1867,6 +1867,12 @@
       <File>Kix.png</File>		
     </Channel>
     <Channel>
+      <Item Name="Latest TV">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Latest TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Lifetime">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1933,6 +1939,18 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Made In Cardiff.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Made in Leeds">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Made in Leeds.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Made In Tyne and Wear">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Made In Tyne and Wear.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
@@ -2265,6 +2283,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>NTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NVTV">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>NVTV.png</File>
     </Channel>
     <Channel>
       <Item Name="OH TV">
@@ -3379,6 +3403,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Thane.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Thats Solent">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Solent.png</File>
     </Channel>
     <Channel>
       <Item Name="The Active Ch">
