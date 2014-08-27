@@ -1837,10 +1837,16 @@
       <Item Name="JML Direct">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <File>JML Direct.png</File>
+    </Channel>
+    <Channel>
       <Item Name="JML Store">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>JML Direct.png</File>
+      <Item Name="The Store">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>JML Store.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang!">
@@ -3433,12 +3439,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Mall.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Store">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>The Store.png</File>
     </Channel>
     <Channel>
       <Item Name="The Vault">
