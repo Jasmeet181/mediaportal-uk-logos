@@ -1712,6 +1712,12 @@
       <File>ITV +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="ITVBe">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>ITVBe.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ITV Border">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3288,9 +3294,6 @@
       <Item Name="Studio 66 TV 2">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Studio 66 TV 3">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <File>Studio 66 TV 1.png</File>
     </Channel>
     <Channel>
@@ -3325,6 +3328,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>SuperCasino.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Switch TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Switch TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy">
