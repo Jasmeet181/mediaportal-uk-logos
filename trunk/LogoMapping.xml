@@ -862,7 +862,7 @@
     </Channel>
     <Channel>
       <Item Name="Chart Show">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="Chart Show TV">
         <Provider>Sky (UK)</Provider>
@@ -2493,6 +2493,7 @@
     </Channel>
     <Channel>
       <Item Name="QVC Extra">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Extra.png</File>
