@@ -509,10 +509,8 @@
     </Channel>
     <Channel>
       <Item Name="BBC RB 1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC RB 301">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button One.png</File>
     </Channel>
