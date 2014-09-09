@@ -61,6 +61,12 @@
       <File>5_.png</File>
     </Channel>
     <Channel>
+      <Item Name="5*+1 FSAT">
+        <Provider>Freesat</Provider>
+      </Item>
+      <File>5_ +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Aaj Tak">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2726,6 +2732,18 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Action HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Aliens">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Aliens.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Aliens HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Aliens HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 1">
