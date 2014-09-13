@@ -61,7 +61,7 @@
       <File>5_.png</File>
     </Channel>
     <Channel>
-      <Item Name="5*+1 FSAT">
+      <Item Name="5* +1 FSAT">
         <Provider>Freesat</Provider>
       </Item>
       <File>5_ +1.png</File>
@@ -689,6 +689,33 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="50330">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50331">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50332">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50333">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50334">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50335">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50336">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="50337">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BT Sport Extra.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital TV">
