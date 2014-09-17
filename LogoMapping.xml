@@ -2345,6 +2345,12 @@
       <File>OH TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Oireachtas TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Oireachtas TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Olive TV">
         <Provider>Sky (UK)</Provider>
       </Item>
