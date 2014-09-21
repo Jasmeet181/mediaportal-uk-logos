@@ -1508,10 +1508,10 @@
       <File>GEO Tez.png</File>
     </Channel>
     <Channel>
-      <Item Name="GEO UK">
+      <Item Name="GEO TV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>GEO UK.png</File>
+      <File>GEO TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Get Lucky TV">
@@ -3674,7 +3674,7 @@
       <File>TV3.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV5">
+      <Item Name="TV5 Monde">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV5Monde.png</File>
