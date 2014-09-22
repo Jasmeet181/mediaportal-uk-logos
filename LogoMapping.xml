@@ -2655,19 +2655,19 @@
       <File>RTE ONE +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE Two">
+      <Item Name="RTE2">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="RTÉ Two">
+      <Item Name="RTÉ2">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>RTE TWO.png</File>
+      <File>RTE2.png</File>
     </Channel>
     <Channel>
-      <Item Name="RTE Two HD">
+      <Item Name="RTE2 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>RTE TWO HD.png</File>
+      <File>RTE2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="RTEJR">
