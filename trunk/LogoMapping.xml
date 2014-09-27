@@ -3535,6 +3535,12 @@
       <File>The Vault.png</File>
     </Channel>
     <Channel>
+      <Item Name="Word Network">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>The Word Network.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Tiny Pop">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3807,12 +3813,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Watch HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Word Network">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Word Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Xplicit Nightly">
