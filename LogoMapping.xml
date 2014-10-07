@@ -1729,6 +1729,12 @@
       <File>Iqra TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Irish TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Irish TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Islam Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1751,6 +1757,7 @@
     <Channel>
       <Item Name="ITVBe">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITVBe.png</File>
     </Channel>
@@ -2723,12 +2730,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Showcase">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase 2">
