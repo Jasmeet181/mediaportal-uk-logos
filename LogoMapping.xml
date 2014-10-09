@@ -109,6 +109,12 @@
       <File>Adult Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Section">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Adult Section.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Africa Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3504,12 +3510,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Thats Solent.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Active Ch">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>The Active Ch.png</File>
     </Channel>
     <Channel>
       <Item Name="The Box">
