@@ -2059,6 +2059,9 @@
       <File>More4 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Motors TV">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
       <Item Name="Motors TV UK">
         <Provider>Sky (UK)</Provider>
       </Item>
