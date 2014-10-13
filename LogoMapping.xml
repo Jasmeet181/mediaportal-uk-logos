@@ -824,7 +824,7 @@
       <Item Name="Challenge">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Sky Challenge TV FSAT">
+      <Item Name="Challenge FSAT">
         <Provider>Freesat</Provider>
       </Item>
       <File>Challenge.png</File>
