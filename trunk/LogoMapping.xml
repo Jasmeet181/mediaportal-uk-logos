@@ -1382,6 +1382,12 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Fashion One">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Fashion One.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Film4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2593,9 +2599,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Red Light 2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Red Light 3">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Red Light 1.png</File>
