@@ -3258,12 +3258,6 @@
       <File>SkyPoker.com.png</File>
     </Channel>
     <Channel>
-      <Item Name="SmartLive">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Smart Live Casino.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Smash Hits!">
         <Provider>Sky (UK)</Provider>
       </Item>
