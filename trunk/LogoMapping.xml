@@ -1292,12 +1292,6 @@
       <File>Electric Blue.png</File>
     </Channel>
     <Channel>
-      <Item Name="eNCA Africa">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>eNCA Africa.png</File>
-    </Channel>
-    <Channel>
       <Item Name="EqualWorld">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1958,10 +1952,16 @@
       <File>Lifetime HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="LiverpoolFCTV">
+      <Item Name="LFCTV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>LFC TV.png</File>
+      <File>LFCTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LFCTV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>LFCTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="London Live">
