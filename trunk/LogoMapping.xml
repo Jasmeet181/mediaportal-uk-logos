@@ -2276,16 +2276,16 @@
       <File>Nick Jr +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nick Jr. 2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Nick Jr. 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Nick Jr Peppa">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nick Jr Peppa.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Nick Jr Too">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Nick Jr. Too.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr Xmas">
@@ -2500,6 +2500,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Psychic Today.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Psychics Live">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Psychics Live.png</File>
     </Channel>
     <Channel>
       <Item Name="PTC Punjabi">
