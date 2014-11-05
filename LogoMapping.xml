@@ -61,8 +61,8 @@
       <File>5_.png</File>
     </Channel>
     <Channel>
-      <Item Name="5* +1 FSAT">
-        <Provider>Freesat</Provider>
+      <Item Name="5* +1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>5_ +1.png</File>
     </Channel>
@@ -597,12 +597,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BET.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BET +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BET +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Bliss">
@@ -2747,16 +2741,16 @@
       <File>Sheffield Live TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showcase 2">
+      <Item Name="Showcase">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Showcase 2.png</File>
+      <File>Showcase.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showcase 2 +1">
+      <Item Name="Showcase +1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Showcase 2 +1.png</File>
+      <File>Showcase +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sikh Channel">
