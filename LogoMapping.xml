@@ -2894,6 +2894,18 @@
       <File>Sky Movies Comedy HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Crime">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Crime and Thriller.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Crime HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Crime and Thriller HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Disney">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3193,18 +3205,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Superhero HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Thriller">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Thriller.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Thriller HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Thriller HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Valentine">
