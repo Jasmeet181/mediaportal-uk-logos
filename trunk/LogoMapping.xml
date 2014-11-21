@@ -913,6 +913,12 @@
       <File>Chart Show Dance.png</File>
     </Channel>
     <Channel>
+      <Item Name="Dance Xmas">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Chart Show Dance Xmas.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Chat Box">
         <Provider>Sky (UK)</Provider>
       </Item>
