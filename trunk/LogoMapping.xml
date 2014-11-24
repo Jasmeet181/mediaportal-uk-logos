@@ -1997,18 +1997,21 @@
     <Channel>
       <Item Name="Made In Bristol">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Made In Bristol.png</File>
     </Channel>
     <Channel>
       <Item Name="Made In Cardiff">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Made In Cardiff.png</File>
     </Channel>
     <Channel>
       <Item Name="Made in Leeds">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Made in Leeds.png</File>
     </Channel>
