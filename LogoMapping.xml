@@ -2016,8 +2016,9 @@
       <File>Made in Leeds.png</File>
     </Channel>
     <Channel>
-      <Item Name="Made In Tyne and Wear">
+      <Item Name="Made In Tn&Wr">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Made In Tyne and Wear.png</File>
     </Channel>
@@ -3662,12 +3663,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>TruTV +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV 99">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV 99.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Shop">
