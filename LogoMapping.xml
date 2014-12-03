@@ -3757,6 +3757,15 @@
       <File>UTV HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="UTV Ireland">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="UTV Ireland HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>UTV Ireland.png</File>
+    </Channel>
+    <Channel>
       <Item Name="V Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
