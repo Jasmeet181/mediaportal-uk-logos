@@ -2016,7 +2016,7 @@
       <File>Made in Leeds.png</File>
     </Channel>
     <Channel>
-      <Item Name="Made In Tn&Wr">
+      <Item Name="Made In Tn&amp;Wr">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
