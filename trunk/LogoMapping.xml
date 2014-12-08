@@ -1422,12 +1422,6 @@
       <File>Flava.png</File>
     </Channel>
     <Channel>
-      <Item Name="Flirt TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Flirt TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Flow TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3398,6 +3392,12 @@
       <File>STV +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="STV Edinburgh">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>STV Edinburgh.png</File>
+    </Channel>
+    <Channel>
       <Item Name="STV Glasgow">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3880,12 +3880,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Zee Cinema.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Zee News">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Zee News.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee Punjabi">
