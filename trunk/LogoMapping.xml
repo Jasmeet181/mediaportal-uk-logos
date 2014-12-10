@@ -1638,6 +1638,12 @@
       <File>Home and Health+.png</File>
     </Channel>
     <Channel>
+      <Item Name="Home Store">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Home Store.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Home">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1880,9 +1886,6 @@
       <File>Jewelry Maker.png</File>
     </Channel>
     <Channel>
-      <Item Name="Home Store">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="JML Direct">
         <Provider>Sky (UK)</Provider>
       </Item>
