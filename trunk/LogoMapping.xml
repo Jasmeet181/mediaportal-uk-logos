@@ -1769,10 +1769,10 @@
       <File>ITVBe.png</File>
     </Channel>
     <Channel>
-      <Item Name="ITV Be+1">
+      <Item Name="ITVBe+1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>ITV Be +1.png</File>
+      <File>ITVBe +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Border">
