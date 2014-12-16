@@ -1769,6 +1769,12 @@
       <File>ITVBe.png</File>
     </Channel>
     <Channel>
+      <Item Name="ITV Be+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ITV Be +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ITV Border">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
