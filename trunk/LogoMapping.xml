@@ -3161,6 +3161,18 @@
       <File>Sky Sports Ashes HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Spts Darts">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Darts.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SkySptDartsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Darts HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sports F1">
         <Provider>Sky (UK)</Provider>
       </Item>
