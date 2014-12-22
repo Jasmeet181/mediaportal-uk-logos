@@ -97,12 +97,6 @@
       <File>Abu Dhabi TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="ACBN">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ACBN.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Adult Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3691,6 +3685,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Shop.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV 99">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TV 99.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Warehouse">
