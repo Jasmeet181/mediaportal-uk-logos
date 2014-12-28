@@ -570,6 +570,12 @@
       <File>BBC Two HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Beachbody">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Beachbody.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1891,15 +1897,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>JML Direct.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="JML Store">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="The Store">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>JML Store.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang!">
@@ -3551,6 +3548,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Mall.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="The Store">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>The Store.png</File>
     </Channel>
     <Channel>
       <Item Name="The Vault">
