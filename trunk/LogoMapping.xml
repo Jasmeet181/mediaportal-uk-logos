@@ -3526,6 +3526,12 @@
       <File>Thane.png</File>
     </Channel>
     <Channel>
+      <Item Name="Thats Oxford">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Oxford.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Thats Solent">
         <Provider>Freeview (UK)</Provider>
       </Item>
