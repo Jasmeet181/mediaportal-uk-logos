@@ -2442,7 +2442,7 @@
       <File>Play TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Playboy Lovers">
+      <Item Name="Playboy Lesbian">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Playboy Lovers.png</File>
@@ -3218,7 +3218,7 @@
       <File>Sky Movies Superhero.png</File>
     </Channel>
     <Channel>
-      <Item Name="SkySuperheroHD">
+      <Item Name="Sky SuprheroHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Superhero HD.png</File>
@@ -3883,6 +3883,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Mums.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Xxxcess">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Xxxcess.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Xpanded TV">
