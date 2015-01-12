@@ -21,6 +21,12 @@
       <File>3e.png</File>
     </Channel>
     <Channel>
+      <Item Name="ACBN">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ACBN.png</File>
+    </Channel>
+    <Channel>
       <Item Name="4music">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3407,6 +3413,7 @@
     <Channel>
       <Item Name="STV Edinburgh">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>STV Edinburgh.png</File>
     </Channel>
@@ -3724,6 +3731,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVC News+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TVC News+1.png</File>
     </Channel>
     <Channel>
       <Item Name="TVX Brits">
