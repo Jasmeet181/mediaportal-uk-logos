@@ -3733,7 +3733,7 @@
       <File>TVC News.png</File>
     </Channel>
     <Channel>
-      <Item Name="TVC News+1">
+      <Item Name="TVC News +1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News+1.png</File>
