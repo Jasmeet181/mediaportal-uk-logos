@@ -1099,6 +1099,7 @@
     </Channel>
     <Channel>
       <Item Name="Daystar">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Daystar.png</File>
@@ -1889,14 +1890,10 @@
       <File>Jewellery Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Jewellery Maker">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Jewelry Maker">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Jewelry Maker.png</File>
+      <File>Jewellery Maker.png</File>
     </Channel>
     <Channel>
       <Item Name="JML Direct">
