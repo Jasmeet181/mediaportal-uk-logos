@@ -2167,6 +2167,12 @@
       <File>MTV Live HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="MTV Love">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MTV Love.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MTV Music">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3463,12 +3469,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Takbeer TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TBA">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>TBA.png</File>
     </Channel>
     <Channel>
       <Item Name="TBN Europe">
