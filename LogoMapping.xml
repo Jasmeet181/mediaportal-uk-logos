@@ -1777,6 +1777,7 @@
     </Channel>
     <Channel>
       <Item Name="ITVBe+1">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITVBe +1.png</File>
@@ -4161,6 +4162,7 @@
     </Channel>
     <Channel>
       <Item Name="Classic FM">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Classic FM.png</File>
@@ -4257,6 +4259,7 @@
     </Channel>
     <Channel>
       <Item Name="LBC">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>LBC Radio.png</File>
