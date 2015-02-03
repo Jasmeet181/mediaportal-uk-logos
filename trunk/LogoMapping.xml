@@ -606,6 +606,12 @@
       <File>BET.png</File>
     </Channel>
     <Channel>
+      <Item Name="Big Centre TV">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Big Centre TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Bliss">
         <Provider>Sky (UK)</Provider>
       </Item>
