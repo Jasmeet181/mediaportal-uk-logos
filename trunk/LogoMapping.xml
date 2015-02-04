@@ -3240,7 +3240,7 @@
       <File>Sky Movies Superhero HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Valentne">
+      <Item Name="Sky Valentine">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Valentine.png</File>
@@ -3249,7 +3249,7 @@
       <Item Name="Sky ValentneHD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Movies Valentne HD.png</File>
+      <File>Sky Movies Valentine.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky1">
