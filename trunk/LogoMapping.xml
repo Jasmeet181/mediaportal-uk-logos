@@ -829,6 +829,7 @@
     </Channel>
     <Channel>
       <Item Name="Challenge">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Challenge FSAT">
@@ -839,6 +840,9 @@
     <Channel>
       <Item Name="Challenge+1">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Challenge+1 FSAT">
+        <Provider>Freesat</Provider>
       </Item>
       <File>Challenge +1.png</File>
     </Channel>
@@ -2435,13 +2439,15 @@
       </Item>
       <Item Name="Pick FSAT">
         <Provider>Freesat</Provider>
-        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pick.png</File>
     </Channel>
     <Channel>
       <Item Name="Pick+1">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Pick+1 FSAT">
+        <Provider>Freesat</Provider>
       </Item>
       <File>Pick +1.png</File>
     </Channel>
@@ -2539,12 +2545,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>PTV Prime.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Pub Channel">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Pub Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Quest">
@@ -3960,6 +3960,12 @@
   <!-- ******************************************************************** -->
   <Radio>
     <Channel>
+      <Item Name="Absolute CR">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Absolute Classic Rock.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Absolute">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3969,22 +3975,22 @@
       <File>Absolute Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Abs Rad 90s">
+      <Item Name="Absolute70s">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Absolute Radio 90s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Absolute CR">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Absolute Classic Rock.png</File>
+      <File>Absolute Radio 70s.png</File>
     </Channel>
     <Channel>
       <Item Name="Absolute80s">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Absolute 80s.png</File>
+      <File>Absolute Radio 80s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Abs Rad 90s">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC London">
@@ -4211,9 +4217,6 @@
       <File>Heat.png</File>
     </Channel>
     <Channel>
-      <Item Name="InsightRadio">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Insight Radio">
         <Provider>Freeview (UK)</Provider>
       </Item>
