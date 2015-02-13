@@ -3216,6 +3216,18 @@
       <File>Sky Sports Ryder Cup HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky World Cup">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports World Cup.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SkyWrldCupHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports World Cup HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Summer">
         <Provider>Sky (UK)</Provider>
       </Item>
