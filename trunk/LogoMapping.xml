@@ -2915,13 +2915,13 @@
       <File>Sky Movies Comedy HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Crime">
+      <Item Name="Sky Thriller">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Crime and Thriller.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Crime HD">
+      <Item Name="Sky Thriller HD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Crime and Thriller HD.png</File>
