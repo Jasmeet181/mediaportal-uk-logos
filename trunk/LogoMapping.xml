@@ -3024,6 +3024,18 @@
       <File>Sky News HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Monsters">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Monsters.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky MonstrsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Monsters HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Oscars">
         <Provider>Sky (UK)</Provider>
       </Item>
