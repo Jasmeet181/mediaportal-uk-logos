@@ -21,12 +21,6 @@
       <File>3e.png</File>
     </Channel>
     <Channel>
-      <Item Name="ACBN">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ACBN.png</File>
-    </Channel>
-    <Channel>
       <Item Name="4music">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -162,12 +156,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Al Jazeera English HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Alexcasino">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Alexander Casino.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi">
@@ -1064,12 +1052,6 @@
       <File>Community.png</File>
     </Channel>
     <Channel>
-      <Item Name="Community HD">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Community HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Craft Extra">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1675,12 +1657,13 @@
     </Channel>
     <Channel>
       <Item Name="Horror Channel">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Horror Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="horror ch+1">
+      <Item Name="Horror Ch+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Horror Channel +1.png</File>
@@ -1795,7 +1778,6 @@
     <Channel>
       <Item Name="ITV Border">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Border.png</File>
     </Channel>
@@ -2616,9 +2598,6 @@
       <Item Name="Red Light 1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Red Light 2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <File>Red Light 1.png</File>
     </Channel>
     <Channel>
@@ -2781,9 +2760,6 @@
     </Channel>
     <Channel>
       <Item Name="Sky">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="HD Retail Info">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Intro">
@@ -3307,12 +3283,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky News Arabia.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SkyPoker.com">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>SkyPoker.com.png</File>
     </Channel>
     <Channel>
       <Item Name="Smash Hits!">
