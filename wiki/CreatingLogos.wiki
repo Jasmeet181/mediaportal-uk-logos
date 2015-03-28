@@ -7,19 +7,19 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 = Good sources =
 
-*[http://www.lyngsat-logo.com/tvcountry/uk.html Lyngsat Logo]
-
 *[http://en.wikipedia.org/wiki/Category:British_television_logos Wikipedia]
 
 *[http://logos.wikia.com/wiki/Category:Television_channels_in_the_United_Kingdom Logopedia]
 
+*[http://tv.sky.com/tv-guide Sky Guide] (Replace the '/80/35/' in the image's URL with '/0/0/' and remove the black glow on some logos)
+
+*[http://www.lyngsat-logo.com/tvcountry/uk.html Lyngsat Logo]
+
+*[http://www.freeview.co.uk/whats-on/channels Freeview Channels] (The channel guide PDF contains some SVG files)
+
 *[http://commons.wikimedia.org/wiki/Category:Television_channels_from_the_United_Kingdom Wikimedia Commons]
 
 *[http://de.wikipedia.org/wiki/Kategorie:Datei:Logo_%28Fernsehsender%29 German Wikipedia] (Fewer copyright restrictions than the English version)
-
-*[http://tv.sky.com/tv-guide Sky Guide] (Replace the '/80/35/' in the image's URL with '/0/0/' and remove the black border)
-
-*[https://bitbucket.org/picons/logos/src Picons for the XBMC XVDR-addon]
 
 *[http://www.skymedia.co.uk/brands/index.aspx Sky Media]
 
@@ -27,4 +27,18 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 *[https://www.google.co.uk/imghp?hl=en Google Images]
 
-*The channel's website or social media
+*The channel's website, press centre, social media etc.
+
+= Other projects =
+
+*[https://github.com/picons/picons-source Picons for Enigma2 and Kodi]
+
+*[http://www.gbpvr.com/nwiki/pmwiki.php?n=Media.ChannelLogos Channel Logos for nextPVR]
+
+*[http://forum.kodi.tv/showthread.php?tid=217251 Piers' Freeview HD Channel Logos]
+
+*[http://www.iconharmony.com/icons/home IconHarmony]
+
+*[https://github.com/3PO/Senderlogos Senderlogos]
+
+*[https://www.digitalworldz.co.uk/picons-501/379557-download-rats-dw-picons.html Rat's DW Picons 28.2E]
