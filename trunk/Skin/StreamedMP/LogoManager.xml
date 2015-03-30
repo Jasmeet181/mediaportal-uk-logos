@@ -18,7 +18,7 @@
       <shouldCache>true</shouldCache>
     </control>
     <!--import>TVSeries.background.xml</import-->
-    <control>
+    <!--<control>
       <id>0</id>
       <type>image</type>
       <posX>66</posX>
@@ -26,7 +26,7 @@
       <width>61</width>
       <height>57</height>
       <texture>black_tv.png</texture>
-    </control>
+    </control>-->
     <control>
       <description>Country</description>
       <id>0</id>
@@ -74,6 +74,24 @@
       <lefttexture>osdprogressleft.png</lefttexture>
       <midtexture>osdprogressmid.png</midtexture>
       <righttexture>osdprogressright.png</righttexture>
+    </control>
+    <control>
+      <description>Channel Percentage</description>
+      <id>0</id>
+      <type>label</type>
+      <label>#LogoManager.percentChannels</label>
+      <posX>1360</posX>
+      <font>mediastream10tc</font>
+      <posY>118</posY>
+    </control>
+    <control>
+      <description>Group Percentage</description>
+      <id>0</id>
+      <type>label</type>
+      <label>#LogoManager.percentGroups</label>
+      <posX>1360</posX>
+      <font>mediastream10tc</font>
+      <posY>94</posY>
     </control>
     <!--control>
       <description>List Lines</description>

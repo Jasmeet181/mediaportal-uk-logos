@@ -1,7 +1,7 @@
 Readme for the StreamedMP LogoManager skin files
 ================================================
 
-Extract and copy the XML files to:
+Extract and copy to:
 C:\ProgramData\Team MediaPortal\MediaPortal\skin\StreamedMP
 
 StreamedMP Issue 586, reported 10 July 2013:
