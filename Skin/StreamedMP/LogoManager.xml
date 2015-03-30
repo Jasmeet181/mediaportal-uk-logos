@@ -47,6 +47,34 @@
       <animation effect="slide" start="-771,0" end="0,0" tween="quadratic" time="300" delay="0">WindowOpen</animation>
       <animation effect="fade" time="600">WindowOpen</animation>
     </control>
+    <control>
+    <description>description>Channel Progress Bar</description>
+    <type>progress</type>
+    <id>310</id>
+      <posX>674</posX>
+      <posY>104</posY>
+      <width>677</width>
+      <height>15</height>
+      <label>wtf</label>
+      <texturebg>osdprogressback.png</texturebg>
+      <lefttexture>osdprogressleft.png</lefttexture>
+      <midtexture>osdprogressmid.png</midtexture>
+      <righttexture>osdprogressright.png</righttexture>
+    </control>
+    <control>
+      <description>Group Progress Bar</description>
+      <type>progress</type>
+      <id>320</id>
+      <posX>674</posX>
+      <posY>124</posY>
+      <width>677</width>
+      <height>15</height>
+      <label>asap</label>
+      <texturebg>osdprogressback.png</texturebg>
+      <lefttexture>osdprogressleft.png</lefttexture>
+      <midtexture>osdprogressmid.png</midtexture>
+      <righttexture>osdprogressright.png</righttexture>
+    </control>
     <!--control>
       <description>List Lines</description>
       <type>image</type>
