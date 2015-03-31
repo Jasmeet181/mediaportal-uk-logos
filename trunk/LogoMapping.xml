@@ -3234,7 +3234,7 @@
       <File>Sky Movies Superhero.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky SuprheroHD">
+      <Item Name="SkySuprheroHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Superhero HD.png</File>
