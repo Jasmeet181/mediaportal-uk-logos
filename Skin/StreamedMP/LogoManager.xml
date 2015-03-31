@@ -51,9 +51,9 @@
     <description>description>Channel Progress Bar</description>
     <type>progress</type>
     <id>310</id>
-      <posX>674</posX>
-      <posY>104</posY>
-      <width>677</width>
+      <posX>65</posX>
+      <posY>280</posY>
+      <width>985</width>
       <height>15</height>
       <label>wtf</label>
       <texturebg>osdprogressback.png</texturebg>
@@ -65,9 +65,9 @@
       <description>Group Progress Bar</description>
       <type>progress</type>
       <id>320</id>
-      <posX>674</posX>
-      <posY>124</posY>
-      <width>677</width>
+      <posX>1112</posX>
+      <posY>280</posY>
+      <width>738</width>
       <height>15</height>
       <label>asap</label>
       <texturebg>osdprogressback.png</texturebg>
@@ -80,18 +80,18 @@
       <id>0</id>
       <type>label</type>
       <label>#LogoManager.percentChannels</label>
-      <posX>1360</posX>
-      <font>mediastream10tc</font>
-      <posY>118</posY>
+      <posX>675</posX>
+      <font>mediastream12tc</font>
+      <posY>104</posY>
     </control>
     <control>
       <description>Group Percentage</description>
       <id>0</id>
       <type>label</type>
       <label>#LogoManager.percentGroups</label>
-      <posX>1360</posX>
-      <font>mediastream10tc</font>
-      <posY>94</posY>
+      <posX>1265</posX>
+      <font>mediastream12tc</font>
+      <posY>104</posY>
     </control>
     <!--control>
       <description>List Lines</description>
