@@ -564,12 +564,6 @@
       <File>BBC Two HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Beachbody">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Beachbody.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1063,12 +1057,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Create and Craft.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Cruzr TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Cruzr TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave">
@@ -1876,13 +1864,6 @@
       <File>ITV4 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Jewellery Ch.">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Jewellery Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Jewelry Maker">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2503,12 +2484,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Psychic Today.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Psychics Live">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Psychics Live.png</File>
     </Channel>
     <Channel>
       <Item Name="PTC Punjabi">
@@ -3393,13 +3368,13 @@
       <File>Storm.png</File>
     </Channel>
     <Channel>
-      <Item Name="Studio 66 TV 1">
+      <Item Name="S66">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Studio 66 TV 2">
+      <Item Name="Studio 66">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Studio 66 TV 1.png</File>
+      <File>Studio 66 TV.png</File>
     </Channel>
     <Channel>
       <Item Name="STV">
@@ -3553,6 +3528,16 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Dept Store.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Jewellery Ch.">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="TJC">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>The Jewellery Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="The Mall">
