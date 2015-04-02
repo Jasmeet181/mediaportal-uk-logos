@@ -176,6 +176,12 @@
       <File>Alibi HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="&amp;TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>AndTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Animal Planet">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1955,12 +1961,6 @@
       <File>Lucky Star.png</File>
     </Channel>
     <Channel>
-      <Item Name="Lamhe">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Lamhe.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Madani Chnl">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3131,7 +3131,19 @@
       <File>Sky Sports Ashes HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Spts Darts">
+      <Item Name="SkySpBoxOff">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Box Office.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SkySptDartsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Box Office HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SkySpBoxOffHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Darts.png</File>
