@@ -3137,13 +3137,13 @@
       <File>Sky Sports Box Office.png</File>
     </Channel>
     <Channel>
-      <Item Name="SkySptDartsHD">
+      <Item Name="SkySpBoxOffHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Box Office HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="SkySpBoxOffHD">
+      <Item Name="Sky Spts Darts">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Darts.png</File>
