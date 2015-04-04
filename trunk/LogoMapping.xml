@@ -672,6 +672,12 @@
       <File>British Muslim.png</File>
     </Channel>
     <Channel>
+      <Item Name="BT Showcase">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BT Sport.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Sport 1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
