@@ -3435,12 +3435,6 @@
       <File>SuperCasino.png</File>
     </Channel>
     <Channel>
-      <Item Name="Switch TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Switch TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Syfy">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3716,10 +3710,16 @@
       <File>TV Warehouse.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV3">
+      <Item Name="TV3+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV3">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TV3 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="TV5 Monde">
