@@ -909,6 +909,12 @@
       <File>Channel i.png</File>
     </Channel>
     <Channel>
+      <Item Name="Channels 24">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Channels 24.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Chart Show">
         <Provider>Freeview (UK)</Provider>
       </Item>
