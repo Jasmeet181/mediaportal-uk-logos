@@ -692,7 +692,6 @@
     </Channel>
     <Channel>
       <Item Name="BT Sport 2">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 2.png</File>
@@ -2746,6 +2745,12 @@
       <File>Sikh Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sin TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sin TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3348,6 +3353,13 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sony TV Asia.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Spike">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Spike.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Gold">
