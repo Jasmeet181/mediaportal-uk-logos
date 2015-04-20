@@ -1,7 +1,7 @@
 This page contains information on how to source, create and add the logos.
 
 = About the logos =
-Logos are split in to TV and Radio folders. The original versions of the logos are placed into the Source folder. Changes are then made to improve the readability of the logos on dark skins and making the backgrounds transparent and placed into the Simple folder. Finally the logos are resized to a maximum of 190px either way in the Simple200 folder. It's a slightly long winded process but will help greatly if there is a need to make any further changes.
+Logos are split in to TV and Radio folders. The original versions of the logos are placed into the Source folder. Changes are then made to improve the readability of the logos on dark skins and making the backgrounds transparent and then placed into the Simple folder. Finally, the logos are resized to a maximum of 190px either way, in the Simple200 folder. It's a slightly long winded process but will help greatly if there's a need to make any further changes.
 
 Adding to the mapping XML is explained [http://forum.team-mediaportal.com/threads/logomanager-0-0-0-1-31-05-2013.119376/ here].
 
@@ -11,7 +11,7 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 *[http://logos.wikia.com/wiki/Category:Television_channels_in_the_United_Kingdom Logopedia]
 
-*[http://tv.sky.com/tv-guide Sky Guide] (Replace the '/80/35/' in the image's URL with '/0/0/' and remove the black glow on some logos)
+*[http://tv.sky.com/tv-guide Sky Guide] (Replace '/80/35/' in the image's URL with '/0/0/')
 
 *[http://www.lyngsat-logo.com/tvcountry/uk.html Lyngsat Logo]
 
@@ -20,6 +20,8 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 *[http://commons.wikimedia.org/wiki/Category:Television_channels_from_the_United_Kingdom Wikimedia Commons]
 
 *[http://de.wikipedia.org/wiki/Kategorie:Datei:Logo_%28Fernsehsender%29 German Wikipedia] (Fewer copyright restrictions than the English version)
+
+*[http://atlas.metabroadcast.com/#widgets Atlas] (Delete '&resize=100' at the end of the image's URL)
 
 *[http://www.skymedia.co.uk/brands/index.aspx Sky Media]
 
@@ -33,7 +35,7 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 *[https://github.com/picons/picons-source Picons for Enigma2 and Kodi]
 
-*[http://www.gbpvr.com/nwiki/pmwiki.php?n=Media.ChannelLogos Channel Logos for nextPVR]
+*[http://www.gbpvr.com/nwiki/pmwiki.php?n=Media.ChannelLogos Channel Logos for nextPVR] ([http://forums.nextpvr.com/showthread.php?54151-UK-Freeview-amp-Freesat-Channel-Logos Forum thread])
 
 *[http://forum.kodi.tv/showthread.php?tid=217251 Piers' Freeview HD Channel Logos]
 
