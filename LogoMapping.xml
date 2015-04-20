@@ -182,6 +182,12 @@
       <File>AndTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Angling TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Angling TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Animal Planet">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3477,14 +3483,9 @@
       <File>Takbeer TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="TBN Europe">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TBN Europe.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TBN UK">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>TBN UK.png</File>
     </Channel>
@@ -3521,6 +3522,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Television X.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVX Brits">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Television X Brits.png</File>
     </Channel>
     <Channel>
       <Item Name="TG4">
@@ -3756,12 +3763,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVX Brits">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TVX Brits.png</File>
     </Channel>
     <Channel>
       <Item Name="UCB TV">
