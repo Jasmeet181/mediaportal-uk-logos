@@ -2542,11 +2542,23 @@
       <File>QVC.png</File>
     </Channel>
     <Channel>
+      <Item Name="QVC + 1 HD">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>QVC +1 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="QVC Beauty">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Beauty.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="QVC Beauty HD">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>QVC Beauty HD.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC Extra">
