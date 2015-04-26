@@ -1375,12 +1375,6 @@
       <File>Extreme Sports.png</File>
     </Channel>
     <Channel>
-      <Item Name="FAB TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>FAB TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Faith World TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3988,7 +3982,7 @@
   <!-- ******************************************************************** -->
   <Radio>
     <Channel>
-      <Item Name="Absolute CR">
+      <Item Name="Classic Rock">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Classic Rock.png</File>
@@ -4003,19 +3997,19 @@
       <File>Absolute Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Absolute70s">
+      <Item Name="Absolute 70s">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Radio 70s.png</File>
     </Channel>
     <Channel>
-      <Item Name="Absolute80s">
+      <Item Name="Absolute 80s">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Radio 80s.png</File>
     </Channel>
     <Channel>
-      <Item Name="Abs Rad 90s">
+      <Item Name="Absolute 90s">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Absolute Radio 90s.png</File>

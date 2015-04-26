@@ -31,7 +31,7 @@
       <description>Country</description>
       <id>0</id>
       <type>label</type>
-      <label>Country: #LogoManager.Country</label>
+      <label>Country: #LogoManager.Country | #LogoManager.percentChannels | #LogoManager.percentGroups</label>
       <posX>85</posX>
       <font>mediastream12tc</font>
       <posY>104</posY>
@@ -74,24 +74,6 @@
       <lefttexture>osdprogressleft.png</lefttexture>
       <midtexture>osdprogressmid.png</midtexture>
       <righttexture>osdprogressright.png</righttexture>
-    </control>
-    <control>
-      <description>Channel Percentage</description>
-      <id>0</id>
-      <type>label</type>
-      <label>#LogoManager.percentChannels</label>
-      <posX>675</posX>
-      <font>mediastream12tc</font>
-      <posY>104</posY>
-    </control>
-    <control>
-      <description>Group Percentage</description>
-      <id>0</id>
-      <type>label</type>
-      <label>#LogoManager.percentGroups</label>
-      <posX>1265</posX>
-      <font>mediastream12tc</font>
-      <posY>104</posY>
     </control>
     <!--control>
       <description>List Lines</description>
