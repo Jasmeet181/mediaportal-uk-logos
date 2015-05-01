@@ -1241,6 +1241,12 @@
       <File>Drama.png</File>
     </Channel>
     <Channel>
+      <Item Name="Dunya News">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Dunya News.png</File>
+    </Channel>
+    <Channel>
       <Item Name="E!">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1295,12 +1301,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Eden HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ElectricBlue">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Electric Blue.png</File>
     </Channel>
     <Channel>
       <Item Name="EqualWorld">
@@ -1493,12 +1493,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gems TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Girl Next Door">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Girl Next Door.png</File>
     </Channel>
     <Channel>
       <Item Name="GEO News">
@@ -1751,6 +1745,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Islam Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Islam TV Urdu">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Islam TV Urdu.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV">
@@ -2438,16 +2438,16 @@
       <File>Play TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Playboy Lesbian">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Playboy Lovers.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Playboy TV">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Playboy TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Playboy TV Hot">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Playboy TV Hot.png</File>
     </Channel>
     <Channel>
       <Item Name="PlayboyTV Chat">
@@ -3857,12 +3857,6 @@
       <File>VH1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Viewers' Wives">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Viewers' Wives.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Vintage TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3900,6 +3894,18 @@
       <File>Watch HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Xpanded TV">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="Xpanded TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Xpanded TV 2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Xpanded TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Xplicit Nightly">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3912,34 +3918,40 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX Amateurs">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Amateurs.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX Big&amp;Bouncy">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Big and Bouncy.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Brits">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Brits.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX Extreme">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Extreme.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX Girl Girl">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Girl Girl.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Mums">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Mums.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Xxxcess">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Xxxcess.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Adult Xpanded TV">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="Xpanded TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Xpanded TV 2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Xpanded TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
