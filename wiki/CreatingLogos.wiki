@@ -5,7 +5,7 @@ Logos are split in to TV and Radio folders. The original versions of the logos a
 
 Adding to the mapping XML is explained [http://forum.team-mediaportal.com/threads/logomanager-0-0-0-1-31-05-2013.119376/ here].
 
-= Good sources =
+= Possible sources =
 
 *[http://en.wikipedia.org/wiki/Category:British_television_logos Wikipedia]
 
@@ -23,6 +23,8 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 *[http://atlas.metabroadcast.com/#widgets Atlas] (Delete '&resize=100' at the end of the image's URL)
 
+*[http://en.timefor.tv/ TimeFor.TV] (Append with '`_`big.png' at the end of the image's URL, if not already present)
+
 *[http://www.skymedia.co.uk/brands/index.aspx Sky Media]
 
 *[http://www.skymedia.ie/channels/index.aspx Sky Media Ireland]
@@ -35,7 +37,7 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 *[https://github.com/picons/picons-source Picons for Enigma2 and Kodi]
 
-*[http://www.gbpvr.com/nwiki/pmwiki.php?n=Media.ChannelLogos Channel Logos for nextPVR] ([http://forums.nextpvr.com/showthread.php?54151-UK-Freeview-amp-Freesat-Channel-Logos Forum thread])
+*[http://www.nextpvr.com/nwiki/pmwiki.php?n=Media.ChannelLogos Channel Logos for nextPVR] ([http://forums.nextpvr.com/showthread.php?54151-UK-Freeview-amp-Freesat-Channel-Logos Forum thread])
 
 *[http://forum.kodi.tv/showthread.php?tid=217251 Piers' Freeview HD Channel Logos]
 
@@ -44,3 +46,5 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 *[https://github.com/3PO/Senderlogos Senderlogos]
 
 *[https://www.digitalworldz.co.uk/picons-501/379557-download-rats-dw-picons.html Rat's DW Picons 28.2E]
+
+*[http://openvix.co.uk/index.php?dir=Picons/ OpenViX picons] ([http://www.world-of-satellite.com/forumdisplay.php?35-Picons Forum])
