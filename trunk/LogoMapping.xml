@@ -1409,12 +1409,6 @@
       <File>Film4 HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="FilmOn.TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>FilmOn.TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Fire Hit TV">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -1450,6 +1444,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Forces TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="FoTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>FoTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox">
@@ -2579,12 +2579,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Really.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Reality TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Reality TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Record TV">
