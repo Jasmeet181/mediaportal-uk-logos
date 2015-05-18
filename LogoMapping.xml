@@ -182,12 +182,6 @@
       <File>AndTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Angling TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Angling TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Animal Planet">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -678,8 +672,14 @@
       <File>British Muslim.png</File>
     </Channel>
     <Channel>
-      <Item Name="BT Showcase">
+      <Item Name="BT Preview">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Preview HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Showcase">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BT Sport.png</File>
     </Channel>
