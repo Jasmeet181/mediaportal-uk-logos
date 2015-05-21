@@ -953,6 +953,12 @@
       <File>Chelsea TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Chelsea TV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Chelsea TV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Christmas 24">
         <Provider>Sky (UK)</Provider>
       </Item>
