@@ -3489,6 +3489,12 @@
       <File>Takbeer TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="TalkingPictures">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Talking Pictures TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TBN UK">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
