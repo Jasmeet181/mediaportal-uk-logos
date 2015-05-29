@@ -502,17 +502,14 @@
       <File>BBC Red Button.png</File>
     </Channel>
     <Channel>
+      <Item Name="6811">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC RB HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC RB 0">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Red Button Zero.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC RB 1">
@@ -522,31 +519,49 @@
       <File>BBC Red Button One.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC RB 2">
+      <Item Name="6802">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="BBC RB 302">
-        <Provider>Freeview (UK)</Provider>
+      <Item Name="BBC RB 2">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Two.png</File>
     </Channel>
     <Channel>
+      <Item Name="6803">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC RB 3">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Three.png</File>
     </Channel>
     <Channel>
+      <Item Name="6804">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC RB 4">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Four.png</File>
     </Channel>
     <Channel>
+      <Item Name="6805">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC RB 5">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Red Button Five.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="6806">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB 6">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BBC Red Button Six.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
@@ -3555,13 +3570,19 @@
       <File>Thane.png</File>
     </Channel>
     <Channel>
-      <Item Name="Thats Oxford">
+      <Item Name="That's Manchester">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Manchester.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="That's Oxford">
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Thats Oxford.png</File>
     </Channel>
     <Channel>
-      <Item Name="Thats Solent">
+      <Item Name="That's Solent">
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Thats Solent.png</File>
