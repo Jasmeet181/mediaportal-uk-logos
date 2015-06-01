@@ -2512,6 +2512,12 @@
       <File>Propeller.png</File>
     </Channel>
     <Channel>
+      <Item Name="Property Show">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Property TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Psychic Today">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3756,6 +3762,9 @@
       <File>TruTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Tru TV+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="TruTV+1">
         <Provider>Freeview (UK)</Provider>
       </Item>
