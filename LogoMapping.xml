@@ -2958,6 +2958,18 @@
       <File>Sky Movies Family HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Gt Brits">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Great Brits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SkyGtBritsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Great Brits HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Greats">
         <Provider>Sky (UK)</Provider>
       </Item>
