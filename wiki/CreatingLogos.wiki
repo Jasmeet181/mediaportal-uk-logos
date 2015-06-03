@@ -35,7 +35,9 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 = Other projects =
 
-*[https://github.com/picons/picons-source Picons for Enigma2 and Kodi]
+*[https://github.com/picons/picons-source Picons-Source]
+
+*[http://www.thelogodb.com/country.php?c=United%20Kingdom TheLogoDB] ([http://forum.kodi.tv/showthread.php?tid=228026 Forum thread])
 
 *[http://www.nextpvr.com/nwiki/pmwiki.php?n=Media.ChannelLogos Channel Logos for nextPVR] ([http://forums.nextpvr.com/showthread.php?54151-UK-Freeview-amp-Freesat-Channel-Logos Forum thread])
 
@@ -45,6 +47,8 @@ Adding to the mapping XML is explained [http://forum.team-mediaportal.com/thread
 
 *[https://github.com/3PO/Senderlogos Senderlogos]
 
+*[http://openvix.co.uk/index.php?dir=***Picons***/ OpenViX picons] ([http://www.world-of-satellite.com/forumdisplay.php?35-Picons Forum])
+
 *[https://www.digitalworldz.co.uk/picons-501/379557-download-rats-dw-picons.html Rat's DW Picons 28.2E]
 
-*[http://openvix.co.uk/index.php?dir=Picons/ OpenViX picons] ([http://www.world-of-satellite.com/forumdisplay.php?35-Picons Forum])
+*[http://hummypkg.org.uk/packages.html Humax Customised Firmware webif-channelicons] ([http://hummy.tv/forum/threads/webif-channelicons.3663/ Forum thread])
