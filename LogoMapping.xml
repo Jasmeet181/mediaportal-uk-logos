@@ -700,7 +700,6 @@
     </Channel>
     <Channel>
       <Item Name="BT Sport 1">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport 1.png</File>
@@ -3618,14 +3617,17 @@
       <File>The Dept Store.png</File>
     </Channel>
     <Channel>
-      <Item Name="Jewellery Ch.">
+      <Item Name="TJC">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="TJC">
+      <File>TJC.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TJC Choice">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>The Jewellery Channel.png</File>
+      <File>TJC Choice.png</File>
     </Channel>
     <Channel>
       <Item Name="The Mall">
