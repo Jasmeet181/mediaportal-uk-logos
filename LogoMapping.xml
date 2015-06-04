@@ -396,7 +396,6 @@
       <Item Name="BBC Two AD">
         <Provider>Virgin Media</Provider>
       </Item>
-      </Item>
       <File>BBC Two.png</File>
     </Channel>
     <Channel>
@@ -650,7 +649,6 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
-      </Item>
       <File>BBC Three.png</File>
     </Channel>
     <Channel>
@@ -658,7 +656,6 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
-      </Item>
       </Item>
       <File>BBC Three HD.png</File>
     </Channel>
@@ -2112,6 +2109,7 @@
       </Item>
       <File>ITVBe +1.png</File>
     </Channel>
+    <Channel>
       <Item Name="ITVBe HD">
         <Provider>Virgin Media</Provider>
       </Item>
