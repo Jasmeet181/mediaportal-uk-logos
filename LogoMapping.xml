@@ -24,6 +24,7 @@
       <Item Name="4music">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>4music.png</File>
     </Channel>
@@ -31,6 +32,7 @@
       <Item Name="4seven">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>4seven.png</File>
     </Channel>
@@ -44,12 +46,14 @@
       <Item Name="5 USA">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>5 USA.png</File>
     </Channel>
     <Channel>
       <Item Name="5 USA +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>5 USA +1.png</File>
     </Channel>
@@ -57,6 +61,7 @@
       <Item Name="5*">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>5_.png</File>
     </Channel>
@@ -99,6 +104,13 @@
     <Channel>
       <Item Name="Adult Channel">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Adult Channel Nightly">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Nightly Adult Channel">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Adult Channel.png</File>
     </Channel>
@@ -111,6 +123,9 @@
     <Channel>
       <Item Name="Africa Channel">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="The Africa Channel">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Africa Channel.png</File>
     </Channel>
@@ -141,6 +156,7 @@
     <Channel>
       <Item Name="Al Jazeera Arabic">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Al Jazeera Arabic.png</File>
     </Channel>
@@ -148,6 +164,9 @@
       <Item Name="Al Jazeera Eng">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Al Jazeera English">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Al Jazeera English.png</File>
     </Channel>
@@ -160,40 +179,51 @@
     <Channel>
       <Item Name="Alibi">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Alibi.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Alibi +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Alibi HD.png</File>
     </Channel>
     <Channel>
       <Item Name="&amp;TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>AndTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Animal Planet">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Animal Planet.png</File>
     </Channel>
     <Channel>
+      <Item Name="Animal Planet +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Animal Plnt+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Animal Planet +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Animal Planet HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="AnimalPlnt HD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -209,12 +239,16 @@
     <Channel>
       <Item Name="ARY Digital">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ARY Digital.png</File>
     </Channel>
     <Channel>
       <Item Name="ARY News">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="ARY News UK">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ARY News.png</File>
     </Channel>
@@ -227,6 +261,7 @@
     <Channel>
       <Item Name="At The Races">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>At The Races.png</File>
     </Channel>
@@ -239,12 +274,14 @@
     <Channel>
       <Item Name="B4U Movies">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>B4U Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="B4U Music">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>B4U Music.png</File>
     </Channel>
@@ -273,6 +310,9 @@
       <Item Name="BabyTV">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Baby TV">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
@@ -293,6 +333,7 @@
       </Item>
       <Item Name="BBC One NI">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC One Northern Ireland.png</File>
     </Channel>
@@ -311,6 +352,7 @@
       </Item>
       <Item Name="BBC One Scotland">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC One Scotland.png</File>
     </Channel>
@@ -327,6 +369,7 @@
       <Item Name="BBC One Wales">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC One Wales.png</File>
     </Channel>
@@ -345,9 +388,14 @@
     <Channel>
       <Item Name="BBC Two">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC Two Eng">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Two AD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       </Item>
       <File>BBC Two.png</File>
     </Channel>
@@ -378,6 +426,10 @@
       <Item Name="BBC Alba">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="BBCAlbahid">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Alba.png</File>
     </Channel>
@@ -385,6 +437,7 @@
       <Item Name="BBC Four">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Four.png</File>
     </Channel>
@@ -392,6 +445,7 @@
       <Item Name="BBC Four HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Four HD.png</File>
     </Channel>
@@ -399,6 +453,7 @@
       <Item Name="BBC News">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC News.png</File>
     </Channel>
@@ -406,12 +461,17 @@
       <Item Name="BBC News HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC News HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="BBC One AD">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One CI">
         <Provider>Freeview (UK)</Provider>
@@ -479,12 +539,16 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC ONE Yorkshire">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC One.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC One HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC One HD.png</File>
     </Channel>
@@ -492,6 +556,7 @@
       <Item Name="BBC Parliament">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Parliament.png</File>
     </Channel>
@@ -515,6 +580,7 @@
       <Item Name="BBC RB 1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Red Button One.png</File>
     </Channel>
@@ -525,6 +591,9 @@
       <Item Name="BBC RB 2">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Red Button 2">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Red Button Two.png</File>
     </Channel>
     <Channel>
@@ -533,6 +602,9 @@
       </Item>
       <Item Name="BBC RB 3">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Red Button 3">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Red Button Three.png</File>
     </Channel>
@@ -543,6 +615,9 @@
       <Item Name="BBC RB 4">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Red Button 4">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Red Button Four.png</File>
     </Channel>
     <Channel>
@@ -551,6 +626,9 @@
       </Item>
       <Item Name="BBC RB 5">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Red Button 5">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Red Button Five.png</File>
     </Channel>
@@ -561,12 +639,17 @@
       <Item Name="BBC RB 6">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Red Button 6">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Red Button Six.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
       </Item>
       <File>BBC Three.png</File>
     </Channel>
@@ -574,6 +657,8 @@
       <Item Name="BBC Three HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
       </Item>
       <File>BBC Three HD.png</File>
     </Channel>
@@ -581,6 +666,7 @@
       <Item Name="BBC Two HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Two HD.png</File>
     </Channel>
@@ -603,6 +689,9 @@
       <File>Best Direct.png</File>
     </Channel>
     <Channel>
+      <Item Name="BET">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="BET:BlackEntTv">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -629,6 +718,7 @@
     <Channel>
       <Item Name="Bloomberg">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Bloomberg.png</File>
     </Channel>
@@ -653,16 +743,21 @@
     <Channel>
       <Item Name="Boomerang">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Boomerang.png</File>
     </Channel>
     <Channel>
       <Item Name="Boomerang +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Boomerang +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Box Nation">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="BoxNation">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -679,6 +774,42 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Brit Asia TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="British Eurosport">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Eurosport">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>British Eurosport.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="British Eurosport HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Eurosport HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>British Eurosport HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="British Eurosport 2">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Eurosport 2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>British Eurosport 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="British Eurosport 2HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Eurosport 2 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>British Eurosport 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="British Muslim">
@@ -704,24 +835,28 @@
     <Channel>
       <Item Name="BT Sport 1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BT Sport 1.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 1 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BT Sport 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 2">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BT Sport 2.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 2 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BT Sport 2 HD.png</File>
     </Channel>
@@ -760,12 +895,18 @@
       <File>Capital TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cartoon Network">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Cartoon Netwrk">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cartoon Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cartoon Network +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="CN+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -775,11 +916,15 @@
       <Item Name="Cartoon Net HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Cartoon Network HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Cartoon Network HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoonito">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Cartoonito.png</File>
     </Channel>
@@ -788,12 +933,16 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="CBBC Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>CBBC.png</File>
     </Channel>
     <Channel>
       <Item Name="CBBC HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CBBC HD.png</File>
     </Channel>
@@ -801,6 +950,7 @@
       <Item Name="CBeebies">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CBeebies.png</File>
     </Channel>
@@ -808,6 +958,7 @@
       <Item Name="CBeebies HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CBeebies HD.png</File>
     </Channel>
@@ -815,12 +966,14 @@
       <Item Name="CBS Action">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CBS Action.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Drama">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CBS Drama.png</File>
     </Channel>
@@ -828,10 +981,14 @@
       <Item Name="CBS Reality">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CBS Reality.png</File>
     </Channel>
     <Channel>
+      <Item Name="CBS Reality +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="CBS Reality+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -847,6 +1004,7 @@
       <Item Name="Challenge">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Challenge FSAT">
         <Provider>Freesat</Provider>
@@ -854,6 +1012,9 @@
       <File>Challenge.png</File>
     </Channel>
     <Channel>
+      <Item Name="Challenge +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Challenge+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -866,12 +1027,17 @@
       <Item Name="Channel 4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Channel 4 Audio Desc">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Channel 4.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 4 +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Channel 4+1">
         <Provider>Freeview (UK)</Provider>
@@ -889,12 +1055,19 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Channel 4HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Channel 4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Channel 5 Audio Desc">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Channel 5.png</File>
     </Channel>
@@ -902,6 +1075,7 @@
       <Item Name="Channel 5+1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Channel 5 +1.png</File>
     </Channel>
@@ -909,12 +1083,14 @@
       <Item Name="Channel 5+24">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Channel 5 +24.png</File>
     </Channel>
     <Channel>
       <Item Name="Channel 5 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Channel 5 HD.png</File>
     </Channel>
@@ -996,6 +1172,7 @@
     <Channel>
       <Item Name="CI">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CI.png</File>
     </Channel>
@@ -1015,6 +1192,7 @@
       <Item Name="CITV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CITV.png</File>
     </Channel>
@@ -1033,6 +1211,7 @@
     <Channel>
       <Item Name="CNBC">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>CNBC.png</File>
     </Channel>
@@ -1046,33 +1225,49 @@
       <Item Name="CNN">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="CNN International">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>CNN.png</File>
     </Channel>
     <Channel>
       <Item Name="Colors">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Colors.png</File>
     </Channel>
     <Channel>
+      <Item Name="Comedy Central">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="ComedyCentral">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central.png</File>
     </Channel>
     <Channel>
+      <Item Name="Comedy Central +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="ComedyCent+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Comedy Central HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="ComedyCentHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Comedy Central HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Comedy Central Extra">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="ComedyXtra">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1089,6 +1284,9 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="The Community Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Community.png</File>
     </Channel>
     <Channel>
@@ -1101,6 +1299,7 @@
       <Item Name="Create &amp; Craft">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Create and Craft.png</File>
     </Channel>
@@ -1108,18 +1307,21 @@
       <Item Name="Dave">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Dave.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave ja vu">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Dave ja vu.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Dave HD.png</File>
     </Channel>
@@ -1134,11 +1336,17 @@
       <Item Name="Disc.History">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Discovery History">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Discovery History.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.History+1">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Discovery History +1">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Discovery History +1.png</File>
     </Channel>
@@ -1146,11 +1354,17 @@
       <Item Name="Disc.Science">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Discovery Science">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Discovery Science.png</File>
     </Channel>
     <Channel>
       <Item Name="Disc.Sci+1">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Discovery Science +1">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Discovery Science +1.png</File>
     </Channel>
@@ -1158,15 +1372,24 @@
       <Item Name="Disc.Turbo">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Discovery Turbo">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Discovery Turbo.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Discovery Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Discovery.png</File>
     </Channel>
     <Channel>
+      <Item Name="Discovery Chan +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Discovery+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1175,22 +1398,30 @@
     <Channel>
       <Item Name="Discovery HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Discovery HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Discovery Shed">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Discovery Shed.png</File>
     </Channel>
     <Channel>
+      <Item Name="Disney Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Disney Chnl">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Disney Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Disney Channel+1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Disney Chnl+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1205,6 +1436,7 @@
     <Channel>
       <Item Name="Disney Junior">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Disney Junior.png</File>
     </Channel>
@@ -1223,10 +1455,14 @@
     <Channel>
       <Item Name="Disney XD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Disney XD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Disney XD +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Disney XD+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1247,10 +1483,14 @@
     <Channel>
       <Item Name="DMAX">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>DMAX.png</File>
     </Channel>
     <Channel>
+      <Item Name="DMAX + 1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="DMAX+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1260,6 +1500,7 @@
       <Item Name="Drama">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Drama.png</File>
     </Channel>
@@ -1272,6 +1513,9 @@
     <Channel>
       <Item Name="E!">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="E! Entertainment">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>E!.png</File>
     </Channel>
@@ -1291,6 +1535,7 @@
       <Item Name="E4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>E4.png</File>
     </Channel>
@@ -1299,17 +1544,22 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="E4 +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>E4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="E4 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>E4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Eden">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Eden.png</File>
     </Channel>
@@ -1317,11 +1567,15 @@
       <Item Name="Eden+1">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Eden +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Eden +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Eden HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Eden HD.png</File>
     </Channel>
@@ -1334,50 +1588,30 @@
     <Channel>
       <Item Name="ESPN">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ESPN.png</File>
     </Channel>
     <Channel>
       <Item Name="ESPN HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ESPN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Estuary TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Estuary TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Euronews">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Euronews.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Eurosport">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>British Eurosport.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Eurosport HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>British Eurosport HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Eurosport 2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>British Eurosport 2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Eurosport 2 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>British Eurosport 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN Catholic">
@@ -1389,11 +1623,15 @@
       <Item Name="ExGirlfriends">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="My Ex Girlfriends">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>ExGirlfriends.png</File>
     </Channel>
     <Channel>
       <Item Name="Extreme Sports">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Extreme Sports.png</File>
     </Channel>
@@ -1413,12 +1651,14 @@
       <Item Name="Film4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Film4.png</File>
     </Channel>
     <Channel>
       <Item Name="Film4 +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Film4+1">
         <Provider>Freeview (UK)</Provider>
@@ -1428,6 +1668,7 @@
     <Channel>
       <Item Name="Film4 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Film4 HD.png</File>
     </Channel>
@@ -1453,6 +1694,7 @@
       <Item Name="Food Network">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Food Network.png</File>
     </Channel>
@@ -1465,6 +1707,7 @@
     <Channel>
       <Item Name="Forces TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Forces TV.png</File>
     </Channel>
@@ -1477,18 +1720,21 @@
     <Channel>
       <Item Name="Fox">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Fox.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox+">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Fox+.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Fox HD.png</File>
     </Channel>
@@ -1502,7 +1748,16 @@
       <Item Name="France Eng">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="France24 (English)">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>France 24.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France24 (Francais)">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>France 24 French.png</File>
     </Channel>
     <Channel>
       <Item Name="Gay Network">
@@ -1514,6 +1769,7 @@
       <Item Name="Gems TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Gems TV.png</File>
     </Channel>
@@ -1542,6 +1798,12 @@
       <File>Get Lucky TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ginx">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Ginx TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Glory TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1550,36 +1812,42 @@
     <Channel>
       <Item Name="God Channel">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>God Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Gold +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Good Food.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Good Food +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Good Food HD.png</File>
     </Channel>
@@ -1592,6 +1860,7 @@
     <Channel>
       <Item Name="H2">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>H2.png</File>
     </Channel>
@@ -1605,6 +1874,7 @@
     <Channel>
       <Item Name="Heat">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Heat.png</File>
     </Channel>
@@ -1626,10 +1896,14 @@
     <Channel>
       <Item Name="History">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>History.png</File>
     </Channel>
     <Channel>
+      <Item Name="History +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="History +1 hour">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1650,10 +1924,14 @@
     <Channel>
       <Item Name="Home &amp; Health">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Home and Health.png</File>
     </Channel>
     <Channel>
+      <Item Name="Home &amp; Health +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Home&amp;Health+">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1668,10 +1946,14 @@
     <Channel>
       <Item Name="Home">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Home.png</File>
     </Channel>
     <Channel>
+      <Item Name="Home +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Home+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1681,12 +1963,16 @@
       <Item Name="Horror Channel">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Horror Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Horror Ch+1">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Horror Channel +1">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Horror Channel +1.png</File>
     </Channel>
@@ -1699,16 +1985,23 @@
     <Channel>
       <Item Name="Hum Europe">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Hum Europe.png</File>
     </Channel>
     <Channel>
+      <Item Name="I.D.">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="ID">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>ID.png</File>
     </Channel>
     <Channel>
+      <Item Name="I.D.+1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="ID+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1724,6 +2017,7 @@
       <Item Name="Ideal World">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Ideal World.png</File>
     </Channel>
@@ -1770,7 +2064,13 @@
       <File>Islam Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Islam TV Urdu">
+      <Item Name="Islam Channel">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Islam Channel Urdu.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Islam Ch Urdu">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Islam TV Urdu.png</File>
@@ -1779,6 +2079,10 @@
       <Item Name="ITV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="ITV Audio Desc">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV.png</File>
     </Channel>
@@ -1786,6 +2090,7 @@
       <Item Name="ITV +1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV +1.png</File>
     </Channel>
@@ -1793,6 +2098,7 @@
       <Item Name="ITVBe">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITVBe.png</File>
     </Channel>
@@ -1801,7 +2107,15 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="ITVBe +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>ITVBe +1.png</File>
+    </Channel>
+      <Item Name="ITVBe HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>ITVBe HD.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV Border">
@@ -1831,6 +2145,7 @@
       <Item Name="ITV HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV HD.png</File>
     </Channel>
@@ -1845,6 +2160,7 @@
       <Item Name="ITV2">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV2.png</File>
     </Channel>
@@ -1854,12 +2170,14 @@
       </Item>
       <Item Name="ITV2 +1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV2 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV2 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV2 HD.png</File>
     </Channel>
@@ -1867,6 +2185,7 @@
       <Item Name="ITV3">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV3.png</File>
     </Channel>
@@ -1875,11 +2194,15 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="ITV3 +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>ITV3 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV3 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV3 HD.png</File>
     </Channel>
@@ -1887,6 +2210,7 @@
       <Item Name="ITV4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV4.png</File>
     </Channel>
@@ -1895,15 +2219,22 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Freeview (UK)</Provider>
       </Item>
+      <Item Name="ITV4 +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>ITV4 +1.png</File>
     </Channel>
     <Channel>
       <Item Name="ITV4 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>ITV4 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Jewellery Maker">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Jewelry Maker">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1916,6 +2247,9 @@
       <File>JML Direct.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kerrang">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Kerrang!">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1930,6 +2264,7 @@
     <Channel>
       <Item Name="Kiss">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Kiss.png</File>
     </Channel>
@@ -1948,6 +2283,7 @@
     <Channel>
       <Item Name="Lifetime">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Lifetime.png</File>
     </Channel>
@@ -1966,6 +2302,9 @@
     <Channel>
       <Item Name="LFCTV">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Liverpool FC TV">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>LFCTV.png</File>
     </Channel>
@@ -2018,6 +2357,7 @@
       <Item Name="Made in Leeds">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Made in Leeds.png</File>
     </Channel>
@@ -2031,6 +2371,7 @@
     <Channel>
       <Item Name="Magic">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Magic.png</File>
     </Channel>
@@ -2058,16 +2399,23 @@
       </Item>
       <Item Name="More 4">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>More4.png</File>
     </Channel>
     <Channel>
+      <Item Name="More 4 +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="More4 +1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>More4 +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="More 4 HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="More4 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2076,6 +2424,7 @@
     <Channel>
       <Item Name="Motors TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Motors TV UK">
         <Provider>Sky (UK)</Provider>
@@ -2091,12 +2440,14 @@
     <Channel>
       <Item Name="Movies 24">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Movies 24.png</File>
     </Channel>
     <Channel>
       <Item Name="Movies 24+">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Movies 24+.png</File>
     </Channel>
@@ -2123,6 +2474,7 @@
     <Channel>
       <Item Name="MTV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV.png</File>
     </Channel>
@@ -2135,12 +2487,14 @@
     <Channel>
       <Item Name="MTV HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Base">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Base.png</File>
     </Channel>
@@ -2153,12 +2507,14 @@
     <Channel>
       <Item Name="MTV Dance">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Dance.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Hits">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Hits.png</File>
     </Channel>
@@ -2171,6 +2527,7 @@
     <Channel>
       <Item Name="MTV Live HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Live HD.png</File>
     </Channel>
@@ -2183,12 +2540,14 @@
     <Channel>
       <Item Name="MTV Music">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Music.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Rocks">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Rocks.png</File>
     </Channel>
@@ -2207,12 +2566,14 @@
     <Channel>
       <Item Name="Mustard TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Mustard TV.png</File>
     </Channel>
     <Channel>
       <Item Name="MUTV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>MUTV.png</File>
     </Channel>
@@ -2232,23 +2593,31 @@
       <Item Name="Nat Geo">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="National Geographic">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Nat Geo.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo+1hr">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="National Geographic+1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Nat Geo +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nat Geo HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo Wild">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nat Geo Wild.png</File>
     </Channel>
@@ -2256,13 +2625,29 @@
       <Item Name="NatGeoWild HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Nat Geo Wild HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Nat Geo Wild HD.png</File>
     </Channel>
     <Channel>
       <Item Name="NDTV 24x7">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>NDTV 24x7.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="NDTV Good Times">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>NDTV Good Times.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Netflix">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Netflix.png</File>
     </Channel>
     <Channel>
       <Item Name="News 18 India">
@@ -2274,6 +2659,9 @@
       <Item Name="NHK World HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="NHKworldHD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>NHK World HD.png</File>
     </Channel>
     <Channel>
@@ -2282,6 +2670,9 @@
       </Item>
       <Item Name="Nick Jr">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Nick Junior">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nick Jr..png</File>
     </Channel>
@@ -2300,6 +2691,7 @@
     <Channel>
       <Item Name="Nick Jr Too">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nick Jr. Too.png</File>
     </Channel>
@@ -2312,16 +2704,23 @@
     <Channel>
       <Item Name="Nickelodeon">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nickelodeon.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nick +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Nickelodeon+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Nickelodeon +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nick HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="NickelodeonHD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2330,12 +2729,16 @@
     <Channel>
       <Item Name="Nicktoons">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nicktoons.png</File>
     </Channel>
     <Channel>
       <Item Name="Nollywood">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Nollywood Movies">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Nollywood Movies.png</File>
     </Channel>
@@ -2348,6 +2751,7 @@
     <Channel>
       <Item Name="Notts TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Notts TV.png</File>
     </Channel>
@@ -2408,6 +2812,7 @@
     <Channel>
       <Item Name="PBS America">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>PBS America.png</File>
     </Channel>
@@ -2433,6 +2838,7 @@
       <Item Name="Pick">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Pick FSAT">
         <Provider>Freesat</Provider>
@@ -2461,8 +2867,17 @@
       <File>Play TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Playboy">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Playboy TV">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Playboy TV Nightly">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Nightly Playboy TV">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Playboy TV.png</File>
     </Channel>
@@ -2504,6 +2919,7 @@
     <Channel>
       <Item Name="Premier Sports">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Premier Sports.png</File>
     </Channel>
@@ -2547,6 +2963,7 @@
       <Item Name="Quest">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Quest.png</File>
     </Channel>
@@ -2555,12 +2972,16 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Quest +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Quest +1.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>QVC.png</File>
     </Channel>
@@ -2599,6 +3020,7 @@
     <Channel>
       <Item Name="Racing UK">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Racing UK.png</File>
     </Channel>
@@ -2606,6 +3028,7 @@
       <Item Name="Really">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Really.png</File>
     </Channel>
@@ -2622,20 +3045,30 @@
       <File>Red Light 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Red Hot 18s">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="RedHot 18s">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>RedHot 18s.png</File>
     </Channel>
     <Channel>
+      <Item Name="Red Hot Amateur">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="RedHot Amateur">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="RedHotAmateur Nightly">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>RedHot Amateur.png</File>
     </Channel>
     <Channel>
       <Item Name="RedHot Mums">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>RedHot Mums.png</File>
     </Channel>
@@ -2654,6 +3087,7 @@
     <Channel>
       <Item Name="Rishtey">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Rishtey.png</File>
     </Channel>
@@ -2716,6 +3150,10 @@
       <Item Name="S4C">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="S4C Audio Desc">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>S4C.png</File>
     </Channel>
@@ -2804,11 +3242,15 @@
       <Item Name="Sky Action">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Action&amp;Adventure">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Movies Action.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Action HD.png</File>
     </Channel>
@@ -2828,9 +3270,15 @@
       <Item Name="Sky Arts 1">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Arts1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Arts 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="SkyArts1HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Sky Arts 1 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2839,12 +3287,14 @@
     <Channel>
       <Item Name="Sky Arts 2">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Arts 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts 2 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Arts 2 HD.png</File>
     </Channel>
@@ -2908,46 +3358,58 @@
     <Channel>
       <Item Name="Sky Comedy">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Comedy.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Comedy HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Comedy HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Thriller">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Crime and Thriller.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Thriller HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Crime and Thriller HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Disney">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Disney.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Disney HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Disney HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Drama &amp; Romance">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Sky DramaRom">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Drama and Romance.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Drama &amp; Rom HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Sky DraRomHD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2956,22 +3418,30 @@
     <Channel>
       <Item Name="Sky Family">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Family.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Family HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Family HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Great Brits">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Sky Gt Brits">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Great Brits.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Great Brits HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="SkyGtBritsHD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2998,30 +3468,35 @@
     <Channel>
       <Item Name="Sky Living">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Living.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living+1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Living +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Living HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Livingit">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Livingit.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Livingit+1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Livingit +1.png</File>
     </Channel>
@@ -3029,12 +3504,14 @@
       <Item Name="Sky News">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky News.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky News HD.png</File>
     </Channel>
@@ -3065,6 +3542,7 @@
     <Channel>
       <Item Name="Sky Premiere">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Premiere.png</File>
     </Channel>
@@ -3072,9 +3550,15 @@
       <Item Name="Sky Prem+1">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Premiere 1hr">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Movies Premiere +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Premiere HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="SkyPremiereHD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3084,29 +3568,38 @@
       <Item Name="Sky ScFi/Horror">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky ScFi Horror">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Movies Sci-fi and Horror.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky ScFi/HorHD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky SciFi &amp; Hor HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Movies Sci-fi and Horror HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Select">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Select.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Select HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Select HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Showcase">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Showcase.png</File>
     </Channel>
@@ -3114,11 +3607,15 @@
       <Item Name="Sky ShowcseHD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Showcase HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Movies Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports 1.png</File>
     </Channel>
@@ -3126,11 +3623,15 @@
       <Item Name="Sky Sports 1 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports 1HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 2">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports 2.png</File>
     </Channel>
@@ -3138,11 +3639,15 @@
       <Item Name="Sky Sports 2 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports 2HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports 2 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 3">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports 3.png</File>
     </Channel>
@@ -3150,11 +3655,15 @@
       <Item Name="Sky Sports 3 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports 3HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports 3 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 4">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports 4.png</File>
     </Channel>
@@ -3162,11 +3671,15 @@
       <Item Name="Sky Sports 4 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports 4HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports 4 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports 5">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports 5.png</File>
     </Channel>
@@ -3174,11 +3687,41 @@
       <Item Name="Sky Sports 5 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports 5HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports 5 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sports Active">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="SptsETV01">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV02">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV03">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV04">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV05">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV06">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV07">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV08">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="SptsETV09">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports Active.png</File>
     </Channel>
@@ -3195,6 +3738,12 @@
       <File>Sky Sports Ashes HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Live Events Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Sky Events">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="SkySpBoxOff">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3221,6 +3770,7 @@
     <Channel>
       <Item Name="Sky Sports F1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports F1.png</File>
     </Channel>
@@ -3228,17 +3778,26 @@
       <Item Name="Sky Spts F1 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports F1HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports F1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sp NewsHQ">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sky Sports News HQ">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Sky Sports News HQ.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky SpN HQ HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports News HQ HD">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Sports News HQ HD.png</File>
     </Channel>
@@ -3305,6 +3864,7 @@
     <Channel>
       <Item Name="Sky1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Sky1 ">
         <Provider>Sky (UK)</Provider>
@@ -3320,12 +3880,14 @@
     <Channel>
       <Item Name="Sky1 HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky2">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky2.png</File>
     </Channel>
@@ -3336,6 +3898,9 @@
       <File>Sky News Arabia.png</File>
     </Channel>
     <Channel>
+      <Item Name="Smash Hits">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Smash Hits!">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3362,6 +3927,7 @@
     <Channel>
       <Item Name="Sony Max">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sony Max.png</File>
     </Channel>
@@ -3380,12 +3946,14 @@
     <Channel>
       <Item Name="Sony Sab">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sony Sab.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sony TV.png</File>
     </Channel>
@@ -3398,6 +3966,7 @@
     <Channel>
       <Item Name="Sony TV Asia">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sony TV Asia.png</File>
     </Channel>
@@ -3411,6 +3980,7 @@
     <Channel>
       <Item Name="Star Gold">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Star Gold.png</File>
     </Channel>
@@ -3423,12 +3993,14 @@
     <Channel>
       <Item Name="Star Life Ok">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Star Life Ok.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Star Plus.png</File>
     </Channel>
@@ -3502,18 +4074,21 @@
     <Channel>
       <Item Name="Syfy">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Syfy.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Syfy +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Syfy HD.png</File>
     </Channel>
@@ -3543,9 +4118,15 @@
       <Item Name="TCM Western">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Turner Classic Movies">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>TCM.png</File>
     </Channel>
     <Channel>
+      <Item Name="TCM +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="TCM+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3557,6 +4138,7 @@
     <Channel>
       <Item Name="TCM HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="TCMWesternHD">
         <Provider>Sky (UK)</Provider>
@@ -3564,9 +4146,16 @@
       <File>TCM HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nightly Television X">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Television X">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Television X Nightly">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Television X.png</File>
     </Channel>
@@ -3610,6 +4199,7 @@
     <Channel>
       <Item Name="The Box">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>The Box.png</File>
     </Channel>
@@ -3620,6 +4210,9 @@
       <File>The Dept Store.png</File>
     </Channel>
     <Channel>
+      <Item Name="The Jewellery Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="TJC">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3657,9 +4250,16 @@
       <File>The Word Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Tiddlers TV">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Tiddlers TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Tiny Pop">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Tiny Pop.png</File>
     </Channel>
@@ -3672,12 +4272,14 @@
     <Channel>
       <Item Name="TLC">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>TLC.png</File>
     </Channel>
     <Channel>
       <Item Name="TLC+1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>TLC +1.png</File>
     </Channel>
@@ -3690,6 +4292,7 @@
     <Channel>
       <Item Name="TLC HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>TLC HD.png</File>
     </Channel>
@@ -3697,6 +4300,7 @@
       <Item Name="Travel Channel">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Travel Channel.png</File>
     </Channel>
@@ -3730,6 +4334,7 @@
       </Item>
       <Item Name="True Entertainment">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>True Entertainment.png</File>
     </Channel>
@@ -3742,6 +4347,7 @@
     <Channel>
       <Item Name="True Movies 1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>True Movies 1.png</File>
     </Channel>
@@ -3806,6 +4412,9 @@
       <File>TV3 +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="TV5">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="TV5 Monde">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3838,6 +4447,7 @@
     <Channel>
       <Item Name="UMP Movies">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>UMP Movies.png</File>
     </Channel>
@@ -3845,9 +4455,15 @@
       <Item Name="Universal">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Universal Channel">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Universal.png</File>
     </Channel>
     <Channel>
+      <Item Name="Universal Channel +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Universal+1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3906,21 +4522,72 @@
     <Channel>
       <Item Name="VH1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>VH1.png</File>
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Vintage TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adult Previews">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="PIN Protection Help">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Virgin iD">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="Virgin Media Previews">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Virgin Media.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Movies Preview">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Virgin Movies.png</File>
+    </Channel>
+    <Channel>
+      <File>.png</File>
     </Channel>
     <Channel>
       <Item Name="Viva">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Viva.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VMDance">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="VMHits">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="VMPlaylist">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="VMRocks">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="VMTakeover">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="VMUrban">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="VTV Music On Demand">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>VMMusic.png</File>
     </Channel>
     <Channel>
       <Item Name="Vox Africa">
@@ -3931,20 +4598,29 @@
     <Channel>
       <Item Name="Watch">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Watch.png</File>
     </Channel>
     <Channel>
       <Item Name="Watch +1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Watch +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Watch HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Watch HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Worldbox">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Worldbox.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Xpanded TV">
@@ -4003,6 +4679,7 @@
     <Channel>
       <Item Name="XXX Mums">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>XXX Mums.png</File>
     </Channel>
@@ -4010,36 +4687,50 @@
       <Item Name="Yesterday">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Yesterday.png</File>
     </Channel>
     <Channel>
+      <Item Name="Yesterday +1">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Yesterday+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Yesterday +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="YouTube">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>YouTube.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Zee Cinema">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Zee Cinema.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee Punjabi">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Zee Punjabi.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Zee TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Zing">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Zing.png</File>
     </Channel>
@@ -4047,6 +4738,9 @@
   <!-- ******************************************************************** -->
   <Radio>
     <Channel>
+      <Item Name="Absolute Classic Rock">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Classic Rock">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4070,6 +4764,7 @@
     <Channel>
       <Item Name="Absolute 80s">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Absolute Radio 80s.png</File>
     </Channel>
@@ -4083,15 +4778,9 @@
       <Item Name="BBC London">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC London.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC 6 Music">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Radio 6 Music.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Asian">
@@ -4099,6 +4788,9 @@
       </Item>
       <Item Name="BBC Asian Net.">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Asian Network">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Asian Network.png</File>
     </Channel>
@@ -4112,6 +4804,9 @@
       <Item Name="BBC R Cymru">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Cymru">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio Cymru.png</File>
     </Channel>
@@ -4151,6 +4846,9 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Radio nan Gaidhea">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Radio nan Gaidheal.png</File>
     </Channel>
     <Channel>
@@ -4176,6 +4874,9 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Radio Scotland">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Radio Scotland.png</File>
     </Channel>
     <Channel>
@@ -4189,12 +4890,18 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Radio Ulster">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Radio Ulster.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Wales">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Wales">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio Wales.png</File>
     </Channel>
@@ -4204,6 +4911,7 @@
       </Item>
       <Item Name="BBC Radio 1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio 1.png</File>
     </Channel>
@@ -4211,6 +4919,9 @@
       <Item Name="BBC R1X">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio 1 Xtra">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio 1Xtra.png</File>
     </Channel>
@@ -4220,6 +4931,7 @@
       </Item>
       <Item Name="BBC Radio 2">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio 2.png</File>
     </Channel>
@@ -4229,6 +4941,7 @@
       </Item>
       <Item Name="BBC Radio 3">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio 3.png</File>
     </Channel>
@@ -4238,6 +4951,9 @@
       </Item>
       <Item Name="BBC Radio 4 Ex">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio 4 Extra">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio 4 Extra.png</File>
     </Channel>
@@ -4251,12 +4967,21 @@
       <Item Name="BBC Radio 4">
         <Provider>Freeview (UK)</Provider>
       </Item>
+      <Item Name="BBC Radio 4 FM">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="BBC Radio 4 LW">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Radio 4.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R5L">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio 5 live">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Radio 5 Live.png</File>
     </Channel>
@@ -4265,7 +4990,20 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Radio 5 Sports Ex">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Radio 5 Live Sports Extra.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC 6 Music">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio 6 Music">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Radio 6 Music.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Bristol">
@@ -4280,11 +5018,14 @@
       <File>BBC WM.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC WS">
-        <Provider>Sky (UK)</Provider>
+      <Item Name="BBC World Service">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC World Sv.">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC WS">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC World Service.png</File>
     </Channel>
@@ -4298,12 +5039,16 @@
       <Item Name="Capital FM">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Capital FM.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital Xtra">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="CapitalXTRA">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Capital Xtra.png</File>
     </Channel>
@@ -4317,6 +5062,7 @@
       <Item Name="Classic FM">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Classic FM.png</File>
     </Channel>
@@ -4341,6 +5087,7 @@
     <Channel>
       <Item Name="Gold">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Gold.png</File>
     </Channel>
@@ -4348,6 +5095,9 @@
       <Item Name="Heart">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Heart FM">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Heart.png</File>
     </Channel>
@@ -4392,6 +5142,9 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Kiss FM">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>Kiss.png</File>
     </Channel>
     <Channel>
@@ -4411,12 +5164,16 @@
       <Item Name="LBC">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>LBC Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="LBC News">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="LBC London News">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>LBC News 1152.png</File>
     </Channel>
@@ -4430,6 +5187,9 @@
       <Item Name="Magic">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Magic Radio">
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Magic.png</File>
     </Channel>
@@ -4448,6 +5208,7 @@
     <Channel>
       <Item Name="Planet Rock">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Planet Rock.png</File>
     </Channel>
@@ -4497,6 +5258,9 @@
       <File>RTE Raidio na Gaeltachta.png</File>
     </Channel>
     <Channel>
+      <Item Name="RTE Radio">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="RTE Radio 1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4511,6 +5275,9 @@
     <Channel>
       <Item Name="Smooth">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Smooth FM">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Smooth Radio">
         <Provider>Freeview (UK)</Provider>
@@ -4533,6 +5300,7 @@
       <Item Name="Talksport">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Talksport.png</File>
     </Channel>
@@ -4591,9 +5359,15 @@
       <Item Name="UCB UK">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Utd Christian Bcastng">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>UCB UK.png</File>
     </Channel>
     <Channel>
+      <Item Name="World Radio Network">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="WRN Europe">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4602,6 +5376,7 @@
     <Channel>
       <Item Name="XFM">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>XFM.png</File>
     </Channel>
