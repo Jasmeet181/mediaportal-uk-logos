@@ -344,6 +344,7 @@
       </Item>
       <Item Name="BBC One NI HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC One Northern Ireland HD.png</File>
     </Channel>
@@ -364,6 +365,9 @@
       <Item Name="BBC One ScotHD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC One Scotland HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC One Scotland HD.png</File>
     </Channel>
     <Channel>
@@ -383,6 +387,7 @@
       </Item>
       <Item Name="BBC One Wales HD">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC One Wales HD.png</File>
     </Channel>
@@ -405,6 +410,7 @@
       </Item>
       <Item Name="BBC Two NI">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Two Northern Ireland.png</File>
     </Channel>
@@ -413,12 +419,16 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC Two Scotland">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>BBC Two Scotland.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two Wales">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC Two Wales.png</File>
     </Channel>
@@ -485,9 +495,18 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC One East East">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="BBC One East Midlands">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="BBC One East W">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC One East West">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One Lon">
         <Provider>Freeview (UK)</Provider>
@@ -497,18 +516,28 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BBC One NE &amp; Cumbria">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="BBC One N West">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC One North West">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One Oxf">
         <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="BBC One Oxford">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One S East">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC One South East">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One SEast">
         <Provider>Freeview (UK)</Provider>
@@ -516,9 +545,13 @@
       <Item Name="BBC One South">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One S West">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC One South West">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One SWest">
         <Provider>Freeview (UK)</Provider>
@@ -530,6 +563,10 @@
       <Item Name="BBC One West">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="BBC One West Midlands">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC One Yk&amp;Li">
         <Provider>Freeview (UK)</Provider>
@@ -538,6 +575,9 @@
       <Item Name="BBC One Yorks">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC One Yorks &amp; Lincs">
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="BBC ONE Yorkshire">
         <Provider>Virgin Media</Provider>
@@ -2083,6 +2123,18 @@
       <Item Name="ITV Audio Desc">
         <Provider>Virgin Media</Provider>
       </Item>
+      <Item Name="ITV Anglia">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="ITV London">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="ITV Meridian">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="ITV Yorkshire">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <File>ITV.png</File>
     </Channel>
     <Channel>
@@ -2369,6 +2421,8 @@
       <Item Name="Made In Tn&amp;Wr">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Made In Tyne &amp; Wear">
         <Provider>Virgin Media</Provider>
       </Item>
       <File>Made In Tyne and Wear.png</File>
@@ -2779,9 +2833,11 @@
       <File>NTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Northern Visions">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="NVTV">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media</Provider>
       </Item>
       <File>NVTV.png</File>
     </Channel>
@@ -3133,9 +3189,11 @@
       <File>RTE ONE +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="RTE Two">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="RTE2">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="RTÉ2">
         <Provider>Freeview (UK)</Provider>
@@ -3202,9 +3260,11 @@
       <File>Setanta Sports 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sheffield Live TV">
+        <Provider>Virgin Media</Provider>
+      </Item>
       <Item Name="Sheffield Live! TV">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
     </Channel>
@@ -4208,6 +4268,7 @@
     <Channel>
       <Item Name="That's Solent">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Thats Solent.png</File>
     </Channel>
@@ -4494,6 +4555,8 @@
       <Item Name="UTV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Ulster TV">
         <Provider>Virgin Media</Provider>
       </Item>
       <File>UTV.png</File>
