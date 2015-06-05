@@ -324,6 +324,7 @@
     <Channel>
       <Item Name="BayTVLiverpool">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Bay TV Liverpool.png</File>
     </Channel>
@@ -697,6 +698,7 @@
     <Channel>
       <Item Name="Big Centre TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Big Centre TV.png</File>
     </Channel>
@@ -2061,13 +2063,13 @@
       <File>Islam Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Islam Channel">
+      <Item Name="Islam Ch Urdu">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Islam Channel Urdu.png</File>
     </Channel>
     <Channel>
-      <Item Name="Islam Ch Urdu">
+      <Item Name="Islam TV Urdu">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Islam TV Urdu.png</File>
@@ -2275,6 +2277,7 @@
     <Channel>
       <Item Name="Latest TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Latest TV.png</File>
     </Channel>
@@ -2316,6 +2319,7 @@
       <Item Name="London Live">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>London Live.png</File>
     </Channel>
@@ -2341,6 +2345,7 @@
       <Item Name="Made In Bristol">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Made In Bristol.png</File>
     </Channel>
@@ -2348,6 +2353,7 @@
       <Item Name="Made In Cardiff">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Made In Cardiff.png</File>
     </Channel>
@@ -2363,6 +2369,7 @@
       <Item Name="Made In Tn&amp;Wr">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Made In Tyne and Wear.png</File>
     </Channel>
@@ -2774,6 +2781,7 @@
     <Channel>
       <Item Name="NVTV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>NVTV.png</File>
     </Channel>
@@ -3111,6 +3119,7 @@
     <Channel>
       <Item Name="RTE One">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="RTÉ One">
         <Provider>Freeview (UK)</Provider>
@@ -3126,6 +3135,7 @@
     <Channel>
       <Item Name="RTE2">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="RTÉ2">
         <Provider>Freeview (UK)</Provider>
@@ -3194,6 +3204,7 @@
     <Channel>
       <Item Name="Sheffield Live! TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
     </Channel>
@@ -4033,12 +4044,14 @@
       <Item Name="STV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>STV.png</File>
     </Channel>
     <Channel>
       <Item Name="STV +1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>STV +1.png</File>
     </Channel>
@@ -4046,6 +4059,7 @@
       <Item Name="STV Edinburgh">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>STV Edinburgh.png</File>
     </Channel>
@@ -4053,6 +4067,7 @@
       <Item Name="STV Glasgow">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>STV Glasgow.png</File>
     </Channel>
@@ -4060,6 +4075,7 @@
       <Item Name="STV HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>STV HD.png</File>
     </Channel>
@@ -4167,6 +4183,7 @@
       <Item Name="TG4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>TG4.png</File>
     </Channel>
@@ -4477,12 +4494,14 @@
       <Item Name="UTV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>UTV.png</File>
     </Channel>
     <Channel>
       <Item Name="UTV +1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>UTV +1.png</File>
     </Channel>
@@ -4490,6 +4509,7 @@
       <Item Name="UTV HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
       </Item>
       <File>UTV HD.png</File>
     </Channel>
