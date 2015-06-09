@@ -863,15 +863,6 @@
       <File>BT Showcase.png</File>
     </Channel>
     <Channel>
-      <Item Name="BT Preview">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BT Preview HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BT Sport.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BT Sport 1">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
@@ -898,6 +889,31 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>BT Sport 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BT Sport//ESPN">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BT Sport ESPN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BT Sport//ESPN HD">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <Item Name="BTSpt/ESPN HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BT Sport ESPN HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BT Sport Europe">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport EurHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BT Sport Europe.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport Mosaic">
@@ -1623,20 +1639,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Equal World.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ESPN">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>ESPN.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ESPN HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>ESPN HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Estuary TV">
@@ -3087,6 +3089,20 @@
       <File>Racing UK.png</File>
     </Channel>
     <Channel>
+      <Item Name="Real Lives">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Real Lives.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Real Lives+1">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Real Lives +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Really">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3302,12 +3318,6 @@
       <File>Sky.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky 3D">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky 3D.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky Action">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3336,36 +3346,18 @@
       <File>Sky Movies Aliens HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Arts 1">
+      <Item Name="Sky Arts">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Arts1">
         <Provider>Virgin Media</Provider>
       </Item>
-      <File>Sky Arts 1.png</File>
+      <File>Sky Arts.png</File>
     </Channel>
     <Channel>
-      <Item Name="SkyArts1HD">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <Item Name="Sky Arts 1 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Arts 1 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Arts 2">
+      <Item Name="Sky Arts HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
-      <File>Sky Arts 2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Arts 2 HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>Sky Arts 2 HD.png</File>
+      <File>Sky Arts HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Arts Rieu">
@@ -3511,7 +3503,7 @@
       <Item Name="Sky Great Brits HD">
         <Provider>Virgin Media</Provider>
       </Item>
-      <Item Name="SkyGtBritsHD">
+      <Item Name="Sky Gt Brits HD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Movies Great Brits HD.png</File>
@@ -3554,20 +3546,6 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Living HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Livingit">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>Sky Livingit.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Livingit+1">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>Sky Livingit +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News">
