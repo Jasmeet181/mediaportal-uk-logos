@@ -774,12 +774,6 @@
       <File>BON TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="BnanzaBnanza">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BonanzaBonanza.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Boomerang">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
@@ -855,12 +849,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>British Muslim.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BT Showcase">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>BT Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport 1">
@@ -950,6 +938,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport Extra 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BT Showcase">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BT Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital TV">
@@ -3292,6 +3286,12 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Showbiz TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ShowBiz TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase">
