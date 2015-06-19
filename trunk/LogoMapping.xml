@@ -4510,13 +4510,13 @@
       <File>TV Warehouse.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV3+1">
+      <Item Name="TV3">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV3.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV3">
+      <Item Name="TV3+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV3 +1.png</File>
