@@ -4901,7 +4901,6 @@
       <Item Name="BBC  London">
         <Provider>Sky (UK)</Provider>
       </Item>
-    <Channel>
       <Item Name="BBC London">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media</Provider>
