@@ -629,6 +629,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC RB 2">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 2">
@@ -641,6 +642,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC RB 3">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 3">
@@ -4890,6 +4892,12 @@
       <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ahomka RD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Ahomka FM.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC London">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -5186,12 +5194,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Desi Radio.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Diamond RD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Diamond Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN">
