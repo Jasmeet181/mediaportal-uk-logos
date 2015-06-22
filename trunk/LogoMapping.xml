@@ -4898,9 +4898,12 @@
       <File>Ahomka FM.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC  London">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+    <Channel>
       <Item Name="BBC London">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
       <File>BBC London.png</File>
