@@ -864,6 +864,12 @@
       <File>Boomerang +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Boomerang HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Boomerang HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Box Nation">
         <Provider>Virgin Media</Provider>
       </Item>
