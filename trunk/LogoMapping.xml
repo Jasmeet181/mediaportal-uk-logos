@@ -2688,13 +2688,6 @@
       <File>MTV +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>MTV HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="MTV Base">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
@@ -2713,6 +2706,13 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Dance.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>MTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Hits">
@@ -2746,6 +2746,12 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>MTV Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Pride">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MTV Pride.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Rocks">
