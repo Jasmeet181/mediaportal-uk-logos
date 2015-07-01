@@ -301,7 +301,7 @@
       <File>Babes From TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Babestation">
+      <Item Name="Babenation">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Adult Babestn2">
@@ -3034,7 +3034,7 @@
       <Item Name="Paversshoes.tv">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Paversshoes.tv.png</File>
+      <File>Pavers.png</File>
     </Channel>
     <Channel>
       <Item Name="PBS America">
