@@ -1832,6 +1832,12 @@
       <File>Flava.png</File>
     </Channel>
     <Channel>
+      <Item Name="Flirt and Chat">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Flirt and Chat.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Flow TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2140,6 +2146,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Horse and Country.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hot Chat TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Hot Chat TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Hum Europe">
@@ -3302,12 +3314,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Record TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Red Light 1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Red Light 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Red Hot 18s">
@@ -4858,12 +4864,6 @@
       <File>TVC News +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="UCB TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>UCB TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ummah TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5060,9 +5060,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="Xpanded TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Xpanded TV 2">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Xpanded TV.png</File>
@@ -5821,36 +5818,12 @@
       <File>U105.png</File>
     </Channel>
     <Channel>
-      <Item Name="UCB Bible">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>UCB Bible.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UCB Gospel">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>UCB Gospel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UCB Insp">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="UCB Inspirational">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>UCB Insp.png</File>
-    </Channel>
-    <Channel>
       <Item Name="UCB Ireland">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>UCB Ireland.png</File>
     </Channel>
     <Channel>
-      <Item Name="UCB UK">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Utd Christian Bcastng">
         <Provider>Virgin Media</Provider>
       </Item>
