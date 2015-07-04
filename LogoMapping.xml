@@ -5824,15 +5824,6 @@
       <File>UCB Ireland.png</File>
     </Channel>
     <Channel>
-      <Item Name="UCB UK">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Utd Christian Bcastng">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>UCB UK.png</File>
-    </Channel>
-    <Channel>
       <Item Name="World Radio Network">
         <Provider>Virgin Media</Provider>
       </Item>
