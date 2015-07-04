@@ -5824,6 +5824,9 @@
       <File>UCB Ireland.png</File>
     </Channel>
     <Channel>
+      <Item Name="UCB UK">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Utd Christian Bcastng">
         <Provider>Virgin Media</Provider>
       </Item>
