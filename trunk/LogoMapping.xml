@@ -214,6 +214,12 @@
       <File>AndTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="&amp;TV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>AndTV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Animal Planet">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
