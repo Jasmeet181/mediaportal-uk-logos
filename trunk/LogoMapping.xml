@@ -983,7 +983,7 @@
       <Item Name="BT Sport//ESPN HD">
         <Provider>Virgin Media</Provider>
       </Item>
-      <Item Name="BTSpt/ESPN HD">
+      <Item Name="BTSpt//ESPNHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport ESPN HD.png</File>
