@@ -643,81 +643,15 @@
       <File>BBC Parliament.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Red Button">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>BBC Red Button.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC RB HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>BBC Red Button HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC RB 1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
-      <File>BBC Red Button One.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC RB 2">
+      <Item Name="BBC Red Button">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="BBC Red Button 2">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>BBC Red Button Two.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC RB 3">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Red Button 3">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>BBC Red Button Three.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="6804">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC RB 4">
-        <Provider>Freesat</Provider>
-      </Item>
-      <Item Name="BBC Red Button 4">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>BBC Red Button Four.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="6805">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC RB 5">
-        <Provider>Freesat</Provider>
-      </Item>
-      <Item Name="BBC Red Button 5">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>BBC Red Button Five.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="6806">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC RB 6">
-        <Provider>Freesat</Provider>
-      </Item>
-      <Item Name="BBC Red Button 6">
-        <Provider>Virgin Media</Provider>
-      </Item>
-      <File>BBC Red Button Six.png</File>
+      <File>BBC Red Button.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
@@ -2990,6 +2924,7 @@
     <Channel>
       <Item Name="Notts TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
       <File>Notts TV.png</File>
@@ -3181,6 +3116,12 @@
       <File>Premier Sports.png</File>
     </Channel>
     <Channel>
+      <Item Name="Premier HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Premier Sports HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Propeller">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3283,12 +3224,6 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>Racing UK.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Ramadan TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Ramadan TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Real Lives">
@@ -3479,6 +3414,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Setanta Sports 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Setanta HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Setanta Sports HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sheffield Live TV">
