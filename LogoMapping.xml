@@ -643,15 +643,83 @@
       <File>BBC Parliament.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Red Button">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Red Button.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC RB 1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
-      <Item Name="BBC Red Button">
+      <File>BBC Red Button 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC RB 2">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
-      <File>BBC Red Button.png</File>
+      <Item Name="BBC Red Button 2">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Red Button 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC RB 3">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Red Button 3">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Red Button 3.png</File>
+    </Channel>
+<!--
+    <Channel>
+      <Item Name="6804">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB 4">
+        <Provider>Freesat</Provider>
+      </Item>
+      <Item Name="BBC Red Button 4">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Red Button 4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="6805">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB 5">
+        <Provider>Freesat</Provider>
+      </Item>
+      <Item Name="BBC Red Button 5">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Red Button 5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="6806">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB 6">
+        <Provider>Freesat</Provider>
+      </Item>
+      <Item Name="BBC Red Button 6">
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Red Button 6.png</File>
+    </Channel>
+-->
+    <Channel>
+      <Item Name="BBC RB HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>BBC Red Button HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Three">
