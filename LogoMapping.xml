@@ -3991,6 +3991,24 @@
       <File>Sky Movies Superhero HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Movies Tom Cruise">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Tom Cruise">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Tom Cruise.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Movies Tom Cruise HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TomCruiseHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Tom Cruise HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Movies Valentine">
         <Provider>Full Name (UK)</Provider>
       </Item>
