@@ -2210,15 +2210,6 @@
       <File>Information TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Info TV +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Information TV +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Information TV +1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Inspiration">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2437,6 +2428,7 @@
     </Channel>
     <Channel>
       <Item Name="Jewellery Maker">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media</Provider>
       </Item>
       <Item Name="Jewelry Maker">
@@ -3187,6 +3179,9 @@
       <Item Name="Premier HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Premier Sports HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <File>Premier Sports HD.png</File>
     </Channel>
     <Channel>
@@ -3199,7 +3194,19 @@
       <Item Name="Property Show">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Property TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <File>Property TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Property +2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Property TV +2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Property TV +2.png</File>
     </Channel>
     <Channel>
       <Item Name="Psychic Today">
@@ -5247,6 +5254,9 @@
       <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ahomka FM">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Ahomka RD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5724,6 +5734,15 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Premier Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Apni Awaz">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Radio Apni Awaz">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Radio Apni Awaz.png</File>
     </Channel>
     <Channel>
       <Item Name="Rainbow">
