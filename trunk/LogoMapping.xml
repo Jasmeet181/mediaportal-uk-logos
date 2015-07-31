@@ -1018,6 +1018,51 @@
       <File>BT Sport Extra 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="53220">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Extra 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Extra 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="53230">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Extra 3">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Extra 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="53240">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Extra 4">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Extra 4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="53250">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Extra 5">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Extra 5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="53260">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Extra 6">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Extra 6.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Showcase">
         <Provider>Freeview (UK)</Provider>
       </Item>
