@@ -3527,17 +3527,20 @@
       <File>Setanta Ireland.png</File>
     </Channel>
     <Channel>
-      <Item Name="Setanta Sports 1">
+      <Item Name="Setanta Sports">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Setanta Sports1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Setanta Sports 1.png</File>
+      <File>Setanta Sports.png</File>
     </Channel>
     <Channel>
       <Item Name="Setanta HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Setanta Sports HD">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Setanta Sports HD.png</File>
     </Channel>
