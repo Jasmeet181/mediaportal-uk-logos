@@ -2106,7 +2106,10 @@
       <Item Name="High Street TV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="High Street Xtra">
+      <Item Name="High Street TV 2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="High Street TV 3">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>High Street TV.png</File>
