@@ -2156,7 +2156,7 @@
       <Item Name="Home&amp;Health+">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Home and Health+.png</File>
+      <File>Home and Health +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Home">
@@ -4011,6 +4011,24 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>Sky Movies Showcase HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Movies Star Wars">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Star Wars">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Star Wars.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Movies Star Wars HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyStarWarsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Star Wars HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Movies Summer">
