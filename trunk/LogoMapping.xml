@@ -4700,6 +4700,12 @@
       <File>Thane.png</File>
     </Channel>
     <Channel>
+      <Item Name="That's Lancashire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Lancashire.png</File>
+    </Channel>
+    <Channel>
       <Item Name="That's Manchester">
         <Provider>Freeview (UK)</Provider>
       </Item>
