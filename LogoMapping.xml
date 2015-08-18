@@ -207,6 +207,15 @@
       <File>Alibi HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="AMC">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="AMC from BT">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>AMC.png</File>
+    </Channel>
+    <Channel>
       <Item Name="&amp;TV">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media</Provider>
@@ -4872,15 +4881,6 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>True Entertainment.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="True Ent+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="True Entertainment +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>True Entertainment +1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Movies 1">
