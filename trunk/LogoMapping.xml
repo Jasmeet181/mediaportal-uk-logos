@@ -1078,6 +1078,13 @@
       <File>BT Showcase.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cambridge TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media</Provider>
+      </Item>
+      <File>Cambridge TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Capital TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
