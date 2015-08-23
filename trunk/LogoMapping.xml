@@ -1015,6 +1015,9 @@
       <File>BT Sport Europe HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="53297">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BT Sport Mosaic">
         <Provider>Sky (UK)</Provider>
       </Item>
