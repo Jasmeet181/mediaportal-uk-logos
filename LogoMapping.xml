@@ -5177,9 +5177,6 @@
       <File>Virgin Movies.png</File>
     </Channel>
     <Channel>
-      <File>.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Viva">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
