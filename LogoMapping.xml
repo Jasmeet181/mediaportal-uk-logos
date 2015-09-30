@@ -258,7 +258,6 @@
     </Channel>
     <Channel>
       <Item Name="Arise News">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Arise News.png</File>
@@ -3140,7 +3139,7 @@
       <Item Name="Peace TV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Peace TV.png</File>
+      <File>Peace TV English.png</File>
     </Channel>
     <Channel>
       <Item Name="Peace TV Urdu">
@@ -3462,7 +3461,7 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Rocks and Co 1.png</File>
+      <File>Rocks and Co.png</File>
     </Channel>
     <Channel>
       <Item Name="RT">
@@ -3553,7 +3552,7 @@
       <Item Name="Sangat">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sangat.png</File>
+      <File>Sangat Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Scuzz">
@@ -3596,6 +3595,7 @@
     </Channel>
     <Channel>
       <Item Name="Showbiz TV">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>ShowBiz TV.png</File>
@@ -4691,6 +4691,9 @@
       </Item>
       <Item Name="TalkingPictures">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="TalkingPictures TV">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Talking Pictures TV.png</File>
     </Channel>
