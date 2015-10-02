@@ -2544,6 +2544,15 @@
       <File>Kix.png</File>		
     </Channel>
     <Channel>
+      <Item Name="Kix +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Kix+1">		
+        <Provider>Sky (UK)</Provider>		
+      </Item>		
+      <File>Kix +1.png</File>		
+    </Channel>
+    <Channel>
       <Item Name="Latest TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media</Provider>
@@ -3225,15 +3234,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pop +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Pop Girl">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="PopGirl">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>PopGirl.png</File>
     </Channel>
     <Channel>
       <Item Name="Premier Sports">
@@ -5284,16 +5284,16 @@
       <File>XXX Brits.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Extreme">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Extreme.png</File>
-    </Channel>
-    <Channel>
       <Item Name="XXX Girl Girl">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Girl Girl.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX Groups">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Groups.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Mums">
@@ -5322,6 +5322,7 @@
     <Channel>
       <Item Name="YourTV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>YourTV.png</File>
     </Channel>
@@ -5982,6 +5983,15 @@
       <File>Sky.png</File>
     </Channel>
     <Channel>
+      <Item Name="Smooth Extra">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SmoothExtra">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Smooth Extra.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Smooth">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6012,12 +6022,6 @@
         <Provider>Virgin Media</Provider>
       </Item>
       <File>Talksport.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Arrow">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>The Arrow.png</File>
     </Channel>
     <Channel>
       <Item Name="The Hits Radio">
