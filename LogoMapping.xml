@@ -3836,8 +3836,10 @@
     </Channel>
     <Channel>
       <Item Name="Sky Aliens HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky AliensHD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Movies Aliens HD">
         <Provider>Full Name (UK)</Provider>
