@@ -40,8 +40,10 @@
     </Channel>
     <Channel>
       <Item Name="5 USA +1">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="5 USA+1">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>5 USA +1.png</File>
     </Channel>
@@ -243,12 +245,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Animal Planet HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Arise News">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Arise News.png</File>
     </Channel>
     <Channel>
       <Item Name="Arabic Hafla">
@@ -4207,12 +4203,16 @@
       </Item>
       <Item Name="Sky Superhero">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Movies Superhero.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Movies Superhero HD">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Superhero HD">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky SuprheroHD">
         <Provider>Sky (UK)</Provider>
@@ -4243,12 +4243,16 @@
       </Item>
       <Item Name="Sky Valentine">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Movies Valentine.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Movies Valentine HD">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Valentine HD">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky ValentneHD">
         <Provider>Sky (UK)</Provider>
@@ -5338,6 +5342,9 @@
       <File>Viva.png</File>
     </Channel>
     <Channel>
+      <Item Name="VM Music">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="VMDance">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
