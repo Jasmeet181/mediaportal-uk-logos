@@ -40,7 +40,8 @@
     </Channel>
     <Channel>
       <Item Name="5 USA +1">
-        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="5 USA+1">
         <Provider>Freeview (UK)</Provider>
