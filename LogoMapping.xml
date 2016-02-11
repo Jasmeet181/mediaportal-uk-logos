@@ -31,6 +31,23 @@
       <File>4seven HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="5STAR">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>5star.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="5STAR +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="5STAR+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>5star +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="5 USA">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -47,20 +64,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>5 USA +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="5*">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>5_.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="5* +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>5_ +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Aaj Tak">
@@ -1265,8 +1268,10 @@
     </Channel>
     <Channel>
       <Item Name="Channel 5 HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Channel 5HD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5 HD.png</File>
     </Channel>
@@ -1408,6 +1413,8 @@
     <Channel>
       <Item Name="CI">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Crime+Inv">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>CI.png</File>
