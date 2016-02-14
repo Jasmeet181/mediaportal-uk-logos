@@ -2042,7 +2042,7 @@
       <File>Fox News.png</File>
     </Channel>
     <Channel>
-      <Item Name="France 24">
+      <Item Name="France 24 English">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="France Eng">
@@ -2051,16 +2051,16 @@
       <Item Name="France24 (English)">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>France 24.png</File>
+      <File>France 24 English.png</File>
     </Channel>
     <Channel>
-      <Item Name="France 24 French">
+      <Item Name="France 24 Francais">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="France24 (Francais)">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>France 24 French.png</File>
+      <File>France 24 Francais.png</File>
     </Channel>
     <Channel>
       <Item Name="Gay Network">
@@ -4012,6 +4012,9 @@
       <File>Sky Movies Greats HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Harry Potter">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="HarryPotter">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4021,6 +4024,9 @@
       <File>Sky Movies Harry Potter.png</File>
     </Channel>
     <Channel>
+      <Item Name="Harry Potter HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="HarryPotterHD">
         <Provider>Sky (UK)</Provider>
       </Item>
