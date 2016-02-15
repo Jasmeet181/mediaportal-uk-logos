@@ -1412,21 +1412,28 @@
     </Channel>
     <Channel>
       <Item Name="CI">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Crime+Inv">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>CI.png</File>
     </Channel>
     <Channel>
       <Item Name="CI +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Crime+Inv +1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>CI +1.png</File>
     </Channel>
     <Channel>
       <Item Name="CI HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Crime+Inv HD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>CI HD.png</File>
@@ -2893,12 +2900,6 @@
       <File>MTV Hits.png</File>
     </Channel>
     <Channel>
-      <Item Name="MTV Live">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>MTV Live.png</File>
-    </Channel>
-    <Channel>
       <Item Name="MTV Live HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2917,6 +2918,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>MTV Music.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Music +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MTV Music +1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Pride">
@@ -3929,7 +3936,7 @@
       <Item Name="Sky Drama &amp; Romance">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky DramaRom">
+      <Item Name="SkyDramaRom">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Movies Drama &amp; Romance">
@@ -5389,25 +5396,25 @@
       <File>Vox Africa.png</File>
     </Channel>
     <Channel>
-      <Item Name="Watch">
+      <Item Name="W">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Watch.png</File>
+      <File>W.png</File>
     </Channel>
     <Channel>
-      <Item Name="Watch +1">
+      <Item Name="W +1">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Watch +1.png</File>
+      <File>W +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Watch HD">
+      <Item Name="W HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Watch HD.png</File>
+      <File>W HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Wellbeing">
