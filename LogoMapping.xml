@@ -3680,6 +3680,12 @@
       <File>Showcase +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Showcase 3">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Showcase 3.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sikh Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
