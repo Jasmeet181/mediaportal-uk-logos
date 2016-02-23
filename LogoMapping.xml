@@ -972,9 +972,6 @@
       <File>BT Sport Europe HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="53297">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="BT Sport Extra 0">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -991,51 +988,36 @@
       <File>BT Sport Extra 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="53220">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="BT Sport Extra 2">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="53230">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="BT Sport Extra 3">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 3.png</File>
     </Channel>
     <Channel>
-      <Item Name="53240">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="BT Sport Extra 4">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 4.png</File>
     </Channel>
     <Channel>
-      <Item Name="53250">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="BT Sport Extra 5">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 5.png</File>
     </Channel>
     <Channel>
-      <Item Name="53260">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="BT Sport Extra 6">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 6.png</File>
@@ -1176,9 +1158,6 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Challenge FSAT">
-        <Provider>Freesat</Provider>
-      </Item>
       <File>Challenge.png</File>
     </Channel>
     <Channel>
@@ -1187,9 +1166,6 @@
       </Item>
       <Item Name="Challenge+1">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Challenge+1 FSAT">
-        <Provider>Freesat</Provider>
       </Item>
       <File>Challenge +1.png</File>
     </Channel>
@@ -3255,9 +3231,6 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Pick FSAT">
-        <Provider>Freesat</Provider>
-      </Item>
       <File>Pick.png</File>
     </Channel>
     <Channel>
@@ -3266,9 +3239,6 @@
       </Item>
       <Item Name="Pick+1">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Pick +1 FSAT">
-        <Provider>Freesat</Provider>
       </Item>
       <File>Pick +1.png</File>
     </Channel>
@@ -4072,6 +4042,7 @@
       </Item>
       <Item Name="Sky Oscars">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Movies Oscars.png</File>
     </Channel>
@@ -4081,6 +4052,7 @@
       </Item>
       <Item Name="Sky Oscars HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Movies Oscars HD.png</File>
     </Channel>
@@ -5350,6 +5322,9 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Virgin Media Previews">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="VM Previews">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Virgin Media.png</File>
