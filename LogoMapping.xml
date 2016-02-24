@@ -978,6 +978,9 @@
       <Item Name="BT Sport Mosaic">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="BT Sport Mosaic 2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <File>BT Sport Extra.png</File>
     </Channel>
     <Channel>
