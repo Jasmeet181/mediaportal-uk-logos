@@ -78,6 +78,9 @@
       <File>Aastha.png</File>
     </Channel>
     <Channel>
+      <Item Name="ABN">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
       <Item Name="ABN TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1151,9 +1154,25 @@
     </Channel>
     <Channel>
       <Item Name="CCTV News">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>CCTV News.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-4">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>CCTV-4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CCTV-9">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="CCTV-9 Documentary">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>CCTV-9.png</File>
     </Channel>
     <Channel>
       <Item Name="Challenge">
@@ -1302,6 +1321,9 @@
     <Channel>
       <Item Name="Chat Box">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Chatbox">
+        <Provider>Arqiva IPTV</Provider>
       </Item>
       <File>Chat Box.png</File>
     </Channel>
@@ -2050,6 +2072,7 @@
     </Channel>
     <Channel>
       <Item Name="Gay Network">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gay Network.png</File>
@@ -2579,6 +2602,21 @@
       <File>JML Direct.png</File>
     </Channel>
     <Channel>
+      <Item Name="JSTV 1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="JSTV 1 (Promo)">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <Item Name="JSTV 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="JSTV 2 (Promo)">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>JSTV.png</File>		
+    </Channel>
+    <Channel>
       <Item Name="Kerrang">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -2614,6 +2652,24 @@
         <Provider>Sky (UK)</Provider>		
       </Item>		
       <File>Kix +1.png</File>		
+    </Channel>
+    <Channel>
+      <Item Name="Kyknet">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Kyknet (Promo)">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>Kyknet.png</File>		
+    </Channel>
+    <Channel>
+      <Item Name="Kyknet Musiek">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Kyknet Musiek (Promo)">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>Kyknet Musiek.png</File>		
     </Channel>
     <Channel>
       <Item Name="Latest TV">
@@ -2777,11 +2833,11 @@
     </Channel>
     <Channel>
       <Item Name="Motors TV">
-        <Provider>Freeview (UK)</Provider>
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Motors TV UK">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Astra 28.2E</Provider>
       </Item>
       <File>Motors TV UK.png</File>
     </Channel>
@@ -3198,6 +3254,15 @@
       <File>Partyland.png</File>
     </Channel>
     <Channel>
+      <Item Name="Passion">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <Item Name="Passion TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Passion TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Paversshoes.tv">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3381,6 +3446,7 @@
     </Channel>
     <Channel>
       <Item Name="QVC Beauty">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3394,12 +3460,20 @@
     </Channel>
     <Channel>
       <Item Name="QVC Extra">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Extra.png</File>
     </Channel>
     <Channel>
+      <Item Name="QVC Plus">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>QVC Plus.png</File>
+    </Channel>
+    <Channel>
       <Item Name="QVC Style">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Style.png</File>
@@ -3408,6 +3482,9 @@
       <Item Name="Racing UK">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Racing UK (Preview)">
+        <Provider>Arqiva IPTV</Provider>
       </Item>
       <File>Racing UK.png</File>
     </Channel>
@@ -3504,6 +3581,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>RT.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RT Documentary">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="RTД">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
+      <File>RT Documentary.png</File>
     </Channel>
     <Channel>
       <Item Name="RT HD">
@@ -3642,6 +3728,7 @@
     </Channel>
     <Channel>
       <Item Name="Showcase">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase.png</File>
@@ -4586,6 +4673,9 @@
       <File>SmileTV3.png</File>
     </Channel>
     <Channel>
+      <Item Name="SBN TV (Sonlife)">
+        <Provider>Arqiva IPTV</Provider>
+      </Item>
       <Item Name="Sonlife">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5303,6 +5393,7 @@
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
+        <Provider>Arqiva IPTV</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
