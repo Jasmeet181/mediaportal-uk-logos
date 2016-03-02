@@ -150,14 +150,12 @@
     </Channel>
     <Channel>
       <Item Name="Al Jazeera Arabic">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Al Jazeera Arabic.png</File>
     </Channel>
     <Channel>
       <Item Name="Al Jazeera Eng">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Al Jazeera English">
@@ -2292,6 +2290,7 @@
     </Channel>
     <Channel>
       <Item Name="Home">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -2619,6 +2618,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>JML Direct.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Keep It Country">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="KeepItCountry">
+        <Provider>Freesat</Provider>
+      </Item>
+      <File>Keep It Country.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang">
@@ -4816,12 +4824,6 @@
       <File>STV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="SuperCasino">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>SuperCasino.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Syfy">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5513,16 +5515,16 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXXAllNaturals">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX All Naturals.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Amateurs">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Amateurs.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="XXX Big&amp;Bouncy">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Big and Bouncy.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
@@ -6045,6 +6047,7 @@
     <Channel>
       <Item Name="Heart Extra">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Heart Extra.png</File>
     </Channel>
