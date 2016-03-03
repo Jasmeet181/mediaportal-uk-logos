@@ -6055,7 +6055,7 @@
       <Item Name="Heat">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>Heat.png</File>
+      <File>Heat Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Insight Radio">
@@ -6079,7 +6079,7 @@
       <Item Name="Kerrang!">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>Kerrang!.png</File>
+      <File>Kerrang! Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Khushkhabri">
