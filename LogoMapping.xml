@@ -2621,10 +2621,7 @@
     </Channel>
     <Channel>
       <Item Name="Keep It Country">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="KeepItCountry">
-        <Provider>Freesat</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Keep It Country.png</File>
     </Channel>
@@ -3479,6 +3476,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Racing UK.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Racing UK HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Racing UK HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Real Lives">
