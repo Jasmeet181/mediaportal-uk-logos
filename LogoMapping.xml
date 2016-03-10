@@ -2200,6 +2200,12 @@
       <File>H2 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hayu">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Hayu.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Heart TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
