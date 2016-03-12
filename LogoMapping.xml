@@ -2025,6 +2025,12 @@
       <File>Forces TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Formula E">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Formula E.png</File>
+    </Channel>
+    <Channel>
       <Item Name="FoTV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3518,34 +3524,10 @@
       <Item Name="Red Hot">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="RedHot XXX">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>Red Hot.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Red Hot 18s">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="RedHot 18s">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>RedHot 18s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Red Hot Amateur">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="RedHot Amateur">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="RedHotAmateur Nightly">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>RedHot Amateur.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="RedHot Mums">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>RedHot Mums.png</File>
     </Channel>
     <Channel>
       <Item Name="Retail TV">
@@ -5379,6 +5361,9 @@
       <Item Name="Viewers' Wives">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Wives XXX">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>Viewers' Wives.png</File>
     </Channel>
     <Channel>
@@ -5431,27 +5416,6 @@
       <Item Name="VM Music">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="VMDance">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VMHits">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VMPlaylist">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VMRocks">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VMTakeover">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VMUrban">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VTV Music On Demand">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <File>VMMusic.png</File>
     </Channel>
     <Channel>
@@ -5491,6 +5455,18 @@
       <File>Wellbeing Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="French Tier">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Polish Tier">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Portuguese Tier">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Spanish Tier">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Worldbox">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5514,6 +5490,9 @@
     <Channel>
       <Item Name="Xtreme Filth">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Filth XXX">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Xtreme Filth.png</File>
     </Channel>
