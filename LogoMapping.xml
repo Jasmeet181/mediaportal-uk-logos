@@ -4161,6 +4161,26 @@
       <File>Sky Movies Premiere HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Movies Robots">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Robots">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Movies Robots.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Movies Robots HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Robots HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Movies Robots HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Movies Sci Fi &amp; Horror">
         <Provider>Full Name (UK)</Provider>
       </Item>
