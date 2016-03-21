@@ -6064,6 +6064,9 @@
     </Channel>
     <Channel>
       <Item Name="Insight Radio">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="RNIB Connect">
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Insight Radio.png</File>
