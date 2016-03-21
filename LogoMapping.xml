@@ -2085,6 +2085,15 @@
       <File>France 24 Francais.png</File>
     </Channel>
     <Channel>
+      <Item Name="Front Runner">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="FrontRunner">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Front Runner.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Gay Network">
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2381,12 +2390,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Ideal World.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Information TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Information TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Inspiration">
@@ -3718,12 +3721,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Showcase 3">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Showcase 3.png</File>
     </Channel>
     <Channel>
       <Item Name="Sikh Channel">
