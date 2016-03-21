@@ -3096,10 +3096,10 @@
       <File>Netflix.png</File>
     </Channel>
     <Channel>
-      <Item Name="News 18 India">
+      <Item Name="News18">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>News 18 India.png</File>
+      <File>News18.png</File>
     </Channel>
     <Channel>
       <Item Name="NHK World HD">
