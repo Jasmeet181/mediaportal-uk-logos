@@ -2025,12 +2025,6 @@
       <File>Forces TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Formula E">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Formula E.png</File>
-    </Channel>
-    <Channel>
       <Item Name="FoTV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2663,7 +2657,8 @@
       <File>Kiss.png</File>
     </Channel>
     <Channel>
-      <Item Name="Kix">		
+      <Item Name="Kix">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>		
       </Item>		
       <File>Kix.png</File>		
@@ -2793,21 +2788,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>MATV National.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="More>Movies">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>More_Movies.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="M>Movies+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="More>Movies +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>More_Movies +1.png</File>
     </Channel>
     <Channel>
       <Item Name="More4">
@@ -5138,6 +5118,19 @@
       <File>True Christmas.png</File>
     </Channel>
     <Channel>
+      <Item Name="True Crime">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>True Crime.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="True Crime +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>True Crime +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="True Drama">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6063,15 +6056,6 @@
       <File>Heat Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Insight Radio">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="RNIB Connect">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Insight Radio.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Jazz FM">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6191,6 +6175,15 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Rainbow Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="RNIB Connect">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="RNIB Connect Radio">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>RNIB Connect Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ 2FM">
