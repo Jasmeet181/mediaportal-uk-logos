@@ -3435,6 +3435,7 @@
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>QVC Beauty.png</File>
     </Channel>
@@ -3461,6 +3462,7 @@
       <Item Name="QVC Style">
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>QVC Style.png</File>
     </Channel>
