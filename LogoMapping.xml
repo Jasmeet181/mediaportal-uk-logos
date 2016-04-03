@@ -742,19 +742,9 @@
     </Channel>
     <Channel>
       <Item Name="BBC Three">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Three.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Three HD">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Three HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Two">
@@ -3422,6 +3412,15 @@
       <File>QVC.png</File>
     </Channel>
     <Channel>
+      <Item Name="QVC +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="QVC+1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>QVC +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="QVC +1 HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -4047,7 +4046,7 @@
       <Item Name="Harry Potter">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="HarryPotter">
+      <Item Name="Sky HarryPotter">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Movies Harry Potter">
@@ -4059,7 +4058,7 @@
       <Item Name="Harry Potter HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="HarryPotterHD">
+      <Item Name="Sky HarryPotterHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Movies Harry Potter HD">
@@ -4763,6 +4762,9 @@
       <File>Storm.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Studio 66">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
       <Item Name="Studio 66">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4906,15 +4908,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Television X.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Television X Brits">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TVX Brits">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Television X Brits.png</File>
     </Channel>
     <Channel>
       <Item Name="TG4">
@@ -5221,6 +5214,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Warehouse.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TV XXX">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TVXXX">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TV XXX.png</File>
     </Channel>
     <Channel>
       <Item Name="TV3">
