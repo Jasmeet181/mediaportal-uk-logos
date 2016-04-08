@@ -4063,7 +4063,7 @@
       <Item Name="Harry Potter">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky HarryPotter">
+      <Item Name="HarryPotter">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Movies Harry Potter">
@@ -4075,7 +4075,7 @@
       <Item Name="Harry Potter HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky HarryPotterHD">
+      <Item Name="HarryPotterHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Movies Harry Potter HD">
