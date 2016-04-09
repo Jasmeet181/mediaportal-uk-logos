@@ -4084,6 +4084,26 @@
       <File>Sky Movies Harry Potter HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Jurassic">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Movies Jurassic">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Movies Jurassic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Jurassic HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Movies Jurassic HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Movies Jurassic HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Monsters">
         <Provider>Sky (UK)</Provider>
       </Item>
