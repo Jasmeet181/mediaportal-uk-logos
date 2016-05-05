@@ -1282,6 +1282,7 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Channel 5HD">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5 HD.png</File>
@@ -2776,8 +2777,10 @@
     </Channel>
     <Channel>
       <Item Name="Made In Tn&amp;Wr">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Made In Tyne&amp;Wear">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="Made In Tyne &amp; Wear">
         <Provider>Virgin Media (UK)</Provider>
