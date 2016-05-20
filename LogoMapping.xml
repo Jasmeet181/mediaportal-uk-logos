@@ -921,6 +921,12 @@
       <File>British Muslim.png</File>
     </Channel>
     <Channel>
+      <Item Name="BT Showcase">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BT Showcase.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Sport 1">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -1042,13 +1048,13 @@
       <File>BT Sport Extra 6.png</File>
     </Channel>
     <Channel>
-      <Item Name="BT Showcase">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="BT Sport Freeview">
+      <Item Name="BT Sport Show">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>BT Showcase.png</File>
+      <Item Name="BT Sport Showcase">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Showcase.png</File>
     </Channel>
     <Channel>
       <Item Name="Cambridge TV">
@@ -1279,10 +1285,10 @@
     </Channel>
     <Channel>
       <Item Name="Channel 5 HD">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Channel 5HD">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 5 HD.png</File>
@@ -1606,12 +1612,6 @@
       <File>Dave HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Daystar">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Daystar.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Daystar HD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1877,13 +1877,10 @@
       <File>Eden HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Equal World">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="EqualWorld">
+      <Item Name="Eman Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Equal World.png</File>
+      <File>Eman Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Estuary TV">
@@ -3083,6 +3080,20 @@
       <File>NDTV Good Times.png</File>
     </Channel>
     <Channel>
+      <Item Name="NDTV India">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>NDTV India.png</File>
+    </Channel>
+<!--
+    <Channel>
+      <Item Name="NDTV Spice">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>NDTV Spice.png</File>
+    </Channel>
+-->
+    <Channel>
       <Item Name="Netflix">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -3646,6 +3657,14 @@
       </Item>
       <File>S4C.png</File>
     </Channel>
+<!--
+    <Channel>
+      <Item Name="S4C HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>S4C HD.png</File>
+    </Channel>
+-->
     <Channel>
       <Item Name="Safeer TV">
         <Provider>Sky (UK)</Provider>
@@ -5207,6 +5226,7 @@
       </Item>
       <Item Name="TruTV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>TruTV.png</File>
     </Channel>
