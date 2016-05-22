@@ -3657,14 +3657,12 @@
       </Item>
       <File>S4C.png</File>
     </Channel>
-<!--
     <Channel>
       <Item Name="S4C HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>S4C HD.png</File>
     </Channel>
--->
     <Channel>
       <Item Name="Safeer TV">
         <Provider>Sky (UK)</Provider>
