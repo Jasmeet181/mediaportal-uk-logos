@@ -894,6 +894,20 @@
       <File>Boomerang HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Box Hits">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Box Hits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Box Upfront">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Box Upfront.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Box Nation">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -2227,13 +2241,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heart Xmas.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Heat">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Heat.png</File>
     </Channel>
     <Channel>
       <Item Name="Hidayat TV">
@@ -3661,6 +3668,9 @@
       <Item Name="S4C HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      <Item Name="S4C HD Slate">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>S4C HD.png</File>
     </Channel>
     <Channel>
@@ -4679,15 +4689,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Smash Hits">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Smash Hits!">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Smash Hits!.png</File>
     </Channel>
     <Channel>
       <Item Name="SmileTV2">
