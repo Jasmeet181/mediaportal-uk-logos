@@ -2901,6 +2901,12 @@
       <File>MTV +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="MTV 90s">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MTV 90s.png</File>
+    </Channel>
+    <Channel>
       <Item Name="MTV Base">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
