@@ -1079,7 +1079,6 @@
     </Channel>
     <Channel>
       <Item Name="Capital TV">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Capital TV.png</File>
@@ -2230,14 +2229,12 @@
     </Channel>
     <Channel>
       <Item Name="Heart TV">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heart TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Heart Xmas">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Heart Xmas.png</File>
@@ -2643,6 +2640,7 @@
     </Channel>
     <Channel>
       <Item Name="Keep It Country">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Keep It Country.png</File>
@@ -5447,6 +5445,7 @@
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
