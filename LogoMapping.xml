@@ -2258,6 +2258,15 @@
       <File>High Street TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hillsong">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Hillsong Channel">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Hillsong Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="History">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5018,15 +5027,6 @@
       <File>The Box.png</File>
     </Channel>
     <Channel>
-      <Item Name="ChurchChannel">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="The Church Channel">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>The Church Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="The Dept Store">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5618,13 +5618,13 @@
       <File>XXX Mums.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Uniforms">
+      <Item Name="XXX Public Pick Up">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="XXXUniforms">
+      <Item Name="xxxPublicPikUp">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Uniforms.png</File>
+      <File>XXX Public Pick Up.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
