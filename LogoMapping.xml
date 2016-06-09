@@ -3679,6 +3679,7 @@
     </Channel>
     <Channel>
       <Item Name="S4C HD">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="S4C HD Slate">
@@ -4345,26 +4346,28 @@
       <File>Sky Movies Summer HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Movies Superhero">
+      <Item Name="Sky Movies Superheroes">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Superhero">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Movies Superhero.png</File>
+      <Item Name="Sky Superheroes">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Movies Superheroes.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Movies Superhero HD">
+      <Item Name="Sky Movies Superheroes HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky SuprheroHD">
+      <Item Name="SkySuprheroHD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Movies Superhero HD.png</File>
+      <File>Sky Movies Superheroes HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Movies Tom Cruise">
@@ -5752,19 +5755,6 @@
       <File>Ahomka FM.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Radio London">
-        <Provider>Full Name (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="BBC RLondon">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC London">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>BBC Radio London.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Asian">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5775,6 +5765,18 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Asian Network.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Essex">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Essex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Newcastle">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Newcastle.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R1">
@@ -5880,6 +5882,15 @@
       <File>BBC Radio 6 Music.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Berkshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Berkshire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Berkshire.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Bristol">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5898,6 +5909,33 @@
       <File>BBC Radio Cambridgeshire.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Cornwall">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Cornwall">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Cornwall.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Coventry">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Coventry and Warwickshire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Coventry and Warwickshire.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Cumbria">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Cumbria">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Cumbria.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC R Cymru">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -5906,6 +5944,15 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Radio Cymru.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Derby">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Derby">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Derby.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Devon">
@@ -5927,6 +5974,33 @@
       <File>BBC Radio Foyle.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Gloucestershire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Gloucestershire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Gloucestershire.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Hereford">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Hereford and Worcester">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Hereford and Worcester.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Humberside">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Humberside">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Humberside.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Kent">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5934,6 +6008,15 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Radio Kent.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Lancashire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Lancashire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Lancashire.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Leeds">
@@ -5945,6 +6028,34 @@
       <File>BBC Radio Leeds.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Leicester">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Leicester">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Leicester.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Lincolnshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Lincolnshire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Lincolnshire.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Radio London">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="BBC RLondon">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BBC Radio London.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Manchester">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5952,6 +6063,15 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Radio Manchester.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Merseyside">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Merseyside">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Merseyside.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R n Gael">
@@ -5967,15 +6087,6 @@
       <File>BBC Radio nan Gaidheal.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Newcastle">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="BBC Radio Newcastle">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>BBC Radio Newcastle.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Norfolk">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5985,6 +6096,15 @@
       <File>BBC Radio Norfolk.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Northampton">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Northampton">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Northampton.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Nottingham">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5992,6 +6112,15 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Radio Nottingham.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Oxford">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Oxford">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Oxford.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Scot.">
@@ -6004,6 +6133,24 @@
       <File>BBC Radio Scotland.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Sheffield">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Sheffield">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Sheffield.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Shropshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Shropshire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Shropshire.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Solent">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -6011,6 +6158,24 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Radio Solent.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Stoke">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Stoke">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Stoke.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Suffolk">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Suffolk">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Suffolk.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC R Ulster">
@@ -6031,6 +6196,54 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Radio Wales.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC York">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio York">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio York.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Somerset">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Somerset.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Surrey">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Surrey.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Sussex">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Sussex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Tees">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Tees.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Three Counties">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Three Counties Radio">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Three Counties Radio.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Wiltshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BBC Wiltshire.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC WM">
