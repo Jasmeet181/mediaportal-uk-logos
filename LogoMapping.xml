@@ -5767,10 +5767,28 @@
       <File>BBC Asian Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC C&amp;W">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Coventry and Warwickshire">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Coventry and Warwickshire.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Essex">
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Essex.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC H&amp;W">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC Hereford and Worcester">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Hereford and Worcester.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Newcastle">
@@ -5918,15 +5936,6 @@
       <File>BBC Radio Cornwall.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Coventry">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="BBC Radio Coventry and Warwickshire">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>BBC Radio Coventry and Warwickshire.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Cumbria">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5981,15 +5990,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Radio Gloucestershire.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Hereford">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="BBC Radio Hereford and Worcester">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>BBC Radio Hereford and Worcester.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Humberside">
