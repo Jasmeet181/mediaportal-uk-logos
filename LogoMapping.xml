@@ -2140,10 +2140,13 @@
       <Item Name="Ginx">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Ginx TV">
+      <Item Name="Ginx eSports TV">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <File>Ginx TV.png</File>
+      <Item Name="GinxeSportsTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Ginx eSports TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Glory TV">
