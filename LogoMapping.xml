@@ -1518,6 +1518,12 @@
       <File>CNN.png</File>
     </Channel>
     <Channel>
+      <Item Name="CNN HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>CNN HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Colors">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -6326,6 +6332,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>EWTN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Freesat Info">
+        <Provider>Freesat (UK)</Provider>
+      </Item>
+      <File>Freesat.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold">
