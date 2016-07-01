@@ -1349,6 +1349,15 @@
       <File>Chart Show Dance Xmas.png</File>
     </Channel>
     <Channel>
+      <Item Name="Chart Show Summer">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="CS Summer">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Chart Show Summer.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Chat Box">
         <Provider>Sky (UK)</Provider>
       </Item>
