@@ -2323,6 +2323,12 @@
       <File>Home and Health +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Home &amp; Leisure">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Home and Leisure.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Home">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2955,7 +2961,6 @@
     </Channel>
     <Channel>
       <Item Name="MTV Live HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>MTV Live HD.png</File>
@@ -5472,6 +5477,9 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="PIN Protection Help">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="PVR_EPG">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Virgin iD">
