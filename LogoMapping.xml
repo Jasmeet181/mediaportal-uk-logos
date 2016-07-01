@@ -2243,6 +2243,12 @@
       <File>Hayu.png</File>
     </Channel>
     <Channel>
+      <Item Name="Heart Summer">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Heart Summer.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Heart TV">
         <Provider>Sky (UK)</Provider>
       </Item>
