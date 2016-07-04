@@ -4824,12 +4824,6 @@
       <File>Star Gold.png</File>
     </Channel>
     <Channel>
-      <Item Name="Star Jalsha">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Star Jalsha.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Star Life Ok">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -4848,6 +4842,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Star Plus HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Utsav">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Star Utsav.png</File>
     </Channel>
     <Channel>
       <Item Name="Starz TV">
