@@ -1902,6 +1902,24 @@
       <File>Eden HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Eir Sport 1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Eir Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eir Sport 2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Eir Sport 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eir Sport 2 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Eir Sport 2 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Eman Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3736,30 +3754,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Scuzz.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Setanta Ireland">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Setanta Ireland.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Setanta Sports">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Setanta Sports1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Setanta Sports.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Setanta HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Setanta Sports HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Setanta Sports HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sheffield Live TV">
