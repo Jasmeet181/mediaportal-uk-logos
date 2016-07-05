@@ -3182,16 +3182,13 @@
       <Item Name="Nick Jr.">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Nick Jr">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Nick Junior">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Nick Jr.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nick Jr +1">
+      <Item Name="Nick Jr. +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Nick Jr+1">
@@ -3200,8 +3197,17 @@
       <File>Nick Jr +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Nick Jr. HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Nick Jr HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nick Jr Peppa">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Nick Jr. Pepper">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Nick Jr Peppa.png</File>
     </Channel>
@@ -3210,11 +3216,17 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      <Item Name="Nick Jr. Too">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <File>Nick Jr Too.png</File>
     </Channel>
     <Channel>
       <Item Name="Nick Jr Xmas">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Nick Jr. Xmas">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Nick Jr Xmas.png</File>
     </Channel>
