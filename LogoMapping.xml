@@ -372,6 +372,12 @@
       <File>Bay TV Liverpool.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bay TV Swansea">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Bay TV Swansea.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BBC Alba">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3849,21 +3855,591 @@
       </Item>
       <File>Sky Atlantic HD.png</File>
     </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky 80s'">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema 80s">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema 80s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky 80s' HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema 80s HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema 80s HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky 90s">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema 90s">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema 90s.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky 90s HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema 90s HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema 90s HD.png</File>
+    </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Action">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Action&amp;Adventure">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Action &amp; Adventure">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Action and Adventure.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Action HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Action &amp; Adventure HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Action and Adventure HD.png</File>
+    </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Aliens">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Aliens">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Aliens.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Aliens HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky AliensHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Aliens HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Aliens HD.png</File>
+    </Channel>
+    -->
     <Channel>
       <Item Name="Sky Box Office">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Box Office.png</File>
+      <Item Name="Sky Cinema Box Office">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Box Office.png</File>
     </Channel>
     <Channel>
       <Item Name="SBO HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Sky Box Office HD">
+      <Item Name="Sky Cinema Box Office HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <File>Sky Box Office HD.png</File>
+      <File>Sky Cinema Box Office HD.png</File>
     </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Christmas">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Christmas">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Christmas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Christmas HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky ChristmsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Christmas HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Christmas HD.png</File>
+    </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Cinema Comedy">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Comedy">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Comedy.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Comedy HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Comedy HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Comedy HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Crime &amp; Thriller">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Thriller">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Crime and Thriller.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Crime &amp; Thriller HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Thriller HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Crime and Thriller HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Disney">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Disney">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Disney.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Disney HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Disney HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Disney HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Drama &amp; Romance">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Drama &amp; Romance">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyDramaRom">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Drama and Romance.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Drama &amp; Romance HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Drama &amp; Rom HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky DraRomHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Drama and Romance HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Family">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Family">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Family.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Family HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Family HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Family HD.png</File>
+    </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Great Brits">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Gt Brits">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Great Brits">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Great Brits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Great Brits HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Gt Brits HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Great Brits HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Great Brits HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Greats">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Greats">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Greats.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Greats HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Greats HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Greats HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Harry Potter">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="HarryPotter">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Harry Potter">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Harry Potter.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Harry Potter HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="HarryPotterHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Harry Potter HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Harry Potter HD.png</File>
+    </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Cinema Hits">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Hits">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Hits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Hits HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Hits HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Hits HD.png</File>
+    </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Jurassic">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Jurassic">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Jurassic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Jurassic HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Jurassic HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Jurassic HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Monsters">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Monsters">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Monsters.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky MonstrsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Monsters HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Monsters HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Oscars">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Oscars">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Oscars.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Oscars HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Oscars HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Oscars HD.png</File>
+    </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Cinema Premiere">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Premiere">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Premiere.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Premiere +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Prem+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Premiere 1hr">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Premiere +1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Premiere HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Premiere HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyPremiereHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Premiere HD.png</File>
+    </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Cinema Robots">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Robots">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Robots.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Robots HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Robots HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Robots HD.png</File>
+    </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Cinema Sci Fi &amp; Horror">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky ScFi/Horror">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky ScFi Horror">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Sci-Fi and Horror.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Sci Fi &amp; Horror HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky ScFi/HorHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky SciFi &amp; Hor HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Sci-Fi and Horror HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Select">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Select">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Select.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Select HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Select HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Select HD.png</File>
+    </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Cinema Star Wars">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Star Wars">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Star Wars.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Star Wars HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Star Wars HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyStarWarsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Star Wars HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Summer">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Summer">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Summer.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Summer HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Summer HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Summer HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Superheroes">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Superhero">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Superheroes">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Superheroes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Superheroes HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Superhero HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySuprheroHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Superheroes HD.png</File>
+    </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Cinema Tom Cruise">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Tom Cruise">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Tom Cruise.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Tom Cruise HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TomCruiseHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Tom Cruise HD.png</File>
+    </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Cinema Valentine">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Valentine">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Valentine.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Valentine HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Valentine HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky ValentneHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Valentine.png</File>
+    </Channel>
+    -->
     <Channel>
       <Item Name="Sky Insider HD">
         <Provider>Sky (UK)</Provider>
@@ -3893,553 +4469,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Living HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky 80s'">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies 80s">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies 80s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky 80s' HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies 80s HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies 80s HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky 90s">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies 90s">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies 90s.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky 90s HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies 90s HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies 90s HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Action">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Action&amp;Adventure">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Action &amp; Adventure">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Action and Adventure.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Action HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Action &amp; Adventure HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Action and Adventure HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Aliens">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Aliens">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Aliens.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Aliens HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky AliensHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Aliens HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Aliens HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Christmas">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Christmas">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Christmas.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Christmas HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky ChristmsHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Christmas HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Christmas HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Comedy">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Comedy">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Comedy.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Comedy HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Comedy HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Comedy HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Thriller">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Crime &amp; Thriller">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Crime and Thriller.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Thriller HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Crime &amp; Thriller HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Crime and Thriller HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Disney">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Disney.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Disney HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Disney HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Drama &amp; Romance">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="SkyDramaRom">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Drama &amp; Romance">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Drama and Romance.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Drama &amp; Rom HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky DraRomHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Drama &amp; Romance HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Drama and Romance HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Family">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Family">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Family.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Family HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Family HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Family HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Great Brits">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Gt Brits">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Great Brits">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Great Brits.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Great Brits HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Gt Brits HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Great Brits HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Great Brits HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Greats">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Greats">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Greats.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Greats HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Greats HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Greats HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Harry Potter">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="HarryPotter">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Harry Potter">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Harry Potter.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Harry Potter HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="HarryPotterHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Harry Potter HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Harry Potter HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Jurassic">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Jurassic">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Jurassic.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Jurassic HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Jurassic HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Jurassic HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Monsters">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Monsters">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Monsters.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky MonstrsHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Movies Monsters HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Movies Monsters HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Oscars">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Oscars">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Oscars.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Oscars HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Oscars HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Oscars HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Premiere">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Premiere">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Premiere.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Premiere +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Prem+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Premiere 1hr">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Premiere +1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Premiere HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Premiere HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="SkyPremiereHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Premiere HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Robots">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Robots">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Robots.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Robots HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Robots HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Robots HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Sci Fi &amp; Horror">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky ScFi/Horror">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky ScFi Horror">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Sci-fi and Horror.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Sci Fi &amp; Horror HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky ScFi/HorHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky SciFi &amp; Hor HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Sci-fi and Horror HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Select">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Select">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Select.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Select HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Select HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Select HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Showcase">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Showcase">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Showcase.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Showcase HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky ShowcseHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Showcase HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Showcase HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Star Wars">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Star Wars">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Star Wars.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Star Wars HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Star Wars HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="SkyStarWarsHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Star Wars HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Summer">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Summer">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Summer.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Summer HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Summer HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Summer HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Superheroes">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Superhero">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Superheroes">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Superheroes.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Superheroes HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Superhero HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="SkySuprheroHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Superheroes HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Tom Cruise">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Tom Cruise">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Tom Cruise.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Tom Cruise HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TomCruiseHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Tom Cruise HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Valentine">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Valentine">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Movies Valentine.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Movies Valentine HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Valentine HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky ValentneHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Movies Valentine.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky News">
