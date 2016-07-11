@@ -4720,6 +4720,27 @@
       <File>Sky Sports Ryder Cup HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Sports The Open">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky The Open">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports The Open.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports The Open HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports The OpenHD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyTheOpenHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports The Open HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sports World Cup">
         <Provider>Full Name (UK)</Provider>
       </Item>
