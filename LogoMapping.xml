@@ -3444,6 +3444,13 @@
       <File>Pop +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Pop Max">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Pop Max.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Premier Sports">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
