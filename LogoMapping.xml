@@ -4339,6 +4339,28 @@
       </Item>
       <File>Sky Cinema Select HD.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Star Trek">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Star Trek">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Star Trek.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Star Trek HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Star Trek HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyStarTrekHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Star Trek HD.png</File>
+    </Channel>
     <!--
     <Channel>
       <Item Name="Sky Cinema Star Wars">
