@@ -3749,10 +3749,6 @@
     <Channel>
       <Item Name="S4C HD">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="S4C HD Slate">
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>S4C HD.png</File>
     </Channel>
