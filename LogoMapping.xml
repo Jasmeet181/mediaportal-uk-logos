@@ -422,7 +422,7 @@
     </Channel>
     <Channel>
       <Item Name="BBC Olympics 1">
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Olympics 1.png</File>
     </Channel>
@@ -506,7 +506,7 @@
     </Channel>
     <Channel>
       <Item Name="BBC Olympics 8">
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BBC Olympics 8.png</File>
     </Channel>
@@ -5600,6 +5600,9 @@
       <File>Universal +1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Universal Channel HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Universal HD">
         <Provider>Sky (UK)</Provider>
       </Item>
