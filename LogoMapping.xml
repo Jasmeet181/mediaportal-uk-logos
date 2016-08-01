@@ -422,11 +422,15 @@
     </Channel>
     <Channel>
       <Item Name="BBC Olympics 1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 1 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 1 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -435,10 +439,14 @@
     <Channel>
       <Item Name="BBC Olympics 2">
         <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 2.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 2 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 2 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -447,10 +455,14 @@
     <Channel>
       <Item Name="BBC Olympics 3">
         <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 3.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 3 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 3 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -459,10 +471,14 @@
     <Channel>
       <Item Name="BBC Olympics 4">
         <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 4.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 4 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 4 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -471,10 +487,14 @@
     <Channel>
       <Item Name="BBC Olympics 5">
         <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 5.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 5 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 5 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -483,10 +503,14 @@
     <Channel>
       <Item Name="BBC Olympics 6">
         <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 6.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 6 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 6 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -495,10 +519,14 @@
     <Channel>
       <Item Name="BBC Olympics 7">
         <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 7.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 7 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 7 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -506,11 +534,15 @@
     </Channel>
     <Channel>
       <Item Name="BBC Olympics 8">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BBC Olympics 8.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC Olym 8 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Olympics 8 HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4459,6 +4491,28 @@
       <File>Sky Cinema Select HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Spies">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Spies">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Spies.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Spies HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Spies HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySpiesHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Spies HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Star Trek">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -5844,12 +5898,6 @@
       <File>XXX Girl Girl.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Groups">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Groups.png</File>
-    </Channel>
-    <Channel>
       <Item Name="XXX Mums">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5864,6 +5912,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Public Pick Up.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX Real Wives">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Real Wives.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
