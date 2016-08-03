@@ -5276,6 +5276,12 @@
       <File>TG4.png</File>
     </Channel>
     <Channel>
+      <Item Name="TG4 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TG4 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Thane">
         <Provider>Sky (UK)</Provider>
       </Item>
