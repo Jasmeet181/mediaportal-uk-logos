@@ -1127,6 +1127,20 @@
       <File>BT Sport 2 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="BT Sport 3">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>BT Sport 3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BT Sport 3 HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>BT Sport 3 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Sport ESPN">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -1147,23 +1161,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport ESPN HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BT Sport Europe">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BT Sport Europe.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BT Sport EurHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BT Sport Europe HD">
-        <Provider>Full Name (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BT Sport Europe HD.png</File>
     </Channel>
     <Channel>
       <Item Name="BT Sport Extra 0">
