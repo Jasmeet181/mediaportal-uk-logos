@@ -1441,17 +1441,6 @@
       <File>Channel 5 +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Channel 5 +24">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Channel 5+24">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Channel 5 +24.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Channel 5 HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2487,6 +2476,7 @@
     </Channel>
     <Channel>
       <Item Name="Hochanda">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Hochanda.png</File>
@@ -3072,6 +3062,9 @@
       <File>Movies 24+.png</File>
     </Channel>
     <Channel>
+      <Item Name="Movies 4 Men">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Movies4Men">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3240,7 +3233,9 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="My5">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>My5.png</File>
     </Channel>
@@ -3936,6 +3931,12 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Shop 8 to 12">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Shop 8 to 12.png</File>
     </Channel>
     <Channel>
       <Item Name="Showbiz TV">
@@ -5785,6 +5786,15 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Viva.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viva+1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="Viva +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Viva +1.png</File>
     </Channel>
     <Channel>
       <Item Name="VM Music">
