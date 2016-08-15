@@ -40,7 +40,7 @@
     </Channel>
     <Channel>
       <Item Name="5STAR +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="5STAR+1">
         <Provider>Sky (UK)</Provider>
@@ -2245,6 +2245,9 @@
       <Item Name="Fox News">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Fox News Channel">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>Fox News.png</File>
     </Channel>
     <Channel>
@@ -3044,6 +3047,7 @@
     <Channel>
       <Item Name="Movie Mix">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Movie Mix.png</File>
     </Channel>
@@ -4221,6 +4225,28 @@
       <File>Sky Cinema Drama and Romance HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Fairy Tales">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Fairy Tales">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Fairy Tales.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Fairy Tales HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Fairy HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyFairyTlsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Fairy Tales HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Family">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -4265,25 +4291,27 @@
       </Item>
       <File>Sky Cinema Great Brits HD.png</File>
     </Channel>
+    -->
     <Channel>
-      <Item Name="Sky Greats">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Sky Cinema Greats">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Greats">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Greats.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Greats HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Sky Cinema Greats HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="Sky Greats HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>Sky Cinema Greats HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Harry Potter">
         <Provider>Virgin Media (UK)</Provider>
@@ -4883,6 +4911,22 @@
       </Item>
       <File>Sky Sports F1 HD.png</File>
     </Channel>
+    <!--
+    <Channel>
+      <Item Name="Sky Sports Mix">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Sports Mix.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports Mix HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Sports Mix HD.png</File>
+    </Channel>
+    -->
     <Channel>
       <Item Name="Sky Sp NewsHQ">
         <Provider>Sky (UK)</Provider>
@@ -5069,6 +5113,7 @@
       <Item Name="Spike">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Spike.png</File>
     </Channel>
