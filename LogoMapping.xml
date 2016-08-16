@@ -6094,13 +6094,13 @@
       <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ahomka FM">
+      <Item Name="Ahomka Radio">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Ahomka RD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Ahomka FM.png</File>
+      <File>Ahomka Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Asian">
