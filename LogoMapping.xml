@@ -3621,7 +3621,7 @@
       <Item Name="Propeller">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Propeller.png</File>
+      <File>Propeller TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Property Show">
@@ -4911,7 +4911,6 @@
       </Item>
       <File>Sky Sports F1 HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Sports Mix">
         <Provider>Sky (UK)</Provider>
@@ -4920,13 +4919,14 @@
       <File>Sky Sports Mix.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports Mix HD">
+      <Item Name="Sky Sp Mix HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Mix HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Sports Mix HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Sp NewsHQ">
         <Provider>Sky (UK)</Provider>
