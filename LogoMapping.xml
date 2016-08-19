@@ -1010,6 +1010,21 @@
       <File>Bike.png</File>
     </Channel>
     <Channel>
+      <Item Name="Blaze">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Blaze.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Blaze +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Blaze+1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Blaze +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Bloomberg">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2941,6 +2956,9 @@
       <File>London Live.png</File>
     </Channel>
     <Channel>
+      <Item Name="Loveworld">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
       <Item Name="LoveWorld TV">
         <Provider>Sky (UK)</Provider>
       </Item>
