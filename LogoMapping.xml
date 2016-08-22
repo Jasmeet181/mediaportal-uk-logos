@@ -3968,6 +3968,15 @@
       <File>ShowBiz TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Showbiz TV +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Showbiz TV+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ShowBiz TV +1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Showcase">
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
@@ -4578,7 +4587,6 @@
       </Item>
       <File>Sky Cinema Star Trek HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Cinema Star Wars">
         <Provider>Full Name (UK)</Provider>
@@ -4601,6 +4609,7 @@
       </Item>
       <File>Sky Cinema Star Wars HD.png</File>
     </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Cinema Summer">
         <Provider>Full Name (UK)</Provider>
