@@ -421,140 +421,6 @@
       <File>BBC News HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Olympics 1">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 1 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 1 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 1 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 2">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 2 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 2 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 2 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 3">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 3 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 3 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 3 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 4">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 4.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 4 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 4 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 4 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 5">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 5.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 5 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 5 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 5 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 6">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 6.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 6 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 6 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 6 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 7">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 7.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 7 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 7 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 7 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics 8">
-        <Provider>Virgin Media (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 8.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olym 8 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Olympics 8 HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Olympics 8 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC Olympics HD">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>BBC Olympics HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC One">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -819,11 +685,12 @@
     <Channel>
       <Item Name="BBC RB 1">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB1">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button 1.png</File>
     </Channel>
@@ -2297,7 +2164,6 @@
     </Channel>
     <Channel>
       <Item Name="Gay Network">
-        <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gay Network.png</File>
@@ -2958,6 +2824,7 @@
     <Channel>
       <Item Name="Loveworld">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Freeview (UK) IPTV</Provider>
       </Item>
       <Item Name="LoveWorld TV">
         <Provider>Sky (UK)</Provider>
@@ -3324,14 +3191,12 @@
       </Item>
       <File>NDTV India.png</File>
     </Channel>
-<!--
     <Channel>
       <Item Name="NDTV Spice">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>NDTV Spice.png</File>
     </Channel>
--->
     <Channel>
       <Item Name="Netflix">
         <Provider>Virgin Media (UK)</Provider>
@@ -5812,7 +5677,6 @@
     <Channel>
       <Item Name="Vintage TV">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
