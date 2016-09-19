@@ -43,6 +43,7 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="5STAR+1">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>5star +1.png</File>
@@ -1520,6 +1521,7 @@
     </Channel>
     <Channel>
       <Item Name="Clubland TV">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Clubland TV.png</File>
@@ -3566,15 +3568,6 @@
       <File>QVC.png</File>
     </Channel>
     <Channel>
-      <Item Name="QVC +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="QVC+1">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>QVC +1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="QVC +1 HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -3613,6 +3606,7 @@
     </Channel>
     <Channel>
       <Item Name="QVC Style">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3991,6 +3985,30 @@
       <File>Sky Cinema Aliens HD.png</File>
     </Channel>
     -->
+    <Channel>
+      <Item Name="Back2Future">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Back2Future">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Back to the Future">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Back to the Future.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Back2FutureHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Back2Future HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Back to the Future HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Back to the Future HD.png</File>
+    </Channel>
     <Channel>
       <Item Name="Sky Box Office">
         <Provider>Sky (UK)</Provider>
@@ -5282,6 +5300,7 @@
     </Channel>
     <Channel>
       <Item Name="Craft Channel">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="The Craft Channel">
@@ -5486,12 +5505,6 @@
       <File>TV One.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV Record">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV Record.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TV Record HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -5664,6 +5677,18 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>VH1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viceland">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Viceland.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Viceland HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Viceland HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Viewers' Wives">
@@ -6193,6 +6218,14 @@
       </Item>
       <File>BBC Radio Cymru.png</File>
     </Channel>
+    <!--
+    <Channel>
+      <Item Name="BBC Radio Cymru Mwy">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Cymru Mwy.png</File>
+    </Channel>
+    -->
     <Channel>
       <Item Name="BBC Derby">
         <Provider>Freeview (UK)</Provider>
