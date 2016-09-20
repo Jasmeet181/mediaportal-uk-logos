@@ -880,6 +880,7 @@
     <Channel>
       <Item Name="Blaze">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Blaze.png</File>
     </Channel>
@@ -6218,14 +6219,12 @@
       </Item>
       <File>BBC Radio Cymru.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="BBC Radio Cymru Mwy">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>BBC Radio Cymru Mwy.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="BBC Derby">
         <Provider>Freeview (UK)</Provider>
