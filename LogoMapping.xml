@@ -1380,6 +1380,15 @@
       <File>Chart Show Dance Xmas.png</File>
     </Channel>
     <Channel>
+      <Item Name="Chart Show Hits">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Chartshow Hits">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Chart Show Hits.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Chart Show Summer">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -6562,9 +6571,11 @@
       <File>BFBS Radio.png</File>
     </Channel>
     <Channel>
+      <Item Name="Capital"
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Capital FM">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Capital FM.png</File>
