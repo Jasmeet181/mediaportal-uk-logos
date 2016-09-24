@@ -6571,7 +6571,7 @@
       <File>BFBS Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Capital"
+      <Item Name="Capital">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Capital FM">
