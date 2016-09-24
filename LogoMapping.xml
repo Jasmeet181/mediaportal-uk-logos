@@ -4276,7 +4276,6 @@
       </Item>
       <File>Sky Cinema Hits HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Jurassic">
         <Provider>Sky (UK)</Provider>
@@ -4297,6 +4296,7 @@
       </Item>
       <File>Sky Cinema Jurassic HD.png</File>
     </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Monsters">
         <Provider>Sky (UK)</Provider>
