@@ -266,6 +266,15 @@
       <File>Arabic Hafla.png</File>
     </Channel>
     <Channel>
+      <Item Name="Arirang HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Arirang TV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Arirang HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Arise News">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -908,12 +917,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Blue Kiss TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BON TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BON TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Boomerang">
@@ -4866,15 +4869,21 @@
       <File>Sky Sports News HQ HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Ryder Cup">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Sky Sports Ryder Cup">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Sky Ryder Cup">
+      <Item Name="SkyRyderCup">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Ryder Cup.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Ryder Cup HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Sky Sports Ryder Cup HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
