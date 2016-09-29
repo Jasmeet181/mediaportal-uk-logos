@@ -1306,6 +1306,12 @@
       <File>Channel 4 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Channel 44">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Channel 44.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Channel 5">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3687,6 +3693,15 @@
       <File>Revelation.png</File>
     </Channel>
     <Channel>
+      <Item Name="Rishtey Cineplex">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="RishteyCine">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Rishtey Cineplex.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Rishtey">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3702,6 +3717,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Rocks and Co.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Rok">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Rok.png</File>
     </Channel>
     <Channel>
       <Item Name="RT">
@@ -5599,13 +5620,6 @@
       <File>Ummah Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="UMP Movies">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>UMP Movies.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Universal">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6238,6 +6252,9 @@
       <File>BBC Radio Cymru.png</File>
     </Channel>
     <Channel>
+      <Item Name="BBC R C Mwy">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="BBC Radio Cymru Mwy">
         <Provider>Freeview (UK)</Provider>
       </Item>
