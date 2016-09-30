@@ -1371,24 +1371,6 @@
       <File>Chart Show TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Chart Show Dance">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Chartshw Dnce">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Chart Show Dance.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Chart Show Dance Xmas">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Dance Xmas">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Chart Show Dance Xmas.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Chart Show Hits">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -5482,20 +5464,23 @@
       <File>True Crime +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="True Drama">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>True Drama.png</File>
-    </Channel>
-    <Channel>
       <Item Name="True Ent">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="True Entertainment">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>True Entertainment.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="True Ent +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="True Entertainment +1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>True Entertainment.png</File>
+      <File>True Entertainment +1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Movies 1">
