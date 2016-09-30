@@ -5455,11 +5455,18 @@
       <Item Name="True Christmas">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="True Christmas 1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>True Christmas.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="True Christmas +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TrueChrstms+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>True Christmas +1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Crime">
