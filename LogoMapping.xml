@@ -5873,16 +5873,19 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX All Naturals">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="XXXAllNaturals">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX All Naturals.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Amateurs">
+      <Item Name="XXX Taboo">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Amateurs.png</File>
+      <File>XXX Taboo.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
