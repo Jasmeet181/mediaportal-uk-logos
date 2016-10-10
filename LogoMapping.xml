@@ -919,6 +919,12 @@
       <File>Blue Kiss TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="BON TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>BON TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Boomerang">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2158,7 +2164,7 @@
     </Channel>
     <Channel>
       <Item Name="Front Runner">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="FrontRunner">
         <Provider>Sky (UK)</Provider>
@@ -4569,6 +4575,30 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Tom Cruise HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Tom Hanks">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Tom Hanks">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyTomHanks">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Tom Hanks.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Tom Hanks HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Tom Hanks HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Tom Hanks HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Tom Hanks HD.png</File>
     </Channel>
     <!--
     <Channel>
