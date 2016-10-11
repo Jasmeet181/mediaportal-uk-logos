@@ -372,16 +372,6 @@
       <File>Bangla TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bay TV Liverpool">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="BayTVLiverpool">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Bay TV Liverpool.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Bay TV Swansea">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -2869,12 +2859,24 @@
       <File>Made In Cardiff.png</File>
     </Channel>
     <Channel>
-      <Item Name="Made in Leeds">
+      <Item Name="Made In Leeds">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Made in Leeds.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Made In Liverpool">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Bay TV Liverpool">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="BayTVLiverpool">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Made In Liverpool.png</File>
     </Channel>
     <Channel>
       <Item Name="Made In Tn&amp;Wr">
@@ -5513,18 +5515,18 @@
       <File>True Entertainment +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="True Movies 1">
+      <Item Name="True Movies">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>True Movies 1.png</File>
+      <File>True Movies.png</File>
     </Channel>
     <Channel>
-      <Item Name="True Movies 2">
+      <Item Name="True Movies +1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>True Movies 2.png</File>
+      <File>True Movies +1.png</File>
     </Channel>
     <Channel>
       <Item Name="True Murder">
