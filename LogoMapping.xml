@@ -2867,14 +2867,14 @@
       <File>Made in Leeds.png</File>
     </Channel>
     <Channel>
-      <Item Name="Made In Liverpool">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <Item Name="Bay TV Liverpool">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BayTVLiverpool">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="Made In Liverpool">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Made In Liverpool.png</File>
     </Channel>
@@ -3599,6 +3599,15 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>QVC Beauty HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="QVC Christmas">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="QVC Xmas">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>QVC Christmas.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC Extra">
