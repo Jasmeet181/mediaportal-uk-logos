@@ -2867,14 +2867,9 @@
       <File>Made in Leeds.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bay TV Liverpool">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="BayTVLiverpool">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
       <Item Name="Made In Liverpool">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Made In Liverpool.png</File>
     </Channel>
@@ -4142,6 +4137,26 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Disney HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Disney Pixar">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Pixar">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Disney Pixar.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Disney Pixar HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Pixar HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Disney Pixar HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Cinema Drama &amp; Romance">
@@ -6635,10 +6650,10 @@
     <Channel>
       <Item Name="Capital">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Capital FM">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Capital FM.png</File>
     </Channel>
@@ -6688,8 +6703,6 @@
       <Item Name="Heart">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Heart FM">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Heart.png</File>
