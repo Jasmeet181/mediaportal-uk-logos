@@ -4334,6 +4334,26 @@
       </Item>
       <File>Sky Cinema Jurassic HD.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Sky Musicals">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Musicals">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Musicals.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Musicals HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Musicals HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Musicals HD.png</File>
+    </Channel>
     <!--
     <Channel>
       <Item Name="Sky Monsters">
