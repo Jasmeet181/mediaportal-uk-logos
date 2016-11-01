@@ -338,6 +338,7 @@
     <Channel>
       <Item Name="Babenation">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Adult Babestn2">
         <Provider>Freeview (UK)</Provider>
@@ -4346,8 +4347,10 @@
     </Channel>
     <Channel>
       <Item Name="Sky Musicals HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyMusicalsHD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Musicals HD">
         <Provider>Full Name (UK)</Provider>
