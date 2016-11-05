@@ -168,6 +168,9 @@
       <Item Name="Al Jazeera Eng HD">
         <Provider>Freeview (UK)</Provider>
       </Item>
+      <Item Name="Al Jazeera HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Al Jazeera English HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -202,6 +205,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>All 4.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Amazon Video">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Amazon Video.png</File>
     </Channel>
     <Channel>
       <Item Name="AMC">
@@ -375,6 +384,7 @@
     <Channel>
       <Item Name="Bay TV Swansea">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Bay TV Swansea.png</File>
     </Channel>
@@ -2018,9 +2028,6 @@
       <Item Name="ExGirlfriends">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="My Ex Girlfriends">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <File>ExGirlfriends.png</File>
     </Channel>
     <Channel>
@@ -3598,9 +3605,6 @@
     </Channel>
     <Channel>
       <Item Name="QVC Christmas">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="QVC Xmas">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Christmas.png</File>
@@ -5969,6 +5973,7 @@
     <Channel>
       <Item Name="XXX Brits">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>XXX Brits.png</File>
     </Channel>
