@@ -4060,13 +4060,13 @@
       </Item>
       <File>Sky Cinema Box Office HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Christmas">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Christmas">
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Christmas.png</File>
     </Channel>
@@ -4082,7 +4082,6 @@
       </Item>
       <File>Sky Cinema Christmas HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Comedy">
         <Provider>Full Name (UK)</Provider>
