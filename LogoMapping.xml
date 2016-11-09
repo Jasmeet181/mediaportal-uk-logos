@@ -874,13 +874,6 @@
       <File>BET.png</File>
     </Channel>
     <Channel>
-      <Item Name="Big Centre TV">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Big Centre TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Bike">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2849,6 +2842,13 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Madani Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Made In Birmingham">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Made In Birmingham.png</File>
     </Channel>
     <Channel>
       <Item Name="Made In Bristol">
