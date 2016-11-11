@@ -3347,6 +3347,9 @@
     </Channel>
     <Channel>
       <Item Name="Now Christmas">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Now Xmas">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Now Christmas.png</File>
