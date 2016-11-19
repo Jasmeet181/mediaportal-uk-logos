@@ -28,6 +28,9 @@
       <Item Name="4seven HD">
         <Provider>Freeview (UK)</Provider>
       </Item>
+      <Item Name="4sevenHD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>4seven HD.png</File>
     </Channel>
     <Channel>
@@ -1411,6 +1414,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Chilled TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Chilled Xmas">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Chilled Xmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Christmas 24">
