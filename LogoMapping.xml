@@ -3163,7 +3163,7 @@
       <Item Name="National Geographic">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Nat Geo.png</File>
+      <File>National Geographic.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo+1hr">
@@ -3175,14 +3175,14 @@
       <Item Name="National Geographic+1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Nat Geo +1.png</File>
+      <File>National Geographic +1.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Nat Geo HD.png</File>
+      <File>National Geographic HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo Wild">
@@ -5138,7 +5138,7 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sony TV Asia.png</File>
+      <File>Sony Entertainment Television India.png</File>
     </Channel>
     <Channel>
       <Item Name="Spike">
