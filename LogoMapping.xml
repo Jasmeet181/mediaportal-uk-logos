@@ -1689,6 +1689,15 @@
       <File>Daystar HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="DBN">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Determination TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Determination TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Disc.History">
         <Provider>Sky (UK)</Provider>
       </Item>
