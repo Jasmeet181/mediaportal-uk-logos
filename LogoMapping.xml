@@ -3697,6 +3697,15 @@
       <File>Really.png</File>
     </Channel>
     <Channel>
+      <Item Name="Record TV HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TV Record HD ">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Record TV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Red Hot">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5643,15 +5652,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV One.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV Record HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TV Record HD ">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV Record HD.png</File>
     </Channel>
     <Channel>
       <Item Name="TV Warehouse">
