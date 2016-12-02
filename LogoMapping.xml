@@ -2505,7 +2505,7 @@
       <File>Insight HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Inspiration">
+      <Item Name="Inspiration TV">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Inspiration TV.png</File>
@@ -5981,13 +5981,10 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX All Naturals">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="XXXAllNaturals">
+      <Item Name="XXX Swingers">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX All Naturals.png</File>
+      <File>XXX Swingers.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Taboo">
