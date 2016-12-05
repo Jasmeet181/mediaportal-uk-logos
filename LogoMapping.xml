@@ -2793,6 +2793,12 @@
       <File>Kix +1.png</File>		
     </Channel>
     <Channel>
+      <Item Name="KTV">		
+        <Provider>Sky (UK)</Provider>		
+      </Item>		
+      <File>KTV.png</File>		
+    </Channel>
+    <Channel>
       <Item Name="Latest TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5814,6 +5820,7 @@
     <Channel>
       <Item Name="Viceland">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Viceland.png</File>
     </Channel>
