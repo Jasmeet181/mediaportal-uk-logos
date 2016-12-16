@@ -210,12 +210,6 @@
       <File>All 4.png</File>
     </Channel>
     <Channel>
-      <Item Name="Amazon Video">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Amazon Video.png</File>
-    </Channel>
-    <Channel>
       <Item Name="AMC">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -270,12 +264,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Animal Planet HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Arabic Hafla">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Arabic Hafla.png</File>
     </Channel>
     <Channel>
       <Item Name="Arirang HD">
@@ -1114,13 +1102,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BT Sport Showcase.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Cambridge TV">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Cambridge TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital TV">
@@ -2053,12 +2034,6 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fashion One">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Fashion One.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Film4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2779,24 +2754,31 @@
     <Channel>
       <Item Name="Kix">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>		
-      </Item>		
-      <File>Kix.png</File>		
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Kix.png</File>
     </Channel>
     <Channel>
       <Item Name="Kix +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Kix+1">		
-        <Provider>Sky (UK)</Provider>		
-      </Item>		
-      <File>Kix +1.png</File>		
+      <Item Name="Kix+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Kix +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="KTV">		
-        <Provider>Sky (UK)</Provider>		
-      </Item>		
-      <File>KTV.png</File>		
+      <Item Name="Kix Power">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Kix Power.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="KTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>KTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Latest TV">
@@ -3124,15 +3106,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Xmas.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Muslim Ummah">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Muslim Ummah TV">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Muslim Ummah TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Mustard TV">
@@ -4718,12 +4691,6 @@
     </Channel>
     -->
     <Channel>
-      <Item Name="Sky Insider HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Insider HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky Living">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -4928,7 +4895,7 @@
     </Channel>
     <Channel>
       <Item Name="Sky Sports Darts">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Spts Darts">
         <Provider>Sky (UK)</Provider>
@@ -4937,7 +4904,7 @@
     </Channel>
     <Channel>
       <Item Name="Sky Sports Darts HD">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="SkySptDartsHD">
         <Provider>Sky (UK)</Provider>
@@ -5158,11 +5125,13 @@
       <File>Sony Channel +1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sony TV Asia">
+      <Item Name="Sony TV">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sony TV Asia">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sony Entertainment Television India.png</File>
+      <File>Sony Entertainment Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Spike">
@@ -5384,6 +5353,13 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Thane.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="That's Cambridge">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Thats Cambridge.png</File>
     </Channel>
     <Channel>
       <Item Name="That's Lancashire">
@@ -5931,15 +5907,6 @@
       <File>W HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Wellbeing">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Wellbeing Network">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Wellbeing Network.png</File>
-    </Channel>
-    <Channel>
       <Item Name="French Tier">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5947,6 +5914,9 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Portuguese Tier">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Russian Tier">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Spanish Tier">
