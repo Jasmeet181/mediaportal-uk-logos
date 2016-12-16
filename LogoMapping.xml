@@ -6742,6 +6742,13 @@
       <File>Heart Extra.png</File>
     </Channel>
     <Channel>
+      <Item Name="Heart Xmas">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Heart Extra Xmas.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Heat">
         <Provider>Freeview (UK)</Provider>
       </Item>
