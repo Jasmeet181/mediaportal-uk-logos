@@ -3348,6 +3348,12 @@
       <File>Notts TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Now 80s">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Now 80s.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Now Christmas">
         <Provider>Full Name (UK)</Provider>
       </Item>
