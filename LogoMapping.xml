@@ -6776,13 +6776,7 @@
       <Item Name="Kerrang!">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>Kerrang! Radio.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Khushkhabri">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Khushkhabri.png</File>
+      <File>Kerrang Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Kiss">
@@ -6864,6 +6858,12 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Radio Apni Awaz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Khushkhabri">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Radio Khushkhabri.png</File>
     </Channel>
     <Channel>
       <Item Name="Radio X">
@@ -7001,7 +7001,7 @@
       <Item Name="TWR">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Trans World Radio.png</File>
+      <File>Trans World Radio UK.png</File>
     </Channel>
     <Channel>
       <Item Name="U105">
@@ -7022,7 +7022,7 @@
       <Item Name="WRN Europe">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>WRN Europe.png</File>
+      <File>WRN Broadcast.png</File>
     </Channel>
   </Radio>
   <!-- ******************************************************************** -->
