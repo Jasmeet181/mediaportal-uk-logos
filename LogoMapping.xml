@@ -4605,6 +4605,7 @@
       </Item>
       <File>Sky Cinema Summer HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Superheroes">
         <Provider>Full Name (UK)</Provider>
@@ -4627,7 +4628,6 @@
       </Item>
       <File>Sky Cinema Superheroes HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Tom Cruise">
         <Provider>Full Name (UK)</Provider>
