@@ -4189,7 +4189,7 @@
       <Item Name="Sky Drama &amp; Romance">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="SkyDramaRom">
+      <Item Name="Sky DramaRom">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Drama and Romance.png</File>
@@ -4201,7 +4201,7 @@
       <Item Name="Sky Drama &amp; Rom HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky DraRomHD">
+      <Item Name="Sky DraRom HD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Drama and Romance HD.png</File>
@@ -4610,10 +4610,8 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Superhero">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Superheroes">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Superheroes.png</File>
     </Channel>
@@ -4624,7 +4622,7 @@
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="SkySuprheroHD">
+      <Item Name="Sky SuprheroHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Superheroes HD.png</File>
