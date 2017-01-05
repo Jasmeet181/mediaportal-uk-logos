@@ -275,12 +275,6 @@
       <File>Arirang HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Arise News">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Arise News.png</File>
-    </Channel>
-    <Channel>
       <Item Name="ARY Digital">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -911,12 +905,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Blue Kiss TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BON TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BON TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Boomerang">
@@ -5203,12 +5191,6 @@
       <File>Starz TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Storm">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Storm.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Adult Studio 66">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -6353,15 +6335,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Radio Cymru.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BBC R C Mwy">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="BBC Radio Cymru Mwy">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>BBC Radio Cymru Mwy.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Derby">
