@@ -2410,7 +2410,7 @@
       <Item Name="Home &amp; Health +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Home&amp;Health+">
+      <Item Name="HomeHealth+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Home and Health Plus 1.png</File>
@@ -3813,19 +3813,19 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>RTE ONE.png</File>
+      <File>RTE One.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ One HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>RTE ONE HD.png</File>
+      <File>RTE One HD.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ One +1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>RTE ONE Plus 1.png</File>
+      <File>RTE One Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="RTE Two">
@@ -5053,7 +5053,7 @@
       <Item Name="Ultra HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Sports World UHD.png</File>
+      <File>Sky Sports UHD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports World Cup">
