@@ -3813,13 +3813,13 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>RTE One.png</File>
+      <File>RTE ONE.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ One HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>RTE One HD.png</File>
+      <File>RTE ONE HD.png</File>
     </Channel>
     <Channel>
       <Item Name="RTÉ One +1">
