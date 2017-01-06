@@ -4099,24 +4099,6 @@
       <File>Sky Cinema Back to the Future HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Box Office">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Cinema Box Office">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Box Office.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SBO HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Cinema Box Office HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Box Office HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky Christmas">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
