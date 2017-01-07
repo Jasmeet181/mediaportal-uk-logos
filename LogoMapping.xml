@@ -3003,8 +3003,10 @@
     </Channel>
     <Channel>
       <Item Name="Movies 24+">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Movies24+">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Movies 24 Plus.png</File>
     </Channel>
@@ -5628,12 +5630,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Movies Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="True Murder">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>True Murder.png</File>
     </Channel>
     <Channel>
       <Item Name="Tru TV">
