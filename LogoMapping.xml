@@ -856,12 +856,6 @@
       <File>Be3.png</File>
     </Channel>
     <Channel>
-      <Item Name="Be3 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Be3 HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2903,6 +2897,9 @@
       <File>Madani Channel.png</File>
     </Channel>
     <Channel>
+      <Item Name="Made In Bham">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Made In Birmingham">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2934,6 +2931,9 @@
       <File>Made in Leeds.png</File>
     </Channel>
     <Channel>
+      <Item Name="Made in L'pool">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Made In Liverpool">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
