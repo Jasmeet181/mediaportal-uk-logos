@@ -5138,19 +5138,22 @@
       <File>Sony Max.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sony Movie Channel">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Sony Movies">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sony Movies.png</File>
+      <File>Sony Movie Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sony Movies +1">
+      <Item Name="Sony Movie Channel +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sony Movies+1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sony Movies Plus 1.png</File>
+      <File>Sony Movie Channel Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Sab">
