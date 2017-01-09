@@ -850,6 +850,18 @@
       <File>BBC Two Wales.png</File>
     </Channel>
     <Channel>
+      <Item Name="Be3">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Be3.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Be3 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Be3 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1220,26 +1232,29 @@
       <File>CBS Reality Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="CCTV News">
-        <Provider>Freeview (UK) IPTV</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>CCTV News.png</File>
-    </Channel>
-    <Channel>
       <Item Name="CCTV-4">
         <Provider>Freeview (UK) IPTV</Provider>
       </Item>
       <File>CCTV-4.png</File>
     </Channel>
     <Channel>
-      <Item Name="CCTV-9">
+      <Item Name="CCTV News">
+        <Provider>Freeview (UK) IPTV</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="CGTN">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>CGTN.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="CGTN Documentary">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="CCTV-9 Documentary">
         <Provider>Freeview (UK) IPTV</Provider>
       </Item>
-      <File>CCTV-9.png</File>
+      <File>CGTN Documentary.png</File>
     </Channel>
     <Channel>
       <Item Name="Challenge">
@@ -5788,18 +5803,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>UTV Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UTV Ireland HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>UTV Ireland HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="UTV Ireland">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>UTV Ireland.png</File>
     </Channel>
     <Channel>
       <Item Name="V Channel">
