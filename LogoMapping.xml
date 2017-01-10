@@ -3003,12 +3003,6 @@
       <File>Motors TV UK.png</File>
     </Channel>
     <Channel>
-      <Item Name="Movie Mix">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Movie Mix.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Movies 24">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5137,6 +5131,9 @@
       <File>Sony Max.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sony Movie Ch">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
       <Item Name="Sony Movie Channel">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5901,15 +5898,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Viva.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Viva+1">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="Viva +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Viva Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="VM Music">
