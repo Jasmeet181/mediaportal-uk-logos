@@ -3005,7 +3005,6 @@
     <Channel>
       <Item Name="Movie Mix">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Movie Mix.png</File>
     </Channel>
@@ -5139,7 +5138,7 @@
     </Channel>
     <Channel>
       <Item Name="Sony Movie Channel">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sony Movies">
         <Provider>Sky (UK)</Provider>
