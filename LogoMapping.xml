@@ -2991,6 +2991,9 @@
       <Item Name="More4 +1">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="More4+1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
       <File>More4 Plus 1.png</File>
     </Channel>
     <Channel>
