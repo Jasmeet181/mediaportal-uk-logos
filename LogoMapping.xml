@@ -2614,6 +2614,18 @@
       <File>ITV Border.png</File>
     </Channel>
     <Channel>
+      <Item Name="ITV Box Off HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="ITV Box Office HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="ITV PPV HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>ITV Box Office.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ITV Encore">
         <Provider>Sky (UK)</Provider>
       </Item>
