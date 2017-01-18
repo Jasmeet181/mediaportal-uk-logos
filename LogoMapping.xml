@@ -95,7 +95,10 @@
       <Item Name="ABP News">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>ABP News.png</File>
+      <Item Name="ABP News International">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>ABP News International.png</File>
     </Channel>
     <Channel>
       <Item Name="Abu Dhabi TV">
@@ -304,9 +307,6 @@
     </Channel>
     <Channel>
       <Item Name="Astra UHD Demo">
-        <Provider>Astra 28.2E</Provider>
-      </Item>
-      <Item Name="SES UHD Demo">
         <Provider>Astra 28.2E</Provider>
       </Item>
       <File>Astra.png</File>
@@ -3774,7 +3774,7 @@
     </Channel>
     <Channel>
       <Item Name="Rishtey Cineplex">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="RishteyCine">
         <Provider>Sky (UK)</Provider>
@@ -3917,6 +3917,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Scuzz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="SES UHD Demo">
+        <Provider>Astra 28.2E</Provider>
+      </Item>
+      <File>SES.png</File>
     </Channel>
     <Channel>
       <Item Name="Sheffield Live TV">
