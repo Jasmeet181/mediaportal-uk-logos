@@ -275,6 +275,12 @@
       <File>Animal Planet Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Aplus TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Aplus TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Arirang HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
