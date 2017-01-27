@@ -5069,15 +5069,6 @@
       <File>Sky Sports The Open HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="U1 Test">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Ultra HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Sports UHD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky Sports World Cup">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -5768,6 +5759,18 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="U1 Test">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="U2 Test">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Ultra HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Ultra HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Ummah Ch">
