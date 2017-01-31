@@ -3934,6 +3934,12 @@
       <File>SES.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sewing Quarter">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Sewing Quarter.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sheffield Live TV">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -3941,12 +3947,6 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Shop 8 to 12">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Shop 8 to 12.png</File>
     </Channel>
     <Channel>
       <Item Name="Showbiz TV">
