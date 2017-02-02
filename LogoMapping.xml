@@ -293,28 +293,6 @@
       <File>Arirang HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="ARY Digital">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>ARY Digital.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ARY News">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="ARY News UK">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>ARY News.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ARY QTV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ARY QTV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Astra UHD Demo">
         <Provider>Astra 28.2E</Provider>
       </Item>
@@ -1798,6 +1776,15 @@
       <File>Discovery Shed.png</File>
     </Channel>
     <Channel>
+      <Item Name="Disc.Shed+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Discovery Shed +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Discovery Shed Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Disney Channel">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -2432,6 +2419,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Home and Health Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Discovery Home &amp; Health +2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="HomeHealth+2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Discovery Home and Health Plus 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Home &amp; Leisure">
