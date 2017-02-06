@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="184.00006"
+   height="183.99854"
+   viewBox="0 0 184.00006 183.99854"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="Lifetime.svg"
+   inkscape:version="0.92.0 r15299">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview21"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.5652174"
+     inkscape:cx="96.906558"
+     inkscape:cy="118.67562"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="Page-1"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="translate(3.0289716e-5,-0.00150282)">
+    <g
+       id="logo">
+      <path
+         d="M 92.074213,0.00153333 C 41.264453,-0.03940667 0.04109333,41.116947 0,91.926707 -0.04078667,142.73631 41.114647,183.96013 91.925173,184 142.73478,184.0414 183.9586,142.88535 184,92.075593 184.03987,41.265987 142.88382,0.04262667 92.074213,0.00153333"
+         id="Fill-1"
+         inkscape:connector-curvature="0"
+         style="fill:#ff124d" />
+      <polyline
+         id="Fill-4"
+         points="127.194293 87.2189133 145.16128 87.2189133 145.16128 81.9571267 132.779613 81.9571267 132.779613 75.32086 143.98598 75.32086 143.98598 70.3456533 132.779613 70.3456533 132.779613 63.79004 145.16128 63.79004 145.16128 58.5291733 127.194293 58.5291733 127.194293 87.2189133"
+         style="fill:#ffffff" />
+      <polyline
+         id="Fill-5"
+         points="93.1400333 87.2189133 98.7639933 87.2189133 98.7639933 76.05134 109.891853 76.05134 109.891853 70.9109933 98.7252 70.9109933 98.7252 63.8297533 111.268173 63.8297533 111.268173 58.5291733 93.1400333 58.5291733 93.1400333 87.2189133"
+         style="fill:#ffffff" />
+      <polyline
+         id="Fill-6"
+         points="43.4342733 58.5296333 37.8489533 58.5296333 37.8489533 87.21922 56.2190533 87.21922 56.2190533 81.8787733 43.4342733 81.8787733 43.4342733 58.5296333"
+         style="fill:#ffffff" />
+      <polygon
+         id="Fill-7"
+         points="75.023087,58.528713 69.359107,58.528713 69.359107,87.218453 75.023087,87.218453 "
+         style="fill:#ffffff" />
+      <polyline
+         id="Fill-8"
+         points="35.1578 102.39094 44.2194933 102.39094 44.2194933 125.779947 49.8445267 125.779947 49.8445267 102.39094 58.9100533 102.39094 58.9100533 97.09036 35.1578 97.09036 35.1578 102.39094"
+         style="fill:#ffffff" />
+      <polygon
+         id="Fill-9"
+         points="75.021553,97.089747 69.357573,97.089747 69.357573,125.77949 75.021553,125.77949 "
+         style="fill:#ffffff" />
+      <polyline
+         id="Fill-10"
+         points="101.087607 117.80738 92.4699667 97.0905133 85.10506 97.0905133 85.10506 125.7801 90.4475 125.7801 90.4475 105.831587 98.7009733 125.7801 103.3528 125.7801 111.61026 105.66844 111.61026 125.7801 117.11094 125.7801 117.11094 97.0905133 109.5053 97.0905133 101.087607 117.80738"
+         style="fill:#ffffff" />
+      <polyline
+         id="Fill-11"
+         points="127.194293 125.779793 145.16128 125.779793 145.16128 120.518007 132.779613 120.518007 132.779613 113.881893 143.98598 113.881893 143.98598 108.906687 132.779613 108.906687 132.779613 102.351073 145.16128 102.351073 145.16128 97.0902067 127.194293 97.0902067 127.194293 125.779793"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

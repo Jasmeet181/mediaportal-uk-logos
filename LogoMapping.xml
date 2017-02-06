@@ -4721,7 +4721,6 @@
       </Item>
       <File>Sky Cinema Tom Hanks HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Cinema Valentine">
         <Provider>Full Name (UK)</Provider>
@@ -4739,12 +4738,11 @@
       <Item Name="Sky Valentine HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky ValentneHD">
+      <Item Name="Sky Valentne HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Cinema Valentine.png</File>
+      <File>Sky Cinema Valentine HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Living">
         <Provider>Sky (UK)</Provider>
@@ -5479,16 +5477,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TJC Choice.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Craft Channel">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="The Craft Channel">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>The Craft Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="The Mall">
