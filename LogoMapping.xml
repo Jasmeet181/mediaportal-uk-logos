@@ -1221,10 +1221,9 @@
     <Channel>
       <Item Name="CCTV News">
         <Provider>Freeview (UK) IPTV</Provider>
-        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="CGTN">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>CGTN.png</File>
     </Channel>
@@ -1576,6 +1575,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Colors.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Colors HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Colors HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Comedy Central">
@@ -5606,12 +5611,6 @@
       <File>True Crime.png</File>
     </Channel>
     <Channel>
-      <Item Name="True Crime +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>True Crime Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="True Ent">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5658,9 +5657,6 @@
       <File>TruTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Tru TV+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="TruTV +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
