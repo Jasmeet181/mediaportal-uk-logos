@@ -4455,6 +4455,7 @@
       </Item>
       <File>Sky Cinema Monsters HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Oscars">
         <Provider>Full Name (UK)</Provider>
@@ -4475,7 +4476,6 @@
       </Item>
       <File>Sky Cinema Oscars HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Premiere">
         <Provider>Full Name (UK)</Provider>
