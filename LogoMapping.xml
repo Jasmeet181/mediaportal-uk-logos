@@ -1480,34 +1480,6 @@
       <File>CHSTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Crime and Investigation">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Crime+Inv">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Crime and Investigation.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Crime and Investigation HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Crime+Inv HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Crime and Investigation HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Crime and Investigation +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Crime+Inv +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Crime and Investigation Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="CITV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -1653,6 +1625,43 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Create and Craft.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crime and Investigation">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Crime+Inv">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Crime and Investigation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crime and Investigation HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Crime+Inv HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Crime and Investigation HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Crime and Investigation +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Crime+Inv +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Crime and Investigation Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cruise Deals TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="CruiseDealsTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Cruise1st.tv.png</File>
     </Channel>
     <Channel>
       <Item Name="Dancember">
