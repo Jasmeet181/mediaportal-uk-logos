@@ -1658,6 +1658,9 @@
       <Item Name="Cruise Deals TV">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="Cruise1st.tv">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="CruiseDealsTV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3031,10 +3034,13 @@
       <Item Name="Motors TV">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Motors TV UK">
+      <Item Name="Motorsport TV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Motors TV UK.png</File>
+      <Item Name="Motorsport.tv">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Motorsport.tv.png</File>
     </Channel>
     <Channel>
       <Item Name="Movies 24">
