@@ -5467,6 +5467,15 @@
       <File>The Box.png</File>
     </Channel>
     <Channel>
+      <Item Name="Craft Channel">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="The Craft Channel">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>The Craft Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="The Dept Store">
         <Provider>Sky (UK)</Provider>
       </Item>
