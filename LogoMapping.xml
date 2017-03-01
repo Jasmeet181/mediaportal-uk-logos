@@ -900,7 +900,19 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Bloomberg.png</File>
+      <Item Name="Bloomberg TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Bloomberg TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bloomberg HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Bloomberg TV HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Bloomberg TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Blue">
