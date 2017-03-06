@@ -870,7 +870,10 @@
       <Item Name="BET:BlackEntTv">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>BET.png</File>
+      <Item Name="BET International">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BET International.png</File>
     </Channel>
     <Channel>
       <Item Name="Bike">
@@ -4463,10 +4466,10 @@
       </Item>
       <File>Sky Cinema Musicals HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Monsters">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Monsters">
         <Provider>Full Name (UK)</Provider>
@@ -4474,15 +4477,15 @@
       <File>Sky Cinema Monsters.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky MonstrsHD">
+      <Item Name="Sky Monsters HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Monsters HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Monsters HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Oscars">
         <Provider>Full Name (UK)</Provider>
@@ -5774,10 +5777,10 @@
       <File>TVC News Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="U1 Test">
+      <Item Name="U1mon">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="U2 Test">
+      <Item Name="U2mon">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Ultra HD">
