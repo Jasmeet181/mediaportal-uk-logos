@@ -1808,15 +1808,6 @@
       <File>Discovery Shed.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disc.Shed+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Discovery Shed +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Discovery Shed Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Disney Channel">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -2453,15 +2444,6 @@
       <File>Discovery Home and Health Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Discovery Home &amp; Health +2">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="HomeHealth+2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Discovery Home and Health Plus 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Home &amp; Leisure">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2575,12 +2557,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Iqra TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Irish TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Irish TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Islam Channel">
@@ -4021,6 +3997,36 @@
       <File>Sky.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky1">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky1 ">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky1 HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky 1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky1 +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky 1 Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky2">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky 2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Arts">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5111,36 +5117,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports World Cup HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky1">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky1 ">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky1 HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky1 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky1 +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky1 Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky2">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky2.png</File>
     </Channel>
     <Channel>
       <Item Name="SmileTV2">
