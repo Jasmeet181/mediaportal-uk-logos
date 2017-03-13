@@ -3660,6 +3660,12 @@
       <File>Quest Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Quest Red">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Quest Red.png</File>
+    </Channel>
+    <Channel>
       <Item Name="QVC">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -4965,6 +4971,9 @@
     </Channel>
     <Channel>
       <Item Name="Live Events Channel">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Prime Events">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Events">
