@@ -6786,18 +6786,13 @@
       <File>Heart.png</File>
     </Channel>
     <Channel>
+      <Item Name="Heart 80s">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Heart Extra">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Heart Extra.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Heart Xmas">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Heart Extra Xmas.png</File>
+      <File>Heart 80s.png</File>
     </Channel>
     <Channel>
       <Item Name="Heat">
