@@ -1203,6 +1203,15 @@
       <File>CBS Action.png</File>
     </Channel>
     <Channel>
+      <Item Name="CBS Action +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="CBS Action+1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>CBS Action Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="CBS Drama">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -1220,6 +1229,7 @@
     </Channel>
     <Channel>
       <Item Name="CBS Reality +1">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="CBS Reality+1">
@@ -1510,7 +1520,6 @@
     </Channel>
     <Channel>
       <Item Name="Clubland TV">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -1565,6 +1574,7 @@
     </Channel>
     <Channel>
       <Item Name="Colors HD">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Colors HD.png</File>
@@ -3661,9 +3671,20 @@
     </Channel>
     <Channel>
       <Item Name="Quest Red">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Quest Red.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Quest Red +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Quest Red+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Quest Red Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="QVC">
@@ -5503,6 +5524,7 @@
     </Channel>
     <Channel>
       <Item Name="TJC Choice">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TJC Choice.png</File>
@@ -5769,6 +5791,9 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Ultra HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Ultra HD 2">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ultra HD.png</File>
