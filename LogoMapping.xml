@@ -2174,11 +2174,14 @@
       <File>Fox HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox+">
+      <Item Name="Fox +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Fox+1">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Fox Plus.png</File>
+      <File>Fox Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Fox News">
@@ -3784,9 +3787,6 @@
     </Channel>
     <Channel>
       <Item Name="Record TV HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TV Record HD ">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Record TV HD.png</File>
@@ -5790,7 +5790,7 @@
       <Item Name="U2mon">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Ultra HD">
+      <Item Name="Ultra HD 1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Ultra HD 2">
