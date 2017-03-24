@@ -2154,12 +2154,6 @@
       <File>Forces TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="FoTV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>FoTV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Fox">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3790,15 +3784,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Record TV HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Red Hot">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="RedHot XXX">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Red Hot.png</File>
     </Channel>
     <Channel>
       <Item Name="Retail TV">
@@ -5730,15 +5715,6 @@
       <File>TV Warehouse.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV XXX">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TVXXX">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV XXX.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TV3">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5782,6 +5758,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TVX Pornstars">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TVXPornstars">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TVX Pornstars.png</File>
     </Channel>
     <Channel>
       <Item Name="U1mon">
@@ -5836,6 +5821,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Universal Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Urdu1 Europe">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Urdu1 Europe.png</File>
     </Channel>
     <Channel>
       <Item Name="UTV">
@@ -5899,15 +5890,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Viceland HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Viewers' Wives">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Wives XXX">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Viewers' Wives.png</File>
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
@@ -6028,13 +6010,40 @@
       <File>Xplicit Nightly.png</File>
     </Channel>
     <Channel>
-      <Item Name="Xtreme Filth">
+      <Item Name="RedHot XXX">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Xrated 40+">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Xrated40+">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <File>Xrated 40 Plus.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Filth XXX">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Xtreme Filth.png</File>
+      <Item Name="Xrated Couples">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="XratedCouples">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Xrated Couples.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Wives XXX">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Xrated Hook Ups">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="XratedHookUps">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Xrated Hook Ups.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX 18 &amp; Dirty">
