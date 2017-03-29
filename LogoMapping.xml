@@ -3308,6 +3308,12 @@
       <File>Netflix.png</File>
     </Channel>
     <Channel>
+      <Item Name="New Vision TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>New Vision TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="News18">
         <Provider>Sky (UK)</Provider>
       </Item>
