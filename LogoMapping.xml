@@ -2973,6 +2973,13 @@
       <File>Made In Liverpool.png</File>
     </Channel>
     <Channel>
+      <Item Name="Made In Teesside">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Made In Teesside.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Made In Tn&amp;Wr">
         <Provider>Sky (UK)</Provider>
       </Item>
