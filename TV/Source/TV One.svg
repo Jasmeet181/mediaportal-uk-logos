@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="400.84"
+   height="427.56265"
    viewBox="0 0 600 400.8396"
-   width="600"
+   width="640"
    version="1.1"
    id="svg2"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.0 r15299"
    sodipodi:docname="TV One.svg"
    inkscape:export-filename="C:\Users\Jasmeet\Downloads\tvone.default.png"
    inkscape:export-xdpi="599.94012"
@@ -44,7 +44,7 @@
      id="namedview12"
      showgrid="false"
      inkscape:zoom="1.357645"
-     inkscape:cx="271.34487"
+     inkscape:cx="151.65231"
      inkscape:cy="272.22898"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -60,16 +60,23 @@
      style="fill:#f15e28"
      inkscape:connector-curvature="0"
      id="path8"
-     d="m 240.05,150.54 a 53.82,53.82 0 0 0 -53.82,53.82 53.82,53.82 0 0 0 53.82,53.82 53.82,53.82 0 0 0 53.82,-53.82 53.82,53.82 0 0 0 -53.82,-53.82 z m 0,14.04 a 39.776,39.776 0 0 1 39.78,39.78 39.776,39.776 0 0 1 -39.78,39.78 39.776,39.776 0 0 1 -39.78,-39.78 39.776,39.776 0 0 1 39.78,-39.78 z" />
+     d="m 240.05,150.54 c -29.72397,0 -53.82,24.09603 -53.82,53.82 0,29.72397 24.09603,53.82 53.82,53.82 29.72397,0 53.82,-24.09603 53.82,-53.82 0,-29.72397 -24.09603,-53.82 -53.82,-53.82 z"
+     sodipodi:nodetypes="sssss" />
   <path
      style="fill:#e49e56"
      inkscape:connector-curvature="0"
      id="path10"
-     d="m 0,158.1 0,23.33 29.783,0 0,71.17 29.204,0 0,-71.17 29.783,0 c 8.261,20.3 18.52,48.29 27.16,71.17 l 31.66,0 35.07,-94.5 -29.66,0 -20.95,68.01 -21.27,-68.01 z" />
+     d="m 0,158.1 v 23.33 H 29.783 V 252.6 H 58.987 V 181.43 H 88.77 c 8.261,20.3 18.52,48.29 27.16,71.17 h 31.66 l 35.07,-94.5 H 153 l -20.95,68.01 -21.27,-68.01 z" />
   <path
      style="fill:#ffffff;fill-opacity:1"
      inkscape:connector-curvature="0"
      id="path6-9"
-     d="m 329.27,155.3498 27.27,0 35.58,52.28 0,-52.28 27.53,0 0,94.5 -27.53,0 -35.39,-51.89 0,51.89 -27.46,0 z m 105.48,0 78.26,0 0,20.17 -48.99,0 0,15.03 45.44,0 0,19.27 -45.44,0 0,18.63 50.41,0 0,21.4 -79.68,0 z"
+     d="m 329.27,155.3498 h 27.27 l 35.58,52.28 v -52.28 h 27.53 v 94.5 h -27.53 l -35.39,-51.89 v 51.89 h -27.46 z m 105.48,0 h 78.26 v 20.17 h -48.99 v 15.03 h 45.44 v 19.27 h -45.44 v 18.63 h 50.41 v 21.4 h -79.68 z"
      sodipodi:nodetypes="cccccccccccccccccccccccc" />
+  <path
+     style="fill:#ffffff;stroke-width:1;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path8-0"
+     d="m 240.0496,164.57955 c 21.9708,-0.002 39.78221,17.8092 39.78,39.78 0.002,21.9708 -17.8092,39.78221 -39.78,39.78 -21.9708,0.002 -39.78221,-17.8092 -39.78,-39.78 -0.002,-21.9708 17.8092,-39.78221 39.78,-39.78 z"
+     sodipodi:nodetypes="ccccc" />
 </svg>

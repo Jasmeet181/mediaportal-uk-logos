@@ -2975,7 +2975,6 @@
     <Channel>
       <Item Name="Made In Teesside">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Made In Teesside.png</File>
     </Channel>
@@ -3955,6 +3954,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Scuzz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="See TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>See TV.png</File>
     </Channel>
     <Channel>
       <Item Name="SES UHD Demo">
