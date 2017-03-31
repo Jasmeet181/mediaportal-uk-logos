@@ -1423,6 +1423,9 @@
       <File>Chelsea TV HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Chilled 90s">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Chilled TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5217,8 +5220,6 @@
     <Channel>
       <Item Name="Sony TV">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sony TV Asia">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Entertainment Television.png</File>
