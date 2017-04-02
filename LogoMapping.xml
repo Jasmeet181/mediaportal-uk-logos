@@ -6077,10 +6077,13 @@
       <File>XXX Girl Girl.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX Home Videos">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="XXX HomeVids">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX HomeVids.png</File>
+      <File>XXX Home Videos.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Mums">
