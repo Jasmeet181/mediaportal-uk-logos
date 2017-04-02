@@ -6077,20 +6077,17 @@
       <File>XXX Girl Girl.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX HomeVids">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX HomeVids.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Mums">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>XXX Mums.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="XXX Public Pickups">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="xxxPublicPikUp">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Public Pickups.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Real Wives">
