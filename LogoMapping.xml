@@ -2800,6 +2800,12 @@
       <File>JML Direct.png</File>
     </Channel>
     <Channel>
+      <Item Name="Jus Punjabi">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Jus Punjabi.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Keep It Country">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
