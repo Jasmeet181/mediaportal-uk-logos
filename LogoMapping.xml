@@ -4363,6 +4363,30 @@
       </Item>
       <File>Sky Cinema Family HD.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Fast and Furious">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Fast&Furious">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Fast and Furious">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Fast and Furious.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fast and Furious HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="FastFuriousHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Fast and Furious HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Fast and Furious HD.png</File>
+    </Channel>
     <!--
     <Channel>
       <Item Name="Sky Great Brits">
