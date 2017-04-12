@@ -8,12 +8,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1614.8068pt"
+   width="1742.74pt"
    height="294.22662pt"
-   viewBox="0 0 1614.8068 294.22662"
+   viewBox="0 0 1742.74 294.22662"
    version="1.1"
    id="svg24"
-   sodipodi:docname="Showcase - Dark.svg"
+   sodipodi:docname="Showcase Plus 1 - Dark.svg"
    inkscape:version="0.92.0 r15299">
   <metadata
      id="metadata30">
@@ -141,7 +141,7 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="0.213"
-     inkscape:cx="-5.275519"
+     inkscape:cx="594.1497"
      inkscape:cy="-213.02393"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -194,5 +194,20 @@
        id="path17"
        inkscape:connector-curvature="0"
        style="opacity:1;fill:url(#linearGradient4676);fill-opacity:1" />
+  </g>
+  <g
+     id="g4660"
+     style="fill:#004a5b;fill-opacity:1"
+     transform="translate(-128.26,-2.87)">
+    <path
+       d="m 1863.26,142 c 2.56,0 5.14,0 7.74,0 0,27.67 0,55.33 0,83 -3.84,0 -7.68,0 -11.5,0 0.03,-22 -0.07,-44.01 0.05,-66.01 -5.61,3.89 -11.63,7.29 -18.17,9.31 -1.29,-2.94 -2.64,-5.85 -3.7,-8.87 9.68,-3.87 18.66,-9.54 25.58,-17.43 z"
+       id="path19"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#004a5b;fill-opacity:1" />
+    <path
+       d="m 1788.5,184.5 c -0.01,-8.34 -0.01,-16.67 0,-25 3.32,0 6.65,0 10,0 0,8.33 0,16.66 0,25 7.5,0 15,0 22.5,0 -0.01,3.16 -0.01,6.33 0,9.5 -7.5,0 -15,0 -22.5,0 0,8.34 0,16.67 0,25.01 -3.35,-0.02 -6.68,-0.01 -10,-0.01 -0.01,-8.33 -0.01,-16.67 0,-25 -7.51,0 -15.01,0 -22.5,0 -0.01,-3.17 -0.01,-6.34 0,-9.5 7.49,0 14.99,0 22.5,0 z"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#004a5b;fill-opacity:1" />
   </g>
 </svg>

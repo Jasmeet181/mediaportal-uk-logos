@@ -4005,6 +4005,15 @@
       <File>Showcase 3.png</File>
     </Channel>
     <Channel>
+      <Item Name="Showcase +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Showcase+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Showcase Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sikh Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
