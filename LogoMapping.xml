@@ -5742,7 +5742,7 @@
       <Item Name="TV 99">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>TV 99.png</File>
+      <File>TV99.png</File>
     </Channel>
     <Channel>
       <Item Name="TV One">
