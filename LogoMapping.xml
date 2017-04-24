@@ -1118,6 +1118,9 @@
       <Item Name="BT Sport Showcase">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="BTSportHD Hidden">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>BT Sport Showcase.png</File>
     </Channel>
     <Channel>
@@ -2984,6 +2987,7 @@
     <Channel>
       <Item Name="Made In Teesside">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Made In Teesside.png</File>
     </Channel>
@@ -3320,6 +3324,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>New Vision TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="New Vision +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="New Vision TV +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>New Vision TV +1.png</File>
     </Channel>
     <Channel>
       <Item Name="News18">
@@ -5342,19 +5355,16 @@
     </Channel>
     <Channel>
       <Item Name="STV Edinburgh">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>STV Edinburgh.png</File>
-    </Channel>
-    <Channel>
       <Item Name="STV Glasgow">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>STV Glasgow.png</File>
+      <Item Name="STV2">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>STV2.png</File>
     </Channel>
     <Channel>
       <Item Name="STV HD">
@@ -5482,9 +5492,11 @@
       <File>Thane Direct.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cambridge TV">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="That's Cambridge">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Thats Cambridge.png</File>
     </Channel>
@@ -5579,12 +5591,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>The Word Network.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Tiddlers TV">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Tiddlers TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Tiny Pop">
@@ -5887,8 +5893,10 @@
     </Channel>
     <Channel>
       <Item Name="UTV +1">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="UTV+1">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>UTV Plus 1.png</File>
     </Channel>
@@ -5972,6 +5980,12 @@
       <File>Virgin Movies.png</File>
     </Channel>
     <Channel>
+      <Item Name="Virgin TV Kids">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Virgin TV Kids.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Viva">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -6049,11 +6063,8 @@
       <File>Xplicit Nightly.png</File>
     </Channel>
     <Channel>
-      <Item Name="RedHot XXX">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Xrated 40+">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Xrated40+">
         <Provider>Sky (UK)</Provider>
@@ -6061,11 +6072,8 @@
       <File>Xrated 40 Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="Filth XXX">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Xrated Couples">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="XratedCouples">
         <Provider>Sky (UK)</Provider>
@@ -6073,11 +6081,11 @@
       <File>Xrated Couples.png</File>
     </Channel>
     <Channel>
-      <Item Name="Wives XXX">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Xrated Hook Ups">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Xrated HookUps">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="XratedHookUps">
         <Provider>Sky (UK)</Provider>
