@@ -5947,6 +5947,12 @@
       <File>Vintage TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Virgin Movies Preview">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Virgin Movies.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Adult Previews">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5971,13 +5977,7 @@
       <Item Name="VM Previews">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Virgin Media.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Virgin Movies Preview">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Virgin Movies.png</File>
+      <File>Virgin TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Virgin TV Kids">
