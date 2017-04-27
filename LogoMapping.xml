@@ -5285,6 +5285,15 @@
       <File>Spike.png</File>
     </Channel>
     <Channel>
+      <Item Name="Spike + 1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Spike +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Spike Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Star Gold">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
