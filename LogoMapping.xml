@@ -2994,6 +2994,12 @@
       <File>Made In Liverpool.png</File>
     </Channel>
     <Channel>
+      <Item Name="Made In North Wales">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Made In North Wales.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Made In Teesside">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5542,6 +5548,18 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Thats Solent.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="That's Thames Valley">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Thames Valley Berkshire.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="That's Hampshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Thames Valley Hampshire.png</File>
     </Channel>
     <Channel>
       <Item Name="The Box">
