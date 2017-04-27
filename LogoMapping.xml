@@ -1686,6 +1686,15 @@
       <File>Crime and Investigation Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Cruise Savers TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="CruiseSaversTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Cruise Savers TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Cruise Deals TV">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -5576,12 +5585,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TJC Choice.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Mall">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>The Mall.png</File>
     </Channel>
     <Channel>
       <Item Name="The Store">
