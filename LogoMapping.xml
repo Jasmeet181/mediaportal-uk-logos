@@ -5378,15 +5378,10 @@
       <File>STV Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="STV Edinburgh">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="STV Glasgow">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="STV2">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>STV2.png</File>
     </Channel>
@@ -5694,6 +5689,18 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Tristar.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TRT World">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TRT World.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="TRT World HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>TRT World HD.png</File>
     </Channel>
     <Channel>
       <Item Name="True Christmas">
