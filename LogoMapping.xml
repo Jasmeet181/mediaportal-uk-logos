@@ -994,6 +994,12 @@
       <File>BT Showcase.png</File>
     </Channel>
     <Channel>
+      <Item Name="BT Showcase HD">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>BT Showcase HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Sport 1">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -4535,6 +4541,28 @@
       <File>Sky Cinema Jurassic HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Matt Damon">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Matt Damon">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Matt Damon.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Matt Damon HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Matt Damon HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Matt Damon HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Matt Damon HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Musicals">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5186,6 +5214,28 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports The Open HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Players">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports The Players">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Sports The Players.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Players HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Players HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports The Players HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Sports The Players HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports World Cup">
