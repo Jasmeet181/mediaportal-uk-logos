@@ -1124,9 +1124,6 @@
       <Item Name="BT Sport Showcase">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="BTSportHD Hidden">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <File>BT Sport Showcase.png</File>
     </Channel>
     <Channel>
@@ -3069,14 +3066,11 @@
       <File>More4 Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Motors TV">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Motorsport TV">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Motorsport.tv">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Motorsport.tv.png</File>
     </Channel>
@@ -5480,6 +5474,9 @@
       <Item Name="TalkingPictures TV">
         <Provider>Freeview (UK)</Provider>
       </Item>
+      <Item Name="TalkingPicturesTV">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>Talking Pictures TV.png</File>
     </Channel>
     <Channel>
@@ -5570,6 +5567,12 @@
       <File>Thats Cambridge.png</File>
     </Channel>
     <Channel>
+      <Item Name="That's Hampshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Hampshire.png</File>
+    </Channel>
+    <Channel>
       <Item Name="That's Lancashire">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5598,13 +5601,7 @@
       <Item Name="That's Thames Valley">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>Thats Thames Valley Berkshire.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Hampshire">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Thames Valley Hampshire.png</File>
+      <File>Thats Thames Valley.png</File>
     </Channel>
     <Channel>
       <Item Name="The Box">
@@ -6015,7 +6012,6 @@
     <Channel>
       <Item Name="Viceland">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Viceland.png</File>
     </Channel>
