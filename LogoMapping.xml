@@ -5928,7 +5928,7 @@
       <Item Name="Universal Channel">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Universal.png</File>
+      <File>Universal Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal Channel HD">
@@ -5937,19 +5937,16 @@
       <Item Name="Universal HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Universal HD.png</File>
+      <File>Universal Channel HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal Channel +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Universal +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <Item Name="Universal+1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Universal Plus 1.png</File>
+      <File>Universal Channel Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Urdu1 Europe">
