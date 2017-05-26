@@ -2235,6 +2235,15 @@
       <File>Front Runner.png</File>
     </Channel>
     <Channel>
+      <Item Name="Front Runner 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="FrontRunner 2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Front Runner 2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Gay Network">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4027,12 +4036,6 @@
       <File>Showcase.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showcase 3">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Showcase 3.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Showcase +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -4617,6 +4620,28 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Oscars HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Pirates of the Caribbean">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Pirates">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Pirates of the Caribbean.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pirates HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Pirates of the Caribbean HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Pirates HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Pirates of the Caribbean HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Cinema Premiere">
