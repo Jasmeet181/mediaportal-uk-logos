@@ -4862,7 +4862,7 @@
       <Item Name="Sky Cinema Tom Cruise">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Tom Cruise">
+      <Item Name="Sky Tom Cruise">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Tom Cruise.png</File>
@@ -6217,16 +6217,16 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX Stepfam">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Stepfamo.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Swingers">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Swingers.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="XXX Taboo">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Taboo.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
