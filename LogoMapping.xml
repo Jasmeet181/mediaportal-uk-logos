@@ -83,7 +83,6 @@
     </Channel>
     <Channel>
       <Item Name="ABN TV">
-        <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="ABNTV">
@@ -708,10 +707,9 @@
       <Item Name="BBC RB 2">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 2">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button 2.png</File>
     </Channel>
@@ -719,10 +717,9 @@
       <Item Name="BBC RB 3">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 3">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button 3.png</File>
     </Channel>
@@ -771,10 +768,9 @@
     <Channel>
       <Item Name="BBC RB HD">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button HD">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button HD.png</File>
     </Channel>
@@ -979,6 +975,7 @@
     <Channel>
       <Item Name="Brit Asia TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Brit Asia TV.png</File>
     </Channel>
@@ -2202,9 +2199,6 @@
     <Channel>
       <Item Name="Fox News">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Fox News Channel">
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Fox News.png</File>
     </Channel>
@@ -4037,7 +4031,6 @@
     </Channel>
     <Channel>
       <Item Name="Showcase">
-        <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Showcase.png</File>
@@ -6217,10 +6210,13 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX Step Family">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="XXX Stepfam">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Stepfamo.png</File>
+      <File>XXX Step Family.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Swingers">
