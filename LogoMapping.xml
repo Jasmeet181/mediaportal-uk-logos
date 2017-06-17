@@ -727,10 +727,9 @@
       <Item Name="BBC RB 4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 4">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button 4.png</File>
     </Channel>
@@ -738,10 +737,9 @@
       <Item Name="BBC RB 5">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 5">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button 5.png</File>
     </Channel>
@@ -749,10 +747,9 @@
       <Item Name="BBC RB 6">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 6">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Red Button 6.png</File>
     </Channel>
@@ -986,21 +983,6 @@
       <File>British Muslim.png</File>
     </Channel>
     <Channel>
-      <Item Name="BT Showcase">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>BT Showcase.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BT Showcase HD">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="BTSportHD Hidden">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BT Showcase HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BT Sport 1">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -1126,6 +1108,18 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>BT Sport Showcase.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BT Showcase HD">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Showcase HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="BTSportHD Hidden">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>BT Sport Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital TV">
@@ -2883,6 +2877,15 @@
       <File>Kix Power.png</File>
     </Channel>
     <Channel>
+      <Item Name="KMTV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="KMTV Made for Kent">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>KMTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="KTV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3738,6 +3741,7 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Quest Red+1">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Quest Red Plus 1.png</File>
@@ -3876,9 +3880,11 @@
       <File>Rishtey Europe.png</File>
     </Channel>
     <Channel>
+      <Item Name="Rocks &amp; Co">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Rocks &amp; Co 1">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Rocks and Co.png</File>
     </Channel>
