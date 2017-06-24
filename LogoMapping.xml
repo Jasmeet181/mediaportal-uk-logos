@@ -4242,6 +4242,28 @@
       <File>Sky Cinema Back to the Future HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Brits">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Brits">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Brits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Brits HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Brits HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyBritsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Brits HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Christmas">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -4433,32 +4455,6 @@
       </Item>
       <File>Sky Cinema Fast and Furious HD.png</File>
     </Channel>
-    <!--
-    <Channel>
-      <Item Name="Sky Great Brits">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Gt Brits">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Cinema Great Brits">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Great Brits.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Great Brits HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Gt Brits HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Cinema Great Brits HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Great Brits HD.png</File>
-    </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Greats">
         <Provider>Full Name (UK)</Provider>
