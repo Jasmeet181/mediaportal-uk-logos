@@ -5299,10 +5299,10 @@
         <Provider>Freeview (UK) IPTV</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Sonlife Broadcasting Network International">
+      <Item Name="Sonlife Broadcasting Network">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <File>Sonlife Broadcasting Network International.png</File>
+      <File>Sonlife Broadcasting Network.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Max">
@@ -5854,7 +5854,7 @@
     </Channel>
     <Channel>
       <Item Name="TruTV +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="TruTV+1">
         <Provider>Freeview (UK)</Provider>
