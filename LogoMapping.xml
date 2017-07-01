@@ -3620,18 +3620,6 @@
       <File>Playboy TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Adult Playboy TV Chat">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="PlayboyTV Chat">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Playboy TV Chat">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Playboy TV Chat.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Pop">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -6167,6 +6155,9 @@
       <Item Name="Xpanded TV">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Xpanded TV2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <File>Xpanded TV.png</File>
     </Channel>
     <Channel>
@@ -6256,10 +6247,13 @@
       <File>XXX Mums.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Real Wives">
+      <Item Name="XXX Summer Lust">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="XXX SummerLust">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Real Wives.png</File>
+      <File>XXX Summer Lust.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
