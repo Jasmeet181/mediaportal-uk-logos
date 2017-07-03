@@ -5625,6 +5625,12 @@
       <File>Thats Thames Valley.png</File>
     </Channel>
     <Channel>
+      <Item Name="That's York">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats York.png</File>
+    </Channel>
+    <Channel>
       <Item Name="The Box">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
