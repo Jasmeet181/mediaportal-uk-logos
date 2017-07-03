@@ -2042,20 +2042,18 @@
       <File>Euronews.png</File>
     </Channel>
     <Channel>
-      <Item Name="Eurosport">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Eurosport 1">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Eurosport 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Eurosport HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Eurosport 1 HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Eurosport 1HD">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Eurosport 1 HD.png</File>
     </Channel>
@@ -2305,6 +2303,8 @@
     <Channel>
       <Item Name="Gold +1">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Gold+1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Gold Plus 1.png</File>
@@ -3107,7 +3107,7 @@
       <File>Movies 24.png</File>
     </Channel>
     <Channel>
-      <Item Name="Movies 24+">
+      <Item Name="Movies 24 +">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Movies24+">
@@ -3160,6 +3160,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>MTV Base.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV Beats">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MTV Beats.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV Classic">
@@ -3296,6 +3302,8 @@
     <Channel>
       <Item Name="Nat Geo HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="National GeographicHD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>National Geographic HD.png</File>
@@ -5149,7 +5157,7 @@
       <File>Sky Sports F1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports F1 HD">
+      <Item Name="Sky Sports F1HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Spts F1 HD">
@@ -5498,6 +5506,9 @@
       <File>Takbeer TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Talking Pictures">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Talking Pictures TV">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -5506,9 +5517,6 @@
       </Item>
       <Item Name="TalkingPictures TV">
         <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="TalkingPicturesTV">
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Talking Pictures TV.png</File>
     </Channel>
