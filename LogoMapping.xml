@@ -2211,7 +2211,7 @@
     </Channel>
     <Channel>
       <Item Name="Front Runner">
-        <Provider>Freeview (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="FrontRunner">
         <Provider>Sky (UK)</Provider>
@@ -2462,12 +2462,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Discovery Home and Health Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Home &amp; Leisure">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Home and Leisure.png</File>
     </Channel>
     <Channel>
       <Item Name="Home">
@@ -3870,7 +3864,7 @@
     </Channel>
     <Channel>
       <Item Name="Rishtey Cineplex">
-        <Provider>Freeview (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="RishteyCine">
         <Provider>Sky (UK)</Provider>
