@@ -2819,6 +2819,12 @@
       <File>Jus Punjabi.png</File>
     </Channel>
     <Channel>
+      <Item Name="Kanshi TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Kanshi TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Keep It Country">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3034,6 +3040,18 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Magic.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Marvel Spider-Man">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Spider-Man">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Spider-Man Channel">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Marvel Spider-Man.png</File>
     </Channel>
     <Channel>
       <Item Name="MATV National">
