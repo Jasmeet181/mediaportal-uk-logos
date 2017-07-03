@@ -1412,12 +1412,6 @@
       <File>Chatbox.png</File>
     </Channel>
     <Channel>
-      <Item Name="Chelsea TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Chelsea TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Chelsea TV HD">
         <Provider>Sky (UK)</Provider>
       </Item>
