@@ -1642,6 +1642,12 @@
       <File>Craft Extra.png</File>
     </Channel>
     <Channel>
+      <Item Name="Craft Market">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Craft Market.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Create &amp; Craft">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -5659,12 +5665,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>The Craft Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Dept Store">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>The Dept Store.png</File>
     </Channel>
     <Channel>
       <Item Name="Times Now">
