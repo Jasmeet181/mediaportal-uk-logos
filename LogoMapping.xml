@@ -5007,85 +5007,42 @@
       <File>Sky Sports.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports 1">
+      <Item Name="SkySp Action">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Action">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports 1.png</File>
+      <File>Sky Sports Action.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports 1 HD">
+      <Item Name="SkySp ActionHD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Sky Sports 1HD">
+      <Item Name="Sky Sports Action HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports 1 HD.png</File>
+      <File>Sky Sports Action HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports 2">
+      <Item Name="SkySp Arena">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Arena">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports 2.png</File>
+      <File>Sky Sports Arena.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports 2 HD">
+      <Item Name="SkySp ArenaHD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="Sky Sports 2HD">
+      <Item Name="Sky Sports Arena HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports 2 HD.png</File>
+      <File>Sky Sports Arena HD.png</File>
     </Channel>
-    <Channel>
-      <Item Name="Sky Sports 3">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Sports 3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sports 3 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports 3HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Sports 3 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sports 4">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Sports 4.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sports 4 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports 4HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Sports 4 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sports 5">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Sports 5.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Sports 5 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports 5HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Sports 5 HD.png</File>
-    </Channel>
+<!--
     <Channel>
       <Item Name="Sky Spts Ashes">
         <Provider>Sky (UK)</Provider>
@@ -5104,11 +5061,9 @@
       </Item>
       <File>Sky Sports Ashes HD.png</File>
     </Channel>
+-->
     <Channel>
       <Item Name="Live Events Channel">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Prime Events">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Events">
@@ -5132,6 +5087,64 @@
       <File>Sky Sports Box Office HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Sports Cricket">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySpCricket">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Cricket.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports Cricket HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySpCricketHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Cricket HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports F1">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp F1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports F1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports F1 HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp F1 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports F1 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports Football">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp F'ball">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Football.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports Football HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports FootballHD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp F'ball HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Football HD.png</File>
+    </Channel>
+<!--
+    <Channel>
       <Item Name="Sky Sports Darts">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5149,56 +5162,89 @@
       </Item>
       <File>Sky Sports Darts HD.png</File>
     </Channel>
+-->
     <Channel>
-      <Item Name="Sky Sports F1">
-        <Provider>Sky (UK)</Provider>
+      <Item Name="Sky Sports Main Event">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports F1.png</File>
+      <Item Name="SkySpMainEv">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Main Event.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports F1HD">
+      <Item Name="Sky Sports Main Event HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkySports MainEventHD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky Spts F1 HD">
+      <Item Name="SkySpMainEvHD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sky Sports F1 HD.png</File>
+      <File>Sky Sports Main Event HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Sports Mix">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp Mix">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Mix.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sp Mix HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Sky Sports Mix HD">
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp Mix HD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Mix HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sp NewsHQ">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports News HQ">
+      <Item Name="Sky Sports News">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports News HQ.png</File>
+      <Item Name="SkySp News">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports News.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky SpN HQ HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports News HQ HD">
+      <Item Name="Sky Sports News HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Sports News HQ HD.png</File>
+      <Item Name="SkySp News HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports News HD.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Sky Sports PL">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Premier League">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkySp PL">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Premier League.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports PL HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Premier League HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkySp PL HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Premier League HD.png</File>
+    </Channel>
+<!--
     <Channel>
       <Item Name="Sky Ryder Cup">
         <Provider>Virgin Media (UK)</Provider>
@@ -5223,12 +5269,11 @@
       </Item>
       <File>Sky Sports Ryder Cup HD.png</File>
     </Channel>
+-->
     <Channel>
-      <Item Name="Sky Sports The Open">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Sky The Open">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Sports The Open.png</File>
     </Channel>
@@ -5236,14 +5281,15 @@
       <Item Name="Sky Sports The Open HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Sky Sports The OpenHD">
+      <Item Name="Sky The Open HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="SkyTheOpenHD">
+      <Item Name="SkyTheOpenHD ">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports The Open HD.png</File>
     </Channel>
+<!--
     <Channel>
       <Item Name="Sky Players">
         <Provider>Sky (UK)</Provider>
@@ -5266,6 +5312,8 @@
       </Item>
       <File>Sky Sports The Players HD.png</File>
     </Channel>
+-->
+<!--
     <Channel>
       <Item Name="Sky Sports World Cup">
         <Provider>Full Name (UK)</Provider>
@@ -5284,6 +5332,7 @@
       </Item>
       <File>Sky Sports World Cup HD.png</File>
     </Channel>
+-->
     <Channel>
       <Item Name="SmileTV2">
         <Provider>Full Name (UK)</Provider>
