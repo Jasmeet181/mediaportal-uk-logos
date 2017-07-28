@@ -1693,13 +1693,7 @@
       <File>Cruise Savers TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cruise Deals TV">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <Item Name="Cruise1st.tv">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="CruiseDealsTV">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cruise1st.tv.png</File>
@@ -2214,6 +2208,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>France 24 - Francais.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Freesports">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Freesports.png</File>
     </Channel>
     <Channel>
       <Item Name="Front Runner">
@@ -4141,6 +4141,24 @@
       </Item>
       <File>Sky Atlantic Plus 1.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Sky Atlantic VIP">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky AtlanticVIP">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Atlantic VIP.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Atlantic VIP HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyAtlntcVIPHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Atlantic VIP HD.png</File>
+    </Channel>
     <!--
     <Channel>
       <Item Name="Sky 80s'">
@@ -5164,6 +5182,27 @@
     </Channel>
 -->
     <Channel>
+      <Item Name="Sky Sports Golf">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp Golf">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Golf.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Sports Golf HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Golf HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp Golf HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Golf HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sports Main Event">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5657,6 +5696,12 @@
       <File>Thats Cambridge.png</File>
     </Channel>
     <Channel>
+      <Item Name="That's Cumbria">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Cumbria.png</File>
+    </Channel>
+    <Channel>
       <Item Name="That's Hampshire">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -5679,6 +5724,12 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Thats Oxford.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="That's Salisbury">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Salisbury.png</File>
     </Channel>
     <Channel>
       <Item Name="That's Solent">
@@ -5932,6 +5983,7 @@
     </Channel>
     <Channel>
       <Item Name="TV Warehouse">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Warehouse.png</File>
