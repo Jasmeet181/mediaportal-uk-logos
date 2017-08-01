@@ -1684,15 +1684,6 @@
       <File>Crime and Investigation Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cruise Savers TV">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="CruiseSaversTV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Cruise Savers TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Cruise1st.tv">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5401,11 +5392,52 @@
       <File>Sonlife Broadcasting Network.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sony Channel">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sony Channel.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Channel +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sony Chnl +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sony Channel Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Entertainment Television">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sony TV">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sony Entertainment Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Entertainment Television HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sony TV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sony Entertainment Television.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sony Max">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Max.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Max HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sony Max HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Mix">
@@ -5440,29 +5472,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Sab.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sony Channel">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sony Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sony Channel +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sony Chnl +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sony Channel Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sony TV">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sony Entertainment Television.png</File>
     </Channel>
     <Channel>
       <Item Name="Spike">
@@ -5565,6 +5574,15 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>STV HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Style and Fashion">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Style&amp;Fashion">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Style and Fashion.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy">
@@ -5737,6 +5755,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Thats Solent.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="That's Surrey">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Surrey.png</File>
     </Channel>
     <Channel>
       <Item Name="That's Thames Valley">
@@ -6053,15 +6077,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ultra HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Ummah Ch">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Ummah Channel">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Ummah Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal">
