@@ -5738,6 +5738,12 @@
       <File>Thats Manchester.png</File>
     </Channel>
     <Channel>
+      <Item Name="That's North Yorkshire">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats North Yorkshire.png</File>
+    </Channel>
+    <Channel>
       <Item Name="That's Oxford">
         <Provider>Freeview (UK)</Provider>
       </Item>
