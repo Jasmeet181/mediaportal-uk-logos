@@ -2201,10 +2201,10 @@
       <File>France 24 - Francais.png</File>
     </Channel>
     <Channel>
-      <Item Name="Freesports">
+      <Item Name="FreeSports">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>Freesports.png</File>
+      <File>FreeSports.png</File>
     </Channel>
     <Channel>
       <Item Name="Front Runner">
@@ -3127,10 +3127,13 @@
       <File>Movies4Men Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="MTA1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="MTA-Muslim TV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>MTA-Muslim TV.png</File>
+      <File>MTA1.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV">
