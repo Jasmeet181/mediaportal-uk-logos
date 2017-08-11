@@ -9,6 +9,12 @@
       <File>3e.png</File>
     </Channel>
     <Channel>
+      <Item Name="3e HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>3e HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="4music">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2224,16 +2230,16 @@
       <File>Gems TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Geo Kahani">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Geo Kahani.png</File>
+    </Channel>
+    <Channel>
       <Item Name="GEO News">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>GEO News.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="GEO Tez">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>GEO Tez.png</File>
     </Channel>
     <Channel>
       <Item Name="GEO TV">
