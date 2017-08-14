@@ -1881,12 +1881,6 @@
       <File>Disney XD Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="DM Plus TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>DM Global.png</File>
-    </Channel>
-    <Channel>
       <Item Name="DMAX">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2497,6 +2491,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Hum Europe.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hum Masala">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Hum Masala.png</File>
     </Channel>
     <Channel>
       <Item Name="I.D.">
