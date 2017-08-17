@@ -3259,12 +3259,6 @@
       <File>MUTV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="My Channel">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>My Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ch5 VoD logo">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -3274,6 +3268,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>My5.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MyTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>MyTV.png</File>
     </Channel>
     <Channel>
       <Item Name="Nat Geo">
