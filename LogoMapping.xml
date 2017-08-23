@@ -772,12 +772,6 @@
       <File>BBC Red Button HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BBC Three">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BBC Three.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Two">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3148,6 +3142,7 @@
     <Channel>
       <Item Name="MTV Beats">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>MTV Beats.png</File>
     </Channel>
@@ -3856,6 +3851,9 @@
       <Item Name="Rishtey">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Rishtey Europe">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Rishtey Europe.png</File>
     </Channel>
