@@ -1608,11 +1608,13 @@
     </Channel>
     <Channel>
       <Item Name="Community">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Community Channel">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TCC">
+        <Provider>Freeview (UK)</Provider>
       </Item>
       <Item Name="The Community Channel">
         <Provider>Virgin Media (UK)</Provider>
@@ -5661,6 +5663,18 @@
       <File>Television X.png</File>
     </Channel>
     <Channel>
+      <Item Name="Television X Pay-Per-Night">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TVXpaypernight">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Xrated Couples">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Television X Pay-Per-Night.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TG4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -6295,15 +6309,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Xrated 40 Plus.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Xrated Couples">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="XratedCouples">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Xrated Couples.png</File>
     </Channel>
     <Channel>
       <Item Name="Xrated Hook Ups">
