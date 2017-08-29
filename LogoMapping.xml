@@ -5472,18 +5472,18 @@
       <File>Spike Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Star Bharat">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Star Bharat.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Star Gold">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Star Gold.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Star Life Ok">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Star Life Ok.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus">
