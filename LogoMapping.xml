@@ -4016,6 +4016,15 @@
       <File>Sheffield Live TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Shopping Nation">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="ShoppingNation">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Shopping Nation.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Showcase">
         <Provider>Sky (UK)</Provider>
       </Item>
