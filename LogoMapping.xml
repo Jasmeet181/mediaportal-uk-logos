@@ -2154,12 +2154,6 @@
       <File>Fox Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Fox News">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Fox News.png</File>
-    </Channel>
-    <Channel>
       <Item Name="France 24 - English">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -2829,22 +2823,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Kiss.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kix">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Kix.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kix +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Kix+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Kix Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Kix Power">
@@ -3619,6 +3597,19 @@
       <File>Pop.png</File>
     </Channel>
     <Channel>
+      <Item Name="Pop Max">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Pop Max.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pop Max +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Pop Max Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Pop +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -3627,13 +3618,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pop Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Pop Max">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Pop Max.png</File>
     </Channel>
     <Channel>
       <Item Name="Premier Sports">
