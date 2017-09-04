@@ -2992,7 +2992,10 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Magic.png</File>
+      <Item Name="Magic TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Magic TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Marvel Spider-Man">
@@ -3011,6 +3014,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>MATV National.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Mickey &amp; Pals">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Mickey and Pals">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Mickey and Pals.png</File>
     </Channel>
     <Channel>
       <Item Name="More4">
