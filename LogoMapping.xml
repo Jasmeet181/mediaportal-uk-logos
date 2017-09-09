@@ -3017,6 +3017,7 @@
     </Channel>
     <Channel>
       <Item Name="Mickey &amp; Pals">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Mickey and Pals">
@@ -4747,6 +4748,26 @@
       <File>Sky Cinema Select HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Sky-Fi">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Fi">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Sky-Fi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Sky-Fi HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Fi HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Sky-Fi HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Spies">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -6338,6 +6359,12 @@
       <File>XXX 18 and Dirty.png</File>
     </Channel>
     <Channel>
+      <Item Name="XXX Age Gaps">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Age Gaps.png</File>
+    </Channel>
+    <Channel>
       <Item Name="XXX Step Family">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -6345,12 +6372,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Step Family.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="XXX Swingers">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Swingers.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
