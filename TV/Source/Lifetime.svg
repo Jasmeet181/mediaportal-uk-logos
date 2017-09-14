@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg:svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1280.0002"
+   height="1280.0004"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="Lifetime.svg"
+   viewBox="0 0 1200.0003 1200.0004">
+  <link
+     type="text/css"
+     id="dark-mode"
+     rel="stylesheet"
+     href="" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview3008"
+     showgrid="false"
+     inkscape:zoom="0.4258332"
+     inkscape:cx="218.39537"
+     inkscape:cy="600.00018"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2985"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <svg:metadata
+     id="metadata34">image/svg+xmlLifetime<rdf:RDF>
+  <cc:Work
+     rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+    <dc:title>Lifetime</dc:title>
+  </cc:Work>
+</rdf:RDF>
+</svg:metadata>
+  <svg:defs
+     id="defs2988">
+    <svg:style
+       id="style2990">.cls-1 {
+        fill: #ef3749;
+      }
+      .cls-2 {
+        fill: #fff;
+      }
+      .cls-3 {
+        fill: none;
+      }</svg:style>
+  </svg:defs>
+  <svg:title
+     id="title2992">Lifetime</svg:title>
+  <svg:g
+     id="g2994"
+     transform="translate(3.5209672e-6,-1.2693456e-6)">
+    <svg:title
+       id="title2996">Layer 1</svg:title>
+    <svg:path
+       id="path9"
+       d="M 600.49017,1.9e-4 C 269.12021,-0.25981 0.2702,268.15018 2e-4,599.51019 c -0.27,331.35999 268.14,600.22001 599.50999,600.49001 331.37,0.2701 600.21991,-268.14998 600.48991,-599.50997 C 1200.2701,269.13025 931.85022,0.2702 600.49017,2.4e-4"
+       class="cls-1"
+       inkscape:connector-curvature="0"
+       style="fill:#ef3749" />
+    <svg:polygon
+       id="polygon11"
+       points="192.66021,678.3202 192.6802,649.04017 122.58021,648.99018 122.69021,520.96021 92.060201,520.93018 91.930204,678.24018 "
+       class="cls-2"
+       style="fill:#ffffff" />
+    <svg:path
+       style="fill:#ffffff"
+       d="m 228.0202,521.06018 h 31.05 v 157.3 h -31.05 z"
+       id="rect13"
+       inkscape:connector-curvature="0" />
+    <svg:polygon
+       id="polygon15"
+       points="296.29021,678.40021 296.29021,678.40021 327.13021,678.42017 327.1802,617.2002 388.20022,617.24018 388.2202,589.06019 326.99019,589.0102 327.02019,550.18018 395.79021,550.24018 395.8102,521.18018 296.42022,521.10016 "
+       class="cls-2"
+       style="fill:#ffffff" />
+    <svg:polygon
+       id="polygon17"
+       points="529.6202,521.29017 431.11019,521.21021 430.98021,678.5102 430.98021,678.5102 529.49019,678.59022 529.51021,649.74018 461.63021,649.69019 461.66021,613.30018 523.10018,613.35016 523.13021,586.0702 461.6802,586.02021 461.71019,550.0702 529.60018,550.13019 "
+       class="cls-2"
+       style="fill:#ffffff" />
+    <svg:polygon
+       id="polygon19"
+       points="612.57021,550.42017 612.47017,678.66016 643.3102,678.68018 643.42019,550.44019 693.1202,550.49018 693.14022,521.42017 562.91018,521.3202 562.89022,550.38019 "
+       class="cls-2"
+       style="fill:#ffffff" />
+    <svg:path
+       style="fill:#ffffff"
+       d="m 728.37018,521.46021 h 31.06 v 157.3 h -31.06 z"
+       id="rect21"
+       inkscape:connector-curvature="0" />
+    <svg:polygon
+       id="polygon23"
+       points="972.13021,678.9502 972.26021,521.65021 930.5602,521.62018 884.3102,635.17017 884.3102,635.17017 837.15023,521.54017 796.77022,521.5102 796.65023,678.81019 825.9302,678.83021 826.02022,569.46021 871.19021,678.87018 896.70022,678.8902 942.0602,568.66016 941.98018,678.92017 "
+       class="cls-2"
+       style="fill:#ffffff" />
+    <svg:polygon
+       id="polygon25"
+       points="1040.1202,586.49018 1040.1502,550.55018 1108.0402,550.60016 1108.0402,550.60016 1108.0603,521.7602 1009.5402,521.68018 1009.4202,678.98017 1107.9303,679.06019 1107.9502,650.21021 1040.0701,650.16016 1040.1002,613.77021 1101.5402,613.8202 1101.5603,586.54017 "
+       class="cls-2"
+       style="fill:#ffffff" />
+    <svg:g
+       id="TM" />
+  </svg:g>
+</svg:svg>
