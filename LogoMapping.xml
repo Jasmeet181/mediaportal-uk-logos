@@ -2114,6 +2114,7 @@
     </Channel>
     <Channel>
       <Item Name="Forces TV">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -3468,7 +3469,6 @@
     <Channel>
       <Item Name="Notts TV">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Notts TV.png</File>
