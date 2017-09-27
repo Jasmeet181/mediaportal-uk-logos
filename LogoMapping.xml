@@ -1950,7 +1950,6 @@
     </Channel>
     <Channel>
       <Item Name="Eden HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Eden HD.png</File>
