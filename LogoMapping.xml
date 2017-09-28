@@ -3217,13 +3217,6 @@
       <File>MTV Xmas.png</File>
     </Channel>
     <Channel>
-      <Item Name="Mustard TV">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Mustard TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="MUTV">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3637,6 +3630,12 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Premier Sports HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Price Crash">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Price Crash.png</File>
     </Channel>
     <Channel>
       <Item Name="Propeller">
@@ -5571,15 +5570,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>STV HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Style and Fashion">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Style&amp;Fashion">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Style and Fashion.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy">
