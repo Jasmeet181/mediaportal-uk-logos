@@ -2263,6 +2263,12 @@
       <File>Gold.png</File>
     </Channel>
     <Channel>
+      <Item Name="Gold HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Gold HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Gold +1">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4971,6 +4977,15 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky News HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Ocean Rescue">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Ocean Rescue HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Ocean Rescue.png</File>
     </Channel>
     <Channel>
       <Item Name="Sports Active">
