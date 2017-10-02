@@ -3526,6 +3526,18 @@
       <File>Olive TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Party">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="Partyland">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Partyland.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pavers">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Paversshoes.tv">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6403,13 +6415,13 @@
       <File>XXX Mums.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Summer Lust">
+      <Item Name="XXX Office Girls">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="XXX SummerLust">
+      <Item Name="XXXOfficeGirls">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Summer Lust.png</File>
+      <File>XXX Office Girls.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday">
