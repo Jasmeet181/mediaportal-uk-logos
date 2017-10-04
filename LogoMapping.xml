@@ -2523,6 +2523,12 @@
       <File>Ideal World.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ideal Xmas">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Ideal Xmas.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Insight HD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4991,6 +4997,9 @@
       <File>Sky News HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Ocean Rescue">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Sky Ocean Rescue">
         <Provider>Full Name (UK)</Provider>
       </Item>
