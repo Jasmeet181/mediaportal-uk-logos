@@ -4059,36 +4059,6 @@
       <File>Sky.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky1">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky1 ">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky1 HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky 1 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky1 +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky 1 Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky2">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky Arts">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -5009,6 +4979,26 @@
       <File>Sky Ocean Rescue.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky One">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky One HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky One HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky One +1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky One Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sports Active">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5389,6 +5379,13 @@
       <File>Sky Sports World Cup HD.png</File>
     </Channel>
 -->
+    <Channel>
+      <Item Name="Sky Two">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Two.png</File>
+    </Channel>
     <Channel>
       <Item Name="SmileTV2">
         <Provider>Full Name (UK)</Provider>
