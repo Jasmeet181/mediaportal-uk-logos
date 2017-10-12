@@ -3761,6 +3761,9 @@
     </Channel>
     <Channel>
       <Item Name="QVC Christmas">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="QVC Xmas">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>QVC Christmas.png</File>
@@ -4965,18 +4968,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky News HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Ocean Rescue">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Ocean Rescue">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Ocean Rescue HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Ocean Rescue.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky One">
