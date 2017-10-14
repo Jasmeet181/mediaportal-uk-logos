@@ -4202,6 +4202,28 @@
     </Channel>
     -->
     <Channel>
+      <Item Name="Sky Animation">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Animation">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Animation.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Animation HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Animation HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Animation HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Animation HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Back2Future">
         <Provider>Sky (UK)</Provider>
       </Item>
