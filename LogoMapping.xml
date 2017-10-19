@@ -365,12 +365,6 @@
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bangla TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Bangla TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Bay TV Swansea">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2179,15 +2173,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Front Runner.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Front Runner 2">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="FrontRunner 2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Front Runner 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Gay Network">
@@ -5866,7 +5851,6 @@
     </Channel>
     <Channel>
       <Item Name="TJC Choice">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TJC Choice.png</File>
