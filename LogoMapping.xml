@@ -2470,30 +2470,6 @@
       <File>Hum Masala.png</File>
     </Channel>
     <Channel>
-      <Item Name="I.D.">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="ID">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Investigation Discovery">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Investigation Discovery.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="I.D.+1">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="ID+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Investigation Discovery +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Investigation Discovery Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Ideal Extra">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2524,6 +2500,36 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Inspiration TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="I.D.">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="ID">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Investigation Discovery">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Investigation Discovery.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="I.D.+1">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="ID+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Investigation Discovery +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Investigation Discovery Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Ion TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Ion TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Iqra Bangla">
