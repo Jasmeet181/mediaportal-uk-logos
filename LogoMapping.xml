@@ -4473,6 +4473,28 @@
       <File>Sky Cinema Greats HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Halloween">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Halloween">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Halloween.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Halloween HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Halloween HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Halloween HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Halloween HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Harry Potter">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
