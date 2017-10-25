@@ -365,6 +365,12 @@
       <File>BabyTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bangla TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Bangla TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Bay TV Swansea">
         <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
