@@ -40,6 +40,23 @@
       <File>4seven HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="5Spike">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Spike.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="5Spike + 1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="5Spike +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>5Spike Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="5STAR">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -5527,23 +5544,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Sab.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Spike">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Spike.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Spike + 1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Spike +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Spike Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Bharat">
