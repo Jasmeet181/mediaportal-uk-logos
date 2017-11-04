@@ -2103,12 +2103,6 @@
       <File>Film4 Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Flava">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Flava.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Food Network">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2308,12 +2302,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Gospel Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="GR Shop">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>GR Shop.png</File>
     </Channel>
     <Channel>
       <Item Name="H2">

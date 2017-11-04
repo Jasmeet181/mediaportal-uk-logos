@@ -1,1 +1,24 @@
-<svg height="9.088298mm" viewBox="0 0 25.76125 32.20263" width="7.270397mm" xmlns="http://www.w3.org/2000/svg"><path d="m0 0 4.204-.784-4.767-8.536h2.564l4.56 8.103v2.202l-6.561 1.702z" fill="#68c8c4" transform="matrix(1.25 0 0 -1.25 17.56 20.5525)"/><path d="m0 0h .517v2.37l-.517.107z" fill="#443c3a" transform="matrix(1.25 0 0 -1.25 6.41712 32.20263)"/><path d="m0 0-3.058-.358v2.617l3.058.428 3.657-.949v7.929l-.641.578.389.658-7.105 5.539-2.036-3.584v2.361l-.683.239v-12.812l-1.914-.236-.007 8.278-.555.19v-3.706l-3.008-5.312-1.868-.252 2.877-.353 4.475.571v-2.539l-7.629-.829 5.715-.483v.385l1.914.165v-7.845h.683v20.829l1.993 3.421v-24.25h.774l4.798 8.18 2.375.356z" fill="#443c3a" transform="matrix(1.25 0 0 -1.25 17.56 20.5525)"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg10574" width="7.2704mm" height="9.0883mm" version="1.1" viewBox="0 0 25.761 32.203" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata10579">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-445.04 -619.12)">
+  <g id="g2702" transform="matrix(1.25 0 0 -1.25 462.6 639.67)">
+   <path id="path2704" d="m0 0 4.204-0.784-4.767-8.536h2.564l4.56 8.103v2.202l-6.561 1.702v-2.687z" fill="#68c8c4"/>
+  </g>
+  <g id="g2706" transform="matrix(1.25 0 0 -1.25 451.46 651.32)">
+   <path id="path2708" d="m0 0h0.517v2.37l-0.517 0.107v-2.477z" fill="#443c3a"/>
+  </g>
+  <g id="g2710" transform="matrix(1.25 0 0 -1.25 462.6 639.67)">
+   <path id="path2712" d="m0 0-3.058-0.358v2.617l3.058 0.428 3.657-0.949v7.929l-0.641 0.578 0.389 0.658-7.105 5.539-2.036-3.584v2.361l-0.683 0.239v-12.812l-1.914-0.236-7e-3 8.278-0.555 0.19v-3.706l-3.008-5.312-1.868-0.252 2.877-0.353 4.475 0.571v-2.539l-7.629-0.829 5.715-0.483v0.385l1.914 0.165v-7.845h0.683v20.829l1.993 3.421v-24.25h0.774l4.798 8.18 2.375 0.356-4.204 0.784z" fill="#443c3a"/>
+  </g>
+ </g>
+</svg>

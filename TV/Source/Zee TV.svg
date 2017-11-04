@@ -1,1 +1,33 @@
-<svg height="538.04999pt" viewBox="0 0 821.574 538.04998" width="821.57397pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><radialGradient id="a" cx="193.73235" cy="405.0657" gradientTransform="matrix(1.0447188 1.0447187 -.79418531 .79418531 193.89497 -435.20065)" gradientUnits="userSpaceOnUse" r="358.33105"><stop offset="0" stop-color="#fdc844"/><stop offset=".22367215" stop-color="#fcac39"/><stop offset=".50201553" stop-color="#fb8229"/><stop offset="1" stop-color="#f64b1f"/></radialGradient><path d="m537.49653 269.025a268.74826 269.02499 0 0 1 -268.74827 269.02499 268.74826 269.02499 0 0 1 -268.74826-269.02499 268.74826 269.02499 0 0 1 268.74826-269.025 268.74826 269.02499 0 0 1 268.74827 269.025z" fill="url(#a)"/><g transform="translate(0 -.0003)"><path d="m567.22998 200.52184.00028 22.83666h42.71844v112.33359h.12973 24.42984.12828v-112.33359h42.71871v-22.83666z" fill="#fb5523" stroke-width=".995074"/><path d="m689.60009 200.52184 55.27846 135.17025h.40482 20.60723.40482l55.27859-135.17025h-26.18356-.16766l-39.6358 98.93768-39.63581-98.93768h-.16766z" fill="#fb5523" stroke-width=".986943"/></g><g fill="#fff"><path d="m155.48144 200.77558h109.94532v22.80762l-74.74512 86.79491h74.80957l.0366 25.56738h-112.34911v-22.82079l74.53126-86.74219h-72.22852z"/><path d="m349.28319 201.46991 51.49513.0586v25.52049h-73.72852v28.93066h73.72852v25.6245h-73.72852v29.14746h73.72852v25.88966h-102.87598v-135.1128z"/><path d="m488.54152 200.52219-51.38088.0571v135.1128h91.60691c2.1843-8.53801 3.94815-17.17832 5.28517-25.88965h-67.74462v-29.14746h70.60692c.27765-3.87181.47153-7.74919.58155-11.6294-.0435-4.66806-.2088-9.33419-.49507-13.99365h-70.6934v-28.93212h67.61862c-1.39867-8.59382-3.2133-17.11459-5.4375-25.53223z"/></g></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg4537" width="289.83mm" height="189.81mm" version="1.1" viewBox="0 0 289.83 189.81" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs4531">
+  <radialGradient id="a" cx="193.73" cy="405.07" r="358.33" gradientTransform="matrix(.36855 .36855 -.28017 .28017 -15.283 -104.89)" gradientUnits="userSpaceOnUse">
+   <stop id="stop2" stop-color="#fdc844" offset="0"/>
+   <stop id="stop4" stop-color="#fcac39" offset=".22367"/>
+   <stop id="stop6" stop-color="#fb8229" offset=".50202"/>
+   <stop id="stop8" stop-color="#f64b1f" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata id="metadata4534">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(83.684 -48.636)">
+  <path id="path11" d="m105.93 143.54a94.808 94.906 0 0 1-94.808 94.906 94.808 94.906 0 0 1-94.808-94.906 94.808 94.906 0 0 1 94.808-94.906 94.808 94.906 0 0 1 94.808 94.906z" fill="url(#a)" stroke-width=".35278"/>
+  <g id="g17" transform="matrix(.35278 0 0 .35278 -83.684 48.636)" fill="#fb5523">
+   <path id="path13" d="m567.23 200.52 2.8e-4 22.837h42.718v112.33h24.688v-112.33h42.719v-22.837z" stroke-width=".99507"/>
+   <path id="path15" d="m689.6 200.52 55.278 135.17h21.417l55.279-135.17h-26.351l-39.636 98.938-39.636-98.938h-0.16766z" stroke-width=".98694"/>
+  </g>
+  <g id="g25" transform="matrix(.35278 0 0 .35278 -83.684 48.636)" fill="#fff">
+   <path id="path19" d="m155.48 200.78h109.95v22.808l-74.745 86.795h74.81l0.0366 25.567h-112.35v-22.821l74.531-86.742h-72.229z"/>
+   <path id="path21" d="m349.28 201.47 51.495 0.0586v25.52h-73.729v28.931h73.729v25.624h-73.729v29.147h73.729v25.89h-102.88v-135.11z"/>
+   <path id="path23" d="m488.54 200.52-51.381 0.0571v135.11h91.607c2.1843-8.538 3.9482-17.178 5.2852-25.89h-67.745v-29.147h70.607c0.27765-3.8718 0.47153-7.7492 0.58155-11.629-0.0435-4.6681-0.2088-9.3342-0.49507-13.994h-70.693v-28.932h67.619c-1.3987-8.5938-3.2133-17.115-5.4375-25.532z"/>
+  </g>
+ </g>
+</svg>
