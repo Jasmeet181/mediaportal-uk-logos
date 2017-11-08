@@ -4141,6 +4141,8 @@
       </Item>
       <File>Sky Cinema 80s HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky 90s">
         <Provider>Sky (UK)</Provider>
@@ -4163,24 +4165,22 @@
     <Channel>
       <Item Name="Sky Action">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Action&amp;Adventure">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky Cinema Action &amp; Adventure">
+      <Item Name="Sky Cinema Action">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <File>Sky Cinema Action and Adventure.png</File>
+      <File>Sky Cinema Action.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky Cinema Action &amp; Adventure HD">
+      <Item Name="Sky Cinema Action HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <File>Sky Cinema Action and Adventure HD.png</File>
+      <File>Sky Cinema Action HD.png</File>
     </Channel>
     <!--
     <Channel>
@@ -4206,6 +4206,7 @@
       <File>Sky Cinema Aliens HD.png</File>
     </Channel>
     -->
+    <!--
     <Channel>
       <Item Name="Sky Animation">
         <Provider>Sky (UK)</Provider>
@@ -4228,6 +4229,8 @@
       </Item>
       <File>Sky Cinema Animation HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Back2Future">
         <Provider>Sky (UK)</Provider>
@@ -4252,6 +4255,8 @@
       </Item>
       <File>Sky Cinema Back to the Future HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Brits">
         <Provider>Sky (UK)</Provider>
@@ -4274,6 +4279,7 @@
       </Item>
       <File>Sky Cinema Brits HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Christmas">
         <Provider>Sky (UK)</Provider>
@@ -4317,26 +4323,6 @@
       <File>Sky Cinema Comedy HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Cinema Crime &amp; Thriller">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Thriller">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Crime and Thriller.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Cinema Crime &amp; Thriller HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Thriller HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Crime and Thriller HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky Cinema Disney">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -4356,6 +4342,7 @@
       </Item>
       <File>Sky Cinema Disney HD.png</File>
     </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Cinema Disney Pixar">
         <Provider>Full Name (UK)</Provider>
@@ -4376,30 +4363,30 @@
       </Item>
       <File>Sky Cinema Disney Pixar HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
-      <Item Name="Sky Cinema Drama &amp; Romance">
+      <Item Name="Sky Cinema Drama">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Sky Drama &amp; Romance">
+      <Item Name="Sky Drama">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky DramaRom">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Drama and Romance.png</File>
+      <File>Sky Cinema Drama.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Cinema Drama &amp; Romance HD">
+      <Item Name="Sky Cinema Drama HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Sky Drama &amp; Rom HD">
+      <Item Name="Sky Drama HD">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky DraRomHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Sky Cinema Drama and Romance HD.png</File>
+      <File>Sky Cinema Drama HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Fairy Tales">
         <Provider>Full Name (UK)</Provider>
@@ -4422,6 +4409,7 @@
       </Item>
       <File>Sky Cinema Fairy Tales HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Family">
         <Provider>Full Name (UK)</Provider>
@@ -4442,6 +4430,8 @@
       </Item>
       <File>Sky Cinema Family HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Fast and Furious">
         <Provider>Virgin Media (UK)</Provider>
@@ -4466,6 +4456,7 @@
       </Item>
       <File>Sky Cinema Fast and Furious HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Greats">
         <Provider>Full Name (UK)</Provider>
@@ -4486,6 +4477,7 @@
       </Item>
       <File>Sky Cinema Greats HD.png</File>
     </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Cinema Halloween">
         <Provider>Full Name (UK)</Provider>
@@ -4508,6 +4500,8 @@
       </Item>
       <File>Sky Cinema Halloween HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Harry Potter">
         <Provider>Virgin Media (UK)</Provider>
@@ -4532,6 +4526,7 @@
       </Item>
       <File>Sky Cinema Harry Potter HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Hits">
         <Provider>Full Name (UK)</Provider>
@@ -4552,6 +4547,7 @@
       </Item>
       <File>Sky Cinema Hits HD.png</File>
     </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Jurassic">
         <Provider>Sky (UK)</Provider>
@@ -4572,6 +4568,8 @@
       </Item>
       <File>Sky Cinema Jurassic HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Matt Damon">
         <Provider>Full Name (UK)</Provider>
@@ -4594,6 +4592,8 @@
       </Item>
       <File>Sky Cinema Matt Damon HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Musicals">
         <Provider>Sky (UK)</Provider>
@@ -4616,6 +4616,8 @@
       </Item>
       <File>Sky Cinema Musicals HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Monsters">
         <Provider>Sky (UK)</Provider>
@@ -4636,6 +4638,8 @@
       </Item>
       <File>Sky Cinema Monsters HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Oscars">
         <Provider>Full Name (UK)</Provider>
@@ -4656,6 +4660,8 @@
       </Item>
       <File>Sky Cinema Oscars HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Pirates of the Caribbean">
         <Provider>Full Name (UK)</Provider>
@@ -4678,6 +4684,7 @@
       </Item>
       <File>Sky Cinema Pirates of the Caribbean HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Premiere">
         <Provider>Full Name (UK)</Provider>
@@ -4778,6 +4785,7 @@
       </Item>
       <File>Sky Cinema Select HD.png</File>
     </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Cinema Sky-Fi">
         <Provider>Full Name (UK)</Provider>
@@ -4798,6 +4806,8 @@
       </Item>
       <File>Sky Cinema Sky-Fi HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Spies">
         <Provider>Full Name (UK)</Provider>
@@ -4820,6 +4830,8 @@
       </Item>
       <File>Sky Cinema Spies HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Star Trek">
         <Provider>Full Name (UK)</Provider>
@@ -4842,6 +4854,8 @@
       </Item>
       <File>Sky Cinema Star Trek HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Star Wars">
         <Provider>Full Name (UK)</Provider>
@@ -4864,6 +4878,7 @@
       </Item>
       <File>Sky Cinema Star Wars HD.png</File>
     </Channel>
+    -->
     <!--
     <Channel>
       <Item Name="Sky Cinema Summer">
@@ -4884,6 +4899,7 @@
       <File>Sky Cinema Summer HD.png</File>
     </Channel>
     -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Superheroes">
         <Provider>Full Name (UK)</Provider>
@@ -4906,6 +4922,28 @@
       </Item>
       <File>Sky Cinema Superheroes HD.png</File>
     </Channel>
+    -->
+    <Channel>
+      <Item Name="Sky Cinema Thriller">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Thriller">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Thriller.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Thriller HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Thriller HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Thriller HD.png</File>
+    </Channel>
+    <!--
     <Channel>
       <Item Name="Sky Cinema Tom Cruise">
         <Provider>Full Name (UK)</Provider>
@@ -4924,6 +4962,8 @@
       </Item>
       <File>Sky Cinema Tom Cruise HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Tom Hanks">
         <Provider>Full Name (UK)</Provider>
@@ -4948,6 +4988,8 @@
       </Item>
       <File>Sky Cinema Tom Hanks HD.png</File>
     </Channel>
+    -->
+    <!--
     <Channel>
       <Item Name="Sky Cinema Valentine">
         <Provider>Full Name (UK)</Provider>
@@ -4970,6 +5012,7 @@
       </Item>
       <File>Sky Cinema Valentine HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Living">
         <Provider>Sky (UK)</Provider>
@@ -5107,26 +5150,6 @@
       </Item>
       <File>Sky Sports Arena HD.png</File>
     </Channel>
-<!--
-    <Channel>
-      <Item Name="Sky Spts Ashes">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports Ashes">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Sports Ashes.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="SkySp AshesHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Sky Sports Ashes HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Sky Sports Ashes HD.png</File>
-    </Channel>
--->
     <Channel>
       <Item Name="Live Events Channel">
         <Provider>Virgin Media (UK)</Provider>
