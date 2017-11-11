@@ -6592,15 +6592,6 @@
       <File>Absolute Radio 90s.png</File>
     </Channel>
     <Channel>
-      <Item Name="Ahomka Radio">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Ahomka RD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Ahomka Radio.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Asian">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -7180,6 +7171,15 @@
         <Provider>Freesat (UK)</Provider>
       </Item>
       <File>Freesat.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="GN Radio">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="GN Radio UK">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>GN Radio UK.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold">
