@@ -2245,6 +2245,15 @@
       <File>Glory TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="GN TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="GNTV UK">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>GNTV UK.png</File>
+    </Channel>
+    <Channel>
       <Item Name="God Channel">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
