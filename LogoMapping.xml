@@ -5626,7 +5626,18 @@
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      <Item Name="STV AD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>STV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="STV HD">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>STV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="STV +1">
@@ -5642,14 +5653,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>STV2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="STV HD">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>STV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Syfy">
@@ -6262,6 +6265,13 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>VH1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VH1 Christmas">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>VH1 Christmas.png</File>
     </Channel>
     <Channel>
       <Item Name="Viceland">
