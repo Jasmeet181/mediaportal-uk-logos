@@ -7340,8 +7340,6 @@
       </Item>
       <File>Radio X.png</File>
     </Channel>
-      <File>Rainbow Radio.png</File>
-    </Channel>
     <Channel>
       <Item Name="RNIB Connect">
         <Provider>Freeview (UK)</Provider>
