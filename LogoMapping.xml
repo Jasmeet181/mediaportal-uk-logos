@@ -7340,13 +7340,6 @@
       </Item>
       <File>Radio X.png</File>
     </Channel>
-    <Channel>
-      <Item Name="Rainbow">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Rainbow Radio">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <File>Rainbow Radio.png</File>
     </Channel>
     <Channel>
