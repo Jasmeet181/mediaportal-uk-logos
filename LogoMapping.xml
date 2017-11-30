@@ -1723,6 +1723,12 @@
       <File>Determination TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Dirty Talk">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Dirty Talk.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Disc.History">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2076,6 +2082,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Faith World TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Fame TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Fame TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Film4">
@@ -3613,7 +3625,7 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Playboy TV">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Playboy TV Nightly">
         <Provider>Virgin Media (UK)</Provider>
@@ -5770,6 +5782,18 @@
       <File>Television X Pay-Per-Night.png</File>
     </Channel>
     <Channel>
+      <Item Name="Television X Pay-Per-Night 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TVXPPN2">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Xrated HookUps">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Television X Pay-Per-Night 2.png</File>
+    </Channel>
+    <Channel>
       <Item Name="TG4">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -6420,18 +6444,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Xrated 40 Plus.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Xrated Hook Ups">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Xrated HookUps">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="XratedHookUps">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Xrated Hook Ups.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX 18 &amp; Dirty">
