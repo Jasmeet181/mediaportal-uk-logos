@@ -1449,20 +1449,25 @@
       <File>Christmas Gold.png</File>
     </Channel>
     <Channel>
-      <Item Name="Christmas Gold +1">
+      <Item Name="Christmas Gold HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Christmas Gold+1">
+      <Item Name="Xmas Gold HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Christmas Gold HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Christmas Gold +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Xmas Gold +1">
+      <Item Name="Xmas Gold+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Christmas Gold Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Christmas Food">
-        <Provider>Full Name (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -1470,7 +1475,6 @@
     </Channel>
     <Channel>
       <Item Name="Christmas Food HD">
-        <Provider>Full Name (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Xmas Food HD">
@@ -1480,7 +1484,6 @@
     </Channel>
     <Channel>
       <Item Name="Christmas Food +1">
-        <Provider>Full Name (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Xmas Food +1">
@@ -2852,13 +2855,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Kiss.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Kix Power">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Kix Power.png</File>
     </Channel>
     <Channel>
       <Item Name="KMTV">
