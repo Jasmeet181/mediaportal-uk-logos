@@ -357,6 +357,15 @@
       <File>Babes From TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Babes TV and Brazzers TV Europe">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Babes&amp;Brazzers">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Babes TV and Brazzers TV Europe.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Babenation">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2067,12 +2076,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>EWTN.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ExGirlfriends">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ExGirlfriends.png</File>
     </Channel>
     <Channel>
       <Item Name="Faith UK">
