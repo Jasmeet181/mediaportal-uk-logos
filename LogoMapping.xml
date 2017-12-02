@@ -6445,16 +6445,16 @@
       <File>Xrated 40 Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX 18 &amp; Dirty">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX 18 and Dirty.png</File>
-    </Channel>
-    <Channel>
       <Item Name="XXX Age Gaps">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Age Gaps.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX College">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX College.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Step Family">
