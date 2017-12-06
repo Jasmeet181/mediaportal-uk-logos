@@ -3367,15 +3367,6 @@
       <File>New Vision TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="New Vision +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="New Vision TV +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>New Vision TV +1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="News18">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5590,6 +5581,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Star Gold.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Star Gold HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Star Gold HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Star Plus">
