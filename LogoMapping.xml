@@ -315,6 +315,12 @@
       <File>Arirang HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="ARY Family">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>ARY Family.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Astra UHD Demo">
         <Provider>Astra 28.2E</Provider>
       </Item>
