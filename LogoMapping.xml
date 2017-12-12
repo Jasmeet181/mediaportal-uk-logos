@@ -1419,21 +1419,6 @@
       <File>Chelsea TV HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Chilled 90s">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Chilled TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Chilled TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Chilled Xmas">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Chilled Xmas.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Christmas 24">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3495,6 +3480,7 @@
     </Channel>
     <Channel>
       <Item Name="Now 80s">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Now 80s.png</File>
@@ -3504,6 +3490,7 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Now Xmas">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Now Christmas.png</File>
@@ -4312,6 +4299,28 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Christmas HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Classics">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Classics">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Classics.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Classics HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Classics HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky ClassicsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Classics HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Cinema Comedy">
