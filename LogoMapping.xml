@@ -93,6 +93,15 @@
       <File>5 USA Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="92 News">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="92 News UK">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>92 News UK.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Aaj Tak">
         <Provider>Sky (UK)</Provider>
       </Item>
