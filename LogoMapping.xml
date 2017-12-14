@@ -5226,6 +5226,30 @@
       <File>Sky Sports Cricket HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Darts">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Darts">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySp Darts">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Darts.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Darts HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Darts HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkySp Darts HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Sports Darts HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Sports F1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
