@@ -5227,10 +5227,10 @@
     </Channel>
     <Channel>
       <Item Name="Sky Darts">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Sports Darts">
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="SkySp Darts">
         <Provider>Sky (UK)</Provider>
