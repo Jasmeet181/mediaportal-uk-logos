@@ -4584,22 +4584,22 @@
     </Channel>
     <!--
     <Channel>
+      <Item Name="Sky Cinema Jurassic">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Sky Jurassic">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky Cinema Jurassic">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <File>Sky Cinema Jurassic.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Jurassic HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Sky Jurassic HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Cinema Jurassic HD">
-        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Jurassic HD.png</File>
     </Channel>
@@ -4628,48 +4628,44 @@
       <File>Sky Cinema Matt Damon HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
+      <Item Name="Sky Cinema Musicals">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Sky Musicals">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky Cinema Musicals">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <File>Sky Cinema Musicals.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Musicals HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="SkyMusicalsHD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Sky Cinema Musicals HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="Sky Musicals HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <File>Sky Cinema Musicals HD.png</File>
     </Channel>
-    -->
     <!--
     <Channel>
+      <Item Name="Sky Cinema Monsters">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Sky Monsters">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Sky Cinema Monsters">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <File>Sky Cinema Monsters.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Monsters HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Sky Monsters HD">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Sky Cinema Monsters HD">
-        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Monsters HD.png</File>
     </Channel>
