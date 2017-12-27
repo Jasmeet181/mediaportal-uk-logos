@@ -3500,6 +3500,13 @@
       <File>Now 80s.png</File>
     </Channel>
     <Channel>
+      <Item Name="Now 90s">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Now 90s.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Now Christmas">
         <Provider>Full Name (UK)</Provider>
       </Item>
