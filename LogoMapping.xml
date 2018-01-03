@@ -1726,15 +1726,6 @@
       <File>Daystar HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DBN">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Determination TV">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Determination TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Dirty Talk">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1941,12 +1932,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>E HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="E! +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>E Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="E4">
@@ -6227,12 +6212,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVC News.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TVC News +1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TVC News Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="TVX Pornstars">
