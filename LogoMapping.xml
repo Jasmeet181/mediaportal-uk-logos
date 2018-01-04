@@ -15,7 +15,7 @@
       <File>3e HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="4music">
+      <Item Name="4Music">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -57,7 +57,7 @@
       <File>5Spike Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="5STAR">
+      <Item Name="5Star">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -65,22 +65,22 @@
       <File>5star.png</File>
     </Channel>
     <Channel>
-      <Item Name="5STAR +1">
+      <Item Name="5Star +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="5STAR+1">
+      <Item Name="5Star+1">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>5star Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="5 USA">
+      <Item Name="5USA">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>5 USA.png</File>
+      <File>5USA.png</File>
     </Channel>
     <Channel>
       <Item Name="5 USA +1">
@@ -90,7 +90,7 @@
       <Item Name="5USA+1">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>5 USA Plus 1.png</File>
+      <File>5USA Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="92 News">
@@ -3523,12 +3523,6 @@
       <File>NVTV.png</File>
     </Channel>
     <Channel>
-      <Item Name="OH TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>OH TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Oireachtas TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4033,15 +4027,6 @@
       <File>Sheffield Live TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Shopping Nation">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="ShoppingNation">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Shopping Nation.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Showcase">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4391,28 +4376,30 @@
       <File>Sky Cinema Disney Pixar HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
-      <Item Name="Sky Cinema Drama">
+      <Item Name="Sky Cinema Drama &amp; Romance">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Drama">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Cinema Drama.png</File>
+      <Item Name="Sky DramaRom">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Drama and Romance.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Cinema Drama HD">
+      <Item Name="Sky Cinema Drama &amp; Romance HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Drama HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sky Cinema Drama HD.png</File>
+      <Item Name="Sky DraRomHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Drama and Romance HD.png</File>
     </Channel>
-    -->
     <!--
     <Channel>
       <Item Name="Sky Cinema Fairy Tales">
