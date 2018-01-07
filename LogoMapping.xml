@@ -4545,6 +4545,9 @@
       <Item Name="Sky Cinema Heroes">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="Sky Heroes">
+        <Provider>Sky (UK)</Provider>
+      </Item>
       <Item Name="Sky Superhero">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4553,6 +4556,9 @@
     <Channel>
       <Item Name="Sky Cinema Heroes HD">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Heroes HD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
