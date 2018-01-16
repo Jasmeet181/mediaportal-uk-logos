@@ -4014,6 +4014,7 @@
     <Channel>
       <Item Name="Sewing Quarter">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sewing Quarter.png</File>
     </Channel>
@@ -6065,6 +6066,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TLC Plus 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Together">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Together.png</File>
     </Channel>
     <Channel>
       <Item Name="Travel Channel">
