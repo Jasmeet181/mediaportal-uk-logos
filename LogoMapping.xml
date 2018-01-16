@@ -75,10 +75,13 @@
       <File>5star Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="5USA">
+      <Item Name="5 USA">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="5USA">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>5USA.png</File>
     </Channel>
