@@ -1629,18 +1629,6 @@
       <File>Comedy Central Extra Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Community">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Community Channel">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="The Community Channel">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Community Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Craft Extra">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6073,6 +6061,8 @@
     <Channel>
       <Item Name="Together">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Together.png</File>
     </Channel>
