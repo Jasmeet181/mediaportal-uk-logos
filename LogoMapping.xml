@@ -4557,7 +4557,7 @@
       <Item Name="Sky Heroes">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <!--Conflicts with Sky Cinema Superhero.png-->
+      <!-- Conflicts with Sky Cinema Superhero.png -->
       <Item Name="Sky Superhero">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4570,7 +4570,7 @@
       <Item Name="Sky Heroes HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <!--Conflicts with Sky Cinema Superhero HD.png-->
+      <!-- Conflicts with Sky Cinema Superhero HD.png -->
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4943,11 +4943,12 @@
       </Item>
       <File>Sky Cinema Summer HD.png</File>
     </Channel>
+    -->
     <Channel>
       <Item Name="Sky Cinema Superheroes">
         <Provider>Full Name (UK)</Provider>
       </Item>
-    <!--Conflicts with Sky Cinema Heroes.png-->
+    <!-- Conflicts with Sky Cinema Heroes.png -->
     <!--
       <Item Name="Sky Superhero">
         <Provider>Sky (UK)</Provider>
@@ -4960,7 +4961,7 @@
       <Item Name="Sky Cinema Superheroes HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-    <!--Conflicts with Sky Cinema Heroes HD.png-->
+    <!-- Conflicts with Sky Cinema Heroes HD.png -->
     <!--
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
