@@ -141,19 +141,6 @@
       <File>Abu Dhabi Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Adult Channel">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Adult Channel Nightly">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Nightly Adult Channel">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Adult Channel.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Adult Section">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -1717,6 +1704,15 @@
       <File>Daystar HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="DBN">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Determination TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Determination TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Dirty Talk">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3082,7 +3078,7 @@
       <Item Name="Movies 24 +">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Movies24+">
+      <Item Name="Movies 24+">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Movies 24 Plus.png</File>
@@ -4237,6 +4233,26 @@
       </Item>
       <File>Sky Cinema Back to the Future HD.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Sky Bourne">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Bourne">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Bourne.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Bourne HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Bourne HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Bourne HD.png</File>
+    </Channel>
     -->
     <!--
     <Channel>
@@ -4540,6 +4556,7 @@
       <Item Name="Sky Heroes">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <!--Conflicts with Sky Cinema Superhero.png-->
       <Item Name="Sky Superhero">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4552,6 +4569,7 @@
       <Item Name="Sky Heroes HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <!--Conflicts with Sky Cinema Superhero HD.png-->
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4924,24 +4942,29 @@
       </Item>
       <File>Sky Cinema Summer HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Superheroes">
         <Provider>Full Name (UK)</Provider>
       </Item>
+    <!--Conflicts with Sky Cinema Heroes.png-->
+    <!--
       <Item Name="Sky Superhero">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+    -->
       <File>Sky Cinema Superheroes.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Cinema Superheroes HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
+    <!--Conflicts with Sky Cinema Heroes HD.png-->
+    <!--
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+    -->
       <Item Name="Sky SuprheroHD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -5329,9 +5352,6 @@
       <File>Sky Sports Golf.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Sports Golf HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
       <Item Name="Sky Sports Golf HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -5954,6 +5974,22 @@
       <File>Thats York.png</File>
     </Channel>
     <Channel>
+      <Item Name="Adult Channel">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Adult Channel Nightly">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Nightly Adult Channel">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="The Adult Channel">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>The Adult Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="The Box">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -6082,12 +6118,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Travel Channel Plus 1.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Tristar">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Tristar.png</File>
     </Channel>
     <Channel>
       <Item Name="TRT World">
@@ -6559,6 +6589,15 @@
       <File>XXX Office Girls.png</File>
     </Channel>
     <Channel>
+      <Item Name="Yanga!">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Yanga! TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Yanga TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Yesterday">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -6873,6 +6912,16 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Radio Cymru.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="BBC Cymru 2">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BBC Radio Cymru 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BBC Radio Cymru 2.png</File>
     </Channel>
     <Channel>
       <Item Name="BBC Derby">
