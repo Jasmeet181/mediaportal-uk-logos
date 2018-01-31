@@ -3174,6 +3174,7 @@
     <Channel>
       <Item Name="MTV Love">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>MTV Love.png</File>
     </Channel>
@@ -6443,7 +6444,9 @@
     <Channel>
       <Item Name="Viva">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Viva Old">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Viva.png</File>
