@@ -119,6 +119,7 @@
     <Channel>
       <Item Name="ABN TV">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="ABNTV">
         <Provider>Full Name (UK)</Provider>
@@ -2352,13 +2353,16 @@
       <File>Hidayat TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="High Street TV">
+      <Item Name="High Street TV 1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="High Street TV 2">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="High Street TV 3">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="High Street TV 4">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>High Street TV.png</File>
