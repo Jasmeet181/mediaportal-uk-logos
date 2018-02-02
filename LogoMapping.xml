@@ -54,6 +54,9 @@
       <Item Name="5Spike +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="5Spike+1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
       <File>5Spike Plus 1.png</File>
     </Channel>
     <Channel>
