@@ -406,13 +406,6 @@
       <File>Bangla TV.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bay TV Swansea">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Bay TV Swansea.png</File>
-    </Channel>
-    <Channel>
       <Item Name="BBC Alba">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2033,9 +2026,6 @@
       <File>Eurosport 2.png</File>
     </Channel>
     <Channel>
-      <Item Name="British Eurosport 2HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Eurosport 2 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2043,6 +2033,33 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Eurosport 2 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 3 HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Eurosport 3HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Eurosport 3 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 4 HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Eurosport 4HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Eurosport 4 HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eurosport 5 HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Eurosport 5HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Eurosport 5 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="EWTN">
@@ -5045,7 +5062,6 @@
       <File>Sky Cinema Tom Hanks HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
       <Item Name="Sky Cinema Valentine">
         <Provider>Full Name (UK)</Provider>
@@ -5068,7 +5084,6 @@
       </Item>
       <File>Sky Cinema Valentine HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Villains">
         <Provider>Full Name (UK)</Provider>
@@ -5575,20 +5590,32 @@
       <File>Sonlife Broadcasting Network.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sony Channel">
+      <Item Name="Sony Crime">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sony Crime Channel">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Sony Channel.png</File>
+      <File>Sony Crime Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sony Channel +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sony Chnl +1">
+      <Item Name="Sony Crime 2">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Sony Channel Plus 1.png</File>
+      <Item Name="Sony Crime Channel 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sony Crime Channel 2.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sony Crime Channel +1">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="Sony Crime+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sony Crime Channel Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Entertainment Television">
@@ -5971,6 +5998,15 @@
       <File>Thats Surrey.png</File>
     </Channel>
     <Channel>
+      <Item Name="Bay TV Swansea">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="That's Swansea Bay">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Thats Swansea Bay.png</File>
+    </Channel>
+    <Channel>
       <Item Name="That's Thames Valley">
         <Provider>Freeview (UK)</Provider>
       </Item>
@@ -6158,13 +6194,6 @@
       <File>True Christmas Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="True Crime">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>True Crime.png</File>
-    </Channel>
-    <Channel>
       <Item Name="True Ent">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6213,9 +6242,6 @@
     <Channel>
       <Item Name="TruTV +1">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="TruTV+1">
-        <Provider>Freeview (UK)</Provider>
       </Item>
       <File>TruTV Plus 1.png</File>
     </Channel>
@@ -6575,13 +6601,10 @@
       <File>XXX Girl Girl.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Home Videos">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="XXX HomeVids">
+      <Item Name="XXX My Hot Ex">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Home Videos.png</File>
+      <File>XXX My Hot Ex.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Mums">
