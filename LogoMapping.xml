@@ -4730,7 +4730,6 @@
       <File>Sky Cinema Oscars HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
       <Item Name="Sky Cinema Pirates of the Caribbean">
         <Provider>Full Name (UK)</Provider>
@@ -4742,18 +4741,15 @@
       <File>Sky Cinema Pirates of the Caribbean.png</File>
     </Channel>
     <Channel>
-      <Item Name="Pirates HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Sky Cinema Pirates of the Caribbean HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Pirates HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Pirates of the Caribbean HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Premiere">
         <Provider>Full Name (UK)</Provider>
