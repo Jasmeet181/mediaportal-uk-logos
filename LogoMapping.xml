@@ -40,6 +40,14 @@
       <File>4seven HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="5Select">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>5Select.png</File>
+    </Channel>
+    <Channel>
       <Item Name="5Spike">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -3267,9 +3275,7 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="My5">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>My5.png</File>
     </Channel>
