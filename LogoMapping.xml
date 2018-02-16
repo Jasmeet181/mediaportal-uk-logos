@@ -1709,15 +1709,6 @@
       <File>Daystar HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="DBN">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Determination TV">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Determination TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Dirty Talk">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6498,6 +6489,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Vox Africa.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="VTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>VTV.png</File>
     </Channel>
     <Channel>
       <Item Name="W">
