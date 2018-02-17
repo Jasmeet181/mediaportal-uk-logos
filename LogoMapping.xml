@@ -56,7 +56,7 @@
       <File>5Spike.png</File>
     </Channel>
     <Channel>
-      <Item Name="5Spike + 1">
+      <Item Name="5Spike+ 1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="5Spike +1">
@@ -98,11 +98,11 @@
     </Channel>
     <Channel>
       <Item Name="5 USA +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="5USA+1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>5USA Plus 1.png</File>
     </Channel>
@@ -237,8 +237,10 @@
     </Channel>
     <Channel>
       <Item Name="Alibi +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Alibi+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Alibi Plus 1.png</File>
     </Channel>
@@ -949,8 +951,10 @@
     </Channel>
     <Channel>
       <Item Name="Boomerang +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Boomerang+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Boomerang Plus 1.png</File>
     </Channel>
@@ -1321,6 +1325,7 @@
       </Item>
       <Item Name="Channel 4+1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Channel 4 Plus 1.png</File>
     </Channel>
@@ -1353,10 +1358,8 @@
     <Channel>
       <Item Name="Channel 5 HD">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Channel 5HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Channel 5 HD.png</File>
     </Channel>
@@ -1663,7 +1666,7 @@
       <Item Name="Crime and Investigation +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Crime+Inv +1">
+      <Item Name="Crime+Inv+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Crime and Investigation Plus 1.png</File>
@@ -2104,11 +2107,11 @@
     </Channel>
     <Channel>
       <Item Name="Film4 +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Film4+1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Film4 Plus 1.png</File>
     </Channel>
@@ -3074,10 +3077,11 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="More4 +1">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="More4+1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>More4 Plus 1.png</File>
     </Channel>
@@ -3638,6 +3642,9 @@
     </Channel>
     <Channel>
       <Item Name="Pop Max +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Pop Max+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pop Max Plus 1.png</File>
@@ -5161,6 +5168,9 @@
     </Channel>
     <Channel>
       <Item Name="Sky One +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky One+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky One Plus 1.png</File>
@@ -5783,8 +5793,10 @@
     </Channel>
     <Channel>
       <Item Name="Syfy +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Syfy+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Syfy Plus 1.png</File>
     </Channel>
@@ -6093,9 +6105,10 @@
     <Channel>
       <Item Name="Tiny Pop+1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Tiny Pop +1">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Tiny Pop Plus 1.png</File>
     </Channel>
@@ -6149,7 +6162,7 @@
       <File>Travel Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Travel Ch +1">
+      <Item Name="Travel Ch+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Travel Channel +1">
@@ -6196,7 +6209,7 @@
       <File>True Entertainment.png</File>
     </Channel>
     <Channel>
-      <Item Name="True Ent +1">
+      <Item Name="True Ent+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="True Entertainment +1">
@@ -6234,6 +6247,9 @@
     </Channel>
     <Channel>
       <Item Name="TruTV +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="TruTV+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TruTV Plus 1.png</File>
@@ -6512,8 +6528,10 @@
     </Channel>
     <Channel>
       <Item Name="W +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="W+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>W Plus 1.png</File>
     </Channel>
