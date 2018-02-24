@@ -186,12 +186,6 @@
       <File>Akaal Channel.png</File>
     </Channel>
     <Channel>
-      <Item Name="Al Arabiya">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Al Arabiya.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Al Jazeera Arabic">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -277,12 +271,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>AndTV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="&amp;TV HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>AndTV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Animal Planet">
@@ -1220,15 +1208,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>CBS Action.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="CBS Action +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="CBS Action+1">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>CBS Action Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="CBS Drama">
@@ -2250,12 +2229,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ginx eSports TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Glory TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Glory TV.png</File>
     </Channel>
     <Channel>
       <Item Name="GN TV">
@@ -6483,16 +6456,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Virgin TV Kids.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Viva">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Viva Old">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Viva.png</File>
     </Channel>
     <Channel>
       <Item Name="VM Music">
