@@ -3446,7 +3446,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Nollywood Movies">
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Nollywood Movies.png</File>
     </Channel>
@@ -4685,7 +4685,6 @@
       <File>Sky Cinema Monsters HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
       <Item Name="Sky Cinema Oscars">
         <Provider>Full Name (UK)</Provider>
@@ -4706,7 +4705,6 @@
       </Item>
       <File>Sky Cinema Oscars HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Pirates of the Caribbean">
         <Provider>Full Name (UK)</Provider>
@@ -5871,11 +5869,11 @@
       <Item Name="Television X Pay-Per-Night 2">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="Television X 2">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="TVXPPN2">
         <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Xrated HookUps">
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Television X Pay-Per-Night 2.png</File>
     </Channel>
@@ -6437,16 +6435,22 @@
       <Item Name="PIN Protection Help">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      <Item Name="PPV Slate">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Previews & Store">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="PVR_EPG">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Store & Virgin Movies">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Virgin iD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Virgin Media Previews">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="VM Previews">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Virgin TV.png</File>
