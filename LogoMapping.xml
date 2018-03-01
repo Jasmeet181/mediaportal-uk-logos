@@ -3187,9 +3187,19 @@
     </Channel>
     <Channel>
       <Item Name="MTV Music +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="MTV Music+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Music Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="MTV OMG">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>MTV OMG.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV +1">
@@ -3580,6 +3590,7 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Pick+1">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pick Plus 1.png</File>
