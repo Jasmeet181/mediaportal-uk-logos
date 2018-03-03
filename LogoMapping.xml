@@ -6449,7 +6449,7 @@
       <Item Name="PPV Slate">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Previews & Store">
+      <Item Name="Previews &amp; Store">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="PVR_EPG">
@@ -6649,15 +6649,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>YourTV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="YourTV +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="YourTV+1">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>YourTV Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="YouTube">
