@@ -2287,8 +2287,10 @@
     </Channel>
     <Channel>
       <Item Name="Good Food +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Good Food+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Good Food Plus 1.png</File>
     </Channel>
@@ -4858,7 +4860,6 @@
       <File>Sky Cinema Sky-Fi HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
       <Item Name="Sky Cinema Spies">
         <Provider>Full Name (UK)</Provider>
@@ -4874,14 +4875,11 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Spies HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="SkySpiesHD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Spies HD.png</File>
     </Channel>
-    -->
     <!--
     <Channel>
       <Item Name="Sky Cinema Star Trek">
@@ -5085,6 +5083,30 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Villains HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Wonder Women">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Wonder Women">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="WonderWomen">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Wonder Women.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Wonder Women HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Wonder Women HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="WondrWomenHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Wonder Women HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Living">
@@ -6676,6 +6698,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Zee TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Zee TV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Zee TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Zing">
