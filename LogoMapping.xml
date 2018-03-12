@@ -4175,6 +4175,28 @@
       </Item>
       <File>Sky Cinema Action HD.png</File>
     </Channel>
+    <Channel>
+      <Item Name="Sky Action Men">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Action Men">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Action Men.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Action Men HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Action Men HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Action Men HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Action Men HD.png</File>
+    </Channel>
     <!--
     <Channel>
       <Item Name="Sky Aliens">
