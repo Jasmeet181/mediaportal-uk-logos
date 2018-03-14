@@ -1609,12 +1609,6 @@
       <File>Craft Extra.png</File>
     </Channel>
     <Channel>
-      <Item Name="Craft Market">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Craft Market.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Create &amp; Craft">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -4028,6 +4022,12 @@
         <Provider>Freeview (UK)</Provider>
       </Item>
       <File>Sheffield Live TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Shop Now">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Shop Now.png</File>
     </Channel>
     <Channel>
       <Item Name="Showcase">
