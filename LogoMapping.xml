@@ -3993,7 +3993,19 @@
       <Item Name="Sangat">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <Item Name="Sangat Television">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <File>Sangat Television.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sanskar">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sanskar TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sanskar TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Scuzz">
