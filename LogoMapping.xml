@@ -116,6 +116,12 @@
       <File>92 News UK.png</File>
     </Channel>
     <Channel>
+      <Item Name="A1TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>A1TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Aaj Tak">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6721,7 +6727,6 @@
     </Channel>
     <Channel>
       <Item Name="Zee Punjabi">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Zee Punjabi.png</File>
