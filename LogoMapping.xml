@@ -2877,6 +2877,12 @@
       <File>Lifetime Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Living Foodz">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Living Foodz.png</File>
+    </Channel>
+    <Channel>
       <Item Name="LFCTV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4239,7 +4245,6 @@
       <File>Sky Cinema Aliens HD.png</File>
     </Channel>
     -->
-    <!--
     <Channel>
       <Item Name="Sky Animation">
         <Provider>Sky (UK)</Provider>
@@ -4251,7 +4256,7 @@
       <File>Sky Cinema Animation.png</File>
     </Channel>
     <Channel>
-      <Item Name="Animation HD">
+      <Item Name="AnimationHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Animation HD">
@@ -4262,7 +4267,6 @@
       </Item>
       <File>Sky Cinema Animation HD.png</File>
     </Channel>
-    -->
     <!--
     <Channel>
       <Item Name="Back2Future">
