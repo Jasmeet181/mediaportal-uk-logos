@@ -862,6 +862,7 @@
       <File>Be3.png</File>
     </Channel>
     <Channel>
+    <!-- Removed 21/03/18 -->
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2181,6 +2182,7 @@
       <File>Front Runner.png</File>
     </Channel>
     <Channel>
+    <!-- Removed 06/03/18 -->
       <Item Name="Gay Network">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2229,6 +2231,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Ginx eSports TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Glory TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Glory TV.png</File>
     </Channel>
     <Channel>
       <Item Name="GN TV">
