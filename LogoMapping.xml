@@ -796,6 +796,7 @@
     </Channel>
     <Channel>
       <Item Name="BBC RB HD">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button HD">
@@ -2566,6 +2567,15 @@
       <File>Iqra TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Iran Int'l HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Iran International HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Iran International HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Islam Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3015,6 +3025,18 @@
       <File>Magic TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Marvel Avengers Channel">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Marvel Avengers Chnl">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="MarvelAvenger">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Marvel Avengers Channel.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Marvel Spider-Man">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -3372,7 +3394,7 @@
       <Item Name="NHK World HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="NHKworldHD">
+      <Item Name="NHK World-Japan">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>NHK World HD.png</File>
@@ -4274,6 +4296,30 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Animation HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky April Fools">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyAprilFool">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema April Fools">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema April Fools.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky April Fools HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="AprilFoolHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema April Fools HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema April Fools HD.png</File>
     </Channel>
     <!--
     <Channel>
@@ -6648,13 +6694,10 @@
       <File>XXX College.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Step Family">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="XXX Stepfam">
+      <Item Name="XXX Booty">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX Step Family.png</File>
+      <File>XXX Booty.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Brits">
