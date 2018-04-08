@@ -4774,7 +4774,6 @@
       </Item>
       <File>Sky Cinema Musicals HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Cinema Monsters">
         <Provider>Full Name (UK)</Provider>
@@ -4795,7 +4794,6 @@
       </Item>
       <File>Sky Cinema Monsters HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Oscars">
         <Provider>Full Name (UK)</Provider>
@@ -6688,12 +6686,6 @@
       <File>XXX Age Gaps.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX College">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX College.png</File>
-    </Channel>
-    <Channel>
       <Item Name="XXX Booty">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6705,6 +6697,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>XXX Brits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX College">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX College.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Girl Girl">
