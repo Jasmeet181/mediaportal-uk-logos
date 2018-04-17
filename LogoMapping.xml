@@ -1039,6 +1039,15 @@
       <File>BT Sport 3 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="BTSptBoxOffHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Box Office HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>BT Sport Box Office HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BT Sport ESPN">
         <Provider>Full Name (UK)</Provider>
       </Item>
