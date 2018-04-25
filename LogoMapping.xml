@@ -863,7 +863,7 @@
       <File>Be3.png</File>
     </Channel>
     <Channel>
-    <!-- Removed 21/03/18 -->
+    <!-- Removed 23/04/18 -->
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2192,13 +2192,6 @@
       <File>Front Runner.png</File>
     </Channel>
     <Channel>
-    <!-- Removed 06/03/18 -->
-      <Item Name="Gay Network">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Gay Network.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Gems TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2408,7 +2401,7 @@
       <Item Name="History +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="History +1 hour">
+      <Item Name="History+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>History Plus 1.png</File>
@@ -3329,11 +3322,11 @@
       <File>National Geographic HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nat Geo+1hr">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Nat Geo +1">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Nat Geo+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="National Geographic+1">
         <Provider>Virgin Media (UK)</Provider>
@@ -3689,6 +3682,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Pop Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Pop Power">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Pop Power.png</File>
     </Channel>
     <Channel>
       <Item Name="Premier Sports">
@@ -4118,6 +4117,9 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Sky Intro">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="TV Guide Info">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky.png</File>
@@ -4678,10 +4680,12 @@
       <Item Name="Sky Heroes">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <!--
       <!-- Conflicts with Sky Cinema Superhero.png -->
       <Item Name="Sky Superhero">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      -->
       <File>Sky Cinema Heroes.png</File>
     </Channel>
     <Channel>
@@ -4691,10 +4695,12 @@
       <Item Name="Sky Heroes HD">
         <Provider>Sky (UK)</Provider>
       </Item>
+      <!--
       <!-- Conflicts with Sky Cinema Superhero HD.png -->
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      -->
       <File>Sky Cinema Heroes HD.png</File>
     </Channel>
     <Channel>
@@ -5058,12 +5064,10 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
     <!-- Conflicts with Sky Cinema Heroes.png -->
-    <!--
       <Item Name="Sky Superhero">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-    -->
       <File>Sky Cinema Superheroes.png</File>
     </Channel>
     <Channel>
@@ -5071,13 +5075,9 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
     <!-- Conflicts with Sky Cinema Heroes HD.png -->
-    <!--
       <Item Name="Sky Superhero HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-    -->
-      <Item Name="Sky SuprheroHD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Superheroes HD.png</File>
     </Channel>
