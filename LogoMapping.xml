@@ -4680,8 +4680,8 @@
       <Item Name="Sky Heroes">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <!--
       <!-- Conflicts with Sky Cinema Superhero.png -->
+      <!--
       <Item Name="Sky Superhero">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -4695,8 +4695,8 @@
       <Item Name="Sky Heroes HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <!--
       <!-- Conflicts with Sky Cinema Superhero HD.png -->
+      <!--
       <Item Name="Sky Superhero HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
