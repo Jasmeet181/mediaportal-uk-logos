@@ -863,7 +863,6 @@
       <File>Be3.png</File>
     </Channel>
     <Channel>
-    <!-- Removed 23/04/18 -->
       <Item Name="Believe TV">
         <Provider>Sky (UK)</Provider>
       </Item>
