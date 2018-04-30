@@ -1752,6 +1752,15 @@
       <File>Discovery Turbo.png</File>
     </Channel>
     <Channel>
+      <Item Name="Disc. Turbo+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Discovery Turbo +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Discovery Turbo Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Discovery">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4118,9 +4127,6 @@
       <Item Name="Sky Intro">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="TV Guide Info">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <File>Sky.png</File>
     </Channel>
     <Channel>
@@ -6245,15 +6251,6 @@
       <File>TLC Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="TLC +2">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TLC+2">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TLC Plus 2.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Together">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -6277,6 +6274,12 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Travel Channel Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Travelxp">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Travelxp.png</File>
     </Channel>
     <Channel>
       <Item Name="TRT World">
