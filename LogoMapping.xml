@@ -1315,7 +1315,6 @@
     </Channel>
     <Channel>
       <Item Name="Channel 4 +1">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Channel 4+1">
@@ -2669,27 +2668,6 @@
       <File>ITV Box Office.png</File>
     </Channel>
     <Channel>
-      <Item Name="ITV Encore">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ITV Encore.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ITV Encore HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ITV Encore HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="ITV Encore +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="ITV Encore+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>ITV Encore Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="ITV HD">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2709,8 +2687,10 @@
     <Channel>
       <Item Name="ITV +1">
         <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="ITV+1">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>ITV Plus 1.png</File>
     </Channel>
@@ -3989,6 +3969,9 @@
     </Channel>
     <Channel>
       <Item Name="RTÉ One +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="RTÉ One+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>RTE One Plus 1.png</File>
@@ -5081,8 +5064,10 @@
       </Item>
     <!-- Conflicts with Sky Cinema Heroes HD.png -->
       <Item Name="Sky Superhero HD">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkySuperheroHD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Superheroes HD.png</File>
     </Channel>
@@ -6537,16 +6522,10 @@
       <File>VH1 Christmas.png</File>
     </Channel>
     <Channel>
-      <Item Name="Viceland">
+      <Item Name="Vice">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Viceland.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Viceland HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Viceland HD.png</File>
+      <File>Vice.png</File>
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
