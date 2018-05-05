@@ -6436,7 +6436,10 @@
       <Item Name="Universal Channel">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>Universal Channel.png</File>
+      <Item Name="Universal TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Universal TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal Channel HD">
@@ -6445,16 +6448,22 @@
       <Item Name="Universal HD">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Universal Channel HD.png</File>
+      <Item Name="Universal TV HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Universal TV HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Universal Channel +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      <Item Name="Universal TV +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
       <Item Name="Universal+1">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Universal Channel Plus 1.png</File>
+      <File>Universal TV Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="Urdu1 Europe">
