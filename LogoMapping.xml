@@ -2243,6 +2243,7 @@
       <File>Ginx eSports TV.png</File>
     </Channel>
     <Channel>
+    <!-- Removed 02/05/18 -->
       <Item Name="Glory TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -7489,6 +7490,7 @@
       <File>Jazz FM.png</File>
     </Channel>
     <Channel>
+    <!-- Removed 01/05/18 -->
       <Item Name="Kanshi Radio">
         <Provider>Sky (UK)</Provider>
       </Item>
