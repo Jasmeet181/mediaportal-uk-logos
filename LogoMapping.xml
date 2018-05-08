@@ -2174,13 +2174,13 @@
       <File>France 24 - English.png</File>
     </Channel>
     <Channel>
-      <Item Name="France 24 - Francais">
+      <Item Name="France 24 HD - Francais">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="France 24 (French) HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>France 24 - Francais.png</File>
+      <File>France 24 HD - Francais.png</File>
     </Channel>
     <Channel>
       <Item Name="FreeSports">
@@ -3481,15 +3481,6 @@
       <File>Nicktoons.png</File>
     </Channel>
     <Channel>
-      <Item Name="Nollywood">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Nollywood Movies">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Nollywood Movies.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Noor TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3885,6 +3876,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Retail TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Retro Movies">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Retro Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="Revelation">
@@ -5613,10 +5610,11 @@
       </Item>
       <File>Sky Sports The Open HD.png</File>
     </Channel>
-<!--
     <Channel>
       <Item Name="Sky Players">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Players">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Sports The Players">
@@ -5625,18 +5623,17 @@
       <File>Sky Sports The Players.png</File>
     </Channel>
     <Channel>
-      <Item Name="Players HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Sky Players HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports Players HD">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Sports The Players HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Sports The Players HD.png</File>
     </Channel>
--->
 <!--
     <Channel>
       <Item Name="Sky Sports World Cup">
