@@ -2243,13 +2243,6 @@
       <File>Ginx eSports TV.png</File>
     </Channel>
     <Channel>
-    <!-- Removed 02/05/18 -->
-      <Item Name="Glory TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Glory TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="GN TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2604,6 +2597,12 @@
       <File>Islam Channel Urdu.png</File>
     </Channel>
     <Channel>
+      <Item Name="Islam TV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Islam TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ITV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -2805,6 +2804,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Jus Punjabi.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Juwelo">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Juwelo UK">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Juwelo.png</File>
     </Channel>
     <Channel>
       <Item Name="Kanshi TV">
@@ -3909,9 +3917,6 @@
       <File>Rishtey Europe.png</File>
     </Channel>
     <Channel>
-      <Item Name="Rocks &amp; Co">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Rocks &amp; Co 1">
         <Provider>Freeview (UK)</Provider>
       </Item>
