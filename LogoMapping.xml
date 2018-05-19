@@ -5183,6 +5183,30 @@
       <File>Sky Cinema Villains HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Weddings">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Weddings">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyWeddings">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Weddings.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Weddings HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Weddings HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyWeddingsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Weddings HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Wonder Women">
         <Provider>Full Name (UK)</Provider>
       </Item>
