@@ -1513,6 +1513,13 @@
       <File>Climax.png</File>
     </Channel>
     <Channel>
+      <Item Name="Club MTV">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Club Dance.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Clubland TV">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3180,13 +3187,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>MTV Classic.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="MTV Dance">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>MTV Dance.png</File>
     </Channel>
     <Channel>
       <Item Name="MTV HD">
@@ -6522,6 +6522,7 @@
       </Item>
       <Item Name="UTV+1">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>UTV Plus 1.png</File>
     </Channel>
