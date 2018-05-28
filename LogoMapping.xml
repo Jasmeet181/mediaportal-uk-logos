@@ -2406,6 +2406,27 @@
       <File>History HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="History of Football">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>History of Football.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History of Football HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>History of Football HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="History of Football +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="History of Football+1">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>History of Football Plus 1.png</File>
+    </Channel>
+    <Channel>
       <Item Name="History +1">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
