@@ -1369,12 +1369,6 @@
       <File>Channel 5 Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Channel AKA">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Channel AKA.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Channel i">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1525,15 +1519,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Clubland TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Clubland TV Channel AKA Chilled TV Now Music">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="ClublandAkaChilledNow">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Clubland TV Channel AKA Chilled TV Now Music.png</File>
     </Channel>
     <Channel>
       <Item Name="CNBC">
@@ -2089,6 +2074,7 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
+	<!-- Removed 29/05/18 -->
       <Item Name="Fame TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2929,7 +2915,7 @@
     </Channel>
     <Channel>
       <Item Name="LFCTV">
-        <Provider>Sky (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Liverpool FC TV">
         <Provider>Virgin Media (UK)</Provider>
@@ -3074,6 +3060,12 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Marvel Spider-Man.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Massive R&amp;B">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Massive R and B.png</File>
     </Channel>
     <Channel>
       <Item Name="MATV National">
@@ -6827,12 +6819,6 @@
       <File>Zee Cinema.png</File>
     </Channel>
     <Channel>
-      <Item Name="Zee Punjabi">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Zee Punjabi.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Zee TV">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -7532,6 +7518,12 @@
       <File>Heat Radio.png</File>
     </Channel>
     <Channel>
+      <Item Name="Hits Radio">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>Hits Radio.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Jazz FM">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -7750,12 +7742,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Talksport.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="The Hits Radio">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>The Hits Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Trans World Radio">
