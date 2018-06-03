@@ -1396,15 +1396,6 @@
       <File>Chart Show Hits.png</File>
     </Channel>
     <Channel>
-      <Item Name="Chart Show Summer">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="CS Summer">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Chart Show Summer.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Chat Box">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6720,12 +6711,6 @@
       <File>Xrated 40 Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Age Gaps">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Age Gaps.png</File>
-    </Channel>
-    <Channel>
       <Item Name="XXX Booty">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6771,6 +6756,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>XXX Office Girls.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX Petite">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Petite.png</File>
     </Channel>
     <Channel>
       <Item Name="Yanga!">
