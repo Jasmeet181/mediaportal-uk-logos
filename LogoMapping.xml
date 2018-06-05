@@ -5908,6 +5908,12 @@
       <File>STV2.png</File>
     </Channel>
     <Channel>
+      <Item Name="Summer Hits">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Summer Hits.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Syfy">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -6851,15 +6857,6 @@
       <File>Absolute Radio.png</File>
     </Channel>
     <Channel>
-      <Item Name="Absolute 70s">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Absolute Radio 70s">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Absolute Radio 70s.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Absolute 80s">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -7511,6 +7508,7 @@
     <Channel>
       <Item Name="Hits Radio">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Hits Radio.png</File>
     </Channel>
