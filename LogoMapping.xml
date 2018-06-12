@@ -2065,7 +2065,6 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
-	<!-- Removed 29/05/18 -->
       <Item Name="Fame TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3731,6 +3730,7 @@
       <File>PTC Punjabi.png</File>
     </Channel>
     <Channel>
+    <!-- Removed 08/06/18 -->
       <Item Name="PTV Global">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4234,6 +4234,30 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Action HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adam Sandler">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="AdamSandler">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Adam Sandler">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema AdamSandler.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adam Sandler HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="AdamSandlerHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Adam Sandler HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Adam Sandler HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action Men">
@@ -5666,6 +5690,26 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Sports The Players HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky US Open">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports US Open">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Sports US Open.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky US Open HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports US Open HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Sky Sports US Open HD.png</File>
     </Channel>
 <!--
     <Channel>
