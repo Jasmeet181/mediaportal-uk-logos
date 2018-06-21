@@ -3535,6 +3535,15 @@
       <File>Now Music.png</File>
     </Channel>
     <Channel>
+      <Item Name="NTA International">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="NTAI">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>NTA International.png</File>
+    </Channel>
+    <Channel>
       <Item Name="NTV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3703,6 +3712,12 @@
       <File>Price Crash.png</File>
     </Channel>
     <Channel>
+      <Item Name="Primal Cure">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Primal Cure.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Propeller">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3730,7 +3745,6 @@
       <File>PTC Punjabi.png</File>
     </Channel>
     <Channel>
-    <!-- Removed 08/06/18 -->
       <Item Name="PTV Global">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6427,6 +6441,7 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="TruTV+1">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TruTV Plus 1.png</File>
@@ -7561,13 +7576,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Jazz FM.png</File>
-    </Channel>
-    <Channel>
-    <!-- Removed 01/05/18 -->
-      <Item Name="Kanshi Radio">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Kanshi Radio.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang!">
