@@ -6264,12 +6264,6 @@
       <File>TJC.png</File>
     </Channel>
     <Channel>
-      <Item Name="TJC Choice">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TJC Choice.png</File>
-    </Channel>
-    <Channel>
       <Item Name="The Store">
         <Provider>Freeview (UK)</Provider>
       </Item>
