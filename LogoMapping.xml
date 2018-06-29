@@ -738,6 +738,8 @@
     <Channel>
       <Item Name="BBC RB 2">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB2">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 2">
@@ -748,6 +750,8 @@
     <Channel>
       <Item Name="BBC RB 3">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB3">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 3">
@@ -758,6 +762,8 @@
     <Channel>
       <Item Name="BBC RB 4">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB4">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 4">
@@ -768,6 +774,8 @@
     <Channel>
       <Item Name="BBC RB 5">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB5">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 5">
@@ -778,6 +786,8 @@
     <Channel>
       <Item Name="BBC RB 6">
         <Provider>Freeview (UK)</Provider>
+      </Item>
+      <Item Name="BBC RB6">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="BBC Red Button 6">
@@ -915,7 +925,6 @@
     <Channel>
       <Item Name="Bloomberg">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Bloomberg TV">
         <Provider>Full Name (UK)</Provider>
@@ -925,6 +934,7 @@
     <Channel>
       <Item Name="Bloomberg HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Bloomberg TV HD">
         <Provider>Full Name (UK)</Provider>
@@ -1683,12 +1693,6 @@
       <File>Daystar HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Dirty Talk">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Dirty Talk.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Disc.History">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2151,10 +2155,19 @@
       <Item Name="France Eng">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <Item Name="France24 (English)">
+      <File>France 24 - English.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="France 24 English HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>France 24 - English.png</File>
+      <Item Name="France 24 HD - English">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="France 24 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>France 24 HD - English.png</File>
     </Channel>
     <Channel>
       <Item Name="France 24 HD - Francais">
