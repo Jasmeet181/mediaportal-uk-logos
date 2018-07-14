@@ -5158,13 +5158,13 @@
       </Item>
       <File>Sky Cinema Thriller HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Cinema Tom Cruise">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Tom Cruise">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Tom Cruise.png</File>
     </Channel>
@@ -5172,12 +5172,14 @@
       <Item Name="Sky Cinema Tom Cruise HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
+      <Item Name="Sky Tom Cruise HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="TomCruiseHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Tom Cruise HD.png</File>
     </Channel>
-    -->
     <!--
     <Channel>
       <Item Name="Sky Cinema Tom Hanks">
