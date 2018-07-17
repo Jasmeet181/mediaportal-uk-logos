@@ -2069,6 +2069,7 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
+	<!-- Removed 16/07/2018 -->
       <Item Name="Fame TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2511,6 +2512,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Hum Masala.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Hum News">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Hum News.png</File>
     </Channel>
     <Channel>
       <Item Name="Ideal Extra">
@@ -5687,9 +5694,11 @@
     </Channel>
 -->
     <Channel>
+      <Item Name="Sky Sports The Open">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Sky The Open">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Sports The Open.png</File>
     </Channel>
@@ -5697,10 +5706,10 @@
       <Item Name="Sky Sports The Open HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Sky The Open HD">
+      <Item Name="Sky Sports The OpenHD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="SkyTheOpenHD ">
+      <Item Name="Sky US Open HD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports The Open HD.png</File>
