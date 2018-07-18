@@ -2069,7 +2069,7 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
-	<!-- Removed 16/07/2018 -->
+      <!-- Removed 16/07/2018 -->
       <Item Name="Fame TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3721,16 +3721,15 @@
     <Channel>
       <Item Name="Premier Sports">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Premier Sports.png</File>
     </Channel>
     <Channel>
-      <Item Name="Premier HD">
+      <Item Name="Premier 1 HD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Premier Sports HD">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Premier Sports HD.png</File>
     </Channel>
@@ -6149,98 +6148,19 @@
       <File>Thane Direct.png</File>
     </Channel>
     <Channel>
-      <Item Name="Cambridge TV">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="That's Cambridge">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Cambridge.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Cumbria">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Cumbria.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Hampshire">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Hampshire.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Lancashire">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Lancashire.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Manchester">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Manchester.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Mustard TV">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="That's Norfolk">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Norfolk.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's North Yorkshire">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats North Yorkshire.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Oxford">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Oxford.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Salisbury">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Salisbury.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Solent">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Thats Solent.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Surrey">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Surrey.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Bay TV Swansea">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="That's Swansea Bay">
+      <Item Name="Cambridge TV">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Mustard TV">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="That's TV">
         <Provider>Freeview (UK)</Provider>
       </Item>
-      <File>Thats Swansea Bay.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's Thames Valley">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats Thames Valley.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="That's York">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Thats York.png</File>
+      <File>Thats TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Channel">
@@ -6474,6 +6394,7 @@
     <Channel>
       <Item Name="TV Warehouse">
         <Provider>Freeview (UK)</Provider>
+        <!-- Removed 17/07/2018 -->
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Warehouse.png</File>
