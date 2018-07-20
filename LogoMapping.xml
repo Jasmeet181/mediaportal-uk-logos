@@ -1051,6 +1051,15 @@
       <File>BT Sport 3 HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="BT Sport 4K UHD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="BT Sport Hidden">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>BT Sport 4K UHD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="BTSptBoxOffHD">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1134,24 +1143,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 6.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BT Sport Show">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="BT Sport Showcase">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>BT Sport Showcase.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="BT Sport Showcase HD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="BTSportHD Hidden">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>BT Sport Showcase HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Capital TV">
@@ -2576,6 +2567,7 @@
       <File>Investigation Discovery Plus 1.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 19/07/2018 -->
       <Item Name="Ion TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6394,7 +6386,6 @@
     <Channel>
       <Item Name="TV Warehouse">
         <Provider>Freeview (UK)</Provider>
-        <!-- Removed 17/07/2018 -->
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV Warehouse.png</File>
