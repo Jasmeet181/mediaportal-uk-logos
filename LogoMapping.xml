@@ -2830,7 +2830,10 @@
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Keep It Country.png</File>
+      <Item Name="Keep It Country TV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Keep It Country TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Kerrang">
