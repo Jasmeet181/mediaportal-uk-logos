@@ -3723,10 +3723,13 @@
       <File>Pop Power.png</File>
     </Channel>
     <Channel>
-      <Item Name="Premier Sports">
+      <Item Name="Premier 2">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Premier Sports.png</File>
+      <Item Name="Premier Sports 2">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>Premier Sports 2.png</File>
     </Channel>
     <Channel>
       <Item Name="Premier 1 HD">
