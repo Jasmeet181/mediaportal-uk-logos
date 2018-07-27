@@ -3723,6 +3723,18 @@
       <File>Pop Power.png</File>
     </Channel>
     <Channel>
+      <Item Name="Premier 1 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Premier Sports 1 HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Premier Sports HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Premier Sports 1 HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Premier 2">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3730,15 +3742,6 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Premier Sports 2.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Premier 1 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Premier Sports HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Premier Sports HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Price Crash">
