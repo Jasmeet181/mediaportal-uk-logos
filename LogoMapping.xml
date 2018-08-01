@@ -1050,9 +1050,6 @@
     </Channel>
     <Channel>
       <Item Name="BT Sport 4K UHD">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="BT Sport Hidden">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport 4K UHD.png</File>
@@ -3739,7 +3736,7 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Premier Sports 2">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Premier Sports 2.png</File>
     </Channel>
