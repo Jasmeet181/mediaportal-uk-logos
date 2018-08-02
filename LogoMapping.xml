@@ -1494,6 +1494,12 @@
       <File>Climax.png</File>
     </Channel>
     <Channel>
+      <Item Name="CLTV">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>CLTV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Club MTV">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -1647,12 +1653,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Cruise1st.tv.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Dancember">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Dancember.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave">
@@ -4150,15 +4150,6 @@
       <File>Showcase.png</File>
     </Channel>
     <Channel>
-      <Item Name="Showcase +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Showcase+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Showcase Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sikh Channel">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6585,7 +6576,6 @@
     </Channel>
     <Channel>
       <Item Name="Vintage TV">
-        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -6737,10 +6727,13 @@
       <File>XXX Brits.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX College">
+      <Item Name="XXX Doctors &amp; Nurses">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="XXXDrs&amp;Nurses">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>XXX College.png</File>
+      <File>XXX Doctors and Nurses.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Girl Girl">
