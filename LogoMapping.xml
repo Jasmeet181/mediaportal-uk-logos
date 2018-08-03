@@ -4531,6 +4531,28 @@
       <File>Sky Cinema Comedy HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema DC Heroes">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky DC Heroes">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema DC Heroes.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema DC Heroes HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyCinema DC HeroesHD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyDCHeroesHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema DC Heroes HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Disney">
         <Provider>Full Name (UK)</Provider>
       </Item>
