@@ -1725,7 +1725,7 @@
       <File>Discovery Turbo.png</File>
     </Channel>
     <Channel>
-      <Item Name="Disc. Turbo+1">
+      <Item Name="Disc.Turbo+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Discovery Turbo +1">
@@ -3579,6 +3579,7 @@
       <File>Oireachtas TV.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 02/08/2018 -->
       <Item Name="Olive TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3801,6 +3802,7 @@
     </Channel>
     <Channel>
       <Item Name="Quest HD">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Quest HD.png</File>
@@ -4032,7 +4034,7 @@
       <Item Name="RTÉ One +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="RTE One+1">
+      <Item Name="RTÉ One+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>RTE One Plus 1.png</File>
@@ -4352,11 +4354,13 @@
     -->
     <Channel>
       <Item Name="Sky Animation">
-        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Animation">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyAnimation">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Cinema Animation.png</File>
     </Channel>
