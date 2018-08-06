@@ -5332,30 +5332,6 @@
       <File>Sky Cinema Wonder Women HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Living">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Living.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Living HD">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Living HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Sky Living +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Living+1">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Sky Living Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Sky News">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -5816,6 +5792,32 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Two.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Witness">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Witness.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Witness HD">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Witness HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Witness +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Witness+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="SkyWitness +1">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Witness Plus 1.png</File>
     </Channel>
     <Channel>
       <Item Name="SmileTV2">
