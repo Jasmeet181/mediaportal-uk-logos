@@ -221,18 +221,20 @@
     <Channel>
       <Item Name="Alibi">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Alibi.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Alibi HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Alibi +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Alibi+1">
         <Provider>Sky (UK)</Provider>
@@ -1658,18 +1660,21 @@
       <Item Name="Dave">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Dave.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Dave HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Dave ja vu">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Dave ja vu.png</File>
     </Channel>
@@ -1865,6 +1870,7 @@
       <Item Name="Drama">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Drama.png</File>
     </Channel>
@@ -1917,12 +1923,19 @@
     <Channel>
       <Item Name="Eden">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Eden.png</File>
     </Channel>
     <Channel>
+      <Item Name="Eden HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Eden HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Eden +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Eden+1">
         <Provider>Sky (UK)</Provider>
@@ -2048,7 +2061,6 @@
       <File>Faith World TV.png</File>
     </Channel>
     <Channel>
-      <!-- Removed 16/07/2018 -->
       <Item Name="Fame TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2253,7 +2265,7 @@
     </Channel>
     <Channel>
       <Item Name="Gold +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Gold+1">
         <Provider>Sky (UK)</Provider>
@@ -2263,18 +2275,20 @@
     <Channel>
       <Item Name="Good Food">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Good Food.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Good Food HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Good Food +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Good Food+1">
         <Provider>Sky (UK)</Provider>
@@ -2442,12 +2456,13 @@
       <Item Name="Home">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Home.png</File>
     </Channel>
     <Channel>
       <Item Name="Home +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Home+1">
         <Provider>Sky (UK)</Provider>
@@ -3930,6 +3945,7 @@
       <Item Name="Really">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Really.png</File>
     </Channel>
@@ -3946,6 +3962,7 @@
       <File>Retail TV.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 06/08/2018 -->
       <Item Name="Retro Movies">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6603,6 +6620,7 @@
       <File>Vice.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 07/08/2018 -->
       <Item Name="Vintage TV">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -6675,18 +6693,20 @@
     <Channel>
       <Item Name="W">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>W.png</File>
     </Channel>
     <Channel>
       <Item Name="W HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>W HD.png</File>
     </Channel>
     <Channel>
       <Item Name="W +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="W+1">
         <Provider>Sky (UK)</Provider>
@@ -6810,12 +6830,13 @@
       <Item Name="Yesterday">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Yesterday.png</File>
     </Channel>
     <Channel>
       <Item Name="Yesterday +1">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Yesterday+1">
         <Provider>Sky (UK)</Provider>
