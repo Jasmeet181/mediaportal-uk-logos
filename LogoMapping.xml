@@ -1367,6 +1367,7 @@
       <File>Channel 5 Plus 1.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 14/08/2018 -->
       <Item Name="Channel i">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1947,6 +1948,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Eir Sport 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Eir Sport 1 HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Eir Sport 1 HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Eir Sport 2">
@@ -3817,6 +3824,7 @@
     </Channel>
     <Channel>
       <Item Name="Quest HD">
+        <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
