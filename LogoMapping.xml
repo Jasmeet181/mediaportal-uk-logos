@@ -4582,6 +4582,30 @@
       <File>Sky Cinema DC Heroes HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Denzel Washington">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Denzel">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Denzel Washington">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Denzel Washington.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Denzel Washington HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyDenzel HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="SkyDenzelWashingtonHD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Denzel Washington HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Disney">
         <Provider>Full Name (UK)</Provider>
       </Item>
