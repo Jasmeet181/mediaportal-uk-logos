@@ -319,6 +319,12 @@
       <File>Arirang HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Arise News">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Arise News.png</File>
+    </Channel>
+    <Channel>
       <Item Name="ARY Family">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -909,6 +915,14 @@
       <File>BET International.png</File>
     </Channel>
     <Channel>
+      <Item Name="Birmingham TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Birmingham TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Blaze">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -994,6 +1008,14 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>BoxNation HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Bristol TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Bristol TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Brit Asia TV">
@@ -1146,6 +1168,14 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Capital TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cardiff TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Cardiff TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Cartoon Network">
@@ -1367,7 +1397,6 @@
       <File>Channel 5 Plus 1.png</File>
     </Channel>
     <Channel>
-      <!-- Removed 14/08/2018 -->
       <Item Name="Channel i">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -2899,6 +2928,29 @@
       <File>Latest TV.png</File>
     </Channel>
     <Channel>
+      <Item Name="Leeds TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Leeds TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LFCTV">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Liverpool FC TV">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>LFCTV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="LFCTV HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>LFCTV HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Lifetime">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -2927,19 +2979,12 @@
       <File>Living Foodz.png</File>
     </Channel>
     <Channel>
-      <Item Name="LFCTV">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Liverpool FC TV">
+      <Item Name="Liverpool TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <File>LFCTV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="LFCTV HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>LFCTV HD.png</File>
+      <File>Liverpool TV.png</File>
     </Channel>
     <Channel>
       <Item Name="London Live">
@@ -2982,75 +3027,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Madani Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In Bham">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Made In Birmingham">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made In Birmingham.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In Bristol">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made In Bristol.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In Cardiff">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made In Cardiff.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In Leeds">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made in Leeds.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made in L'pool">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Made In Liverpool">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made In Liverpool.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In North Wales">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <File>Made In North Wales.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In Teesside">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made In Teesside.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Made In Tn&amp;Wr">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Made In Tyne&amp;Wear">
-        <Provider>Freeview (UK)</Provider>
-      </Item>
-      <Item Name="Made In Tyne &amp; Wear">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Made In Tyne and Wear.png</File>
     </Channel>
     <Channel>
       <Item Name="Magic">
@@ -3586,6 +3562,12 @@
       <File>NTV.png</File>
     </Channel>
     <Channel>
+      <Item Name="North Wales TV">
+        <Provider>Freeview (UK)</Provider>
+      </Item>
+      <File>North Wales TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Northern Visions">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -3601,7 +3583,6 @@
       <File>Oireachtas TV.png</File>
     </Channel>
     <Channel>
-      <!-- Removed 02/08/2018 -->
       <Item Name="Olive TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4330,6 +4311,30 @@
         <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Adam Sandler HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Adventure">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Adventure">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyCinema Adventure">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Adventure.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Adventure HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Adventure HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="SkyCinema AdventureHD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Adventure HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sky Action Men">
@@ -6171,6 +6176,13 @@
       <File>TCM Plus 1.png</File>
     </Channel>
     <Channel>
+      <Item Name="Teesside TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Teesside TV.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Nightly Television X">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -6529,6 +6541,14 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TVX Pornstars.png</File>
+    </Channel>
+	<Channel>
+      <Item Name="Tyne &amp; Wear TV">
+        <Provider>Freeview (UK)</Provider>
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Tyne and Wear TV.png</File>
     </Channel>
     <Channel>
       <Item Name="U1mon">
