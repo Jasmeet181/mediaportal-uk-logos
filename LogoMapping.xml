@@ -3,18 +3,6 @@
   <!-- ******************************************************************** -->
   <TV>
     <Channel>
-      <Item Name="3e">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>3e.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="3e HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>3e HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="4Music">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -867,12 +855,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BBC Two Wales.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Be3">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Be3.png</File>
     </Channel>
     <Channel>
       <Item Name="Believe TV">
@@ -6495,27 +6477,6 @@
       <File>TV Warehouse.png</File>
     </Channel>
     <Channel>
-      <Item Name="TV3">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV3.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV3 HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV3 HD.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="TV3 +1">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="TV3+1">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>TV3 Plus 1.png</File>
-    </Channel>
-    <Channel>
       <Item Name="TV5">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -6678,6 +6639,60 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Vintage TV.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Media One">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Virgin One">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Virgin Media One.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Media One HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Virgin One HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Virgin Media One HD.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Media One +1">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Virgin One+1">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Virgin Media One Plus 1.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Media Three">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Virgin Three">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Virgin Media Three.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Media Two">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Virgin Two">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Virgin Media Two.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Virgin Media Two HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Virgin Two HD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Virgin Media Two HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Virgin Movies Preview">
