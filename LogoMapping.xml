@@ -1855,7 +1855,7 @@
     </Channel>
     <Channel>
       <Item Name="Disney XD +1">
-        <Provider>Virgin Media (UK)</Provider>
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Disney XD+1">
         <Provider>Sky (UK)</Provider>
@@ -5075,13 +5075,14 @@
       </Item>
       <File>Sky Cinema Select HD.png</File>
     </Channel>
-    <!--
     <Channel>
       <Item Name="Sky Cinema Sky-Fi">
         <Provider>Full Name (UK)</Provider>
       </Item>
       <Item Name="Sky Fi">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky-Fi">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Sky-Fi.png</File>
@@ -5092,11 +5093,12 @@
       </Item>
       <Item Name="Sky Fi HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky-Fi HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sky Cinema Sky-Fi HD.png</File>
     </Channel>
-    -->
     <Channel>
       <Item Name="Sky Cinema Spies">
         <Provider>Full Name (UK)</Provider>
