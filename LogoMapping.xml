@@ -1379,6 +1379,7 @@
       <File>Channel 5 Plus 1.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 29/08/2018 -->
       <Item Name="Channel i">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1535,6 +1536,7 @@
       <File>CNBC.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 30/08/2018 -->
       <Item Name="CNC World">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1983,13 +1985,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Eman Channel.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Estuary TV">
-        <Provider>Freeview (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Estuary TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Euronews">
@@ -2959,6 +2954,12 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Living Foodz.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Living Foodz HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Living Foodz HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Liverpool TV">
@@ -4329,10 +4330,8 @@
       <File>Sky Cinema Action Men.png</File>
     </Channel>
     <Channel>
-      <Item Name="Action Men HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
       <Item Name="Sky Action Men HD">
+        <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Action Men HD">
@@ -5919,7 +5918,6 @@
       </Item>
       <Item Name="Sony TV">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Entertainment Television.png</File>
     </Channel>
@@ -5929,19 +5927,20 @@
       </Item>
       <Item Name="Sony TV HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Entertainment Television HD.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Max">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Max.png</File>
     </Channel>
     <Channel>
       <Item Name="Sony Max HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Sony Max HD.png</File>
     </Channel>
@@ -6228,17 +6227,9 @@
       <File>Thane Direct.png</File>
     </Channel>
     <Channel>
-      <Item Name="Bay TV Swansea">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Cambridge TV">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <Item Name="Mustard TV">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="That's TV">
         <Provider>Freeview (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Thats TV.png</File>
     </Channel>
@@ -6931,20 +6922,25 @@
     <Channel>
       <Item Name="Zee Cinema">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Zee Cinema.png</File>
     </Channel>
     <Channel>
+      <Item Name="Zee Cinema HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Zee Cinema HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Zee TV">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Zee TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Zee TV HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Zee TV HD.png</File>
     </Channel>
