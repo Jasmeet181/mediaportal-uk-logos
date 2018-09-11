@@ -2438,12 +2438,6 @@
       <File>Hochanda.png</File>
     </Channel>
     <Channel>
-      <Item Name="Holiday+Cruise">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Holiday and Cruise TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Discovery Home &amp; Health">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -4330,8 +4324,10 @@
       <File>Sky Cinema Action Men.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Action Men HD">
+      <Item Name="Action Men HD">
         <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="Sky Action Men HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Action Men HD">
@@ -6455,6 +6451,15 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>TV99.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Cruise Channel">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <Item Name="TV Cruise Channel">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <File>TV Cruise Channel.png</File>
     </Channel>
     <Channel>
       <Item Name="TV One">
