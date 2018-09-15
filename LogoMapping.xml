@@ -1061,11 +1061,14 @@
       <File>BT Sport 4K UHD.png</File>
     </Channel>
     <Channel>
-      <Item Name="BTSptBoxOffHD">
-        <Provider>Sky (UK)</Provider>
+      <Item Name="BT Events HD">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="BT Sport Box Office HD">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="BTSptBoxOffHD">
+        <Provider>Sky (UK)</Provider>
       </Item>
       <File>BT Sport Box Office HD.png</File>
     </Channel>
@@ -2686,7 +2689,7 @@
       <Item Name="ITV Box Office HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="ITV PPV HD">
+      <Item Name="ITVEvents HD">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>ITV Box Office.png</File>
@@ -5481,9 +5484,6 @@
       <File>Sky Sports Arena HD.png</File>
     </Channel>
     <Channel>
-      <Item Name="Live Events Channel">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Sky Events">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -6699,6 +6699,9 @@
       <File>Virgin Movies.png</File>
     </Channel>
     <Channel>
+      <Item Name="A Message For Parents">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="Adult Previews">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -6708,25 +6711,25 @@
       <Item Name="Channel Off Air Slate">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
+      <Item Name="Live Events Channel">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
       <Item Name="PIN Protection Help">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="PPV Slate">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Previews &amp; Store">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="PVR_EPG">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Store &amp; Virgin Movies">
+      <Item Name="Virgin Movies &amp; Store">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Virgin iD">
+      <Item Name="Virgin TV For Newbies">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
-      <Item Name="Virgin Media Previews">
+      <Item Name="Virgin TV Highlights">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Virgin TV.png</File>
