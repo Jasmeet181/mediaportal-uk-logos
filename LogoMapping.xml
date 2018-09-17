@@ -6558,6 +6558,7 @@
       <File>Universal TV Plus 1.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 14/09/2018 -->
       <Item Name="Urdu1 Europe">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -6741,6 +6742,12 @@
       <File>Virgin TV Kids.png</File>
     </Channel>
     <Channel>
+      <Item Name="Virgin TV Ultra HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Virgin TV Ultra HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="VM Music">
         <Provider>Virgin Media (UK)</Provider>
       </Item>
@@ -6753,6 +6760,7 @@
       <File>Vox Africa.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 12/09/2018 -->
       <Item Name="VTV">
         <Provider>Sky (UK)</Provider>
       </Item>
