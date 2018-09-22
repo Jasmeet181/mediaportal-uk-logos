@@ -5344,6 +5344,28 @@
       <File>Sky Cinema Weddings HD.png</File>
     </Channel>
     <Channel>
+      <Item Name="Sky Cinema Westerns">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Westerns">
+        <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Westerns.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="Sky Cinema Westerns HD">
+        <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Westerns HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="SkyWesternsHD">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>Sky Cinema Westerns HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Sky Cinema Wonder Women">
         <Provider>Full Name (UK)</Provider>
       </Item>
