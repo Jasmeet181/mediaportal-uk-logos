@@ -5726,13 +5726,9 @@
       </Item>
       <File>Sky Sports Premier League HD.png</File>
     </Channel>
-<!--
     <Channel>
-      <Item Name="Sky Ryder Cup">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Sky Sports Ryder Cup">
-        <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="SkyRyderCup">
         <Provider>Sky (UK)</Provider>
@@ -5740,18 +5736,17 @@
       <File>Sky Sports Ryder Cup.png</File>
     </Channel>
     <Channel>
-      <Item Name="Sky Ryder Cup HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <Item Name="Sky Sports Ryder Cup HD">
         <Provider>Full Name (UK)</Provider>
+      </Item>
+      <Item Name="Sky Sports RyderCupHD">
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="SkyRyderCupHD">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Sky Sports Ryder Cup HD.png</File>
     </Channel>
--->
     <Channel>
       <Item Name="Sky Sports The Open">
         <Provider>Virgin Media (UK)</Provider>
