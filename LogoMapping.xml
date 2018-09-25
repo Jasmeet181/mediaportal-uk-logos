@@ -2195,6 +2195,12 @@
       <File>FreeSports.png</File>
     </Channel>
     <Channel>
+      <Item Name="FreeSports HD">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <File>FreeSports HD.png</File>
+    </Channel>
+    <Channel>
       <Item Name="Front Runner">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -6402,7 +6408,7 @@
       <Item Name="True Christmas +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="TrueChrstms+1">
+      <Item Name="True Christmas+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Christmas Plus 1.png</File>
