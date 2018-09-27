@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg10574" width="10.058mm" height="9.0883mm" version="1.1" viewBox="0 0 35.637 32.203" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <defs id="defs10576">
-  <clipPath id="clipPath2722">
-   <path id="path2724" d="m782.5 378.27h33.511v30.923h-33.511v-30.923z"/>
-  </clipPath>
- </defs>
- <metadata id="metadata10579">
+<svg id="LogoSeven4" width="945.41" height="836" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" focusable="false" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1" viewBox="0 0 945.41 836" xmlns="http://www.w3.org/2000/svg">
+ <link id="dark-mode" href="" rel="stylesheet" type="text/css"/>
+ <style id="dark-mode-custom-style" type="text/css"/>
+ <metadata id="metadata11">
   <rdf:RDF>
    <cc:Work rdf:about="">
     <dc:format>image/svg+xml</dc:format>
@@ -15,23 +11,10 @@
    </cc:Work>
   </rdf:RDF>
  </metadata>
- <g id="layer1" transform="translate(-445.04 -619.12)">
-  <path id="path2704" d="m462.6 639.67 5.255 0.98-5.9588 10.67h3.205l5.7-10.129v-2.7525l-8.2012-2.1275v3.3588z" fill="#68c8c4"/>
-  <g id="g2706" transform="matrix(1.25 0 0 -1.25 451.46 651.32)" fill="#fff">
-   <path id="path2708" d="m0 0h0.517v2.37l-0.517 0.107v-2.477z" fill="#fff"/>
-  </g>
-  <g id="g2710" transform="matrix(1.25 0 0 -1.25 462.6 639.67)" fill="#fff">
-   <path id="path2712" d="m0 0-3.058-0.358v2.617l3.058 0.428 3.657-0.949v7.929l-0.641 0.578 0.389 0.658-7.105 5.539-2.036-3.584v2.361l-0.683 0.239v-12.812l-1.914-0.236-7e-3 8.278-0.555 0.19v-3.706l-3.008-5.312-1.868-0.252 2.877-0.353 4.475 0.571v-2.539l-7.629-0.829 5.715-0.483v0.385l1.914 0.165v-7.845h0.683v20.829l1.993 3.421v-24.25h0.774l4.798 8.18 2.375 0.356-4.204 0.784z" fill="#fff"/>
-  </g>
-  <g id="g2714" transform="matrix(1.25 0 0 -1.25 474.7 635.46)" fill="#fff">
-   <path id="path2716" d="m0 0h-1.176v2.247h-1.946v-2.247h-1.176v5.414h1.176v-2.137h1.946v2.137h1.176v-5.414z" fill="#fff"/>
-  </g>
-  <g id="g2718" transform="matrix(1.25 0 0 -1.25 -536.23 1128.2)" fill="#fff">
-   <g id="g2720" clip-path="url(#clipPath2722)" fill="#fff">
-    <g id="g2726" transform="translate(810.43 395.2)" fill="#fff">
-     <path id="path2728" d="m0 0h1.148c0.285 0 0.475 0.102 0.579 0.311 0.066 0.141 0.146 0.496 0.146 1.37 0 0.697-0.049 1.156-0.147 1.365-0.103 0.206-0.293 0.308-0.578 0.308h-1.148v-3.354zm1.083-1.03h-2.259v5.414h2.259c0.373 0 0.998 0 1.424-0.434 0.304-0.304 0.586-0.79 0.586-2.269 0-1.486-0.282-1.973-0.587-2.277-0.425-0.434-1.05-0.434-1.423-0.434" fill="#fff"/>
-    </g>
-   </g>
-  </g>
+ <path id="digitSeven4" d="m388.15 0-10.046 12.404v107.83l62.783-77.532zm-121.54 150.08v298.12h67.862v-381.92zm111.49 39.483v258.64h67.867v-342.44zm-352.9 258.64h87.318l110.45-136.39v-107.83zm-25.197 111.49h334.48v-67.865h-334.48zm266.61 276.31h67.862v-232.68h-67.862zm-111.49 0h67.862v-67.865h-67.862z" fill="#fff"/>
+ <polygon id="signSeven4" transform="matrix(2.5459 0 0 2.5459 -.00076378 0)" points="163.08 328.36 243.32 229.27 243.32 193.18 148.51 193.18 148.51 219.84 216.66 219.84 148.51 303.99 148.51 328.36" fill="#00c9c8"/>
+ <g id="g818" transform="matrix(1.0053 0 0 1.0053 547.72 40.839)" fill="#fff">
+  <path id="path2" d="m0 0.027096v212.63h45.07v-89.254h81.974v89.254h45.07v-212.63h-45.07v82.655h-81.974v-82.655h-0.04545z" opacity=".5"/>
+  <path id="path4" d="m215.92 0.026667c25.91-0.06 51.835 0 77.745 0 21.67 0.21 43.74 5.9 61.4 18.78 18.81 13.58 31.97 34.32 37.15 56.86 3.0436 13.992 4.1114 29.322 2.8 45.33-2.54 25.58-13.67 50.97-33.47 67.83-18.49 16.26-43.41 23.98-67.8 23.83-25.95-0.03-51.885 0.04-77.825 0 0.07-70.89-0.02-141.74 0-212.63m45.04 40.385c-0.08 44.02 0.18 87.88 0 131.9 11.94 0.06 23.875 0.75 35.805 0 12.28-1.18 24.53-5.965 33.44-14.695 12.41-12.01 17.34-29.66 17.96-46.48 0.71-18.19-2.41-37.79-14.35-52.18-10.15-12.38-26.37-18.405-42.08-18.545-10.25 0.01-20.535-0.01-30.775 0z" opacity=".5"/>
  </g>
 </svg>

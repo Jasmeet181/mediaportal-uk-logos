@@ -986,12 +986,6 @@
       <File>BoxNation.png</File>
     </Channel>
     <Channel>
-      <Item Name="BoxNation HD">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>BoxNation HD.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Bristol TV">
         <Provider>Freeview (UK)</Provider>
         <Provider>Sky (UK)</Provider>
@@ -1441,7 +1435,6 @@
     <Channel>
       <Item Name="Christmas Gold">
         <Provider>Full Name (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="ChristmasGold">
         <Provider>Sky (UK)</Provider>
@@ -1451,6 +1444,7 @@
     <Channel>
       <Item Name="Christmas Gold HD">
         <Provider>Full Name (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Xmas Gold HD">
         <Provider>Sky (UK)</Provider>
@@ -2275,13 +2269,13 @@
     <Channel>
       <Item Name="Gold">
         <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Gold.png</File>
     </Channel>
     <Channel>
       <Item Name="Gold HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>Gold HD.png</File>
     </Channel>
@@ -6408,7 +6402,7 @@
       <Item Name="True Christmas +1">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="True Christmas+1">
+      <Item Name="TrueChrstms+1">
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>True Christmas Plus 1.png</File>
