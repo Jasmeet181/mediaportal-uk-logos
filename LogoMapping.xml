@@ -1376,13 +1376,6 @@
       <File>Channel 5 Plus 1.png</File>
     </Channel>
     <Channel>
-      <!-- Removed 29/08/2018 -->
-      <Item Name="Channel i">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Channel i.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Channels 24">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -1531,13 +1524,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>CNBC.png</File>
-    </Channel>
-    <Channel>
-      <!-- Removed 30/08/2018 -->
-      <Item Name="CNC World">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>CNC World.png</File>
     </Channel>
     <Channel>
       <Item Name="CNN">
@@ -3097,15 +3083,6 @@
       <File>More4 Plus 1.png</File>
     </Channel>
     <Channel>
-      <Item Name="Motorsport TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Motorsport.tv">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Motorsport.tv.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Movies 24">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
@@ -3418,6 +3395,9 @@
     </Channel>
     <Channel>
       <Item Name="Nick Jr Peppa">
+        <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Nick Jr.Peppa">
         <Provider>Sky (UK)</Provider>
       </Item>
       <Item Name="Nick Jr. Pepper">
@@ -3929,13 +3909,6 @@
         <Provider>Sky (UK)</Provider>
       </Item>
       <File>Retail TV.png</File>
-    </Channel>
-    <Channel>
-      <!-- Removed 06/08/2018 -->
-      <Item Name="Retro Movies">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Retro Movies.png</File>
     </Channel>
     <Channel>
       <Item Name="Revelation">
@@ -6649,14 +6622,6 @@
       <File>Vice.png</File>
     </Channel>
     <Channel>
-      <!-- Removed 07/08/2018 -->
-      <Item Name="Vintage TV">
-        <Provider>Sky (UK)</Provider>
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
-      <File>Vintage TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Virgin Media One">
         <Provider>Full Name (UK)</Provider>
       </Item>
@@ -6855,17 +6820,17 @@
       <File>Xrated 40 Plus.png</File>
     </Channel>
     <Channel>
-      <Item Name="XXX Booty">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>XXX Booty.png</File>
-    </Channel>
-    <Channel>
       <Item Name="XXX Brits">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>XXX Brits.png</File>
+    </Channel>
+    <Channel>
+      <Item Name="XXX Cougars">
+        <Provider>Sky (UK)</Provider>
+      </Item>
+      <File>XXX Cougars.png</File>
     </Channel>
     <Channel>
       <Item Name="XXX Doctors &amp; Nurses">
