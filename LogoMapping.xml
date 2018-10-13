@@ -101,12 +101,6 @@
       <File>92 News UK.png</File>
     </Channel>
     <Channel>
-      <Item Name="A1TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>A1TV.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Aaj Tak">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -141,7 +135,7 @@
       <Item Name="Abu Dhabi TV">
         <Provider>Sky (UK)</Provider>
       </Item>
-      <File>Abu Dhabi Channel.png</File>
+      <File>Abu Dhabi TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Adult Section">
@@ -1141,12 +1135,6 @@
         <Provider>Virgin Media (UK)</Provider>
       </Item>
       <File>BT Sport Extra 6.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Capital TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Capital TV.png</File>
     </Channel>
     <Channel>
       <Item Name="Cardiff TV">
@@ -2323,30 +2311,6 @@
       <File>Hayu.png</File>
     </Channel>
     <Channel>
-      <Item Name="Heart TV">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Heart TV.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Heart Summer">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <Item Name="Heart TV Summer">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <File>Heart TV Summer.png</File>
-    </Channel>
-    <Channel>
-      <Item Name="Heart TV Xmas">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="HeartTV Xmas">
-        <Provider>Sky (UK)</Provider>
-      </Item>
-      <File>Heart TV Xmas.png</File>
-    </Channel>
-    <Channel>
       <Item Name="Hidayat TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -3506,6 +3470,7 @@
       </Item>
       <File>Now Music.png</File>
     </Channel>
+      <!-- Removed 10/10/2018 -->
     <Channel>
       <Item Name="NTA International">
         <Provider>Full Name (UK)</Provider>
@@ -3543,6 +3508,7 @@
       <File>Oireachtas TV.png</File>
     </Channel>
     <Channel>
+      <!-- Removed 05/10/2018 -->
       <Item Name="Olive TV">
         <Provider>Sky (UK)</Provider>
       </Item>
@@ -4720,30 +4686,26 @@
       </Item>
       <File>Sky Cinema Greats HD.png</File>
     </Channel>
-    <!--
     <Channel>
-      <Item Name="Sky Cinema Halloween">
-        <Provider>Full Name (UK)</Provider>
-      </Item>
-      <Item Name="Sky Halloween">
+      <Item Name="Halloween">
         <Provider>Sky (UK)</Provider>
         <Provider>Virgin Media (UK)</Provider>
+      </Item>
+      <Item Name="Sky Cinema Halloween">
+        <Provider>Full Name (UK)</Provider>
       </Item>
       <File>Sky Cinema Halloween.png</File>
     </Channel>
     <Channel>
       <Item Name="Halloween HD">
         <Provider>Sky (UK)</Provider>
+        <Provider>Virgin Media (UK)</Provider>
       </Item>
       <Item Name="Sky Cinema Halloween HD">
         <Provider>Full Name (UK)</Provider>
       </Item>
-      <Item Name="Sky Halloween HD">
-        <Provider>Virgin Media (UK)</Provider>
-      </Item>
       <File>Sky Cinema Halloween HD.png</File>
     </Channel>
-    -->
     <!--
     <Channel>
       <Item Name="Harry Potter">
