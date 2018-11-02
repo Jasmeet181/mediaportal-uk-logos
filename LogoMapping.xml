@@ -1420,6 +1420,31 @@
 			<File>Christmas 24 Plus.png</File>
 		<Channel>
 		<Channel>
+			<Item Name="Christmas Food">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Christmas Food.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Christmas Food HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Xmas Food HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Christmas Food HD.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Christmas Food +1">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Xmas Food +1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Christmas Food Plus 1.png</File>
+		<Channel>
+		<Channel>
 			<Item Name="Christmas Gold">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -1448,29 +1473,10 @@
 			<File>Christmas Gold Plus 1.png</File>
 		<Channel>
 		<Channel>
-			<Item Name="Christmas Food">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Christmas Food.png</File>
-		<Channel>
-		<Channel>
-			<Item Name="Christmas Food HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Xmas Food HD">
+			<Item Name="Christmas Hits">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>Christmas Food HD.png</File>
-		<Channel>
-		<Channel>
-			<Item Name="Christmas Food +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Xmas Food +1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Food Plus 1.png</File>
+			<File>Christmas Hits.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="CHSTV">
@@ -2994,12 +3000,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Marvel Spider-Man.png</File>
-		<Channel>
-		<Channel>
-			<Item Name="Massive R&amp;B">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Massive R and B.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="MATV National">
@@ -5961,26 +5961,26 @@
 		<Channel>
 			<Item Name="Star Gold">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Star Gold.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="Star Gold HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Star Gold HD.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="Star Plus">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Star Plus.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="Star Plus HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Star Plus HD.png</File>
 		<Channel>
@@ -6311,6 +6311,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Together.png</File>
+		<Channel>
+		<Channel>
+			<Item Name="Total Country">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Total Country.png</File>
 		<Channel>
 		<Channel>
 			<Item Name="Travel Channel">
