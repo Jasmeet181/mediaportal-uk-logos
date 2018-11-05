@@ -4435,11 +4435,11 @@
 			<Item Name="Sky Christmas HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Sky ChristmsHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="Sky Cinema Christmas HD">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyChristmsHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Christmas HD.png</File>
 		</Channel>
@@ -6538,13 +6538,6 @@
 			<File>Universal TV Plus 1.png</File>
 		</Channel>
 		<Channel>
-      <!-- Removed 14/09/2018 -->
-			<Item Name="Urdu1 Europe">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Urdu1 Europe.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="UTV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -6732,7 +6725,6 @@
 			<File>Vox Africa.png</File>
 		</Channel>
 		<Channel>
-      <!-- Removed 12/09/2018 -->
 			<Item Name="VTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
