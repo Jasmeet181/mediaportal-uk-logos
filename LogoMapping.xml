@@ -5074,6 +5074,28 @@
 			</Item>
 			<File>Sky Cinema Spooky HD.png</File>
 		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Stan Lee">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Stan Lee">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Stan Lee.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Stan Lee HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Stan Lee HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky StanLeeHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Stan Lee HD.png</File>
+		</Channel>
     <!--
 		<Channel>
 			<Item Name="Sky Cinema Star Trek">
