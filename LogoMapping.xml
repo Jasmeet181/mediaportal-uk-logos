@@ -3510,13 +3510,6 @@
 			<File>Oireachtas TV.png</File>
 		</Channel>
 		<Channel>
-      <!-- Removed 05/10/2018 -->
-			<Item Name="Olive TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Olive TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Paramount">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4037,12 +4030,6 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Sanskar TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Scuzz">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Scuzz.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SES UHD Demo">
@@ -5887,15 +5874,6 @@
 			<File>Sony Crime Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sony Crime 2">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Sony Crime Channel 2">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Sony Crime Channel 2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Sony Crime Channel +1">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
@@ -6273,7 +6251,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="The Vault">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>The Vault.png</File>
@@ -6385,7 +6362,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="True Christmas +1">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<Item Name="TrueChrstms+1">
 				<Provider>Sky (UK)</Provider>
