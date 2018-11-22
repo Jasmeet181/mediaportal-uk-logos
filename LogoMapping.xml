@@ -2620,11 +2620,6 @@
 			<File>ITVBe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="ITVBe+1">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-		</Channel>
 			<Item Name="ITVBe HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -2632,6 +2627,10 @@
 		<Channel>
 			<Item Name="ITVBe +1">
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="ITVBe+1">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>ITVBe Plus 1.png</File>
 		</Channel>
@@ -3464,6 +3463,7 @@
 			<Item Name="Now Xmas">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Now Christmas.png</File>
 		</Channel>
@@ -6563,12 +6563,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>UTV Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="V Channel">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>V Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Venus TV">
