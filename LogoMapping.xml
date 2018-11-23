@@ -2624,6 +2624,7 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>ITVBe HD.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="ITVBe +1">
 				<Provider>Virgin Media (UK)</Provider>
@@ -6872,6 +6873,7 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Yesterday+1">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Yesterday Plus 1.png</File>
