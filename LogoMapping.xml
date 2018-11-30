@@ -839,6 +839,15 @@
 			<File>BBC Two Northern Ireland.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BBC Two NI HD">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<Item Name="BBC Two Northern Ireland HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>BBC Two Northern Ireland HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BBC Two Scot">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -855,6 +864,18 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BBC Two Wales.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC 2 Wales HD">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<Item Name="BBC Two Wal HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="BBC Two Wales HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>BBC Two Wales HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Believe TV">
@@ -3871,6 +3892,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Retail TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Retro Movies">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Retro Movies.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Revelation">
