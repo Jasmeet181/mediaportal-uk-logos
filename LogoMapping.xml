@@ -162,6 +162,7 @@
 			<File>Ahlulbayt TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 23/11/18 -->
 			<Item Name="AIT Int'l">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1030,7 +1031,6 @@
 		<Channel>
 			<Item Name="BT Sport 1">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport 1.png</File>
 		</Channel>
@@ -1044,7 +1044,6 @@
 		<Channel>
 			<Item Name="BT Sport 2">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport 2.png</File>
 		</Channel>
@@ -1058,7 +1057,6 @@
 		<Channel>
 			<Item Name="BT Sport 3">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport 3.png</File>
 		</Channel>
@@ -1093,7 +1091,6 @@
 			</Item>
 			<Item Name="BT Sport//ESPN">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport ESPN.png</File>
 		</Channel>
@@ -1467,7 +1464,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Christmas Gold">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="ChristmasGold">
 				<Provider>Sky (UK)</Provider>
@@ -1477,9 +1474,8 @@
 		<Channel>
 			<Item Name="Christmas Gold HD">
 				<Provider>Full Name (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Xmas Gold HD">
+			<Item Name="Xmas GoldHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Christmas Gold HD.png</File>
@@ -6485,9 +6481,6 @@
 			<Item Name="TV5">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="TV5 Monde">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="TV5Monde Europe">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6823,6 +6816,15 @@
 			<File>Xrated 40 Plus.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="XXX 18 &amp; Dirty">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="XXX 18&amp;Dirty">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>XXX 18 and Dirty.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="XXX Brits">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -6849,12 +6851,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>XXX Girl Girl.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="XXX My Hot Ex">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>XXX My Hot Ex.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="XXX Mums">
