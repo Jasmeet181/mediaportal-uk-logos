@@ -842,6 +842,7 @@
 		<Channel>
 			<Item Name="BBC Two NI HD">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="BBC Two Northern Ireland HD">
 				<Provider>Full Name (UK)</Provider>
@@ -874,7 +875,7 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="BBC Two Wales HD">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BBC Two Wales HD.png</File>
 		</Channel>
@@ -1237,20 +1238,20 @@
 			<File>CBeebies HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CBS Action">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>CBS Action.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CBS Drama">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>CBS Drama.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="CBS Justice">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>CBS Justice.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CBS Reality">
