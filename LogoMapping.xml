@@ -3934,6 +3934,15 @@
 			<File>Rok.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Rok +1">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Rok+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Rok Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RT">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
