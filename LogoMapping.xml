@@ -162,7 +162,6 @@
 			<File>Ahlulbayt TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 23/11/18 -->
 			<Item Name="AIT Int'l">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -880,6 +879,7 @@
 			<File>BBC Two Wales HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 05/12/18 -->
 			<Item Name="Believe TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -943,15 +943,6 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Blaze Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Bloomberg">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Bloomberg TV">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Bloomberg TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Bloomberg HD">
@@ -2317,6 +2308,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Gospel Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Grace TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Grace TV Global">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Grace TV Global.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="H2">
@@ -3840,18 +3840,18 @@
 			<File>QVC Style.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Racing UK">
+			<Item Name="Racing TV">
 				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider><!-- Broadcast in HD -->
 			</Item>
-			<File>Racing UK.png</File>
+			<File>Racing TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Racing UK HD">
+			<Item Name="Racing TV HD">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>Racing UK HD.png</File>
+			<File>Racing TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Real Lives">
