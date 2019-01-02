@@ -325,13 +325,6 @@
 			<File>Astra.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="At The Races">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>At The Races.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="ATN Bangla">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5518,6 +5511,9 @@
 			<File>Sky Sports Box Office.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Events HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Sky Sports Box Office HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5607,26 +5603,6 @@
 			</Item>
 			<File>Sky Sports Football HD.png</File>
 		</Channel>
-<!--
-		<Channel>
-			<Item Name="Sky Sports Darts">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Sky Spts Darts">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Sports Darts.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Sports Darts HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="SkySptDartsHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Sports Darts HD.png</File>
-		</Channel>
--->
 		<Channel>
 			<Item Name="Sky Sports Golf">
 				<Provider>Virgin Media (UK)</Provider>
@@ -5725,6 +5701,27 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports Premier League HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="At The Races">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Sports Racing">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkySp Racing">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports Racing.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sports Racing HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkySp Racing HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports Racing HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Ryder Cup">
