@@ -5703,11 +5703,8 @@
 			<File>Sky Sports Premier League HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="At The Races">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports Racing">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="SkySp Racing">
 				<Provider>Sky (UK)</Provider>
@@ -5812,6 +5809,24 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Sky Sports US Open HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sports USA">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkySp USA">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports USA.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sports USA HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkySp USA HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports USA HD.png</File>
 		</Channel>
 <!--
 		<Channel>
