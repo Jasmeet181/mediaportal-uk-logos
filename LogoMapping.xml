@@ -1972,6 +1972,15 @@
 			<File>Eman Channel.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eros">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Eros Now">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Eros Now.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Euronews">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -2806,6 +2815,7 @@
 			<Item Name="Juwelo">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
+		<!-- Removed 07/01/19 -->
 			<Item Name="Juwelo UK">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6290,12 +6300,6 @@
 			<File>TJC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="The Store">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<File>The Store.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="The Vault">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6755,6 +6759,15 @@
 			<File>VMMusic.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Voot">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Voot TV">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Voot.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Vox Africa">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6940,6 +6953,15 @@
 			<File>YouTube.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Yupp TV">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="YuppTV">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>YuppTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Zee Cinema">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6970,6 +6992,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Zing.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Zone TV">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Zone TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ZooMoo HD">
@@ -7884,6 +7912,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>UCB Ireland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Virgin Radio">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Virgin Radio UK">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Virgin Radio UK.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="World Radio Network">
