@@ -872,13 +872,6 @@
 			<File>BBC Two Wales HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 05/12/18 -->
-			<Item Name="Believe TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Believe TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Ben 10">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -1501,6 +1494,7 @@
 			<File>Climax.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 07/12/18 -->
 			<Item Name="CLTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2806,6 +2800,7 @@
 			<File>JML Direct.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 11/12/18 -->
 			<Item Name="Jus Punjabi">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4693,6 +4688,28 @@
 		</Channel>
     -->
 		<Channel>
+			<Item Name="Sky Cinema Feel Good">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Feel Good">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Feel Good.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Feel Good HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Feel Good HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyFeelGoodHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Feel Good HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Greats">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -4854,6 +4871,26 @@
 			<File>Sky Cinema Matt Damon HD.png</File>
 		</Channel>
     -->
+		<Channel>
+			<Item Name="Sky Cinema Megahits">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Megahits">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Megahits.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Megahits HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Megahits HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Megahits HD.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Musicals">
 				<Provider>Full Name (UK)</Provider>
@@ -6321,7 +6358,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Tiny Pop+1">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Tiny Pop +1">
@@ -6450,7 +6486,7 @@
 			<Item Name="True Movies +1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="True Movies+1">
+			<Item Name="TrueMovies+1">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>True Movies Plus 1.png</File>
@@ -6470,7 +6506,6 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="TruTV+1">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TruTV Plus 1.png</File>
