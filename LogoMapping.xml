@@ -1494,7 +1494,7 @@
 			<File>Climax.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 07/12/18 -->
+		<!-- Removed 07/01/19 -->
 			<Item Name="CLTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2800,7 +2800,7 @@
 			<File>JML Direct.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 11/12/18 -->
+		<!-- Removed 11/01/19 -->
 			<Item Name="Jus Punjabi">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4886,8 +4886,10 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Sky Megahits HD">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyMegahitsHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Megahits HD.png</File>
 		</Channel>
