@@ -1845,6 +1845,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="DMAX">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6407,7 +6408,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Travel Channel">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6968,7 +6968,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Yesterday+1">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Yesterday Plus 1.png</File>
