@@ -2669,6 +2669,26 @@
 			<File>ITV Box Office.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ITV Cymru Wales">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="ITV Wales">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>ITV Cymru Wales.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ITV Cymru Wales HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="ITV Wales HD">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>ITV Cymru Wales HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="ITV HD">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2694,20 +2714,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>ITV Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ITV Wales">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>ITV Wales.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ITV Wales HD">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>ITV Wales HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ITV2">
@@ -5099,6 +5105,30 @@
 			<File>Sky Cinema Sky-Fi HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Cinema Spider-Man">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Spiderman">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Spider-Man">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Spider-Man.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Spider-Man HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Spiderman HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Spider-Man HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Spider-Man HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Spies">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6539,15 +6569,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TV Warehouse.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TV5">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="TV5Monde Europe">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>TV5Monde Europe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TVC News">
