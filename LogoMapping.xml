@@ -2301,6 +2301,15 @@
 			<File>Good Food Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Good Times">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="NDTV Good Times">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Good Times.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Gospel Channel">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2915,7 +2924,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Lifetime HD">
-				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Lifetime HD.png</File>
 		</Channel>
@@ -3313,12 +3322,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>NDTV 24x7.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="NDTV Good Times">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>NDTV Good Times.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDTV India">
