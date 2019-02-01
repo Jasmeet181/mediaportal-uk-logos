@@ -354,6 +354,9 @@
 			<File>Babes From TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Babes &amp; Brazzers">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Babes TV and Brazzers TV Europe">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -1492,13 +1495,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Climax.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 07/01/19 -->
-			<Item Name="CLTV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>CLTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Club MTV">
@@ -2816,23 +2812,6 @@
 			<File>JML Direct.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 11/01/19 -->
-			<Item Name="Jus Punjabi">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Jus Punjabi.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Juwelo">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-		<!-- Removed 07/01/19 -->
-			<Item Name="Juwelo UK">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Juwelo.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Kanshi TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2904,14 +2883,14 @@
 			<Item Name="LFCTV">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Liverpool FC TV">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<File>LFCTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="LFCTV HD">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Liverpool FC TV">
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>LFCTV HD.png</File>
 		</Channel>
@@ -4030,7 +4009,6 @@
 			<Item Name="S4C">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="S4C Audio Desc">
 				<Provider>Virgin Media (UK)</Provider>
@@ -4040,6 +4018,7 @@
 		<Channel>
 			<Item Name="S4C HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>S4C HD.png</File>
 		</Channel>
@@ -6802,7 +6781,7 @@
 			<File>Virgin TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Virgin TV Kids">
+			<Item Name="Kids TV On Demand">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Virgin TV Kids.png</File>
@@ -6814,7 +6793,7 @@
 			<File>Virgin TV Ultra HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="VM Music">
+			<Item Name="New Music On Demand">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>VMMusic.png</File>
@@ -6906,6 +6885,9 @@
 			<Item Name="Xrated 40+">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+			<Item Name="Xrated 40+ Nightly">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Xrated40+">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6934,15 +6916,6 @@
 			<File>XXX Cougars.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="XXX Doctors &amp; Nurses">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="XXXDrs&amp;Nurses">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>XXX Doctors and Nurses.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="XXX Girl Girl">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6969,6 +6942,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>XXX Petite.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="XXX Swingers">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>XXX Swingers.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Yanga!">
@@ -7311,7 +7290,7 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="BBC Radio Cymru 2">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BBC Radio Cymru 2.png</File>
 		</Channel>
