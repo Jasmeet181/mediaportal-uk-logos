@@ -3284,7 +3284,7 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>Nat Geo Wild.png</File>
+			<File>National Geographic Wild.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NatGeoWild HD">
@@ -3293,7 +3293,7 @@
 			<Item Name="Nat Geo Wild HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>Nat Geo Wild HD.png</File>
+			<File>National Geographic Wild HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDTV 24x7">
