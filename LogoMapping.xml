@@ -2358,6 +2358,9 @@
 			<Item Name="High Street TV 4">
 				<Provider>Sky (UK)</Provider>
 			</Item>
+			<Item Name="High Street TV 5">
+				<Provider>Sky (UK)</Provider>
+			</Item>
 			<File>High Street TV.png</File>
 		</Channel>
 		<Channel>
@@ -3379,8 +3382,10 @@
 		</Channel>
 		<Channel>
 			<Item Name="Nick Jr Too">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Nick Jr.Too">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Nick Jr. Too">
 				<Provider>Full Name (UK)</Provider>
@@ -3870,12 +3875,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Record TV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Retail TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Retail TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Retro Movies">
@@ -5469,6 +5468,12 @@
 			<File>Sky News HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky News Raw">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky News Raw.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky One">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -6525,6 +6530,7 @@
 			<File>TruTV Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 28/01/19 -->
 			<Item Name="TV 99">
 				<Provider>Sky (UK)</Provider>
 			</Item>
