@@ -5967,6 +5967,15 @@
 			<File>SmileTV3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Smithsonian Channel HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Smithsonian">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Smithsonian Channel HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sonlife">
 				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -7521,7 +7530,7 @@
 			<Item Name="BBC Solent">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
-			<Item Name="BBC Solent for Dorset">
+			<Item Name="BBC Solent Dorset">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>BBC Radio Solent.png</File>
