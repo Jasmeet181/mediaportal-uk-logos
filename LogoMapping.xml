@@ -3913,12 +3913,6 @@
 			<File>Rishtey Europe.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rocks &amp; Co 1">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<File>Rocks and Co.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Rok">
 				<Provider>Sky (UK)</Provider>
 			</Item>
