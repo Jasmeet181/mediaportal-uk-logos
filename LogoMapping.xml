@@ -2403,14 +2403,11 @@
 			<File>History Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="H2">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="History 2">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="History2">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>History2.png</File>
 		</Channel>
@@ -4843,6 +4840,28 @@
 			<File>Sky Cinema Jurassic HD.png</File>
 		</Channel>
     -->
+		<Channel>
+			<Item Name="Sky Cinema Lego Collection">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Lego">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Lego Collection.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Lego HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Lego Collection HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Lego HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Lego Collection HD.png</File>
+		</Channel>
     <!--
 		<Channel>
 			<Item Name="Sky Cinema Matt Damon">
