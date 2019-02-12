@@ -5367,10 +5367,8 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Sky Valentine HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Sky Valentne HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Valentine HD.png</File>
 		</Channel>
@@ -5982,11 +5980,22 @@
 			<File>SmileTV3.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Smithsonian">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider><!-- Broadcast in HD -->
+			</Item>
+			<Item Name="Smithsonian Channel">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>Smithsonian Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Smithsonian HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Smithsonian Channel HD">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Smithsonian">
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Smithsonian Channel HD.png</File>
 		</Channel>
@@ -6146,7 +6155,6 @@
 			<Item Name="STV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="STV AD">
 				<Provider>Virgin Media (UK)</Provider>
@@ -6499,6 +6507,21 @@
 			<File>True Christmas Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="True Crime">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>True Crime.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="True Crime +1">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>True Crime Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="True Ent">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6533,26 +6556,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>True Movies Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Tru TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="TruTV">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>TruTV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TruTV +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="TruTV+1">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>TruTV Plus 1.png</File>
 		</Channel>
 		<Channel>
 		<!-- Removed 28/01/19 -->
