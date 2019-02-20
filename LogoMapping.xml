@@ -687,6 +687,18 @@
 			<File>BBC Parliament.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BBC Scotland">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>BBC Scotland.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BBC Scotland HD">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>BBC Scotland HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BBC Red Button">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
@@ -803,10 +815,8 @@
 		<Channel>
 			<Item Name="BBC Two">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="BBC Two Eng">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="BBC Two AD">
 				<Provider>Virgin Media (UK)</Provider>
@@ -4322,7 +4332,7 @@
 			<File>Sky Cinema Animation.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AnimationHD">
+			<Item Name="Animation HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Sky Animation HD">
@@ -6517,6 +6527,8 @@
 		<Channel>
 			<Item Name="True Crime +1">
 				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<Item Name="True Crime+1">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>True Crime Plus 1.png</File>
