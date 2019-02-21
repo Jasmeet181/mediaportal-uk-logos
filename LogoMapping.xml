@@ -411,7 +411,6 @@
 			<Item Name="BBC Four">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BBC Four.png</File>
 		</Channel>
@@ -427,7 +426,6 @@
 			<Item Name="BBC News">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BBC News.png</File>
 		</Channel>
@@ -689,12 +687,17 @@
 		<Channel>
 			<Item Name="BBC Scotland">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BBC Scotland.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BBC Scotland HD">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="BBCScotlandHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BBC Scotland HD.png</File>
 		</Channel>
@@ -860,7 +863,7 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="BBC Two Scotland">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>BBC Two Scotland.png</File>
 		</Channel>
@@ -1198,9 +1201,6 @@
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="CBBC Channel">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<File>CBBC.png</File>
 		</Channel>
 		<Channel>
@@ -1215,7 +1215,6 @@
 			<Item Name="CBeebies">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>CBeebies.png</File>
 		</Channel>
