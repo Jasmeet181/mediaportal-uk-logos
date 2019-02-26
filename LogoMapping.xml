@@ -1821,10 +1821,13 @@
 			<File>Disney Junior HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Disney Junior +1">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
 			<Item Name="Disney Junior+">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>Disney Junior Plus.png</File>
+			<File>Disney Junior Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disney XD">
