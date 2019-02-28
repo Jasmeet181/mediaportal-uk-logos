@@ -858,16 +858,6 @@
 			<File>BBC Two Northern Ireland HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC Two Scot">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="BBC Two Scotland">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>BBC Two Scotland.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="BBC Two Wales">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -6805,6 +6795,9 @@
 			<Item Name="Channel Off Air Slate">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+			<Item Name="Desi Entertainment">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Live Events Channel">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6918,10 +6911,13 @@
 			<Item Name="Xpanded TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
+			<File>Xpanded TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Xpanded TV2">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>Xpanded TV.png</File>
+			<File>Xpanded TV2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Xplicit Nightly">
