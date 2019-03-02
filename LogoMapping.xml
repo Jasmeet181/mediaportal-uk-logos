@@ -1517,6 +1517,12 @@
 			<File>CNBC.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CNBC HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>CNBC HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CNN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
