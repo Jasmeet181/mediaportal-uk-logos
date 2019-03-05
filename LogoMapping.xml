@@ -2073,6 +2073,12 @@
 			<File>Fame TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Fascination TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Fascination TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Film4">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -3706,15 +3712,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Propeller TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Property Show">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Property TV">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Property TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Psychic Today">
