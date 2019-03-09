@@ -2930,15 +2930,6 @@
 			<File>Lifetime HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Lifetime +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Lifetime+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Lifetime Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Living Foodz">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3483,6 +3474,7 @@
 			<Item Name="Now 90s">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Now 90s.png</File>
 		</Channel>
@@ -3677,12 +3669,10 @@
 		<Channel>
 			<Item Name="Premier 1 HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Premier Sports 1 HD">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Premier Sports HD">
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Premier Sports 1 HD.png</File>
 		</Channel>
@@ -3691,7 +3681,16 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Premier Sports 2">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Premier Sports 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Premier 2 HD">
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Premier Sports 2 HD">
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Premier Sports 2.png</File>
 		</Channel>
@@ -4600,7 +4599,7 @@
 			<Item Name="Sky Cinema Drama &amp; Romance HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Sky Drama HD">
+			<Item Name="SkyDramaHD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Sky DraRomHD">
@@ -4679,6 +4678,30 @@
 			<File>Sky Cinema Fast and Furious HD.png</File>
 		</Channel>
     -->
+		<Channel>
+			<Item Name="Sky Cinema Five Star Movies">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky 5* Movies">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky5*Movies">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Five Star Movies.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Five Star Movies HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky 5* Movies HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky5*MoviesHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Five Star Movies HD.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Feel Good">
 				<Provider>Full Name (UK)</Provider>
@@ -6457,6 +6480,7 @@
 		<Channel>
 			<Item Name="Total Country">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Total Country.png</File>
 		</Channel>
