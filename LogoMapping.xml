@@ -5875,11 +5875,11 @@
 			<Item Name="Sky Players">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Sky Sports Players">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports The Players">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="The Players">
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Sports The Players.png</File>
 		</Channel>
@@ -5887,11 +5887,11 @@
 			<Item Name="Sky Players HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Sky Sports Players HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports The Players HD">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="The Players HD">
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Sports The Players HD.png</File>
 		</Channel>
