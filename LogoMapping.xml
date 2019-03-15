@@ -1257,22 +1257,26 @@
 			<File>CCTV-4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CCTV News">
-				<Provider>Freeview (UK) IPTV</Provider>
-			</Item>
 			<Item Name="CGTN">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CGTN Documentary">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="CCTV-9 Documentary">
 				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
 			<File>CGTN Documentary.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="53151">
+				<Provider>Astra 28.2E</Provider>
+			</Item>
+			<Item Name="CGTN HD">
+				<Provider>Freesat (UK)</Provider>
+			</Item>
+			<File>CGTN HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Challenge">
@@ -4289,7 +4293,6 @@
 			</Item>
 			<File>Sky Cinema Action Men HD.png</File>
 		</Channel>
-    <!--
 		<Channel>
 			<Item Name="Sky Aliens">
 				<Provider>Sky (UK)</Provider>
@@ -4302,17 +4305,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Aliens HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Sky AliensHD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Sky Cinema Aliens HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Aliens HD.png</File>
 		</Channel>
-    -->
 		<Channel>
 			<Item Name="Sky Animation">
 				<Provider>Virgin Media (UK)</Provider>
