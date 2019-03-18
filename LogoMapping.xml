@@ -1552,10 +1552,28 @@
 			<File>Colors.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Colors Cineplex">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="ColorsCineplex">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Colors Cineplex.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Colors HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Colors HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Colors Rishtey">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="ColorsRishtey">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Colors Rishtey.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Comedy Central">
@@ -3900,25 +3918,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Revelation TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Rishtey Cineplex">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="RishteyCine">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Rishtey Cineplex.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Rishtey">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Rishtey Europe">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Rishtey Europe.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Rok">
