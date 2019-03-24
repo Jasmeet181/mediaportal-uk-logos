@@ -2089,6 +2089,7 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 20/03/19 -->
 			<Item Name="Fame TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4385,6 +4386,30 @@
 			</Item>
 			<File>Sky Cinema Back to the Future HD.png</File>
 		</Channel>
+    -->
+		<Channel>
+			<Item Name="Sky Batman">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Batman">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Batman.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Batman HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Batman HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyBatmanHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Batman HD.png</File>
+		</Channel>
+    <!--
 		<Channel>
 			<Item Name="Sky Bourne">
 				<Provider>Sky (UK)</Provider>
@@ -6588,7 +6613,6 @@
 			<File>True Movies Plus 1.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 28/01/19 -->
 			<Item Name="TV 99">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6881,6 +6905,7 @@
 			<File>Vox Africa.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 13/03/19 -->
 			<Item Name="VTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
