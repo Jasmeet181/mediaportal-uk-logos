@@ -1270,11 +1270,8 @@
 			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="53151">
-				<Provider>Astra 28.2E</Provider>
-			</Item>
 			<Item Name="CGTN HD">
-				<Provider>Freesat (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>CGTN HD.png</File>
 		</Channel>
@@ -2268,6 +2265,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Ginx eSports TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Global Hits">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Global Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="GN TV">
@@ -3715,7 +3718,7 @@
 			<Item Name="Premier Sports 2 HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<File>Premier Sports 2.png</File>
+			<File>Premier Sports 2 HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Price Crash">
@@ -3754,6 +3757,7 @@
 			<File>PTV Global.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 26/03/19 -->
 			<Item Name="PTV Prime">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6106,17 +6110,17 @@
 			<File>Sony Max.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sony Max 2">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sony Max 2.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sony Max HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sony Max HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sony Mix">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sony Mix.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sony Movie Ch">
@@ -6903,13 +6907,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Vox Africa.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 13/03/19 -->
-			<Item Name="VTV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>VTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="W">
@@ -7915,6 +7912,9 @@
 		<Channel>
 			<Item Name="Khushkhabri">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Radio Khushkhabri">
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Radio Khushkhabri.png</File>
 		</Channel>
