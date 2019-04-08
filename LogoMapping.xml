@@ -2570,12 +2570,6 @@
 			<File>Ideal Xmas.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Insight HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Insight HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Inspiration TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3043,9 +3037,12 @@
 			<Item Name="Marvel Spider-Man">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
+			<!-- Conflicts with Spider-Man -->
+			<!--
 			<Item Name="Spider-Man">
 				<Provider>Sky (UK)</Provider>
 			</Item>
+			 -->
 			<Item Name="Spider-Man Channel">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -5169,6 +5166,7 @@
 			<Item Name="Sky Spiderman">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+			<!-- Conflicts with Marvel Spider-Man -->
 			<Item Name="Spider-Man">
 				<Provider>Sky (UK)</Provider>
 			</Item>
