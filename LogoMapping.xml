@@ -289,15 +289,6 @@
 			<File>Animal Planet Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="A Plus Europe">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Aplus TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>A Plus Europe.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Arirang HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -346,6 +337,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>B4U Music.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="B4U Plus">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>B4U Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Babes From TV">
@@ -3730,6 +3727,7 @@
 			<File>Primal Cure.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 10/04/19 -->
 			<Item Name="Propeller">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4327,7 +4325,7 @@
 			<File>Sky Cinema Animation.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Animation HD">
+			<Item Name="AnimationHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Sky Animation HD">
@@ -4970,8 +4968,10 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Sky Musicals HD">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyMusicalsHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Musicals HD.png</File>
 		</Channel>
