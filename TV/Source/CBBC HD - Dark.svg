@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="600" height="600" version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
  <g transform="translate(192.84 -254.08)">
   <g fill="#26275d">
    <path d="m-192.84 254.08v600h600v-600h-600zm9.3691 9.3672h581.26v581.26h-581.26v-581.26z" color="#000000" color-rendering="auto" image-rendering="auto" shape-rendering="auto" solid-color="#000000" style="block-progression:tb;isolation:auto;mix-blend-mode:normal;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"/>

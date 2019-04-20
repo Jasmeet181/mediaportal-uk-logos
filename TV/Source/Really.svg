@@ -1,21 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-<svg id="svg3002" width="250" height="66.588" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
- <metadata id="metadata3007">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <g id="layer1" transform="translate(-40.5 -733.86)">
-  <g id="g3048" transform="matrix(.39508 0 0 .39508 24.802 483.9)" fill="#ffcf25">
-   <path id="path3040" d="m41 633.95v166h30.5v-63.281l43.125 63.281h38.375l-45.5-61.5c21.397-2.6475 43.5-21.349 43.5-51.438 0-26.534-18.707-53.062-58.344-53.062h-51.656zm30.5 30h21.406c12.425 0 27.219 6.3366 27.219 24.5 0 18.486-14.895 24.5-26.156 24.5h-22.469v-49z" color="#000000"/>
-   <path id="path3042" d="m161.5 633.95v166h54.5c26.147 0 38.098-9.1131 47.688-21.125l12.844-16.875h52.469v38h31v-166h-34.094l-78.25 115.88c-9.3201 13.551-16.522 20.125-30.656 20.125h-25v-38h38l20-30h-58v-38h58l20.281-30h-108.78zm167.5 46v52h-35l35-52z" color="#000000"/>
-   <path id="path3044" d="m456 769.93v30h-85v-166h31v136z" color="#000000"/>
-   <path id="path3046" d="m559.26 799.93h-92.26v-166h31v136h45.662l34.338-50.758-57.442-85.242h36.442l39.495 57.505 38.821-57.505h35.937z" color="#000000"/>
+<svg id="a" version="1.1" viewBox="0 0 250 66.588" xmlns="http://www.w3.org/2000/svg">
+ <g id="b" transform="translate(-40.5 -733.86)">
+  <g id="c" transform="matrix(.39508 0 0 .39508 24.802 483.9)" fill="#ffcf25">
+   <path id="d" d="m41 633.95v166h30.5v-63.281l43.125 63.281h38.375l-45.5-61.5c21.397-2.6475 43.5-21.349 43.5-51.438 0-26.534-18.707-53.062-58.344-53.062h-51.656zm30.5 30h21.406c12.425 0 27.219 6.3366 27.219 24.5 0 18.486-14.895 24.5-26.156 24.5h-22.469v-49z" color="#000000"/>
+   <path id="e" d="m161.5 633.95v166h54.5c26.147 0 38.098-9.1131 47.688-21.125l12.844-16.875h52.469v38h31v-166h-34.094l-78.25 115.88c-9.3201 13.551-16.522 20.125-30.656 20.125h-25v-38h38l20-30h-58v-38h58l20.281-30h-108.78zm167.5 46v52h-35l35-52z" color="#000000"/>
+   <path id="f" d="m456 769.93v30h-85v-166h31v136z" color="#000000"/>
+   <path id="g" d="m559.26 799.93h-92.26v-166h31v136h45.662l34.338-50.758-57.442-85.242h36.442l39.495 57.505 38.821-57.505h35.937z" color="#000000"/>
   </g>
  </g>
 </svg>

@@ -1,36 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="Layer_1" width="709.52" height="682.89" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" space="preserve" version="1.1" viewBox="0 0 709.52 682.89" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
- <metadata id="metadata38">
-  <rdf:RDF>
-   <cc:Work rdf:about="">
-    <dc:format>image/svg+xml</dc:format>
-    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:title/>
-   </cc:Work>
-  </rdf:RDF>
- </metadata>
- <defs id="defs36">
-  <linearGradient id="linearGradient937" x1="114.92" x2="647.06" y1="300" y2="300" gradientUnits="userSpaceOnUse" xlink:href="#SVGID_1_"/>
+<svg id="b" space="preserve" version="1.1" viewBox="0 0 709.52 682.89" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs id="c">
+  <linearGradient id="a" x1="114.92" x2="647.06" y1="300" y2="300" gradientUnits="userSpaceOnUse">
+   <stop id="d" stop-color="#0f0" offset=".05"/>
+   <stop id="e" stop-color="#00FFB4" offset=".4998"/>
+   <stop id="f" stop-color="#0f0" offset=".95"/>
+  </linearGradient>
  </defs>
- <linearGradient id="SVGID_1_" x1="162.05" x2="1161.2" y1="283.14" y2="283.14" gradientUnits="userSpaceOnUse">
-  <stop id="stop4" stop-color="#0f0" offset=".05"/>
-  <stop id="stop6" stop-color="#00FFB4" offset=".4998"/>
-  <stop id="stop8" stop-color="#0f0" offset=".95"/>
- </linearGradient>
- <g id="#a2a2a2ff" transform="matrix(1.3333 0 0 1.3333 -153.23 -58.547)" fill="url(#linearGradient937)">
-  <path id="path3" d="m605.46 43.91-0.08 300.64 41.68 2.91-14.71 208.62-478.26-33.34 5.62-81.92-44.79 7.69 0.01-318.2z" fill="url(#linearGradient937)"/>
+ <g id="g" transform="matrix(1.3333 0 0 1.3333 -153.23 -58.547)" fill="url(#a)">
+  <path id="h" d="m605.46 43.91-0.08 300.64 41.68 2.91-14.71 208.62-478.26-33.34 5.62-81.92-44.79 7.69 0.01-318.2z" fill="url(#a)"/>
  </g>
- <g id="g1001" transform="matrix(1.1792 0 0 1.1792 2267.6 -618.81)" fill="#000041">
-  <path id="path13-7" class="st1" d="m-1427.1 707.94-17.7 4.7s-28.9 7.8-31.4 35.6l-0.9 10.3c-2.7 32.5 37.5 24.8 35.8 44.2v0.6l-1.2 13.3-12 3.2 1.6-18.6-28.7 7.7-1.6 18.4s-2.4 27.9 26.5 20.1l17.7-4.7s28.9-7.8 31.4-35.6l1.1-13.1 0.1-1.5c2.9-32.9-36.6-25.1-36.2-43.4l1.2-13.2 11.8-3.2-1.4 15.8 29.2-7.8 1.1-12.8c0.1 0.2 2.5-27.7-26.4-20z"/>
-  <polygon id="polygon15-5" class="st1" transform="translate(-2085.8 435.24)" points="531.7 437.8 579.3 425.1 590.7 294 604.2 290.3 607.3 252.9 532.5 273.2 529.2 310.7 543.2 306.7"/>
-  <polygon id="polygon17-9" class="st1" transform="translate(-2085.8 435.24)" points="441.1 462 503.9 445.2 523.3 225.2 460.5 242"/>
-  <polygon id="polygon19-5" class="st1" transform="translate(-2085.8 435.24)" points="366.2 223.5 357.5 321.7 336.1 327.4 349.9 172.4 269.5 194 241.3 515.5 321.7 494 331.6 379 353 373.3 343.1 488.3 423.4 466.8 446.6 201.9"/>
+ <g id="i" transform="matrix(1.1792 0 0 1.1792 2267.6 -618.81)" fill="#000041">
+  <path id="j" class="st1" d="m-1427.1 707.94-17.7 4.7s-28.9 7.8-31.4 35.6l-0.9 10.3c-2.7 32.5 37.5 24.8 35.8 44.2v0.6l-1.2 13.3-12 3.2 1.6-18.6-28.7 7.7-1.6 18.4s-2.4 27.9 26.5 20.1l17.7-4.7s28.9-7.8 31.4-35.6l1.1-13.1 0.1-1.5c2.9-32.9-36.6-25.1-36.2-43.4l1.2-13.2 11.8-3.2-1.4 15.8 29.2-7.8 1.1-12.8c0.1 0.2 2.5-27.7-26.4-20z"/>
+  <polygon id="k" class="st1" transform="translate(-2085.8 435.24)" points="531.7 437.8 579.3 425.1 590.7 294 604.2 290.3 607.3 252.9 532.5 273.2 529.2 310.7 543.2 306.7"/>
+  <polygon id="l" class="st1" transform="translate(-2085.8 435.24)" points="441.1 462 503.9 445.2 523.3 225.2 460.5 242"/>
+  <polygon id="m" class="st1" transform="translate(-2085.8 435.24)" points="366.2 223.5 357.5 321.7 336.1 327.4 349.9 172.4 269.5 194 241.3 515.5 321.7 494 331.6 379 353 373.3 343.1 488.3 423.4 466.8 446.6 201.9"/>
  </g>
- <g id="g995" transform="matrix(1.1792 0 0 1.1792 1799.5 -182.03)" fill="#000041">
-  <polygon id="polygon21-9" class="st1" transform="translate(-2085.8 435.24)" points="911.3 99.7 897.7 254.4 935.2 244.4 948.7 89.6"/>
-  <path id="path23-0" class="st1" d="m-1052.5 502.14-36.6 9.9s-30.5 8.2-33 37.1l-10.2 118.4s-2.5 28.9 28 20.7l36.6-9.8s30.5-8.2 33-37.1l10.2-118.5s2.6-28.9-28-20.7zm-19.9 146-21.5 5.8 9.6-111.7 21.5-5.8z"/>
-  <path id="path25-8" class="st1" d="m-1213.7 545.34-50.3 13.5-11.5 130.9 50.3-13.5s22.7-6.1 24.7-29l7.5-85.1s2-22.9-20.7-16.8zm-15.1 108.6-16.1 4.3 7.3-83.2 16.1-4.3z"/>
-  <path id="path27-0" class="st1" d="m-1377.1 588.94-41.3 11.1-4.3 49.4-0.4 4.9-3.1 35.6 22-5.9 2.7-30.9 11.9-3.2-2.7 30.9 22.1-5.9 1.9-22.2s0.9-11-5.6-14.1c3.8-3.3 7.6-8.8 8.3-17.6l1.6-17.7c0-0.1 1.6-18.3-13.1-14.4zm-11.1 43.7-11.9 3.2 1.7-19 11.9-3.2z"/>
-  <path id="path29-9" class="st1" d="m-1298.3 567.84-30.2 8.1s-17.2 4.6-18.7 22.6l-7.9 91.2 25.1-6.7 2.9-34 14.2-3.8-2.9 34 25.1-6.7 7.9-91.2c0.1-0.1 1.6-18.1-15.5-13.5zm-12.8 56.8-14.2 3.8 2.9-33 14.2-3.8z"/>
+ <g id="n" transform="matrix(1.1792 0 0 1.1792 1799.5 -182.03)" fill="#000041">
+  <polygon id="o" class="st1" transform="translate(-2085.8 435.24)" points="911.3 99.7 897.7 254.4 935.2 244.4 948.7 89.6"/>
+  <path id="p" class="st1" d="m-1052.5 502.14-36.6 9.9s-30.5 8.2-33 37.1l-10.2 118.4s-2.5 28.9 28 20.7l36.6-9.8s30.5-8.2 33-37.1l10.2-118.5s2.6-28.9-28-20.7zm-19.9 146-21.5 5.8 9.6-111.7 21.5-5.8z"/>
+  <path id="q" class="st1" d="m-1213.7 545.34-50.3 13.5-11.5 130.9 50.3-13.5s22.7-6.1 24.7-29l7.5-85.1s2-22.9-20.7-16.8zm-15.1 108.6-16.1 4.3 7.3-83.2 16.1-4.3z"/>
+  <path id="r" class="st1" d="m-1377.1 588.94-41.3 11.1-4.3 49.4-0.4 4.9-3.1 35.6 22-5.9 2.7-30.9 11.9-3.2-2.7 30.9 22.1-5.9 1.9-22.2s0.9-11-5.6-14.1c3.8-3.3 7.6-8.8 8.3-17.6l1.6-17.7c0-0.1 1.6-18.3-13.1-14.4zm-11.1 43.7-11.9 3.2 1.7-19 11.9-3.2z"/>
+  <path id="s" class="st1" d="m-1298.3 567.84-30.2 8.1s-17.2 4.6-18.7 22.6l-7.9 91.2 25.1-6.7 2.9-34 14.2-3.8-2.9 34 25.1-6.7 7.9-91.2c0.1-0.1 1.6-18.1-15.5-13.5zm-12.8 56.8-14.2 3.8 2.9-33 14.2-3.8z"/>
  </g>
 </svg>
