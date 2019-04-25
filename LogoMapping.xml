@@ -387,6 +387,14 @@
 			</Item>
 			<File>BabyTV.png</File>
 		</Channel>
+		<!--
+		<Channel>
+			<Item Name="Bangers">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Bangers.png</File>
+		</Channel>
+		-->
 		<Channel>
 			<Item Name="Bangla TV">
 				<Provider>Sky (UK)</Provider>
@@ -1695,6 +1703,15 @@
 			<File>Daystar HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dirty Talk">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="DirtyTalk">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Dirty Talk.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Disc.History">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2839,7 +2856,7 @@
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Jewelry Maker">
+			<Item Name="JewelleryMaker">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Jewellery Maker.png</File>
@@ -6349,16 +6366,10 @@
 			<File>Television X.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Television X Pay-Per-Night">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="TVXpaypernight">
+			<Item Name="Television X HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Xrated Couples">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Television X Pay-Per-Night.png</File>
+			<File>Television X HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Television X Pay-Per-Night 2">
@@ -6366,9 +6377,6 @@
 			</Item>
 			<Item Name="Television X 2">
 				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="TVXPPN2">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Television X Pay-Per-Night 2.png</File>
 		</Channel>
@@ -6433,6 +6441,15 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>The Craft Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TRP 1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="The Racing Partnership">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>The Racing Partnership.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TJC">
@@ -6651,9 +6668,6 @@
 		<Channel>
 			<Item Name="TVX Pornstars">
 				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="TVXPornstars">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TVX Pornstars.png</File>
 		</Channel>
@@ -6972,14 +6986,14 @@
 			<File>Xplicit Nightly.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="40+">
+				<Provider>Sky (UK)</Provider>
+			</Item>
 			<Item Name="Xrated 40+">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Xrated 40+ Nightly">
 				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Xrated40+">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Xrated 40 Plus.png</File>
 		</Channel>
