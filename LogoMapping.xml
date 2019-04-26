@@ -391,6 +391,9 @@
 			<Item Name="Bangers">
 				<Provider>Sky (UK)</Provider>
 			</Item>
+			<Item Name="TVX Pornstars">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<File>Bangers.png</File>
 		</Channel>
 		<Channel>
@@ -6370,15 +6373,6 @@
 			<File>Television X HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Television X Pay-Per-Night 2">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Television X 2">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Television X Pay-Per-Night 2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TG4">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -6662,12 +6656,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TVC News.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="TVX Pornstars">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>TVX Pornstars.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tyne &amp; Wear TV">
