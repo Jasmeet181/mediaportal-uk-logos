@@ -121,7 +121,6 @@
 		<Channel>
 			<Item Name="ABN TV">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="ABNTV">
 				<Provider>Full Name (UK)</Provider>
@@ -2101,13 +2100,6 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 20/03/19 -->
-			<Item Name="Fame TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Fame TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Fascination TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3770,13 +3762,6 @@
 			<File>PTV Global.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 26/03/19 -->
-			<Item Name="PTV Prime">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>PTV Prime.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Quest">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -5009,8 +4994,10 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Sky Monsters HD">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyMonstersHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Monsters HD.png</File>
 		</Channel>
@@ -6358,7 +6345,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Television X">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Television X Nightly">
@@ -6993,6 +6979,12 @@
 			<File>XXX 18 and Dirty.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="XXX Amateurs">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>XXX Office Girls.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="XXX Brits">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -7017,15 +7009,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>XXX Mums.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="XXX Office Girls">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="XXXOfficeGirls">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>XXX Office Girls.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="XXX Petite">
@@ -7982,6 +7965,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>RTE Radio 1 Extra.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Scala Radio">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Scala Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Chl Line-up">
