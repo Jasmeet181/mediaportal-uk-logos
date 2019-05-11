@@ -389,8 +389,9 @@
 		<Channel>
 			<Item Name="Bangers">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="TVX Pornstars">
+			<Item Name="Bangers Nightly">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Bangers.png</File>
@@ -4061,6 +4062,9 @@
 			<File>Sanskar TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SES 8K">
+				<Provider>Astra 28.2E</Provider>
+			</Item>
 			<Item Name="SES UHD Demo">
 				<Provider>Astra 28.2E</Provider>
 			</Item>
@@ -5534,7 +5538,7 @@
 			<Item Name="Sky News Arabia">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="SkyNws Arabia">
+			<Item Name="SkyNewsArabia">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky News Arabia.png</File>
@@ -6610,6 +6614,7 @@
 			<File>True Movies Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 07/05/19 -->
 			<Item Name="TV 99">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6960,11 +6965,9 @@
 		<Channel>
 			<Item Name="40+">
 				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Xrated 40+">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Xrated 40+ Nightly">
+			<Item Name="40+ Nightly">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Xrated 40 Plus.png</File>
@@ -7841,8 +7844,12 @@
 			<File>LBC Radio.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 26/04/19 -->
 			<Item Name="Liberty">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Liberty Radio">
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Liberty Radio.png</File>
 		</Channel>
