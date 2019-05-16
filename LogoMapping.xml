@@ -1976,22 +1976,10 @@
 			<File>Eden Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eir Sport 1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Eir Sport 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Eir Sport 1 HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Eir Sport 1 HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Eir Sport 2">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Eir Sport 2.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Eir Sport 2 HD">
