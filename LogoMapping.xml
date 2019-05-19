@@ -1644,7 +1644,6 @@
 			</Item>
 			<Item Name="Crime+Inv">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Crime and Investigation.png</File>
 		</Channel>
@@ -2399,7 +2398,6 @@
 		<Channel>
 			<Item Name="History">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>History.png</File>
 		</Channel>
@@ -2440,9 +2438,6 @@
 			<File>History Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="History 2">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="History2">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2936,7 +2931,6 @@
 		<Channel>
 			<Item Name="Lifetime">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Lifetime.png</File>
 		</Channel>
@@ -5408,6 +5402,30 @@
 			<File>Sky Cinema Tom Hanks HD.png</File>
 		</Channel>
     -->
+		<Channel>
+			<Item Name="Sky Cinema True Stories">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky True Stories">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="True Stories">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema True Stories.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema True Stories HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky True Stories HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="TrueStories HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema True Stories HD.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Valentine">
 				<Provider>Full Name (UK)</Provider>
