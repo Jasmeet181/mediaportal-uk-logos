@@ -919,13 +919,13 @@
 			<File>BET International.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bibel TV">
+			<Item Name="Bible TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Bibel TV Global">
+			<Item Name="Bible TV Global">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<File>Bibel TV Global.png</File>
+			<File>Bible TV Global.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Birmingham TV">
