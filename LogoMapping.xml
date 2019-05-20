@@ -919,6 +919,15 @@
 			<File>BET International.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Bibel TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Bibel TV Global">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Bibel TV Global.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Birmingham TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2346,15 +2355,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Gospel Channel.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Grace TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Grace TV Global">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Grace TV Global.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Hayu">
