@@ -367,6 +367,9 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+			<Item Name="Meet The Babes">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<File>Babestation.png</File>
 		</Channel>
 		<Channel>
@@ -919,6 +922,7 @@
 			<File>BET International.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 23/05/19 -->
 			<Item Name="Bible TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1052,6 +1056,9 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+			<Item Name="BT Sport HD Hidden">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<File>BT Sport 2 HD.png</File>
 		</Channel>
 		<Channel>
@@ -1068,7 +1075,13 @@
 			<File>BT Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BT Sport 4K Hidden">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="BT Sport 4K UHD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="BTSport 4K UHD Finals">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport 4K UHD.png</File>
@@ -2068,6 +2081,15 @@
 			<File>Eurosport 4 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Eurosport 4K">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Eurosport Hidden">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Eurosport 4K.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Eurosport 5 HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -2096,6 +2118,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Faith World TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fame TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Fame TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Fascination TV">
@@ -3513,6 +3541,7 @@
 			<File>Now Music.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 22/05/19 -->
 			<Item Name="NTA International">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -3747,6 +3776,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>PTV Global.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Pure Babes HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Pure Babes.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Quest">
@@ -5010,6 +5045,26 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Oscars HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Pets">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Pets">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Pets.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Pets HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Pets HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Pets HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Pirates of the Caribbean">
@@ -7997,6 +8052,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky News Radio">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SNR">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky News Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Smooth Extra">
