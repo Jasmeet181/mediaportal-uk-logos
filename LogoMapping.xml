@@ -2370,6 +2370,12 @@
 			<File>Good Food Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Good News TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Good News TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Good Times">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5750,6 +5756,30 @@
 			<File>Sky Sports Cricket HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sports Cricket World Cup">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky World Cup">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="World Cup">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Sports Cricket World Cup.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sports Cricket World Cup HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyWorldCupHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="World Cup HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Sports Cricket World Cup HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Darts">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6037,26 +6067,6 @@
 			</Item>
 			<File>Sky Sports USA HD.png</File>
 		</Channel>
-<!--
-		<Channel>
-			<Item Name="Sky Sports World Cup">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Sky World Cup">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Sports World Cup.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Sports World Cup HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="SkyWrldCupHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Sports World Cup HD.png</File>
-		</Channel>
--->
 		<Channel>
 			<Item Name="Sky Two">
 				<Provider>Sky (UK)</Provider>
