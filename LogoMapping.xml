@@ -257,13 +257,6 @@
 			<File>AMC HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="&amp;TV">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>AndTV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Animal Planet">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -2975,18 +2968,6 @@
 			<File>Lifetime HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Living Foodz">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Living Foodz.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Living Foodz HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Living Foodz HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Liverpool TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>>
@@ -3759,13 +3740,6 @@
 			<File>Primal Cure.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 10/04/19 -->
-			<Item Name="Propeller">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Propeller TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Psychic Today">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3957,6 +3931,7 @@
 			<File>Rok.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 31/05/19 -->
 			<Item Name="Rok +1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -4112,13 +4087,6 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Sheffield Live TV.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 25/04/19 -->
-			<Item Name="Shop Now">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Shop Now.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Showcase">
@@ -7169,22 +7137,15 @@
 		<Channel>
 			<Item Name="Zee TV">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Zee TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Zee TV HD">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Zee TV HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Zing">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Zing.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Zone TV">
@@ -7922,16 +7883,6 @@
 			<File>LBC Radio.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 26/04/19 -->
-			<Item Name="Liberty">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Liberty Radio">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Liberty Radio.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Magic">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -8092,12 +8043,6 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Smooth Radio.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Solar Radio">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Solar Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sukh Sagar">
