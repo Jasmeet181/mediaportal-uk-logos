@@ -1922,6 +1922,12 @@
 			<File>Drama.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Dunamis TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Dunamis TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Dunya News">
 				<Provider>Sky (UK)</Provider>
 			</Item>
