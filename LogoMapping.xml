@@ -357,10 +357,6 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Meet The Babes">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<File>Babestation.png</File>
 		</Channel>
 		<Channel>
@@ -3059,6 +3055,13 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>MATV National.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Meet The Babes">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Meet The Babes.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Mickey &amp; Pals">
