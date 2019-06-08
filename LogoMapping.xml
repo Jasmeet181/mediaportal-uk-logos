@@ -4866,6 +4866,24 @@
 			</Item>
 			<File>Sky Cinema Hits HD.png</File>
 		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Julia Roberts">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Julia Roberts">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Julia Roberts.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Julia Roberts HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="JuliaRobertsHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Julia Roberts HD.png</File>
+		</Channel>
     <!--
 		<Channel>
 			<Item Name="Sky Cinema Jurassic">
