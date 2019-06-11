@@ -3743,6 +3743,12 @@
 			<File>Primal Cure.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Prime TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Prime TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Psychic Today">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4149,24 +4155,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Atlantic Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Atlantic VIP">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Sky AtlanticVIP">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Atlantic VIP.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Atlantic VIP HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="SkyAtlntcVIPHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Atlantic VIP HD.png</File>
 		</Channel>
     <!--
 		<Channel>
