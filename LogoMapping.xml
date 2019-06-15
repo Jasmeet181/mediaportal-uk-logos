@@ -5126,6 +5126,24 @@
 		</Channel>
     -->
 		<Channel>
+			<Item Name="Sky Cinema Rom Coms">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Rom Coms">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Rom Coms.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Rom Coms HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyRomComs HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Rom Coms HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Sci Fi &amp; Horror">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
