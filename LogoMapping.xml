@@ -718,8 +718,6 @@
 		<Channel>
 			<Item Name="BBC RB 1">
 				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<Item Name="BBC RB1">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="BBC Red Button 1">
@@ -911,16 +909,6 @@
 			<File>BET International.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 23/05/19 -->
-			<Item Name="Bible TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Bible TV Global">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Bible TV Global.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Birmingham TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -1083,6 +1071,9 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="BTSptBoxOffHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="PPV ROI">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BT Sport Box Office HD.png</File>
@@ -1415,12 +1406,6 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Chatbox.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Chelsea TV HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Chelsea TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Christmas 24">
@@ -2881,16 +2866,6 @@
 			<File>Kanshi TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Keep It Country">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Keep It Country TV">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Keep It Country TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Kerrang">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -3137,9 +3112,6 @@
 			</Item>
 			<Item Name="Movies4Men +1">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Movies4Men+1">
-				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Movies4Men Plus 1.png</File>
 		</Channel>
@@ -3531,16 +3503,6 @@
 			<File>Now Music.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 22/05/19 -->
-			<Item Name="NTA International">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="NTAI">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>NTA International.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3691,7 +3653,6 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Pop+1">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Pop Plus 1.png</File>
@@ -3731,16 +3692,10 @@
 			<File>Premier Sports 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Price Crash">
+			<Item Name="Primal Living">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>Price Crash.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Primal Cure">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Primal Cure.png</File>
+			<File>Primal Living.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prime TV">
@@ -3938,16 +3893,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Rok.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 31/05/19 -->
-			<Item Name="Rok +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Rok+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Rok Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RT">
@@ -4958,10 +4903,8 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Sky Megahits HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="SkyMegahitsHD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Megahits HD.png</File>
 		</Channel>
@@ -6096,6 +6039,12 @@
 			<File>Sky Witness Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SmartShop">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>SmartShop.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="SmileTV2">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6230,6 +6179,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sony Sab.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Spotlight TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Spotlight TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Star Bharat">
@@ -6596,12 +6551,6 @@
 			<File>Travel Channel Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travelxp">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<File>Travelxp.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="TRT World">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6631,27 +6580,11 @@
 			<File>True Christmas Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="True Crime">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>True Crime.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Crime +1">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<Item Name="True Crime+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>True Crime Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="True Ent">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="True Entertainment">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>True Entertainment.png</File>
@@ -6676,19 +6609,12 @@
 		</Channel>
 		<Channel>
 			<Item Name="True Movies +1">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<Item Name="TrueMovies+1">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>True Movies Plus 1.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 07/05/19 -->
-			<Item Name="TV 99">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>TV99.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cruise Channel">
@@ -7063,6 +6989,12 @@
 			<File>XXX Amateurs.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="XXX Big&amp;Bouncy">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>XXX Big and Bouncy.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="XXX Brits">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -7087,12 +7019,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>XXX Mums.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="XXX Petite">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>XXX Petite.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="XXX Swingers">
@@ -7830,7 +7756,7 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>Gold.png</File>
+			<File>Gold Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Heart">
