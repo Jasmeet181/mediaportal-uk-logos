@@ -6520,12 +6520,14 @@
 			<File>TLC Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Together">
+			<Item Name="Together TV">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>Together.png</File>
+			<Item Name="Together">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Together TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Total Country">
