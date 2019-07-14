@@ -1070,10 +1070,10 @@
 			<Item Name="BT Sport Box Office HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="BTSptBoxOffHD">
+			<Item Name="PPV ROI">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="PPV ROI">
+			<Item Name="PPV UK">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BT Sport Box Office HD.png</File>
@@ -5838,6 +5838,30 @@
 			<File>Sky Sports Mix HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Netball">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Sports Netball">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkySp Netball">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports Netball.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Netball HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Sports Netball HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkySpNetballHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports Netball HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Sports News">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6182,6 +6206,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Spotlight TV">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Spotlight TV.png</File>
@@ -6520,12 +6545,12 @@
 			<File>TLC Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Together">
+				<Provider>Sky (UK)</Provider>
+			</Item>
 			<Item Name="Together TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Together">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Together TV.png</File>
 		</Channel>
