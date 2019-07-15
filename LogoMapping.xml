@@ -2218,13 +2218,12 @@
 		<Channel>
 			<Item Name="FreeSports">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>FreeSports.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="FreeSports HD">
+				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>FreeSports HD.png</File>
@@ -5946,7 +5945,7 @@
 			<Item Name="Sky Sports The Open">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Sky The Open">
+			<Item Name="SkySp The Open">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports The Open.png</File>
@@ -5958,8 +5957,7 @@
 			<Item Name="Sky Sports The OpenHD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-      <!-- Conflicts with Sky Sports US Open HD -->
-			<Item Name="Sky US Open HD">
+			<Item Name="SkySp TheOpen HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports The Open HD.png</File>
@@ -5999,13 +5997,10 @@
 			<File>Sky Sports US Open.png</File>
 		</Channel>
 		<Channel>
-      <!-- Conflicts with Sky Sports The Open HD -->
-      <!--
 			<Item Name="Sky US Open HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-      -->
 			<Item Name="Sky Sports US Open HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
