@@ -5086,6 +5086,30 @@
 			<File>Sky Cinema Rom Coms HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Cinema Schools Out">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Schools Out!">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkySchoolsOut">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Schools Out.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Schools Out HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Schools Out! HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SchoolsOutHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Schools Out HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Sci Fi &amp; Horror">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
