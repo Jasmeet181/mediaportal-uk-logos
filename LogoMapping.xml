@@ -3703,6 +3703,12 @@
 			<File>Prime TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Prime Video">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Prime Video.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Psychic Today">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6567,11 +6573,19 @@
 			<Item Name="Together">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Together TV">
-				<Provider>Freeview (UK)</Provider>
+			<Item Name="Together TV"
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Together TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Together TV +1">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Together TV+1">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>Together TV Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Total Country">
