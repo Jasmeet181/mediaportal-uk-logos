@@ -6573,7 +6573,7 @@
 			<Item Name="Together">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Together TV"
+			<Item Name="Together TV">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Together TV.png</File>
