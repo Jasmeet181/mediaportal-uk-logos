@@ -1070,10 +1070,10 @@
 			<Item Name="BT Sport Box Office HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="PPV ROI">
+			<Item Name="BTSptBoxOffHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="PPV UK">
+			<Item Name="PPV ROI">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BT Sport Box Office HD.png</File>
@@ -6091,7 +6091,7 @@
 			<Item Name="SmartShop">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>SmartShop.png</File>
+			<File>Smart Shop.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="SmileTV2">
@@ -6382,9 +6382,6 @@
 			<Item Name="TCM">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="TCM Western">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="Turner Classic Movies">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6392,11 +6389,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="TCM HD">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="TCMWesternHD">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TCM HD.png</File>
 		</Channel>
@@ -6405,9 +6398,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="TCM+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="TCMWestern+1">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TCM Plus 1.png</File>
@@ -6574,6 +6564,7 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Together TV">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Together TV.png</File>
