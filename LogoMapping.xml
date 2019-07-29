@@ -877,6 +877,8 @@
 		<Channel>
 			<Item Name="Ben 10">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Ben 10 Takeover">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Ben 10.png</File>
@@ -1052,18 +1054,6 @@
 			<File>BT Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BT Sport 4K Hidden">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="BT Sport 4K UHD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="BTSport 4K UHD Finals">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>BT Sport 4K UHD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="BT Events HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -1103,13 +1093,7 @@
 			<Item Name="BT Sport Extra 0">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="BT Sport Mosaic">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="BT Sport Mosaic 2">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>BT Sport Extra.png</File>
+			<File>BT Sport Extra 0.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BT Sport Extra 1">
@@ -1152,6 +1136,30 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport Extra 6.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BT Sport Mosaic">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>BT Sport Mosaic.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BT Sport Mosaic 2">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>BT Sport Mosaic 2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BT Sport 4K Hidden">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="BTSport 4K UHD Finals">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="BT Sport Ultimate">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>BT Sport Ultimate.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cardiff TV">
