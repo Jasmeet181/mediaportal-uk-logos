@@ -2162,6 +2162,12 @@
 			<File>Food Network Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Foodxp">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Foodxp.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Forces TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2226,6 +2232,7 @@
 		<Channel>
 			<Item Name="FreeSports">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>FreeSports.png</File>
 		</Channel>
@@ -3681,16 +3688,8 @@
 			<File>Premier Sports 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Premier 2">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Premier Sports 2">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Premier Sports 2.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Premier 2 HD">
+				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Premier Sports 2 HD">
@@ -5980,6 +5979,27 @@
 			<File>Sky Sports Ryder Cup HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sports The Ashes">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkySp Ashes">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports The Ashes.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Sport The AshesHD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Sports The Ashes HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkySp Ashes HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Sports The Ashes HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Sports The Open">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6608,6 +6628,12 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Travel Channel Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Travelxp">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Travelxp.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TRT World">
