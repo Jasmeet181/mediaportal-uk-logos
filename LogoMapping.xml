@@ -4531,7 +4531,7 @@
 			<Item Name="Sky Cinema Drama &amp; Romance">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Sky DramaRom">
+			<Item Name="Sky Drama">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Drama and Romance.png</File>
@@ -4540,11 +4540,9 @@
 			<Item Name="Sky Cinema Drama &amp; Romance HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="SkyDramaHD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Sky DraRomHD">
+			<Item Name="Sky Drama HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Drama and Romance HD.png</File>
 		</Channel>
@@ -5550,38 +5548,38 @@
 			<File>Sky Sports.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sports Action">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
 			<Item Name="SkySp Action">
 				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Sky Sports Action">
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Sports Action.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SkySp ActionHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports Action HD">
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkySp ActionHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports Action HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sports Arena">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
 			<Item Name="SkySp Arena">
 				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Sky Sports Arena">
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Sports Arena.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SkySp ArenaHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports Arena HD">
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkySp ArenaHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports Arena HD.png</File>
 		</Channel>
@@ -5611,7 +5609,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Cricket">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySpCricket">
 				<Provider>Sky (UK)</Provider>
@@ -5634,9 +5632,6 @@
 			<Item Name="Sky World Cup">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="World Cup">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<File>Sky Sports Cricket World Cup.png</File>
 		</Channel>
 		<Channel>
@@ -5652,9 +5647,6 @@
 			<File>Sky Sports Cricket World Cup HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Darts">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports Darts">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5677,7 +5669,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports F1">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp F1">
 				<Provider>Sky (UK)</Provider>
@@ -5695,7 +5687,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Football">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp F'ball">
 				<Provider>Sky (UK)</Provider>
@@ -5716,7 +5708,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Golf">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp Golf">
 				<Provider>Sky (UK)</Provider>
@@ -5734,7 +5726,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Main Event">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySpMainEv">
 				<Provider>Sky (UK)</Provider>
@@ -5772,9 +5764,6 @@
 			<File>Sky Sports Mix HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Netball">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports Netball">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5814,9 +5803,6 @@
 			<File>Sky Sports News HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Sports PL">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="Sky Sports Premier League">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5857,7 +5843,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Ryder Cup">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkyRyderCup">
 				<Provider>Sky (UK)</Provider>
@@ -5868,9 +5854,6 @@
 			<Item Name="Sky Sports Ryder Cup HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Sky Sports RyderCupHD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="SkyRyderCupHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -5878,7 +5861,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports The Ashes">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp Ashes">
 				<Provider>Sky (UK)</Provider>
@@ -5899,7 +5882,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports The Open">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp The Open">
 				<Provider>Sky (UK)</Provider>
@@ -5925,9 +5908,6 @@
 			<Item Name="Sky Sports The Players">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="The Players">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<File>Sky Sports The Players.png</File>
 		</Channel>
 		<Channel>
@@ -5945,7 +5925,6 @@
 		<Channel>
 			<Item Name="Sky US Open">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Sky Sports US Open">
 				<Provider>Full Name (UK)</Provider>
@@ -5964,7 +5943,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports USA">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp USA">
 				<Provider>Sky (UK)</Provider>
