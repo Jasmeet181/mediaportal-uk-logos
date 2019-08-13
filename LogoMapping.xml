@@ -1268,23 +1268,10 @@
 			<File>CBS Reality Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CCTV-4">
-				<Provider>Freeview (UK) IPTV</Provider>
-			</Item>
-			<File>CCTV-4.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CGTN">
-				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>CGTN.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="CGTN Documentary">
-				<Provider>Freeview (UK) IPTV</Provider>
-			</Item>
-			<File>CGTN Documentary.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="CGTN HD">
@@ -2987,14 +2974,13 @@
 			<File>Love Nature HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Loveworld">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Freeview (UK) IPTV</Provider>
-			</Item>
-			<Item Name="LoveWorld TV">
+			<Item Name="LoveWorld HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>LoveWorld TV.png</File>
+			<Item Name="LoveWorld TV HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>LoveWorld TV HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Madani Chnl">
