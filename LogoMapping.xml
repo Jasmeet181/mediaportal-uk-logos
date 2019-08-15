@@ -1921,6 +1921,7 @@
 		<Channel>
 			<Item Name="E! HD">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>E HD.png</File>
 		</Channel>
@@ -2570,12 +2571,14 @@
 			</Item>
 			<File>Ideal World.png</File>
 		</Channel>
+		<!--
 		<Channel>
 			<Item Name="Ideal Xmas">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Ideal Xmas.png</File>
 		</Channel>
+		-->
 		<Channel>
 			<Item Name="Inspiration TV">
 				<Provider>Sky (UK)</Provider>
