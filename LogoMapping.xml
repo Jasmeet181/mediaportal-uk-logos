@@ -3875,6 +3875,15 @@
 			<File>Record TV HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Republic Bharat">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Republic TV Bharat">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Republic TV Bharat.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Retro Movies">
 				<Provider>Sky (UK)</Provider>
 			</Item>
