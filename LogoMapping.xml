@@ -6877,27 +6877,6 @@
 			<File>W Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="French Tier">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Polish Tier">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Portuguese Tier">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Russian Tier">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Spanish Tier">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Worldbox">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Worldbox.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Adult Xpanded TV">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
