@@ -1063,9 +1063,6 @@
 			<Item Name="BTSptBoxOffHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="PPV ROI">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<File>BT Sport Box Office HD.png</File>
 		</Channel>
 		<Channel>
@@ -1392,15 +1389,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Chart Show Hits.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Chat Box">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Chatbox">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Chatbox.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Christmas 24">
@@ -2096,6 +2084,7 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 06/08/19 -->
 			<Item Name="Fame TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3380,6 +3369,15 @@
 			<File>Nick Jr HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nick Jr. PAW Patrol">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="NickJrPAWPatrol">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Nick Jr PAW Patrol.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Nick Jr. +1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -3482,7 +3480,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Now 90s">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -4028,9 +4025,6 @@
 			<File>Sanskar TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="SES 8K">
-				<Provider>Astra 28.2E</Provider>
-			</Item>
 			<Item Name="SES UHD Demo">
 				<Provider>Astra 28.2E</Provider>
 			</Item>
