@@ -5209,7 +5209,6 @@
 			<File>Sky Cinema Star Trek HD.png</File>
 		</Channel>
     -->
-    <!--
 		<Channel>
 			<Item Name="Sky Cinema Star Wars">
 				<Provider>Full Name (UK)</Provider>
@@ -5231,7 +5230,6 @@
 			</Item>
 			<File>Sky Cinema Star Wars HD.png</File>
 		</Channel>
-    -->
     <!--
 		<Channel>
 			<Item Name="Sky Cinema Summer">
