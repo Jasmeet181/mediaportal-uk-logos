@@ -1150,10 +1150,10 @@
 			<Item Name="BT Sport 4K Hidden">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="BTSport 4K UHD Finals">
+			<Item Name="BT Sport Ultimate">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="BT Sport Ultimate">
+			<Item Name="BT Sport Ultimate WSL">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport Ultimate.png</File>
@@ -1334,6 +1334,7 @@
 			<File>Channel 4 Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 05/09/19 -->
 			<Item Name="Channel 44">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2084,7 +2085,6 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 06/08/19 -->
 			<Item Name="Fame TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
