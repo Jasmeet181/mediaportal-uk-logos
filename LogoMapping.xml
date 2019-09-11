@@ -3089,25 +3089,6 @@
 			<File>Movies 24 Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Movies 4 Men">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Movies4Men">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Movies4Men.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Mov4Men+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Movies4Men +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Movies4Men Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="MTA1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6037,6 +6018,24 @@
 			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sony Channel">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sony Channel.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Channel+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sony Channel +1">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sony Channel Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sony Crime">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6094,28 +6093,86 @@
 			<File>Sony Max HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sony Movie Ch">
+			<Item Name="Sony Movies">
 				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<Item Name="Sony Movie Channel">
+				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Sony Movies">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sony Movie Channel.png</File>
+			<File>Sony Movies.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sony Movie Channel +1">
+			<Item Name="Sony Movie Action">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sony Movies Action">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<Item Name="Sony Action">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sony Movies Action.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Action+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sony Movies Action +1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Sony Movie Channel+1">
+			<File>Sony Movies Action Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Christmas">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sony Movies Christmas">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sony Movies Christmas.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Movies Christmas +1">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<Item Name="Sony Xmas+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sony Movies Christmas Plus 1.png</File>
+		</Channel>
+    <!--
+		<Channel>
+			<Item Name="Sony Movies Classics">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="True Movies">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sony Movies Classics.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sony Movies Classics +1">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="True Movies +1">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<Item Name="TrueMovies+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sony Movies Classics Plus 1.png</File>
+		</Channel>
+    -->
+		<Channel>
+			<Item Name="Sony Movies +1">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<Item Name="Sony Movies+1">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>Sony Movie Channel Plus 1.png</File>
+			<File>Sony Movies Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sony Sab">
@@ -6513,60 +6570,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TRT World HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Christmas">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>True Christmas.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Christmas +1">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<Item Name="TrueChrstms+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>True Christmas Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Ent">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="True Entertainment">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>True Entertainment.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Ent+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="True Entertainment +1">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>True Entertainment Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Movies">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>True Movies.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="True Movies +1">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<Item Name="TrueMovies+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>True Movies Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Cruise Channel">
