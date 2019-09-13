@@ -884,6 +884,7 @@
 			<File>Ben 10.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 11/09/19 -->
 			<Item Name="BEN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1404,31 +1405,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Christmas 24 Plus.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Food">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Christmas Food.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Food HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Xmas Food HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Food HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Food +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Xmas Food +1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Food Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Christmas Gold">
@@ -1968,12 +1944,6 @@
 			<File>Eir Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Eir Sport 2 HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Eir Sport 2 HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Eman Channel">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2316,29 +2286,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Gold Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Good Food">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Good Food.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Good Food HD">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Good Food HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Good Food +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Good Food+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Good Food Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Good News TV">
@@ -6040,7 +5987,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Sony Crime Channel">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sony Crime Channel.png</File>
@@ -6733,6 +6679,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Virgin Media One HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Virgin Media Sport HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Virgin Sport HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Virgin Media Sport HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Virgin Media One +1">
