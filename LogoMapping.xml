@@ -1863,6 +1863,15 @@
 			<File>Drama.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Drama +1">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Drama+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Drama Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Dunamis TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
