@@ -6500,15 +6500,6 @@
 			<File>Travel Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Travel Ch+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Travel Channel +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Travel Channel Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Travelxp">
 				<Provider>Sky (UK)</Provider>
 			</Item>
