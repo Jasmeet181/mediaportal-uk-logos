@@ -1669,6 +1669,22 @@
 			<File>Dirty Talk.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Discovery">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Discovery Channel">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Discovery.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Discovery HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Disc.History">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1685,6 +1701,18 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Discovery History Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Discovery +1">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Discovery Chan +1">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Discovery+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Discovery Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Disc.Science">
@@ -1721,37 +1749,6 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Discovery Turbo Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Discovery">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Discovery Channel">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Discovery Channel.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Discovery Channel HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Discovery HD">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Discovery Channel HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Discovery Channel +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Discovery Chan +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Discovery+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Discovery Channel Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Discovery Shed">
