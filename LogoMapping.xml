@@ -1589,10 +1589,18 @@
 		<Channel>
 			<Item Name="Create &amp; Craft">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Create and Craft.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Create &amp; Craft HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Create&amp;CraftHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Create and Craft HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Crime and Investigation">
@@ -2508,10 +2516,15 @@
 		<Channel>
 			<Item Name="Ideal World">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Ideal World.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Ideal World HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Ideal World HD.png</File>
 		</Channel>
 		<!--
 		<Channel>
