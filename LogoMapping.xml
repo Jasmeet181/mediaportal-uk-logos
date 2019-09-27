@@ -256,7 +256,6 @@
 		<Channel>
 			<Item Name="Animal Planet">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Animal Planet.png</File>
 		</Channel>
@@ -1681,7 +1680,7 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Discovery Channel">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Discovery.png</File>
 		</Channel>
@@ -1982,7 +1981,6 @@
 		<Channel>
 			<Item Name="Eurosport 1">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Eurosport 1.png</File>
 		</Channel>
@@ -1998,7 +1996,6 @@
 		<Channel>
 			<Item Name="Eurosport 2">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Eurosport 2.png</File>
 		</Channel>
@@ -3676,7 +3673,6 @@
 			<Item Name="Quest">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Quest.png</File>
 		</Channel>
@@ -5405,6 +5401,12 @@
 			<File>Sky Cinema Wonder Women HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Crime HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Crime HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky News">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -6455,7 +6457,6 @@
 		<Channel>
 			<Item Name="TLC">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>TLC.png</File>
 		</Channel>
@@ -6950,16 +6951,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Yesterday Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Your TV">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="YourTV">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>YourTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="YouTube">
