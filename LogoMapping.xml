@@ -3084,13 +3084,6 @@
 			<File>MTV Base.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="MTV Beats">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>MTV Beats.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="MTV Classic">
 				<Provider>Sky (UK)</Provider>
 			</Item>
