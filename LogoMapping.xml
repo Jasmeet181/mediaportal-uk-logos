@@ -1439,6 +1439,12 @@
 			<File>Christmas Hits.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Christmas Starz">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Christmas Starz.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CHSTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1678,9 +1684,6 @@
 		<Channel>
 			<Item Name="Discovery">
 				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Discovery Channel">
-				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Discovery.png</File>
 		</Channel>
@@ -3787,23 +3790,6 @@
 			<File>Racing TV HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Real Lives">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Real Lives.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Real Lives +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Real Lives+1">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Real Lives Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Really">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -3968,6 +3954,9 @@
 			<File>Sanskar TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="SES 8K Demo Channel">
+				<Provider>Astra 28.2E</Provider>
+			</Item>
 			<Item Name="SES UHD Demo">
 				<Provider>Astra 28.2E</Provider>
 			</Item>
@@ -5401,10 +5390,27 @@
 			<File>Sky Cinema Wonder Women HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Crime">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Crime.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Crime HD">
+				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Crime HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Crime +1">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Crime+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Crime Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky News">
@@ -6333,18 +6339,13 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Television X">
+				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Television X Nightly">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Television X.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Television X HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Television X HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TG4">
