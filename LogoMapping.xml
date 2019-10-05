@@ -236,24 +236,6 @@
 			<File>All 4.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="AMC">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="AMC from BT">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>AMC.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="AMC HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="AMC from BTHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>AMC HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Animal Planet">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3420,6 +3402,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Now 90s">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -4632,6 +4615,26 @@
 			<File>Sky Cinema Harry Potter HD.png</File>
 		</Channel>
     -->
+		<Channel>
+			<Item Name="Sky Heists">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Heists">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Heists.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Heists HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Heists HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Heists HD.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Heroes">
 				<Provider>Full Name (UK)</Provider>
