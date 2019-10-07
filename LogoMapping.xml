@@ -7656,11 +7656,15 @@
 		<Channel>
 			<Item Name="Heart 80s">
 				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Heart Extra">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Heart 80s.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Heart Dance">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Heart Dance.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Heat">
@@ -7858,15 +7862,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky News Radio.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Smooth Extra">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="SmoothExtra">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Smooth Extra.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Smooth">
