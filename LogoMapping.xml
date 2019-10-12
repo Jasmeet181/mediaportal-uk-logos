@@ -2057,6 +2057,7 @@
 			<File>Fame TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 04/10/19 -->
 			<Item Name="Fascination TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -5363,6 +5364,27 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Westerns HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Will Smith">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Will Smith">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Will Smith.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Will Smith HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Will Smith HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Will Smith HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Will Smith HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Wonder Women">
