@@ -5448,6 +5448,15 @@
 			<File>Sky News Arabia.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Brexit-Free">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky News Brexit-Free HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Brexit-Free HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky News HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
