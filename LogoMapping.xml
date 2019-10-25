@@ -161,6 +161,7 @@
 			<File>Ahlulbayt TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 15/10/19 -->
 			<Item Name="AIT Int'l">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -865,7 +866,6 @@
 			<File>Ben 10.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 11/09/19 -->
 			<Item Name="BEN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1314,13 +1314,6 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Channel 4 Plus 1 HD.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 05/09/19 -->
-			<Item Name="Channel 44">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Channel 44.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Channel 5">
@@ -2051,6 +2044,7 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 23/10/19 -->
 			<Item Name="Fame TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3994,9 +3988,6 @@
 			<Item Name="Sky Atlantic">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Sky Atlantic ">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<File>Sky Atlantic.png</File>
 		</Channel>
 		<Channel>
@@ -5454,7 +5445,7 @@
 			<Item Name="Sky News Brexit-Free HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<File>Sky Brexit-Free HD.png</File>
+			<File>Sky News Brexit-Free HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky News HD">
