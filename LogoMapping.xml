@@ -361,10 +361,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Bangers">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Bangers Nightly">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="TVX Bangers">
 				<Provider>Sky (UK)</Provider>
@@ -6037,15 +6034,6 @@
 			<File>Sony Crime Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sony Crime Channel +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Sony Crime+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sony Crime Channel Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Sony Entertainment Television">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6916,7 +6904,6 @@
 		<Channel>
 			<Item Name="XXX Brits">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>XXX Brits.png</File>
 		</Channel>
@@ -6929,6 +6916,9 @@
 		<Channel>
 			<Item Name="XXX Girl Girl">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="XXX GirlGirl">
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>XXX Girl Girl.png</File>
 		</Channel>
