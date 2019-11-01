@@ -961,6 +961,15 @@
 			<File>Box Upfront.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Box Christmas">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="BoXmas">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>BoXmas.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Box Nation">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -1347,21 +1356,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Channels 24.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Chart Show TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Chart Show TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Chart Show Hits">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Chartshow Hits">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Chart Show Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Christmas 24">
@@ -2892,12 +2886,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>London Live.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Love Nature">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Love Nature.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Love Nature HD">
@@ -6433,12 +6421,6 @@
 			<File>TJC.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="The Vault">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>The Vault.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Word Network">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6509,6 +6491,24 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Total Country.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Latina">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Trace Latina.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Urban">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Trace Urban.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Trace Vault">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Trace Vault.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Travel Channel">
@@ -6908,10 +6908,10 @@
 			<File>XXX Brits.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="XXX Cougars">
+			<Item Name="XXX College">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>XXX Cougars.png</File>
+			<File>XXX College.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="XXX Girl Girl">
