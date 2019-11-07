@@ -1042,6 +1042,15 @@
 			<File>BT Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="BT Sport Box Office 2 HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="BTSptBoxOff2HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>BT Sport Box Office 2 HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="BT Events HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -1320,6 +1329,12 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Channel 4 Plus 1 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Channel 44">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Channel 44.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Channel 5">
@@ -4277,7 +4292,7 @@
 			<Item Name="Sky Cinema Christmas HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="SkyChristmsHD">
+			<Item Name="SkyChristmasHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Christmas HD.png</File>
@@ -4490,23 +4505,23 @@
 		</Channel>
     -->
 		<Channel>
+			<Item Name="Sky 5* Movies">
+				<Provider>Sky (UK)</Provider>
+			</Item>
 			<Item Name="Sky Cinema Five Star Movies">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Sky5*Movies">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Five Star Movies.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Cinema Five Star Movies HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Sky 5* Movies HD">
+			<Item Name="Sky 5 Star Movies HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<Item Name="Sky5*MoviesHD">
+			<Item Name="Sky 5* MoviesHD">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Five Star Movies HD">
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Five Star Movies HD.png</File>
 		</Channel>
@@ -5422,15 +5437,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky News Arabia.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Brexit-Free">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Sky News Brexit-Free HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Sky News Brexit-Free HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky News HD">
