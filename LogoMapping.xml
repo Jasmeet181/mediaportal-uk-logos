@@ -311,6 +311,7 @@
 			<File>B4U Music.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 11/11/19 -->
 			<Item Name="B4U Plus">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3608,6 +3609,7 @@
 			<File>Primal Living.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 08/11/19 -->
 			<Item Name="Prime TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -7677,6 +7679,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Heart 80s.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Heart 90s">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Heart 90s.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Heart Dance">
