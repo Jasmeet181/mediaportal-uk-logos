@@ -4130,6 +4130,27 @@
 			<File>Sky Cinema Action Men HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Action Women">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Action Women">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Action Women.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="ActionWomenHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Action Women HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Action Women HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Action Women HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Aliens">
 				<Provider>Sky (UK)</Provider>
 			</Item>
