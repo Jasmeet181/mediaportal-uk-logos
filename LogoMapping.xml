@@ -3491,12 +3491,14 @@
 			<File>PBS America.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 19/11/19 -->
 			<Item Name="Peace TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Peace TV English.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 19/11/19 -->
 			<Item Name="Peace TV Urdu">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3897,6 +3899,7 @@
 			<File>S4C HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 15/11/19 -->
 			<Item Name="Safeer TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6079,6 +6082,9 @@
 			<Item Name="Sony Max 2">
 				<Provider>Sky (UK)</Provider>
 			</Item>
+			<Item Name="Sony Max2">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<File>Sony Max 2.png</File>
 		</Channel>
 		<Channel>
@@ -6513,13 +6519,6 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Together TV Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Total Country">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Total Country.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Trace Latina">
