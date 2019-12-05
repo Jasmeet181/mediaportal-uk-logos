@@ -119,6 +119,7 @@
 			<File>Aastha.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 21/11/19 -->
 			<Item Name="ABN TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -159,16 +160,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Ahlulbayt TV.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 15/10/19 -->
-			<Item Name="AIT Int'l">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="AIT International">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>AIT International.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Akaal Channel">
@@ -2051,18 +2042,10 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 23/10/19 -->
 			<Item Name="Fame TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Fame TV.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 04/10/19 -->
-			<Item Name="Fascination TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Fascination TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Film4">
@@ -2301,6 +2284,7 @@
 			<File>Good Times.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 27/11/19 -->
 			<Item Name="Gospel Channel">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2888,6 +2872,12 @@
 			<File>Lifetime HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Live 360">
+				<Provider>Sky (UK)</Provider>>
+			</Item>
+			<File>Live 360.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Liverpool TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>>
@@ -3287,6 +3277,9 @@
 			<File>Nick Jr HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Nick Jr Paw Patrol">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Nick Jr. PAW Patrol">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -3489,20 +3482,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>PBS America.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 19/11/19 -->
-			<Item Name="Peace TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Peace TV English.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 19/11/19 -->
-			<Item Name="Peace TV Urdu">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Peace TV Urdu.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="PCNE Chinese">
@@ -4257,6 +4236,27 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Batman HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Best of 2019">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyBestOf2019">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Best of 2019.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Best of 2019 HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Best of 2019 HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyBestOf19HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Best of 2019 HD.png</File>
 		</Channel>
     <!--
 		<Channel>
@@ -6454,6 +6454,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>TJC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TJC HD">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>TJC HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Word Network">
