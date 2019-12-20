@@ -855,6 +855,7 @@
 			<File>Ben 10.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 09/12/19 -->
 			<Item Name="BEN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1002,6 +1003,9 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+			<Item Name="BT Sport 1 HD Hidden">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<File>BT Sport 1 HD.png</File>
 		</Channel>
 		<Channel>
@@ -1013,9 +1017,6 @@
 		<Channel>
 			<Item Name="BT Sport 2 HD">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="BT Sport HD Hidden">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>BT Sport 2 HD.png</File>
@@ -2042,6 +2043,7 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 13/12/19 -->
 			<Item Name="Fame TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3482,6 +3484,12 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>PBS America.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="PBS America +1">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>PBS America Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="PCNE Chinese">
