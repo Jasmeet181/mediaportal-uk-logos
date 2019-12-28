@@ -36,6 +36,7 @@
 			<File>5Select.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 07/01/2020 -->
 			<Item Name="5Spike">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -44,6 +45,7 @@
 			<File>5Spike.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 07/01/2020 -->
 			<Item Name="5Spike +1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -2418,6 +2420,7 @@
 			<File>Discovery Home and Health Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 21/01/2020 -->
 			<Item Name="Home">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2426,6 +2429,7 @@
 			<File>Home.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 21/01/2020 -->
 			<Item Name="Home +1">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -2452,6 +2456,7 @@
 			<File>Horror Channel Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 31/01/2020 -->
 			<Item Name="Horse &amp; Country">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -3384,6 +3389,13 @@
 			<File>Notts TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Now 70s">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Now 70s.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Now 80s">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -3926,6 +3938,7 @@
 			<File>SES.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 30/12/2019 -->
 			<Item Name="Sewing Quarter">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -4618,29 +4631,27 @@
 			</Item>
 			<File>Sky Cinema Halloween HD.png</File>
 		</Channel>
-    <!--
 		<Channel>
-			<Item Name="HarryPotter">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="Sky Cinema Harry Potter">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyHarryPotter">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Harry Potter.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Harry Potter HD">
+			<Item Name="Sky Cinema Harry Potter HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Harry Potter HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="HarryPotterHD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<Item Name="Sky Cinema Harry Potter HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
 			<File>Sky Cinema Harry Potter HD.png</File>
 		</Channel>
-    -->
 		<Channel>
 			<Item Name="Sky Heists">
 				<Provider>Sky (UK)</Provider>
@@ -6626,6 +6637,7 @@
 			<File>Ultra HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 27/01/2020 -->
 			<Item Name="Universal">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6638,6 +6650,7 @@
 			<File>Universal TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 27/01/2020 -->
 			<Item Name="Universal Channel HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6650,6 +6663,7 @@
 			<File>Universal TV HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 27/01/2020 -->
 			<Item Name="Universal Channel +1">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6702,6 +6716,7 @@
 			<File>Vevo.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 07/01/2020 -->
 			<Item Name="VH1">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -7044,6 +7059,7 @@
 			<File>Zone TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 07/01/2020 -->
 			<Item Name="ZooMoo HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
