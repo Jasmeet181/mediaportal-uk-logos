@@ -36,25 +36,6 @@
 			<File>5Select.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 07/01/2020 -->
-			<Item Name="5Spike">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>5Spike.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 07/01/2020 -->
-			<Item Name="5Spike +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="5Spike+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>5Spike Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="5Star">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -119,16 +100,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Aastha.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 21/11/19 -->
-			<Item Name="ABN TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="ABNTV">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>ABNTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ABP News">
@@ -302,13 +273,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>B4U Music.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 11/11/19 -->
-			<Item Name="B4U Plus">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>B4U Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Babes From TV">
@@ -857,7 +821,6 @@
 			<File>Ben 10.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 09/12/19 -->
 			<Item Name="BEN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -949,6 +912,7 @@
 			<File>Box Hits.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 09/01/2020 -->
 			<Item Name="Box Upfront">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -1239,6 +1203,12 @@
 			<File>CBS Justice.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CBS Justice +1">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>CBS Justice Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CBS Reality">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -1380,33 +1350,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Christmas 24 Plus.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Gold">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="ChristmasGold">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Gold.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Gold HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Xmas GoldHD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Gold HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Gold +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Xmas Gold+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Gold Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Christmas Hits">
@@ -2045,13 +1988,6 @@
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 13/12/19 -->
-			<Item Name="Fame TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Fame TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Film4">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2286,13 +2222,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Good Times.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 27/11/19 -->
-			<Item Name="Gospel Channel">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Gospel Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Hayu">
@@ -3061,6 +2990,7 @@
 		<Channel>
 			<Item Name="MTV Classic">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>MTV Classic.png</File>
 		</Channel>
@@ -3228,12 +3158,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>NDTV 24x7.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="NDTV India">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>NDTV India.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="NDTV Spice">
@@ -3471,6 +3395,20 @@
 			</Item>
 			<File>Paramount Network HD.png</File>
 		</Channel>
+		<!--
+		<Channel>
+			<Item Name="Paramount+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Paramount Network +1">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Paramount Network+1">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>Paramount Network Plus 1.png</File>
+		</Channel>
+		-->
 		<Channel>
 			<Item Name="Adult Party">
 				<Provider>Freeview (UK)</Provider>
@@ -3608,13 +3546,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Primal Living.png</File>
-		</Channel>
-		<Channel>
-		<!-- Removed 08/11/19 -->
-			<Item Name="Prime TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Prime TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Prime Video">
@@ -3898,13 +3829,6 @@
 			<File>S4C HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 15/11/19 -->
-			<Item Name="Safeer TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Safeer TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Samaa">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3941,7 +3865,6 @@
 		<!-- Closes 30/12/2019 -->
 			<Item Name="Sewing Quarter">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sewing Quarter.png</File>
 		</Channel>
@@ -6161,31 +6084,28 @@
 			</Item>
 			<File>Sony Movies Christmas Plus 1.png</File>
 		</Channel>
-    <!--
 		<Channel>
-			<Item Name="Sony Movies Classics">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="True Movies">
-				<Provider>Freeview (UK)</Provider>
+			<Item Name="Sony Classic">
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sony Movies Classic">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>Sony Movies Classics.png</File>
+			<File>Sony Movies Classic.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sony Movies Classics +1">
+			<Item Name="Sony Classic+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sony Movies Classic +1">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="True Movies +1">
 				<Provider>Freeview (UK)</Provider>
 			</Item>
-			<Item Name="TrueMovies+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sony Movies Classics Plus 1.png</File>
+			<File>Sony Movies Classic Plus 1.png</File>
 		</Channel>
-    -->
 		<Channel>
 			<Item Name="Sony Movies +1">
 				<Provider>Freeview (UK)</Provider>
@@ -6716,21 +6636,6 @@
 			<File>Vevo.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 07/01/2020 -->
-			<Item Name="VH1">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>VH1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="VH1 Christmas">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>VH1 Christmas.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Vice">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -7057,13 +6962,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Zone TV.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 07/01/2020 -->
-			<Item Name="ZooMoo HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>ZooMoo HD.png</File>
 		</Channel>
 	</TV>
 <!-- ******************************************************************** -->
