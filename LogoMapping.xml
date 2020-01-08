@@ -3862,9 +3862,10 @@
 			<File>SES.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 30/12/2019 -->
+		<!-- Closes 15/01/2020 -->
 			<Item Name="Sewing Quarter">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sewing Quarter.png</File>
 		</Channel>
@@ -7694,7 +7695,13 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>LBC Radio.png</File>
+			<File>LBC.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LBC News">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>LBC News.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Magic">
