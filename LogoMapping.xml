@@ -912,14 +912,6 @@
 			<File>Box Hits.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 09/01/2020 -->
-			<Item Name="Box Upfront">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Box Upfront.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Box Christmas">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -1350,12 +1342,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Christmas 24 Plus.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Christmas Hits">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Christmas Starz">
@@ -2160,12 +2146,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Ginx eSports TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Global Hits">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Global Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="GN TV">
@@ -6208,12 +6188,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>STV Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Summer Hits">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Summer Hits.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Syfy">
