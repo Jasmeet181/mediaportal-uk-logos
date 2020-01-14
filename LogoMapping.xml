@@ -1219,6 +1219,12 @@
 			<File>CBS Reality Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Celebration TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Celebration TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="CGTN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2744,6 +2750,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>KTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="LaLigaTV">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="LaLigaTV HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>LaLigaTV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Latest TV">
