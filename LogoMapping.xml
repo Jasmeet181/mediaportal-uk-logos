@@ -84,6 +84,7 @@
 			<File>92 News UK.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 21/01/2020 -->
 			<Item Name="A1TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -940,7 +941,6 @@
 		<Channel>
 			<Item Name="Brit Asia TV">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Brit Asia TV.png</File>
 		</Channel>
@@ -1012,6 +1012,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BT Sport Box Office HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="BT Sport Box Office WWE HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="BTSBoxOffWWE">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>BT Sport Box Office WWE HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="BT Sport ESPN">
@@ -1294,6 +1303,7 @@
 			<File>Channel 4 Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 21/01/2020 -->
 			<Item Name="Channel 44">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2216,6 +2226,23 @@
 			<File>Hayu.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="HGTV">
+				<Provider>Freeview (UK)</Provider>
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>HGTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="HGTV +1">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="HGTV+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>HGTV Plus 1.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Hidayat TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2335,25 +2362,6 @@
 			<File>Discovery Home and Health Plus 1.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 21/01/2020 -->
-			<Item Name="Home">
-				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Home.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 21/01/2020 -->
-			<Item Name="Home +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Home+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Home Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Horror Channel">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2455,6 +2463,7 @@
 			<File>Investigation Discovery Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 08/01/2020 -->
 			<Item Name="Ion TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2752,6 +2761,9 @@
 			<File>KTV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="LaLiga TV">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="LaLigaTV">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -3342,12 +3354,6 @@
 			<File>Now Christmas.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Now Music">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Now Music.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="NTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3390,7 +3396,6 @@
 			</Item>
 			<File>Paramount Network HD.png</File>
 		</Channel>
-		<!--
 		<Channel>
 			<Item Name="Paramount+1">
 				<Provider>Sky (UK)</Provider>
@@ -3403,7 +3408,6 @@
 			</Item>
 			<File>Paramount Network Plus 1.png</File>
 		</Channel>
-		-->
 		<Channel>
 			<Item Name="Adult Party">
 				<Provider>Freeview (UK)</Provider>
@@ -3713,6 +3717,7 @@
 			<File>Republic TV Bharat.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 21/01/2020 -->
 			<Item Name="Retro Movies">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3857,10 +3862,8 @@
 			<File>SES.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 15/01/2020 -->
 			<Item Name="Sewing Quarter">
 				<Provider>Freeview (UK)</Provider>
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sewing Quarter.png</File>
 		</Channel>
@@ -4285,10 +4288,7 @@
 			<File>Sky Cinema Classics HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sky Cinema Comedy">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Sky Comedy">
+			<Item Name="Sky Comedy Cinema">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Comedy.png</File>
