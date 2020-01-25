@@ -996,17 +996,20 @@
 			<Item Name="BT Sport Box Office 2 HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
+			<Item Name="BT Sport PPV Two">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="BTSptBoxOff2HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>BT Sport Box Office 2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BT Events HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
 			<Item Name="BT Sport Box Office HD">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="BT Sport PPV One">
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="BTSptBoxOffHD">
 				<Provider>Sky (UK)</Provider>
@@ -2566,18 +2569,6 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>ITV Border.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="ITV Box Off HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="ITV Box Office HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="ITVEvents HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>ITV Box Office.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="ITV Cymru Wales">
@@ -5362,6 +5353,23 @@
 			</Item>
 			<File>Sky Cinema Wonder Women HD.png</File>
 		</Channel>
+		<Channel>
+			<Item Name="Sky Comedy">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Comedy.png</File>
+		</Channel>
+		<!-- Conflicts with Sky Cinema Comedy HD -->
+    <!--
+		<Channel>
+			<Item Name="Sky Comedy HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Comedy HD.png</File>
+		</Channel>
+    -->
 		<Channel>
 			<Item Name="Sky Crime">
 				<Provider>Sky (UK)</Provider>
