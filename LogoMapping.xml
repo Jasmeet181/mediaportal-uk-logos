@@ -3708,13 +3708,6 @@
 			<File>Republic TV Bharat.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 21/01/2020 -->
-			<Item Name="Retro Movies">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Retro Movies.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Revelation">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4288,10 +4281,13 @@
 			<Item Name="Sky Cinema Comedy HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
+	<!-- Conflicts with Sky Comedy HD -->
+	<!--
 			<Item Name="Sky Comedy HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
+	-->
 			<File>Sky Cinema Comedy HD.png</File>
 		</Channel>
 		<Channel>
@@ -5360,16 +5356,14 @@
 			</Item>
 			<File>Sky Comedy.png</File>
 		</Channel>
-		<!-- Conflicts with Sky Cinema Comedy HD -->
-    <!--
 		<Channel>
+	<!-- Conflicts with Sky Cinema Comedy HD -->
 			<Item Name="Sky Comedy HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sky Comedy HD.png</File>
 		</Channel>
-    -->
 		<Channel>
 			<Item Name="Sky Crime">
 				<Provider>Sky (UK)</Provider>
