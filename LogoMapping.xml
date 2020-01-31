@@ -2117,15 +2117,6 @@
 			<File>FreeSports HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Front Runner">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="FrontRunner">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Front Runner.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Gems TV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2384,7 +2375,6 @@
 		<Channel>
 		<!-- Closes 31/01/2020 -->
 			<Item Name="Horse &amp; Country">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Horse and Country.png</File>
@@ -2399,6 +2389,7 @@
 		<Channel>
 			<Item Name="Hum Masala">
 				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Hum Masala.png</File>
 		</Channel>
@@ -3861,6 +3852,7 @@
 			<File>Sheffield Live TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Closes 01/02/2020 -->
 			<Item Name="Showcase">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6547,45 +6539,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Ultra HD.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 27/01/2020 -->
-			<Item Name="Universal">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Universal Channel">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Universal TV">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Universal TV.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 27/01/2020 -->
-			<Item Name="Universal Channel HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Universal HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Universal TV HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>Universal TV HD.png</File>
-		</Channel>
-		<Channel>
-		<!-- Closes 27/01/2020 -->
-			<Item Name="Universal Channel +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Universal TV +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Universal+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Universal TV Plus 1.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="UTV">
