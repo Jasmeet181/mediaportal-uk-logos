@@ -2373,7 +2373,6 @@
 			<File>Horror Channel Plus 1.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 31/01/2020 -->
 			<Item Name="Horse &amp; Country">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -3852,7 +3851,6 @@
 			<File>Sheffield Live TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Closes 01/02/2020 -->
 			<Item Name="Showcase">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -4155,27 +4153,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Batman HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Cinema Best of 2019">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="SkyBestOf2019">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Cinema Best of 2019.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sky Best of 2019 HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Sky Cinema Best of 2019 HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="SkyBestOf19HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Sky Cinema Best of 2019 HD.png</File>
 		</Channel>
     <!--
 		<Channel>
