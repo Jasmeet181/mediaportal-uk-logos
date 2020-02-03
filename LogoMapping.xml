@@ -1343,6 +1343,12 @@
 			<File>Channel 5 Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Channel 7">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Channel 7.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Channels 24">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2156,15 +2162,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Ginx eSports TV.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="GN TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="GNTV UK">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>GNTV UK.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="God Channel">
@@ -6774,12 +6771,6 @@
 			<File>XXX 18 and Dirty.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="XXX Amateurs">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>XXX Amateurs.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="XXX Big&amp;Bouncy">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6812,6 +6803,15 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>XXX Mums.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="XXX Public Pickups">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="XXXPublicPikups">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>XXX Public Pickups.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="XXX Swingers">
