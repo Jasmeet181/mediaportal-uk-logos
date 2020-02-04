@@ -822,6 +822,7 @@
 			<File>Ben 10.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 03/02/2020 -->
 			<Item Name="BEN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3620,6 +3621,7 @@
 			</Item>
 			<File>QVC Beauty HD.png</File>
 		</Channel>
+    <!--
 		<Channel>
 			<Item Name="QVC Christmas">
 				<Provider>Full Name (UK)</Provider>
@@ -3629,6 +3631,7 @@
 			</Item>
 			<File>QVC Christmas.png</File>
 		</Channel>
+    -->
 		<Channel>
 			<Item Name="QVC Extra">
 				<Provider>Freeview (UK) IPTV</Provider>
@@ -3848,6 +3851,7 @@
 			<File>Sheffield Live TV.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 03/02/2020 -->
 			<Item Name="Showcase">
 				<Provider>Sky (UK)</Provider>
 			</Item>
