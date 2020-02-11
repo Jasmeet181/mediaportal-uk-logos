@@ -3851,7 +3851,6 @@
 			<File>Sheffield Live TV.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 03/02/2020 -->
 			<Item Name="Showcase">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3997,11 +3996,11 @@
 			<File>Sky Cinema Adventure.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Adventure HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
 			<Item Name="Sky Cinema Adventure HD">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyAdventureHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="SkyCinema AdventureHD">
 				<Provider>Virgin Media (UK)</Provider>
@@ -5211,8 +5210,10 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="Sky Valentine HD">
-				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyValentineHD">
+				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Valentine HD.png</File>
 		</Channel>
