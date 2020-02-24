@@ -84,7 +84,6 @@
 			<File>92 News UK.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 21/01/2020 -->
 			<Item Name="A1TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -822,7 +821,6 @@
 			<File>Ben 10.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 03/02/2020 -->
 			<Item Name="BEN">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2268,6 +2266,7 @@
 			<File>Hillsong Channel.png</File>
 		</Channel>
 		<Channel>
+		<!-- Replace with Sky History on 07/04/2020 -->
 			<Item Name="History">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2280,27 +2279,6 @@
 			<File>History HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="History of Football">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>History of Football.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="History of Football HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>History of Football HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="History of Football +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="History of Football+1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>History of Football Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="History +1">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -2310,6 +2288,7 @@
 			<File>History Plus 1.png</File>
 		</Channel>
 		<Channel>
+		<!-- Replace with Sky History 2 on 07/04/2020 -->
 			<Item Name="History2">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2386,7 +2365,7 @@
 		<Channel>
 			<Item Name="Hum Masala">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider><!-- Closes 30/03/2020 -->
 			</Item>
 			<File>Hum Masala.png</File>
 		</Channel>
@@ -6353,13 +6332,13 @@
 			<Item Name="TJC">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>TJC.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="TJC HD">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>TJC HD.png</File>
 		</Channel>
