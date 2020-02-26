@@ -1515,6 +1515,9 @@
 			<File>Comedy Central Extra Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CCXTV">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
 			<Item Name="Craft Extra">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3279,6 +3282,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Now 70s">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -3294,7 +3298,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Now 90s">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -3815,12 +3818,6 @@
 			<File>SES.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Sewing Quarter">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<File>Sewing Quarter.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Sheffield Live TV">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -3828,6 +3825,12 @@
 				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Sheffield Live TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Shopping Quarter">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>Shopping Quarter.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Showcase">
@@ -7496,12 +7499,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>EWTN.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Freesat Info">
-				<Provider>Freesat (UK)</Provider>
-			</Item>
-			<File>Freesat.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="GN Radio">
