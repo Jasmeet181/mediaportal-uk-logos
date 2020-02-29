@@ -1230,6 +1230,12 @@
 			<File>CBS Reality Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CCXTV">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>CCXTV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Celebration TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1515,9 +1521,6 @@
 			<File>Comedy Central Extra Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="CCXTV">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
 			<Item Name="Craft Extra">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1605,6 +1608,7 @@
 			<File>Daystar HD.png</File>
 		</Channel>
 		<Channel>
+		<!-- Removed 25/02/2020 -->
 			<Item Name="Dirty Talk">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -2436,7 +2440,6 @@
 			<File>Investigation Discovery Plus 1.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 08/01/2020 -->
 			<Item Name="Ion TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2941,6 +2944,13 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>MTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV 80s">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>MTV 80s.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV 90s">
