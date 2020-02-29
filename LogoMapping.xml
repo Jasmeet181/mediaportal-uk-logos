@@ -6935,11 +6935,11 @@
 			<File>BBC Asian Network.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="BBC C&amp;W">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
 			<Item Name="BBC Coventry and Warwickshire">
 				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="BBC CWR">
+				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>BBC Coventry and Warwickshire.png</File>
 		</Channel>
