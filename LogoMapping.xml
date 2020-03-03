@@ -1,6 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- Channel 44 removed 21/01/2020 -->
+		<!-- Dirty Talk removed 25/02/2020 -->
+		<!-- Hum Masala closes on Virgin Media on 30/03/2020 -->
+		<!-- Replace History/+1/HD, History2/HD with Sky History on 07/04/2020 -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -1311,7 +1315,6 @@
 			<File>Channel 4 Plus 1 HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 21/01/2020 -->
 			<Item Name="Channel 44">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1608,7 +1611,6 @@
 			<File>Daystar HD.png</File>
 		</Channel>
 		<Channel>
-		<!-- Removed 25/02/2020 -->
 			<Item Name="Dirty Talk">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -2273,7 +2275,6 @@
 			<File>Hillsong Channel.png</File>
 		</Channel>
 		<Channel>
-		<!-- Replace with Sky History on 07/04/2020 -->
 			<Item Name="History">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2295,7 +2296,6 @@
 			<File>History Plus 1.png</File>
 		</Channel>
 		<Channel>
-		<!-- Replace with Sky History 2 on 07/04/2020 -->
 			<Item Name="History2">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2372,7 +2372,7 @@
 		<Channel>
 			<Item Name="Hum Masala">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider><!-- Closes 30/03/2020 -->
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Hum Masala.png</File>
 		</Channel>
@@ -4242,13 +4242,13 @@
 			<Item Name="Sky Cinema Comedy HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-	<!-- Conflicts with Sky Comedy HD -->
-	<!--
+			<!-- Conflicts with Sky Comedy HD -->
+			<!--
 			<Item Name="Sky Comedy HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-	-->
+			-->
 			<File>Sky Cinema Comedy HD.png</File>
 		</Channel>
 		<Channel>
@@ -4555,12 +4555,12 @@
 			<Item Name="Sky Heroes HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-      <!-- Conflicts with Sky Cinema Superhero HD -->
-      <!--
+			<!-- Conflicts with Sky Cinema Superhero HD -->
+			<!--
 			<Item Name="Sky Superhero HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-      -->
+			-->
 			<File>Sky Cinema Heroes HD.png</File>
 		</Channel>
 		<Channel>
@@ -4621,6 +4621,27 @@
 			<File>Sky Cinema Jurassic HD.png</File>
 		</Channel>
     -->
+		<Channel>
+			<Item Name="Sky Cinema Kids Books">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Kids Books">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Kids Books.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Kids Books HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Kid Books HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyKidsBooksHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Kids Books HD.png</File>
+		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Lego Collection">
 				<Provider>Full Name (UK)</Provider>
@@ -5062,7 +5083,7 @@
 			</Item>
 			<File>Sky Cinema Star Wars HD.png</File>
 		</Channel>
-    <!--
+		<!--
 		<Channel>
 			<Item Name="Sky Cinema Summer">
 				<Provider>Full Name (UK)</Provider>
@@ -5081,7 +5102,7 @@
 			</Item>
 			<File>Sky Cinema Summer HD.png</File>
 		</Channel>
-    -->
+		-->
 		<Channel>
 			<Item Name="Sky Cinema Superheroes">
 				<Provider>Full Name (UK)</Provider>
@@ -5095,7 +5116,7 @@
 			<Item Name="Sky Cinema Superheroes HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-    <!-- Conflicts with Sky Cinema Heroes HD -->
+			<!-- Conflicts with Sky Cinema Heroes HD -->
 			<Item Name="Sky Superhero HD">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -5144,7 +5165,7 @@
 			</Item>
 			<File>Sky Cinema Tom Cruise HD.png</File>
 		</Channel>
-    <!--
+		<!--
 		<Channel>
 			<Item Name="Sky Cinema Tom Hanks">
 				<Provider>Full Name (UK)</Provider>
@@ -5166,7 +5187,7 @@
 			</Item>
 			<File>Sky Cinema Tom Hanks HD.png</File>
 		</Channel>
-    -->
+		-->
 		<Channel>
 			<Item Name="Sky Cinema True Stories">
 				<Provider>Full Name (UK)</Provider>
@@ -5292,6 +5313,27 @@
 			<File>Sky Cinema Will Smith HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Cinema Women in Film">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyWomenInFilm">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Women in Film.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Women in Film HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Women In Film HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="WomenInFilmHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Women in Film HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Wonder Women">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -5320,7 +5362,7 @@
 			<File>Sky Comedy.png</File>
 		</Channel>
 		<Channel>
-	<!-- Conflicts with Sky Cinema Comedy HD -->
+			<!-- Conflicts with Sky Cinema Comedy HD -->
 			<Item Name="Sky Comedy HD">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
