@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 30/03/2020 Hum Masala closes on Virgin Media -->
-		<!-- 07/04/2020 Replace History/+1/HD, History2/HD with Sky History-->
+		<!-- 27/05/2020 Replace History/+1/HD, History2/HD with Sky History-->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -254,11 +253,11 @@
 			<File>Astra.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="ATN">
+				<Provider>Sky (UK)</Provider>
+			</Item>
 			<Item Name="ATN Bangla">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="ATN Bangla UK">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>ATN Bangla.png</File>
 		</Channel>
@@ -2361,7 +2360,6 @@
 		<Channel>
 			<Item Name="Hum Masala">
 				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Hum Masala.png</File>
 		</Channel>
