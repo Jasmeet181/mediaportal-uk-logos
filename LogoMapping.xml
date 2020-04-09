@@ -1,7 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 27/05/2020 Replace History/+1/HD, History2/HD with Sky History-->
+		<!-- 30/04/2020 Pavers will close -->
+		<!-- 27/05/2020 Replace History/+1/HD, History2/HD with Sky History -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -2094,15 +2095,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>France 24 HD - English.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="France 24 HD - Francais">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="France 24 (French) HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>France 24 HD - Francais.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="FreeSports">
