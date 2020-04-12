@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!-- 30/04/2020 Pavers will close -->
-		<!-- 27/05/2020 Replace History/+1/HD, History2/HD with Sky History -->
+		<!-- 27/05/2020 History/+1/HD and History2/HD becomes Sky History -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
