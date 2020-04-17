@@ -2844,13 +2844,6 @@
 			<File>MATV National.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Meet The Babes">
-				<Provider>Sky (UK)</Provider>
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Meet The Babes.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Mickey &amp; Pals">
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
@@ -3358,9 +3351,6 @@
 			</Item>
 			<Item Name="Paramount Network +1">
 				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Paramount Network+1">
-				<Provider>Freeview (UK)</Provider>
 			</Item>
 			<File>Paramount Network Plus 1.png</File>
 		</Channel>
@@ -5521,7 +5511,7 @@
 			<Item Name="Sky Sports Cricket">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="SkySpCricket">
+			<Item Name="SkySp Cricket">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Sports Cricket.png</File>
@@ -5713,6 +5703,9 @@
 			<File>Sky Sports News HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Sports PL">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
 			<Item Name="Sky Sports Premier League">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6859,6 +6852,7 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Yesterday+1">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Yesterday Plus 1.png</File>
