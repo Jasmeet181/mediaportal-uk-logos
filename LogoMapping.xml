@@ -2246,6 +2246,12 @@
 			<File>High Street TV.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Hi-Impact TV">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Hi-Impact TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Hillsong">
 				<Provider>Sky (UK)</Provider>
 			</Item>
