@@ -11,7 +11,7 @@
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
-			<File>4music.png</File>
+			<File>4Music.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="4seven">
@@ -2129,13 +2129,13 @@
 			<Item Name="Geo News">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>GEO News.png</File>
+			<File>Geo News.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Geo TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>GEO TV.png</File>
+			<File>Geo TV.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Get Lucky TV">
@@ -3717,13 +3717,13 @@
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>RTE ONE.png</File>
+			<File>RTE One.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTÉ One HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
-			<File>RTE ONE HD.png</File>
+			<File>RTE One HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="RTÉ One +1">
