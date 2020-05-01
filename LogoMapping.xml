@@ -1,8 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 30/04/2020 Disney XD +1 will close -->
-		<!-- 30/04/2020 Pavers will close -->
 		<!-- 27/05/2020 History/+1/HD and History2/HD becomes Sky History -->
 	<TV>
 		<Channel>
@@ -1764,15 +1762,6 @@
 			<File>Disney XD HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Disney XD +1">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Disney XD+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Disney XD Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="DMAX">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -3369,15 +3358,6 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Partyland.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Pavers">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="Paversshoes.tv">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Pavers.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="PBS America">
