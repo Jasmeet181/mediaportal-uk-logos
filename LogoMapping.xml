@@ -319,15 +319,6 @@
 			<File>BabyTV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Bangers">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<Item Name="TVX Bangers">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Bangers.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Bangla TV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2187,12 +2178,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Good Times.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Hayu">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Hayu.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="HGTV">
@@ -5172,6 +5157,27 @@
 			<File>Sky Cinema True Stories HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Cinema Twilight">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Twilight">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Twilight HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Cinema Twilight HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Twilight HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyTwilightHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Twilight HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Valentine">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6491,6 +6497,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>TVC News.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="TVX Bangers">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>TVX Bangers.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Tyne &amp; Wear TV">
