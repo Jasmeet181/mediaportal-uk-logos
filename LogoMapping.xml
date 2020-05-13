@@ -4653,6 +4653,27 @@
 			<File>Sky Cinema Megahits HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Sky Cinema Men in Black">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyMenInBlack">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Men in Black.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MenInBlackHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Men in Black HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Men In Black HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Men in Black HD.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Sky Cinema Musicals">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
@@ -6499,6 +6520,18 @@
 			<File>TVC News.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="40+">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="40+ Nightly">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="TVX 40+">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>TVX 40Plus.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="TVX Bangers">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6758,18 +6791,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Xplicit Nightly.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="40+">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="40+ Nightly">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="TVX 40+">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Xrated 40 Plus.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="XXX 18 &amp; Dirty">
