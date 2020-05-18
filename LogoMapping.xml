@@ -3261,6 +3261,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Now 90s">
+				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -4385,6 +4386,27 @@
 				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Five Star Movies HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fast &amp; Furious">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Fast and Furious">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Fast and Furious.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Fast&amp;FuriousHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Sky Cinema Fast and Furious">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="Sky Fast &amp; Furious HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Cinema Fast and Furious.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky Cinema Feel Good">
@@ -6113,7 +6135,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Spotlight TV">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Spotlight TV.png</File>
