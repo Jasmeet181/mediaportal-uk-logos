@@ -4699,7 +4699,7 @@
 			<Item Name="Sky Cinema Mission Impossible">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Sky M|I">
+			<Item Name="Sky M:I">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Mission Impossible.png</File>
@@ -4711,7 +4711,7 @@
 			<Item Name="Sky Cinema Mission Impossible HD">
 				<Provider>Full Name (UK)</Provider>
 			</Item>
-			<Item Name="Sky M|I HD">
+			<Item Name="Sky M:I HD">
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Cinema Mission Impossible HD.png</File>
