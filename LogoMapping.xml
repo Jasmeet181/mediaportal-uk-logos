@@ -1,7 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 27/05/2020 History/+1/HD and History2/HD becomes Sky History -->
+		<!-- 01/06/2020 Challenge +1 closes -->
+		<!-- 01/06/2020 Geo Kahani closes -->
+		<!-- 01/06/2020 Trace Latina (UK) closes -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -2236,42 +2238,6 @@
 			<File>Hillsong Channel.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="History">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>History.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="History HD">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>History HD.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="History +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="History+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>History Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="History2">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>History2.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="History 2 HD">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="History2 HD">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>History2 HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Hochanda">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -3245,7 +3211,6 @@
 		</Channel>
 		<Channel>
 			<Item Name="Now 70s">
-				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -5423,6 +5388,79 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Sky Crime Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Documentaries">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyDocumntrs">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Documentaries.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Documentaries HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="SkyDocmntrsHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Documentaries HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky History">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky History.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky History HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky HistoryHD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky History HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky History +1">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky History+1">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky History Plus 1.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky History2">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky History2.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky History 2 HD">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="Sky History2 HD">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="SkyHistory2HD">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky History2 HD.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Nature">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>Sky Nature.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Sky Nature HD">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Sky Nature HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sky News">
