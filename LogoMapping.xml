@@ -3,7 +3,9 @@
 <!-- ******************************************************************** -->
 		<!-- 01/06/2020 Challenge +1 closes -->
 		<!-- 01/06/2020 Geo Kahani closes -->
-		<!-- 01/06/2020 Trace Latina (UK) closes -->
+		<!-- 01/06/2020 Starz TV and Trace Latina (UK) close -->
+		<!-- 10/06/2020 Sony Crime Channel closes -->
+		<!-- 22/06/2020 Sony Movies removed from Freeview -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -2863,6 +2865,13 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>MTV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="MTV 00s">
+				<Provider>Sky (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>MTV 00s.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="MTV 80s">
@@ -7624,15 +7633,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>EWTN.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="GN Radio">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="GN Radio UK">
-				<Provider>Full Name (UK)</Provider>
-			</Item>
-			<File>GN Radio UK.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Gold">
