@@ -1,11 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 01/06/2020 Challenge +1 closes -->
-		<!-- 01/06/2020 Geo Kahani closes -->
-		<!-- 01/06/2020 Starz TV and Trace Latina (UK) close -->
 		<!-- 10/06/2020 Sony Crime Channel closes -->
-		<!-- 22/06/2020 Sony Movies removed from Freeview -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -1258,15 +1254,6 @@
 			<File>Challenge.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Challenge +1">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Challenge+1">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Challenge Plus 1.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Channel 4">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -1369,12 +1356,6 @@
 			<File>Christmas 24 Plus.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Christmas Starz">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Christmas Starz.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="CHSTV">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1403,6 +1384,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Clubland TV">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -2104,12 +2086,6 @@
 			<File>Gems TV.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Geo Kahani">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Geo Kahani.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Geo News">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -2126,6 +2102,12 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Get Lucky TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Get Moving">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<File>Get Moving.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Ginx eSports TV">
@@ -2242,6 +2224,7 @@
 		<Channel>
 			<Item Name="Hochanda">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Hochanda.png</File>
@@ -3236,6 +3219,7 @@
 		<Channel>
 			<Item Name="Now 90s">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
@@ -6241,20 +6225,8 @@
 			<File>Star Plus HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Starz TV">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Starz TV.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Adult Studio 66">
 				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<Item Name="Studio 66">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Studio 66 2">
-				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Studio 66 3">
 				<Provider>Sky (UK)</Provider>
@@ -6538,12 +6510,6 @@
 			<File>Together TV Plus 1.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Trace Latina">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<File>Trace Latina.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="Trace Urban">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -6791,9 +6757,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Virgin Movies &amp; Store">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<Item Name="Virgin TV For Newbies">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Virgin TV Highlights">
