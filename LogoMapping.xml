@@ -7605,6 +7605,12 @@
 			<File>Gold Radio.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Greatest Hits Radio">
+				<Provider>Freeview (UK)</Provider>
+			</Item>
+			<File>Greatest Hits Radio.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Heart">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -7630,12 +7636,6 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Heart Dance.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Heat">
-				<Provider>Freeview (UK)</Provider>
-			</Item>
-			<File>Heat Radio.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Hits Radio">
