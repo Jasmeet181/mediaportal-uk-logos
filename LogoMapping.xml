@@ -1498,6 +1498,18 @@
 			<File>Comedy Central Extra Plus 1.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="CME">
+				<Provider>Freeview (UK) IPTV</Provider>
+			</Item>
+			<Item Name="CME HD">
+				<Provider>Freeview (UK) IPTV</Provider>
+			</Item>
+			<Item Name="Country Music EntertainmEent">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<File>Country Music Entertainment.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Craft Extra">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -1952,6 +1964,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Faith UK">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Faith UK.png</File>
@@ -2050,6 +2063,15 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>France 24 - English.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="France 24 - Francais">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="France 24 Francais">
+				<Provider>Freeview (UK) IPTV</Provider>
+			</Item>
+			<File>France 24 - Francais.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="France 24 English HD">
@@ -2166,6 +2188,12 @@
 			<File>Good Times.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="Hellenic TV">
+				<Provider>Freeview (UK) IPTV</Provider>
+			</Item>
+			<File>Hellenic TV.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="HGTV">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -2226,6 +2254,9 @@
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="Hochanda HD">
+				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
 			<File>Hochanda.png</File>
 		</Channel>
@@ -2379,6 +2410,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Islam Channel">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Islam Channel English">
@@ -2391,6 +2423,7 @@
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<Item Name="Islam Channel Urdu">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Islam Channel Urdu.png</File>
@@ -2653,6 +2686,15 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Latest TV.png</File>
+		</Channel>
+		<Channel>
+			<Item Name="Law &amp; Crime">
+				<Provider>Freeview (UK) IPTV</Provider>
+			</Item>
+			<Item Name="Law &amp; Crime HD">
+				<Provider>Freeview (UK) IPTV</Provider>
+			</Item>
+			<File>Law and Crime.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Leeds TV">
@@ -3628,6 +3670,15 @@
 			<File>RT HD.png</File>
 		</Channel>
 		<Channel>
+			<Item Name="RTÉ Junior">
+				<Provider>Full Name (UK)</Provider>
+			</Item>
+			<Item Name="RTÉJR">
+				<Provider>Sky (UK)</Provider>
+			</Item>
+			<File>RTE Junior.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="RTÉ News Now">
 				<Provider>Sky (UK)</Provider>
 			</Item>
@@ -3675,13 +3726,13 @@
 			<File>RTE2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="RTÉ Junior">
-				<Provider>Full Name (UK)</Provider>
+			<Item Name="Rudaw">
+				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
-			<Item Name="RTÉJR">
-				<Provider>Sky (UK)</Provider>
+			<Item Name="Rudaw HD">
+				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
-			<File>RTE Junior.png</File>
+			<File>Rudaw.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="S4C">
@@ -6564,7 +6615,11 @@
 		<Channel>
 			<Item Name="TV Warehouse">
 				<Provider>Freeview (UK)</Provider>
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
+			</Item>
+			<Item Name="TV Warehouse HD">
+				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
 			<File>TV Warehouse.png</File>
 		</Channel>
@@ -6793,6 +6848,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Vox Africa">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Vox Africa.png</File>
