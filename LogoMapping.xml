@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
-		<!-- 10/06/2020 Sony Crime Channel closes -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -3729,10 +3728,13 @@
 			<Item Name="Rudaw">
 				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
+			<File>Rudaw.png</File>
+		</Channel>
+		<Channel>
 			<Item Name="Rudaw HD">
 				<Provider>Freeview (UK) IPTV</Provider>
 			</Item>
-			<File>Rudaw.png</File>
+			<File>Rudaw HD.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="S4C">
@@ -6099,15 +6101,6 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<File>Sony Channel Plus 1.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Sony Crime">
-				<Provider>Sky (UK)</Provider>
-			</Item>
-			<Item Name="Sony Crime Channel">
-				<Provider>Virgin Media (UK)</Provider>
-			</Item>
-			<File>Sony Crime Channel.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Sony Entertainment Television">
