@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <Mappings>
 <!-- ******************************************************************** -->
+		<!-- 22/06/2020 5Star +1, 5 USA +1, CBS Reality +1, 4seven HD and TJC HD removed from Freeview -->
+		<!-- 22/06/2020 CBS Justice +1 and Channel 4 +1 HD close -->
 	<TV>
 		<Channel>
 			<Item Name="4Music">
@@ -3725,18 +3727,6 @@
 			<File>RTE2 HD.png</File>
 		</Channel>
 		<Channel>
-			<Item Name="Rudaw">
-				<Provider>Freeview (UK) IPTV</Provider>
-			</Item>
-			<File>Rudaw.png</File>
-		</Channel>
-		<Channel>
-			<Item Name="Rudaw HD">
-				<Provider>Freeview (UK) IPTV</Provider>
-			</Item>
-			<File>Rudaw HD.png</File>
-		</Channel>
-		<Channel>
 			<Item Name="S4C">
 				<Provider>Freeview (UK)</Provider>
 				<Provider>Sky (UK)</Provider>
@@ -5869,7 +5859,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Racing">
-				<Provider>Virgin Media (UK)</Provider>
+				<Provider>Full Name (UK)</Provider>
 			</Item>
 			<Item Name="SkySp Racing">
 				<Provider>Sky (UK)</Provider>
@@ -5878,7 +5868,7 @@
 		</Channel>
 		<Channel>
 			<Item Name="Sky Sports Racing HD">
-				<Provider>Full Name (UK)</Provider>
+				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="SkySp Racing HD">
 				<Provider>Sky (UK)</Provider>
@@ -6555,12 +6545,14 @@
 		</Channel>
 		<Channel>
 			<Item Name="Trace Urban">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Trace Urban.png</File>
 		</Channel>
 		<Channel>
 			<Item Name="Trace Vault">
+				<Provider>Freeview (UK) IPTV</Provider>
 				<Provider>Sky (UK)</Provider>
 			</Item>
 			<File>Trace Vault.png</File>
@@ -6802,6 +6794,9 @@
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="PVR_EPG">
+				<Provider>Virgin Media (UK)</Provider>
+			</Item>
+			<Item Name="TuneAway HD Hidden">
 				<Provider>Virgin Media (UK)</Provider>
 			</Item>
 			<Item Name="Virgin Movies &amp; Store">
