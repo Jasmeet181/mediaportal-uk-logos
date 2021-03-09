@@ -30,6 +30,12 @@
 			<File>3ABN Dare to Dream Network.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="3ABN Francais Network">
+					<Provider>Freeview (GB) IPTV</Provider>
+				</Item>
+			<File>3ABN Francais Network.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="3ABN Kids Network">
 					<Provider>Freeview (GB) IPTV</Provider>
 				</Item>
