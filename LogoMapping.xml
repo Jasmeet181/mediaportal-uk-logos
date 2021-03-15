@@ -2,13 +2,10 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		10/03/2021 RTÉ2+1 on Astra
-		15/03/2021 WION HD
 		22/03/2021 Pitaara
 		00/01/2022 BBC Three/HD
 		Colors Gujarati
 		GB News/HD
-		TJC HD
 		-->
 	<TV>
 		<Channel>
@@ -19,49 +16,49 @@
 		</Channel>
 		<Channel>
 				<Item Name="3ABN">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Dare to Dream Network">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Dare to Dream Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Francais Network">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Francais Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Kids Network">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Kids Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Latino Network">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Latino Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Praise Him Music Network">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Praise Him Music Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Proclaim Network">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Proclaim Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="3ABN Russia">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>3ABN Russia.png</File>
 		</Channel>
@@ -142,13 +139,13 @@
 		</Channel>
 		<Channel>
 				<Item Name="African Movie Channel">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>African Movie Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="African Movie Channel HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>African Movie Channel HD.png</File>
 		</Channel>
@@ -187,7 +184,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Alaraby TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Alaraby TV.png</File>
 		</Channel>
@@ -233,7 +230,7 @@
 		<Channel>
 				<Item Name="Arise News">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Arise News.png</File>
 		</Channel>
@@ -802,7 +799,7 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="British Muslim TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>British Muslim TV.png</File>
 		</Channel>
@@ -1090,7 +1087,7 @@
 		<Channel>
 				<Item Name="Channel 7">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Channel 7.png</File>
 		</Channel>
@@ -1128,7 +1125,7 @@
 		<Channel>
 				<Item Name="Clubland TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Clubland TV.png</File>
 		</Channel>
@@ -1216,10 +1213,10 @@
 		</Channel>
 		<Channel>
 				<Item Name="Country Music Entertainment HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Country Music Entertainment">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Country Music Ent">
 					<Provider>Freeview (GB)</Provider>
@@ -1301,7 +1298,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Daystar">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Daystar.png</File>
 		</Channel>
@@ -1409,7 +1406,7 @@
 		<Channel>
 				<Item Name="Dunamis TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Dunamis TV.png</File>
 		</Channel>
@@ -1468,7 +1465,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Edgy TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Edgy TV.png</File>
 		</Channel>
@@ -1536,19 +1533,19 @@
 		<Channel>
 				<Item Name="Faith World TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Faith World TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Fashion TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Fashion TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Fashion TV HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Fashion TV HD.png</File>
 		</Channel>
@@ -1575,7 +1572,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Firstlight">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Firstlight.png</File>
 		</Channel>
@@ -1635,7 +1632,7 @@
 		<Channel>
 				<Item Name="France 24 - Francais" />
 				<Item Name="France 24 Francais">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>France 24 - Francais.png</File>
 		</Channel>
@@ -1737,13 +1734,13 @@
 		<Channel>
 				<Item Name="Good News TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Good News TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Hellenic TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Hellenic TV.png</File>
 		</Channel>
@@ -1897,7 +1894,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Iran International">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Iran International.png</File>
 		</Channel>
@@ -1911,7 +1908,7 @@
 		<Channel>
 				<Item Name="Islam Channel">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Islam Channel.png</File>
 		</Channel>
@@ -2118,10 +2115,10 @@
 		</Channel>
 		<Channel>
 				<Item Name="Law &amp; Crime">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Law &amp; Crime HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Law and Crime.png</File>
 		</Channel>
@@ -2142,7 +2139,7 @@
 		<Channel>
 				<Item Name="Live 360">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Live 360.png</File>
 		</Channel>
@@ -2365,7 +2362,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Newsmax TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Newsmax TV.png</File>
 		</Channel>
@@ -2463,7 +2460,7 @@
 		<Channel>
 				<Item Name="Now 70s">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Now 70s.png</File>
 		</Channel>
@@ -2478,7 +2475,7 @@
 				<Item Name="Now 90s">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Now 90s.png</File>
 		</Channel>
@@ -2492,7 +2489,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="NTAI">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>NTAI.png</File>
 		</Channel>
@@ -2581,8 +2578,12 @@
 			<File>Pick Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="52102">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Pitaara" />
-			<File>Pitaara.png</File>
+				<Item Name="Pitaara International" />
+			<File>Pitaara International.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Pop">
@@ -2635,7 +2636,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Propeller TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Propeller TV.png</File>
 		</Channel>
@@ -2773,7 +2774,7 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Revelation TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Revelation TV.png</File>
 		</Channel>
@@ -2909,7 +2910,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sharjah TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Sharjah TV.png</File>
 		</Channel>
@@ -2934,16 +2935,16 @@
 		<Channel>
 				<Item Name="Sikh Channel">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Sikh Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Ski TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Ski TV HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Ski TV.png</File>
 		</Channel>
@@ -3741,13 +3742,13 @@
 		</Channel>
 		<Channel>
 				<Item Name="Snow TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Snow TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Snow TV HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Snow TV HD.png</File>
 		</Channel>
@@ -3886,32 +3887,32 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="SportyStuff TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>SportyStuff TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Spotlight TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Spotlight TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Stingray Naturescape">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Stingray Naturescape HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Stingray Naturescape.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Stingray Qello">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Stingray Qello HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Stingray Qello.png</File>
 		</Channel>
@@ -3946,7 +3947,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Supreme Master TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Supreme Master TV.png</File>
 		</Channel>
@@ -3977,7 +3978,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Syria TV">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Syria TV.png</File>
 		</Channel>
@@ -4098,10 +4099,9 @@
 			<File>TJC.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="55315">
+				<Item Name="TJC HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="TJC HD" />
 			<File>TJC HD.png</File>
 		</Channel>
 		<Channel>
@@ -4145,7 +4145,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="TNT">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>TNT.png</File>
 		</Channel>
@@ -4161,14 +4161,14 @@
 		<Channel>
 				<Item Name="Trace Hits">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Trace Hits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Trace Vault">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Trace Vault.png</File>
 		</Channel>
@@ -4206,10 +4206,10 @@
 				<Item Name="TV Warehouse">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="TV Warehouse HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>TV Warehouse.png</File>
 		</Channel>
@@ -4363,7 +4363,7 @@
 		<Channel>
 				<Item Name="Vox Africa">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Vox Africa.png</File>
 		</Channel>
@@ -4388,18 +4388,18 @@
 		</Channel>
 		<Channel>
 				<Item Name="WildEarth">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="WildEarth HD">
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>WildEarth.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="55274">
+				<Item Name="WION" />
+				<Item Name="WION HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="WION" />
 			<File>WION.png</File>
 		</Channel>
 		<Channel>
@@ -4473,7 +4473,7 @@
 		<Channel>
 				<Item Name="Yanga!">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB) IPTV</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Yanga! TV" />
 			<File>Yanga TV.png</File>
