@@ -3567,7 +3567,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Golf" />
-				<Item Name="Sky Sp Golf">
+				<Item Name="SkySp Golf">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Golf.png</File>
