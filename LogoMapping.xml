@@ -2,7 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		22/03/2021 Pitaara
+		08/04/2021 BET closes
+		01/05/2021 Vice closes
 		00/01/2022 BBC Three/HD
 		Colors Gujarati
 		GB News/HD
@@ -1796,13 +1797,6 @@
 			<File>Hillsong Channel.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Hochanda">
-					<Provider>Freeview (GB)</Provider>
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Hochanda.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Horror Channel">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -2578,10 +2572,9 @@
 			<File>Pick Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="52102">
+				<Item Name="Pitaara">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Pitaara" />
 				<Item Name="Pitaara International" />
 			<File>Pitaara International.png</File>
 		</Channel>
@@ -3431,6 +3424,9 @@
 			<File>Sky News Arabia.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Floyd Case HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky News HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4059,7 +4055,16 @@
 			<File>Thats Christmas.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="That's Lancashire">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="That's Manchester">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 				<Item Name="That's TV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="That's TV Scotland">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Thats TV.png</File>
@@ -4083,6 +4088,15 @@
 				</Item>
 				<Item Name="The Craft Channel" />
 			<File>The Craft Channel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Craft Store TV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="The Craft Store">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>The Craft Store.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TRP 1">
