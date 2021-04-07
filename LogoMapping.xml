@@ -3,7 +3,7 @@
 <!-- ******************************************************************** -->
 		<!--
 		08/04/2021 BET closes
-		01/05/2021 Vice closes
+		30/04/2021 Vice closes
 		00/01/2022 BBC Three/HD
 		Colors Gujarati
 		GB News/HD
@@ -1062,6 +1062,15 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Channel 44.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Channel Fight">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+				<Item Name="Channel Fight HD">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+			<File>Channel Fight.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Channel 5">
@@ -2490,6 +2499,10 @@
 		<Channel>
 				<Item Name="NTD">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+				<Item Name="NTD HD">
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>NTD.png</File>
 		</Channel>
