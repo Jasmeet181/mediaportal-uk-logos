@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		08/04/2021 BET closes
+		13/04/2021 ITVBe +1 and UTV +1 close on Astra
 		30/04/2021 Vice closes
 		00/01/2022 BBC Three/HD
 		Colors Gujarati
@@ -149,6 +149,12 @@
 					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>African Movie Channel HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Africanews">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+			<File>Africanews.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Ahlebait TV">
@@ -706,14 +712,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Best Direct.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BET" />
-				<Item Name="BET:BlackEntTv">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BET International" />
-			<File>BET International.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Birmingham TV">
@@ -1500,6 +1498,10 @@
 		<Channel>
 				<Item Name="Euronews">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+				<Item Name="Euronews Russian">
+					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Euronews.png</File>
 		</Channel>
@@ -4169,12 +4171,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>TLC Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="TNT">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-			<File>TNT.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Together">
