@@ -3203,6 +3203,13 @@
 			<File>Sky Cinema Must See Movies HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Oscars HD" />
+				<Item Name="SkyOscarsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Oscars HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Premiere" />
 				<Item Name="Sky Premiere">
 					<Provider>Astra 28.2E</Provider>
