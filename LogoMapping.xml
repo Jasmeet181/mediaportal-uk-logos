@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		13/04/2021 ITVBe +1 and UTV +1 close on Astra
 		30/04/2021 Vice closes
 		00/01/2022 BBC Three/HD
 		Colors Gujarati
@@ -1947,7 +1946,6 @@
 		<Channel>
 				<Item Name="ITVBe +1" />
 				<Item Name="ITVBe+1">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>ITVBe Plus 1.png</File>
@@ -4322,7 +4320,6 @@
 		<Channel>
 				<Item Name="UTV +1" />
 				<Item Name="UTV+1">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>UTV Plus 1.png</File>

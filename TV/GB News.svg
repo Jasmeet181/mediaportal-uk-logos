@@ -1,28 +1,24 @@
-<svg width="800" height="278.63" version="1.1" viewBox="0 0 211.67 73.72" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="282.29" version="1.1" viewBox="0 0 211.67 74.69" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <linearGradient id="linearGradient1180" x1="82.714" x2="91.017" y1="265.62" y2="296.61" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#eb0000" offset="0"/>
-   <stop stop-color="#cd0000" offset="1"/>
+  <linearGradient id="b" x1="212.74" x2="347.9" y1="82.52" y2="231.49" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#0030a8" offset="0"/>
+   <stop stop-color="#000c53" offset=".99"/>
   </linearGradient>
-  <linearGradient id="linearGradient1184" x1="13.637" x2="73.29" y1="262.17" y2="296.61" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#002ea9" offset="0"/>
-   <stop stop-color="#002d9d" offset=".70623"/>
-   <stop stop-color="#00196e" offset="1"/>
+  <linearGradient id="a" x1="345.15" x2="345.15" y1="61.31" y2="152.06" gradientUnits="userSpaceOnUse">
+   <stop stop-color="red" offset="0"/>
+   <stop stop-color="#e50000" offset=".99"/>
   </linearGradient>
+  <linearGradient id="c" x1="423.66" x2="423.66" y1="1.62" y2="150.1" xlink:href="#a"/>
+  <linearGradient id="linearGradient883" x1="345.15" x2="345.15" y1="61.31" y2="152.06" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
  </defs>
- <g transform="translate(.14436 -223.28)">
-  <g transform="matrix(.61356 0 0 .61356 -2.9028 220.11)">
-   <path d="m248.35 48.92 42.053 74.294h-8.0101z" fill="#fff"/>
-  </g>
-  <g transform="matrix(2.3219 0 0 2.3219 .19082 -392.6)" fill="url(#linearGradient1180)" stroke-width=".26425">
-   <path d="m85.196 265.74h5.8208v30.698h-5.8208z"/>
-   <path d="m64.294 276.81 14.817 19.632h-3.7042z"/>
-  </g>
-  <g transform="matrix(2.3219 0 0 2.3219 .19082 -392.6)" fill="url(#linearGradient1184)">
-   <path d="m52.42 280.48c2.4997-1.3156 4.0784-3.6837 4.0784-6.7534 0-4.78-3.9468-7.9814-11.621-7.9814l-12.733-2e-5v30.698l13.61-3e-5c8.0691-2e-5 12.279-3.0698 12.279-8.376 0-3.8591-2.1927-6.4903-5.6133-7.5867zm-8.4199-9.3847c3.4644 0 5.3501 1.184 5.3501 3.596s-1.8857 3.6398-5.3501 3.6398h-4.7953v-7.2358zm1.2279 19.997h-6.0232v-7.5867h6.0232c3.6837 0 5.6571 1.2279 5.6571 3.8153 0 2.6312-1.9734 3.7714-5.6571 3.7714z" style="white-space:pre"/>
-   <path d="m63.765 265.74h14.552v19.067z" stroke-width=".26425"/>
-   <path d="m64.294 276.81 8.9958 19.632h-8.9958z" stroke-width=".26425"/>
-   <path d="m22.528 289.63c-1.798 0.96477-3.596 1.3156-5.5255 1.3156-5.8764 0-9.9548-4.0784-9.9548-9.8232 0-5.8325 4.0784-9.8232 10.042-9.8232 3.1136 0 5.7009 1.0963 7.9375 3.4644l4.5608-4.21c-2.9821-3.4644-7.4551-5.3063-12.849-5.3063-9.7794 0-16.884 6.6219-16.884 15.875s7.1043 15.875 16.752 15.875c4.3854 0 9.0338-1.3595 12.411-3.903v-12.454h-6.4903z" stop-color="#000000" style="font-variation-settings:normal;white-space:pre"/>
+ <g transform="translate(-48.009 -94.548)">
+  <g transform="matrix(.48425 0 0 .48425 48.009 94.552)" data-name="Layer 2">
+   <g data-name="Layer 1">
+    <path d="m376.11 2.56h-74.4l74.4 89.64zm-68.11 59.44v89.65h74.4zm-59.38 12.1a35.84 35.84 0 0 0 19.81-32.8q0-17.89-14.59-28.34t-41.91-10.4h-64.18v149.12h68.44q29.19 0 44.42-10.55t15.23-30.13q0-13.84-7.24-23.33t-20.03-13.54zm-66.57-45.55h25.62q12.78 0 19.39 4.36t6.6 13.1q0 8.75-6.6 13.21t-19.39 4.48h-25.62zm52.14 92.66q-6.91 4.49-20.56 4.48h-31.58v-36.86h31.58q27.5 0 27.49 18.54 0 9.38-6.93 13.84zm-127.6-2.77a52.65 52.65 0 0 1-26 6.4 47.9 47.9 0 0 1-24.22-6.08 43 43 0 0 1-16.6-16.93 50.35 50.35 0 0 1-6-24.71 50.82 50.82 0 0 1 6-24.93 42.13 42.13 0 0 1 16.7-16.83 49.7 49.7 0 0 1 24.53-5.96 48.19 48.19 0 0 1 34.18 13.66l21.82-20.4a68.71 68.71 0 0 0-23.19-16.06 86.87 86.87 0 0 0-34.43-6.6q-22.68 0-40.83 9.91a72 72 0 0 0-28.34 27.48q-10.21 17.61-10.21 39.73t10.21 39.73a72.45 72.45 0 0 0 28.14 27.48q17.94 9.9 40.41 9.9a102.44 102.44 0 0 0 31.13-4.9 86 86 0 0 0 27.22-14.06v-60.5h-30.52z" fill="url(#b)" data-name="GBN"/>
+    <path d="m382.35 151.68-74.4-89.65 57.55 89.65z" fill="url(#linearGradient883)"/>
+    <path d="m410.24 2.56h26.86v149.12h-26.86z" fill="url(#c)" data-name="red"/>
+    <path d="m365.5 151.68-57.55-89.65 40.71 89.65z" fill="#fff" data-name="red"/>
+   </g>
   </g>
  </g>
 </svg>
