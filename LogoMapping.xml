@@ -3444,9 +3444,6 @@
 			<File>Sky News Arabia.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Floyd Case HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="Sky News HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
