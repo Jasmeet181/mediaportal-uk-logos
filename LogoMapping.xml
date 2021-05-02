@@ -2,10 +2,9 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/04/2021 Vice closes
-		00/01/2022 BBC Three/HD
-		Colors Gujarati
-		GB News/HD
+		00/05/2021 Colors Gujarati launches
+		00/00/2021 GB News/HD launches
+		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
 		<Channel>
@@ -1174,6 +1173,9 @@
 			<File>Colors Cineplex.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="5232">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Colors Gujarati" />
 			<File>Colors Gujarati.png</File>
 		</Channel>
@@ -1404,7 +1406,9 @@
 			<File>Drama.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Drama +1" />
+				<Item Name="Drama +1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 				<Item Name="Drama+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -1675,7 +1679,12 @@
 			<File>Freeview.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="GB News" />
+				<Item Name="53395">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="GB News">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>GB News.png</File>
 		</Channel>
 		<Channel>
@@ -2946,15 +2955,6 @@
 			<File>Sikh Channel.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Ski TV">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-				<Item Name="Ski TV HD">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-			<File>Ski TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sky">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3194,7 +3194,7 @@
 			<File>Sky Cinema Musicals HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Must See HD">
+				<Item Name="MustSeeHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Sky Cinema Must See Movies HD" />
@@ -4072,13 +4072,13 @@
 			<File>Thats Christmas.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="That's Lancashire">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="That's Manchester">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
 				<Item Name="That's TV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="That's TV Lancashire">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="That's TV Manchester">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 				<Item Name="That's TV Scotland">
@@ -4259,13 +4259,16 @@
 			<File>Tyne and Wear Local TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="U1mon">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="U2mon">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="Ultra HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Ultra HD (H)">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="US1MON">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="US2MON">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Ultra HD.png</File>
@@ -4326,12 +4329,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Venus TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Vice">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Vice.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Virgin Media 1">
