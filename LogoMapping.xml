@@ -2411,10 +2411,9 @@
 			<File>Nick Jr Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nick Jr.Peppa">
+				<Item Name="Nick Jr. Peppa">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Nick Jr. Pepper" />
 			<File>Nick Jr Peppa.png</File>
 		</Channel>
 		<Channel>
