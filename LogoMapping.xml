@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		06/05/2021 BEN removed
 		00/05/2021 Colors Gujarati launches
 		00/00/2021 GB News/HD launches
 		00/01/2022 BBC Three/HD launches
@@ -2777,13 +2778,6 @@
 			<File>Really.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Republic Bharat">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Republic TV Bharat" />
-			<File>Republic TV Bharat.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Revelation">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3121,6 +3115,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Family HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Fast and Furious HD" />
+				<Item Name="Fast&amp;FuriousHD ">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Fast and Furious HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Feel Good HD" />
@@ -3488,7 +3489,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Action HD" />
-				<Item Name="SkySp Action HD">
+				<Item Name="SkySp ActionHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Action HD.png</File>
