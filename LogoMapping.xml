@@ -3,8 +3,11 @@
 <!-- ******************************************************************** -->
 		<!--
 		06/05/2021 BEN removed
+		25/05/2021 Sony Channel/+1 renamed to Great! TV/+1
+		25/05/2021 Sony Movies/+1, Sony Movies Action/+1 and Sony Movies Classic/+1 (Sony Movies Christmas/+1) renamed to Great! Movies/+1, Great! Movies Action/+1 and Great! Movies Classic/+1 (Great! Movies Christmas/+1)
+		31/05/2021 GB News/HD launches
 		00/05/2021 Colors Gujarati launches
-		00/00/2021 GB News/HD launches
+		30/06/2021 Fox/+1/HD closes
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -2066,9 +2069,6 @@
 				<Item Name="Jewellery Maker">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="JewelleryMaker">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 			<File>Jewellery Maker.png</File>
 		</Channel>
 		<Channel>
@@ -2931,6 +2931,9 @@
 		<Channel>
 				<Item Name="Shopping Quarter">
 					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="ShoppingQuartr">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Shopping Quarter.png</File>
 		</Channel>
