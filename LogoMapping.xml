@@ -3,11 +3,11 @@
 <!-- ******************************************************************** -->
 		<!--
 		06/05/2021 BEN removed
-		25/05/2021 Sony Channel/+1 renamed to Great! TV/+1
-		25/05/2021 Sony Movies/+1, Sony Movies Action/+1 and Sony Movies Classic/+1 (Sony Movies Christmas/+1) renamed to Great! Movies/+1, Great! Movies Action/+1 and Great! Movies Classic/+1 (Great! Movies Christmas/+1)
 		31/05/2021 GB News/HD launches
-		00/05/2021 Colors Gujarati launches
+		01/06/2021 Colors Gujarati launches
+		06/06/2021 Sky Cinema Gangsters HD
 		30/06/2021 Fox/+1/HD closes
+		00/00/2021 Eir Sport 1 HD and Eir Sport 2 HD close
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -1653,6 +1653,9 @@
 				<Item Name="France 24 Francais">
 					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
+				<Item Name="France 24 Francais HD">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
 			<File>France 24 - Francais.png</File>
 		</Channel>
 		<Channel>
@@ -1761,6 +1764,92 @@
 					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 			<File>Good News TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Movies">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great Movies.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Movies Action">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Great! Action">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Great Movies Action.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great!Action+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Great! Movies Action +1" />
+			<File>Great Movies Action Plus 1.png</File>
+		</Channel>
+		<!--
+		<Channel>
+				<Item Name="Great! Christmas">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Great! Movies Christmas">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great Movies Christmas.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Movies Christmas +1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Great! Xmas+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Great Movies Christmas Plus 1.png</File>
+		</Channel>
+		-->
+		<Channel>
+				<Item Name="Great! Classic">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Great! Movies Classic">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great Movies Classic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Class+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Great! Movies Classic +1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great Movies Classic Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Movies +1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Great! Movies+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Great Movies Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! TV">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! TV+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Great! TV +1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great TV Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Hellenic TV">
@@ -3776,22 +3865,6 @@
 			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sony Channel">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Sony Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Channel+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sony Channel +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Sony Channel Plus 1.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sony Entertainment Television" />
 				<Item Name="Sony TV">
 					<Provider>Astra 28.2E</Provider>
@@ -3822,75 +3895,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sony Max HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Movies">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Sony Movies.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Movies Action">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="Sony Action">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sony Movies Action.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Action+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sony Movies Action +1" />
-			<File>Sony Movies Action Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Christmas">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sony Movies Christmas">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Sony Movies Christmas.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Movies Christmas +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="Sony Xmas+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sony Movies Christmas Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Classic">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sony Movies Classic">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Sony Movies Classic.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Classic+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sony Movies Classic +1" />
-				<Item Name="True Movies +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Sony Movies Classic Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sony Movies +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="Sony Movies+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sony Movies Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sony Sab">
