@@ -1788,7 +1788,6 @@
 				<Item Name="Great! Movies Action +1" />
 			<File>Great Movies Action Plus 1.png</File>
 		</Channel>
-		<!--
 		<Channel>
 				<Item Name="Great! Christmas">
 					<Provider>Astra 28.2E</Provider>
@@ -1807,7 +1806,6 @@
 				</Item>
 			<File>Great Movies Christmas Plus 1.png</File>
 		</Channel>
-		-->
 		<Channel>
 				<Item Name="Great! Classic">
 					<Provider>Astra 28.2E</Provider>
