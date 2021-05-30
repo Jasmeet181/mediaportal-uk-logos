@@ -3,9 +3,9 @@
 <!-- ******************************************************************** -->
 		<!--
 		06/05/2021 BEN removed
-		31/05/2021 GB News/HD launches
 		01/06/2021 Colors Gujarati launches
 		06/06/2021 Sky Cinema Gangsters HD
+		13/06/2021 GB News/HD launches
 		30/06/2021 Fox/+1/HD closes
 		00/00/2021 Eir Sport 1 HD and Eir Sport 2 HD close
 		00/01/2022 BBC Three/HD launches
@@ -1544,6 +1544,15 @@
 			<File>EWTN.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Extreme+">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+				<Item Name="Extreme+ HD">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+			<File>ExtremePlus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Faith UK">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -1642,28 +1651,25 @@
 			<File>Fox Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 - English" />
-				<Item Name="France Eng">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>France 24 - English.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="France 24 - Francais" />
-				<Item Name="France 24 Francais">
+				<Item Name="France 24 (en Français)" />
+				<Item Name="France 24 (en Francais)">
 					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
-				<Item Name="France 24 Francais HD">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-			<File>France 24 - Francais.png</File>
+			<File>France 24 en Francais.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 HD - English" />
+				<Item Name="France 24 HD (en Français)" />
+				<Item Name="France 24 HD (en Francais)">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+			<File>France 24 HD en Francais.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="France 24 HD (in English)" />
 				<Item Name="France 24 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>France 24 HD - English.png</File>
+			<File>France 24 HD in English.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="FreeSports">
@@ -1686,13 +1692,17 @@
 			<File>Freeview.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="53395">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="GB News">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>GB News.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="53395">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="GB News HD" />
+			<File>GB News HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Gemporia Craft">
