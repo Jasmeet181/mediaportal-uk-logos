@@ -1177,10 +1177,10 @@
 			<File>Colors Cineplex.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="5232">
+				<Item Name="Colors Gujarati" />
+				<Item Name="ColorsGujarati">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Colors Gujarati" />
 			<File>Colors Gujarati.png</File>
 		</Channel>
 		<Channel>
@@ -1698,10 +1698,9 @@
 			<File>GB News.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="53395">
+				<Item Name="GB News HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="GB News HD" />
 			<File>GB News HD.png</File>
 		</Channel>
 		<Channel>
@@ -2515,10 +2514,9 @@
 			<File>Nick Jr Peppa.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nick Jr.Too">
+				<Item Name="Nick Jr. Too">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Nick Jr. Too" />
 			<File>Nick Jr Too.png</File>
 		</Channel>
 		<Channel>
