@@ -3,10 +3,11 @@
 <!-- ******************************************************************** -->
 		<!--
 		06/05/2021 BEN removed
-		01/06/2021 Colors Gujarati launches
+		03/06/2021 Shopping Quarter renamed to Jewellery Maker on Astra
 		06/06/2021 Sky Cinema Gangsters HD
-		13/06/2021 GB News/HD launches
+		27/06/2021 BBC Red Button 2-6 and BBC Red Button HD launch
 		30/06/2021 Fox/+1/HD closes
+		12/07/2021 BBC Red Button 2-6 and BBC Red Button HD close
 		00/00/2021 Eir Sport 1 HD and Eir Sport 2 HD close
 		00/01/2022 BBC Three/HD launches
 		-->
@@ -563,13 +564,6 @@
 			<File>BBC Red Button.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 0">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="BBC Red Button 0" />
-			<File>BBC Red Button 0.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="BBC RB 1">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -578,15 +572,8 @@
 			<File>BBC Red Button 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 1 24/7">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="BBC Red Button 1 24/7" />
-			<File>BBC Red Button 1 247.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BBC RB 2">
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="6802">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC RB2">
 					<Provider>Astra 28.2E</Provider>
@@ -595,8 +582,8 @@
 			<File>BBC Red Button 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 3">
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="6803">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC RB3">
 					<Provider>Astra 28.2E</Provider>
@@ -605,8 +592,8 @@
 			<File>BBC Red Button 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 4">
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="6804">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC RB4">
 					<Provider>Astra 28.2E</Provider>
@@ -615,8 +602,8 @@
 			<File>BBC Red Button 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 5">
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="6805">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC RB5">
 					<Provider>Astra 28.2E</Provider>
@@ -625,8 +612,8 @@
 			<File>BBC Red Button 5.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 6">
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="6806">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC RB6">
 					<Provider>Astra 28.2E</Provider>
@@ -635,13 +622,9 @@
 			<File>BBC Red Button 6.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC RB 7">
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="6811">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="BBC Red Button 7" />
-			<File>BBC Red Button 7.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="BBC RB HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -1239,7 +1222,6 @@
 		<Channel>
 				<Item Name="Court TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Court TV.png</File>
 		</Channel>
