@@ -3,7 +3,6 @@
 <!-- ******************************************************************** -->
 		<!--
 		06/05/2021 BEN removed
-		03/06/2021 Shopping Quarter renamed to Jewellery Maker on Astra
 		06/06/2021 Sky Cinema Gangsters HD
 		27/06/2021 BBC Red Button 2-6 and BBC Red Button HD launch
 		30/06/2021 Fox/+1/HD closes
@@ -2147,6 +2146,9 @@
 				<Item Name="Jewellery Maker">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+				<Item Name="JewelleryMaker">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Jewellery Maker.png</File>
 		</Channel>
 		<Channel>
@@ -3008,9 +3010,6 @@
 		<Channel>
 				<Item Name="Shopping Quarter">
 					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="ShoppingQuartr">
-					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Shopping Quarter.png</File>
 		</Channel>
