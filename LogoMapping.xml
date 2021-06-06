@@ -3,11 +3,10 @@
 <!-- ******************************************************************** -->
 		<!--
 		06/05/2021 BEN removed
-		06/06/2021 Sky Cinema Gangsters HD
 		27/06/2021 BBC Red Button 2-6 and BBC Red Button HD launch
-		30/06/2021 Fox/+1/HD closes
+		00/06/2021 Eir Sport 1 HD and Eir Sport 2 HD close
+		01/07/2021 Fox/+1/HD closes
 		12/07/2021 BBC Red Button 2-6 and BBC Red Button HD close
-		00/00/2021 Eir Sport 1 HD and Eir Sport 2 HD close
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -3208,6 +3207,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Feel Good HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Gangsters HD" />
+				<Item Name="SkyGangstersHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Gangsters HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Greats" />
