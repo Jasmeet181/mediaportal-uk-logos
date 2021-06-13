@@ -4408,15 +4408,6 @@
 			<File>W Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="WildEarth">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-				<Item Name="WildEarth HD">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-			<File>WildEarth.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="WION" />
 				<Item Name="WION HD">
 					<Provider>Astra 28.2E</Provider>
