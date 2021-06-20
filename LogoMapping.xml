@@ -2,11 +2,12 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		06/05/2021 BEN removed
-		27/06/2021 BBC Red Button 2-6 and BBC Red Button HD launch
-		00/06/2021 Eir Sport 1 HD and Eir Sport 2 HD close
+		24/06/2021 BBC Red Button 2-6 and BBC Red Button HD launch
+		30/06/2021 Al Jazeera English (SD) removed from Astra
 		01/07/2021 Fox/+1/HD closes
+		20/07/2021 Eir Sport 2 HD closes
 		12/07/2021 BBC Red Button 2-6 and BBC Red Button HD close
+		00/00/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -682,13 +683,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Ben 10.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BEN">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Ben Television" />
-			<File>Ben Television.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Best Direct">
@@ -3249,6 +3243,20 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Hits HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Jurassic Park" />
+				<Item Name="Sky Jurassic">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Jurassic Park.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Jurassic Park HD" />
+				<Item Name="SkyJurassicHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Jurassic Park HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Kids Books" />
