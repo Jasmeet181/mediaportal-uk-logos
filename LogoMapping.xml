@@ -4095,6 +4095,12 @@
 			<File>Thats TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="That's TV Gold">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats TV Gold.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Adult Channel">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
