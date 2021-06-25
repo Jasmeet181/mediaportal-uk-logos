@@ -2,12 +2,12 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		24/06/2021 BBC Red Button 2-6 and BBC Red Button HD launch
 		30/06/2021 Al Jazeera English (SD) removed from Astra
 		01/07/2021 Fox/+1/HD closes
 		20/07/2021 Eir Sport 2 HD closes
-		12/07/2021 BBC Red Button 2-6 and BBC Red Button HD close
+		00/08/2021 BBC Red Button 2-6 and BBC Red Button HD close
 		00/00/2021 Eir Sport 1 HD closes
+		00/00/2021 That's TV Gold added to Astra
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -571,59 +571,41 @@
 			<File>BBC Red Button 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6802">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC RB2">
+				<Item Name="BBC RB 2">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Red Button 2" />
 			<File>BBC Red Button 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6803">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC RB3">
+				<Item Name="BBC RB 3">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Red Button 3" />
 			<File>BBC Red Button 3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6804">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC RB4">
+				<Item Name="BBC RB 4">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Red Button 4" />
 			<File>BBC Red Button 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6805">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC RB5">
+				<Item Name="BBC RB 5">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Red Button 5" />
 			<File>BBC Red Button 5.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6806">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC RB6">
+				<Item Name="BBC RB 6">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Red Button 6" />
 			<File>BBC Red Button 6.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6811">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="BBC RB HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
