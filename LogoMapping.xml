@@ -3,7 +3,12 @@
 <!-- ******************************************************************** -->
 		<!--
 		30/06/2021 Al Jazeera English (SD) removed from Astra
+		30/06/2021 Xpanded TV2 closes
 		01/07/2021 Fox/+1/HD closes
+		01/07/2021 Sky Cinema Mega Hits/HD
+		12/07/2021 Sky Sports The Open/HD
+		17/07/2021 Sky Sports The Lions/HD
+		21/07/2021 Sky Sports The Hundred/HD
 		20/07/2021 Eir Sport 2 HD closes
 		00/08/2021 BBC Red Button 2-6 and BBC Red Button HD close
 		00/00/2021 Eir Sport 1 HD closes
@@ -1021,15 +1026,6 @@
 			<File>Channel 44.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Channel Fight">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-				<Item Name="Channel Fight HD">
-					<Provider>Freeview IPTV (GB)</Provider>
-				</Item>
-			<File>Channel Fight.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Channel 5">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -1059,6 +1055,22 @@
 			<File>Channel 7.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Channel Fight">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+				<Item Name="Channel Fight HD">
+					<Provider>Freeview IPTV (GB)</Provider>
+				</Item>
+			<File>Channel Fight.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Channel S" />
+				<Item Name="CHSTV">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Channel S.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Channels 24">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -1075,12 +1087,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Christmas 24 Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="CHSTV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>CHSTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CITV">
