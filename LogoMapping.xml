@@ -2,10 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/06/2021 Al Jazeera English (SD) removed from Astra
-		30/06/2021 Xpanded TV2 closes
-		01/07/2021 Fox/+1/HD closes
-		01/07/2021 Sky Cinema Mega Hits/HD
 		12/07/2021 Sky Sports The Open/HD
 		17/07/2021 Sky Sports The Lions/HD
 		21/07/2021 Sky Sports The Hundred/HD
@@ -183,7 +179,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Al Jazeera Eng">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 				<Item Name="Al Jazeera English" />
@@ -1592,25 +1587,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Forces TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Fox">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Fox.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Fox HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Fox HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Fox +1" />
-				<Item Name="Fox+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Fox Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="France 24 (en Français)" />
@@ -3261,6 +3237,13 @@
 			<File>Sky Cinema Kids Books HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Mega Hits HD" />
+				<Item Name="SkyMegaHitsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Mega Hits HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Musicals" />
 				<Item Name="Sky Musicals">
 					<Provider>Astra 28.2E</Provider>
@@ -4428,9 +4411,6 @@
 		<Channel>
 				<Item Name="Adult Xpanded2">
 					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="Xpanded TV2">
-					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Xpanded TV2.png</File>
 		</Channel>
