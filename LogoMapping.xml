@@ -2,14 +2,21 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		08/07/2021 That's TV Gold added to Astra
 		12/07/2021 Sky Sports The Open/HD
+		17/07/2021 Sky Cinema Cornetto HD
 		17/07/2021 Sky Sports The Lions/HD
+		19/07/2021 Sky Cinema Magic HD
+		21/07/2021 Eurosport 3-9 HD launch
 		21/07/2021 Sky Sports The Hundred/HD
+		26/07/2021 Sky Cinema Misfits HD
 		20/07/2021 Eir Sport 2 HD closes
-		00/08/2021 BBC Red Button 2-6 and BBC Red Button HD close
-		00/00/2021 Eir Sport 1 HD closes
-		00/00/2021 That's TV Gold added to Astra
+		00/07/2021 BBC Red Button 2-6 close
+		00/08/2021 BBC Red Button HD closes
+		00/08/2021 Eurosport 3-9 HD close
+		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
+		00/00/0000 Politics Punjab TV launches
 		-->
 	<TV>
 		<Channel>
@@ -1494,6 +1501,34 @@
 			<File>Eurosport 2 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Eurosport 3 HD" />
+			<File>Eurosport 3 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 4 HD" />
+			<File>Eurosport 4 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 5 HD" />
+			<File>Eurosport 5 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 6 HD" />
+			<File>Eurosport 6 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 7 HD" />
+			<File>Eurosport 7 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 8 HD" />
+			<File>Eurosport 8 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Eurosport 9 HD" />
+			<File>Eurosport 9 HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="EWTN" />
 				<Item Name="EWTN Catholic">
 					<Provider>Astra 28.2E</Provider>
@@ -2916,12 +2951,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>S4C HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Samaa">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Samaa.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sangat">
