@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		05/07/2021 Yanga! removed from Astra
 		08/07/2021 That's TV Gold added to Astra
 		12/07/2021 Sky Sports The Open/HD
 		17/07/2021 Sky Cinema Cornetto HD
@@ -280,12 +281,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>B4U Music.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Babes From TV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Babes From TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Babes &amp; Brazzers" />
@@ -3782,6 +3777,17 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Racing HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports The Hundred" />
+			<File>Sky Sports The Hundred.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports The Hundred HD" />
+				<Item Name="SkyHundredHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports The Hundred HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Players" />
