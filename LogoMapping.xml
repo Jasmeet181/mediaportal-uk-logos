@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		05/07/2021 Yanga! removed from Astra
-		08/07/2021 That's TV Gold added to Astra
 		12/07/2021 Sky Sports The Open/HD
 		17/07/2021 Sky Cinema Cornetto HD
 		17/07/2021 Sky Sports The Lions/HD
@@ -17,7 +15,7 @@
 		00/08/2021 Eurosport 3-9 HD close
 		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
-		00/00/0000 Politics Punjab TV launches
+		Politics Punjab TV launches
 		-->
 	<TV>
 		<Channel>
@@ -2698,15 +2696,15 @@
 				<Item Name="Premier 1 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Premier Sports 1 HD" />
-			<File>Premier Sports 1 HD.png</File>
+				<Item Name="Premier Sports 1" />
+			<File>Premier Sports 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Premier 2 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Premier Sports 2 HD" />
-			<File>Premier Sports 2 HD.png</File>
+				<Item Name="Premier Sports 2" />
+			<File>Premier Sports 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Prime Video" />
@@ -3784,9 +3782,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Hundred HD" />
-				<Item Name="SkyHundredHD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 			<File>Sky Sports The Hundred HD.png</File>
 		</Channel>
 		<Channel>
@@ -4102,6 +4097,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="That's TV Gold">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Thats TV Gold.png</File>
@@ -4501,7 +4497,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Yanga!">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview IPTV (GB)</Provider>
 				</Item>
 				<Item Name="Yanga! TV" />
