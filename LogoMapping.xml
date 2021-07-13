@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		12/07/2021 Sky Sports The Open/HD
 		17/07/2021 Sky Cinema Cornetto HD
 		17/07/2021 Sky Sports The Lions/HD
 		19/07/2021 Sky Cinema Magic HD
@@ -10,7 +9,6 @@
 		21/07/2021 Sky Sports The Hundred/HD
 		26/07/2021 Sky Cinema Misfits HD
 		20/07/2021 Eir Sport 2 HD closes
-		00/07/2021 BBC Red Button 2-6 close
 		00/08/2021 BBC Red Button HD closes
 		00/08/2021 Eurosport 3-9 HD close
 		28/10/2021 Eir Sport 1 HD closes
@@ -3785,6 +3783,20 @@
 			<File>Sky Sports The Hundred HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Sports The Open" />
+				<Item Name="SkySp Open">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports The Open.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports The Open HD" />
+				<Item Name="SkySp Open HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports The Open HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Sports The Players" />
 				<Item Name="Sky Players">
 					<Provider>Astra 28.2E</Provider>
@@ -4276,9 +4288,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Ultra HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Ultra HD (H)">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="US1MON">
