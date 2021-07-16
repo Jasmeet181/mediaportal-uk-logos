@@ -4,13 +4,15 @@
 		<!--
 		17/07/2021 Sky Cinema Cornetto HD
 		17/07/2021 Sky Sports The Lions/HD
+		19/07/2021 Brit Asia TV temporarily removed from Astra
 		19/07/2021 Sky Cinema Magic HD
-		21/07/2021 Eurosport 3-9 HD launch
+		20/07/2021 Eurosport 3-9 HD launch
+		21/07/2021 Eir Sport 2 HD closes
 		21/07/2021 Sky Sports The Hundred/HD
 		26/07/2021 Sky Cinema Misfits HD
-		20/07/2021 Eir Sport 2 HD closes
 		00/08/2021 BBC Red Button HD closes
 		00/08/2021 Eurosport 3-9 HD close
+		02/08/2021 New MTV logos
 		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
 		Politics Punjab TV launches
@@ -3138,6 +3140,13 @@
 			<File>Sky Cinema Cops and Robbers HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Cornetto HD" />
+				<Item Name="SkyCornettoHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Cornetto HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Divergent HD" />
 				<Item Name="SkyDivergentHD">
 					<Provider>Astra 28.2E</Provider>
@@ -3257,11 +3266,22 @@
 			<File>Sky Cinema Kids Books HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Magic HD" />
+				<Item Name="Sky Magic HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Magic HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Mega Hits HD" />
 				<Item Name="SkyMegaHitsHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Mega Hits HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Misfits HD" />
+			<File>Sky Cinema Misfits HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Musicals" />
@@ -3283,6 +3303,20 @@
 				</Item>
 				<Item Name="Sky Cinema Must See Movies HD" />
 			<File>Sky Cinema Must See Movies HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Orig V Remake">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Original vs Remake HD" />
+			<File>Sky Cinema Original vs Remake.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="OrigVRemakeHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Original vs Remake HD" />
+			<File>Sky Cinema Original vs Remake HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Oscars HD" />
@@ -3776,11 +3810,31 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Hundred" />
+				<Item Name="SkySp Hundred">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Sports The Hundred.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Hundred HD" />
+				<Item Name="SkyHundredHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Sports The Hundred HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports The Lions" />
+				<Item Name="SkySp Lions">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports The Lions.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports The Lions HD" />
+				<Item Name="SkySp Lions HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports The Lions HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Open" />
