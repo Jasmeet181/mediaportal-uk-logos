@@ -2,7 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		26/07/2021 Sky Cinema Misfits HD
+		01/08/2021 Sky Cinema Road Movies HD
 		02/08/2021 New MTV logos
 		00/08/2021 BBC Red Button HD closes
 		00/08/2021 Eurosport 3-9 HD close
@@ -2434,10 +2434,10 @@
 			<File>New Vision TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="News Central TV">
+				<Item Name="News Central">
 					<Provider>VisionTV</Provider>
 				</Item>
-			<File>News Central TV.png</File>
+			<File>News Central.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Newsmax TV">
@@ -3279,7 +3279,17 @@
 			<File>Sky Cinema Mega Hits HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Misfits" />
+				<Item Name="Sky Misfits">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Misfits.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Misfits HD" />
+				<Item Name="Sky Misfits HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Cinema Misfits HD.png</File>
 		</Channel>
 		<Channel>
@@ -3351,6 +3361,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Race Against Time HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Road Movies HD" />
+				<Item Name="Road Movies ​HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Road Movies HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Sci-fi &amp; Horror HD" />
@@ -3592,12 +3609,6 @@
 			<File>Sky Replay.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sports Active">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky Sports.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sky Sports Action" />
 				<Item Name="SkySp Action">
 					<Provider>Astra 28.2E</Provider>
@@ -3806,6 +3817,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Racing HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports Red Button" />
+				<Item Name="Sports Active">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports Red Button.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Hundred" />
