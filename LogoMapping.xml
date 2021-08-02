@@ -2,10 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		01/08/2021 Sky Cinema Road Movies HD
 		02/08/2021 New MTV logos
 		00/08/2021 BBC Red Button HD closes
 		00/08/2021 Eurosport 3-9 HD close
+		00/08/2021 Neo News
+		01/09/2021 Sky Max launches
+		01/09/2021 Sky One/+1/HD replaced by Sky Showcase
+		01/09/2021 Sky Replay closes
 		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
 		Politics Punjab TV launches
@@ -2428,6 +2431,10 @@
 			<File>NDTV 24x7.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Neo News" />
+			<File>Neo News.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="New Vision TV">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3314,6 +3321,20 @@
 			<File>Sky Cinema Must See Movies HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Mystery" />
+				<Item Name="SkyMystery">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Mystery.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Mystery HD" />
+				<Item Name="SkyMysteryHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Mystery HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Orig V Remake">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3552,6 +3573,14 @@
 			<File>Sky History2 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Max" />
+			<File>Sky Max.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Max HD" />
+			<File>Sky Max HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Nature">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3607,6 +3636,14 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Replay.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Showcase" />
+			<File>Sky Showcase.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Showcase HD" />
+			<File>Sky Showcase HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Action" />
