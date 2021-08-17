@@ -2,16 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		02/08/2021 New MTV logos
-		00/08/2021 BBC Red Button HD closes
-		00/08/2021 Eurosport 3-9 HD close
-		00/08/2021 Neo News
+		11/08/2021 A1TV removed from Astra
+		00/08/2021 African Movie Channel/HD removed from Channelbox?
 		01/09/2021 Sky Max launches
 		01/09/2021 Sky One/+1/HD replaced by Sky Showcase
 		01/09/2021 Sky Replay closes
 		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
-		Politics Punjab TV launches
 		-->
 	<TV>
 		<Channel>
@@ -745,6 +742,7 @@
 		<Channel>
 				<Item Name="Brit Asia TV">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Brit Asia TV.png</File>
 		</Channel>
@@ -1272,6 +1270,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Deen TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Deutsche Welle">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Discovery">
@@ -2431,7 +2435,9 @@
 			<File>NDTV 24x7.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Neo News" />
+				<Item Name="Neo News">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Neo News.png</File>
 		</Channel>
 		<Channel>
@@ -2671,6 +2677,13 @@
 			<File>Pitaara International.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Politics Punjab" />
+				<Item Name="PoliticsPunjab">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Politics Punjab.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Pop">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -2702,15 +2715,15 @@
 				<Item Name="Premier 1 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Premier Sports 1" />
-			<File>Premier Sports 1.png</File>
+				<Item Name="Premier Sports 1 HD" />
+			<File>Premier Sports 1 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Premier 2 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Premier Sports 2" />
-			<File>Premier Sports 2.png</File>
+				<Item Name="Premier Sports 2 HD" />
+			<File>Premier Sports 2 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Prime Video" />
@@ -4593,6 +4606,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>XXX Swingers.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Yanga!">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>Yanga TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Yesterday">
