@@ -2,11 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		11/08/2021 A1TV removed from Astra
-		00/08/2021 African Movie Channel/HD removed from Channelbox?
-		01/09/2021 Sky Max launches
-		01/09/2021 Sky One/+1/HD replaced by Sky Showcase
-		01/09/2021 Sky Replay closes
+		01/09/2021 Sky Max/HD launches
+		01/09/2021 Sky One/+1/HD replaced by Sky Showcase/+1/HD
 		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
 		-->
@@ -662,6 +659,7 @@
 		<Channel>
 				<Item Name="Best Direct">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Best Direct.png</File>
 		</Channel>
@@ -978,6 +976,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Celebration TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="CGTN">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>CGTN.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Challenge">
@@ -2141,6 +2145,7 @@
 		<Channel>
 				<Item Name="JML Direct">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>VisionTV</Provider>
 				</Item>
 			<File>JML Direct.png</File>
 		</Channel>
@@ -3115,6 +3120,13 @@
 			<File>Sky Cinema Animation HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Best of 80s HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Best of the 80s HD" />
+			<File>Sky Cinema Best of the 80s HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="BlockbustersHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3657,6 +3669,11 @@
 		<Channel>
 				<Item Name="Sky Showcase HD" />
 			<File>Sky Showcase HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Showcase +1" />
+				<Item Name="Sky Showcase+1" />
+			<File>Sky Showcase Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Action" />
@@ -4263,6 +4280,7 @@
 				<Item Name="TJC">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
+					<Provider>VisionTV</Provider>
 				</Item>
 			<File>TJC.png</File>
 		</Channel>
