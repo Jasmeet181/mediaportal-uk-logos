@@ -3726,7 +3726,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Cricket HD" />
-				<Item Name="SkySpCricketHD">
+				<Item Name="SkySpCricket HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Cricket HD.png</File>
