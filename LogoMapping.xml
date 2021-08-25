@@ -672,6 +672,15 @@
 			<File>Birmingham Local TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Bite">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Bite HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Bite.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Blaze">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -2464,6 +2473,15 @@
 			<File>Newsmax TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NextUp">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="NextUp HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>NextUp.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="NHK World HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4043,6 +4061,12 @@
 			<File>Sony Sab.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sports Tonight Live">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>Sports Tonight Live.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="SportyStuff HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4297,6 +4321,12 @@
 			<File>The Word Network.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Times Now">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>Times Now.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Tiny Pop">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -4526,6 +4556,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Virgin Media Two HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vision TV Channel">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>Vision TV Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vox Africa">
