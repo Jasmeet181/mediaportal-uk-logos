@@ -4,7 +4,11 @@
 		<!--
 		01/09/2021 Sky Max/HD launches
 		01/09/2021 Sky One/+1/HD replaced by Sky Showcase/+1/HD
+		23/09/2021 Great! Movies Christmas/+1
 		28/10/2021 Eir Sport 1 HD closes
+		00/00/2021 Phoenix CNE HD
+		00/00/2021 Sky Cinema Batman HD
+		00/00/2021 Sky Cinema Spies HD
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -2677,6 +2681,13 @@
 				</Item>
 				<Item Name="Phoenix CNE" />
 			<File>Phoenix CNE.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="PCNEChineseHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Phoenix CNE HD" />
+			<File>Phoenix CNE HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Pick">
