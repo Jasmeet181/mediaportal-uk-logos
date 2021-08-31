@@ -2,13 +2,17 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		01/09/2021 Psychic Today renamed to Direct Store TV
 		01/09/2021 Sky Max/HD launches
 		01/09/2021 Sky One/+1/HD replaced by Sky Showcase/+1/HD
+		06/09/2021 Sky Cinema Back to School HD
+		10/09/2021 Sky Cinema Assassins HD
+		18/09/2021 Sky Cinema Batman/HD
+		20/09/2021 Sky Cinema Music HD
 		23/09/2021 Great! Movies Christmas/+1
+		27/09/2021 Sky Cinema Spies HD
 		28/10/2021 Eir Sport 1 HD closes
 		00/00/2021 Phoenix CNE HD
-		00/00/2021 Sky Cinema Batman HD
-		00/00/2021 Sky Cinema Spies HD
 		00/01/2022 BBC Three/HD launches
 		-->
 	<TV>
@@ -1295,6 +1299,12 @@
 			<File>Deutsche Welle.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Direct Store TV">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Direct Store TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Discovery">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -1468,10 +1478,13 @@
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Channelbox</Provider>
 				</Item>
+			<File>Euronews.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Euronews Russian">
 					<Provider>Channelbox</Provider>
 				</Item>
-			<File>Euronews.png</File>
+			<File>Euronews Russian.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Eurosport 1">
@@ -3149,6 +3162,25 @@
 			<File>Sky Cinema Animation HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Assassins HD" />
+			<File>Sky Cinema Assassins HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Back to School HD" />
+			<File>Sky Cinema Back to School HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Batman">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Batman" />
+			<File>Sky Cinema Batman.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Batman HD" />
+			<File>Sky Cinema Bartman HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Best of 80s HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3354,6 +3386,10 @@
 			<File>Sky Cinema Misfits HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Music HD" />
+			<File>Sky Cinema Music HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Musicals" />
 				<Item Name="Sky Musicals">
 					<Provider>Astra 28.2E</Provider>
@@ -3455,6 +3491,10 @@
 				<Item Name="Sky Cinema Select HD" />
 				<Item Name="Sky Select HD" />
 			<File>Sky Cinema Select HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Spies HD" />
+			<File>Sky Cinema Spies HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Spooky" />
@@ -5316,12 +5356,6 @@
 				</Item>
 				<Item Name="Magic Radio" />
 			<File>Magic Radio.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Newstalk">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Newstalk.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Panjab Radio">
