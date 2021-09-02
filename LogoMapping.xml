@@ -2,9 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		01/09/2021 Psychic Today renamed to Direct Store TV
-		01/09/2021 Sky Max/HD launches
-		01/09/2021 Sky One/+1/HD replaced by Sky Showcase/+1/HD
 		06/09/2021 Sky Cinema Back to School HD
 		10/09/2021 Sky Cinema Assassins HD
 		18/09/2021 Sky Cinema Batman/HD
@@ -2786,12 +2783,6 @@
 			<File>Propeller TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Psychic Today">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Psychic Today.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="PTC Punjabi">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3705,25 +3696,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky News HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky One">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky One.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky One HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky One HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky One +1" />
-				<Item Name="Sky One+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky One Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Replay">
