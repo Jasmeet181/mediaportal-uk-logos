@@ -3658,11 +3658,15 @@
 			<File>Sky History2 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Max" />
+				<Item Name="Sky Max">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Max.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Max HD" />
+				<Item Name="Sky Max HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Max HD.png</File>
 		</Channel>
 		<Channel>
@@ -3704,16 +3708,23 @@
 			<File>Sky Replay.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Showcase" />
+				<Item Name="Sky Showcase">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Showcase.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Showcase HD" />
+				<Item Name="SkyShowcaseHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Showcase HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Showcase +1" />
-				<Item Name="Sky Showcase+1" />
+				<Item Name="SkyShowcase+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Showcase Plus 1.png</File>
 		</Channel>
 		<Channel>
