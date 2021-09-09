@@ -5,6 +5,7 @@
 		10/09/2021 Sky Cinema Assassins HD
 		18/09/2021 Sky Cinema Batman/HD
 		20/09/2021 Sky Cinema Music HD
+		21/10/2021 BBC One regions HD/new logo?
 		23/09/2021 Great! Movies Christmas/+1
 		27/09/2021 Sky Cinema Spies HD
 		28/10/2021 Eir Sport 1 HD closes
@@ -666,6 +667,15 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Best Direct.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Billiard TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Billiard TV HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Billiard TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Birmingham TV">
@@ -1588,6 +1598,15 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Fashion TV HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="FidoTV">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="FidoTV HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>FidoTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Film4">
