@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		10/09/2021 Sky Cinema Assassins HD
 		18/09/2021 Sky Cinema Batman/HD
 		20/09/2021 Sky Cinema Music HD
 		21/10/2021 BBC One regions HD/new logo?
@@ -3171,10 +3170,16 @@
 			<File>Sky Cinema Animation HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky AssassinsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Assassins HD" />
 			<File>Sky Cinema Assassins HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BacktoSchoolHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Back to School HD" />
 			<File>Sky Cinema Back to School HD.png</File>
 		</Channel>
@@ -3186,6 +3191,9 @@
 			<File>Sky Cinema Batman.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Batman HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Batman HD" />
 			<File>Sky Cinema Bartman HD.png</File>
 		</Channel>
