@@ -11,6 +11,7 @@
 		00/00/2021 Phoenix CNE HD
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 TalkTV
+		Sky Cinema Jokers HD
 		-->
 	<TV>
 		<Channel>
@@ -1820,7 +1821,7 @@
 			<File>Great Movies Action Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Great! Christmas">
+				<Item Name="Great! Xmas">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Great! Movies Christmas">
@@ -3422,6 +3423,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Music HD" />
+				<Item Name="Sky Music HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Cinema Music HD.png</File>
 		</Channel>
 		<Channel>
