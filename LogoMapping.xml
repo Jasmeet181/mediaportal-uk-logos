@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		18/09/2021 Sky Cinema Batman/HD
-		20/09/2021 Sky Cinema Music HD
 		21/10/2021 BBC One regions HD/new logo?
 		23/09/2021 Great! Movies Christmas/+1
 		27/09/2021 Sky Cinema Spies HD
@@ -3991,6 +3989,20 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Red Button.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports Ryder Cup" />
+				<Item Name="SkySpRyderCup">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports Ryder Cup.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports Ryder Cup HD" />
+				<Item Name="SkyRyderCupHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports Ryder Cup HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports The Hundred" />
