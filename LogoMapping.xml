@@ -2,11 +2,9 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		30/09/2021 Phoenix CNE HD
 		21/10/2021 BBC One regions HD/new logo?
-		23/09/2021 Great! Movies Christmas/+1
-		27/09/2021 Sky Cinema Spies HD
 		28/10/2021 Eir Sport 1 HD closes
-		00/00/2021 Phoenix CNE HD
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 TalkTV
 		Sky Cinema Jokers HD
@@ -2727,7 +2725,7 @@
 			<File>Phoenix CNE.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="PCNEChineseHD">
+				<Item Name="PCNE ChineseHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Phoenix CNE HD" />
@@ -3531,6 +3529,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Spies HD" />
+				<Item Name="Sky Spies HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Cinema Spies HD.png</File>
 		</Channel>
 		<Channel>
