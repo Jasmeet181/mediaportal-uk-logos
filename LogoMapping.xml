@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		30/09/2021 Phoenix CNE HD
 		21/10/2021 BBC One regions HD/new logo?
 		28/10/2021 Eir Sport 1 HD closes
 		00/01/2022 BBC Three/HD launches
@@ -2725,7 +2724,7 @@
 			<File>Phoenix CNE.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="PCNE ChineseHD">
+				<Item Name="PCNE Chinese HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Phoenix CNE HD" />
