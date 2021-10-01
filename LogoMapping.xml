@@ -2,11 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		04/10/2021 Sky Cinema Space Week HD
 		21/10/2021 BBC One regions HD/new logo?
+		22/10/2021 Sky Cinema Jokers HD
 		28/10/2021 Eir Sport 1 HD closes
+		08/11/2021 MTV Xmas
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 TalkTV
-		Sky Cinema Jokers HD
 		-->
 	<TV>
 		<Channel>
@@ -3361,6 +3363,10 @@
 			<File>Sky Cinema Hits HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Jokers HD" />
+			<File>Sky Cinema Jokers HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Jurassic Park" />
 				<Item Name="Sky Jurassic">
 					<Provider>Astra 28.2E</Provider>
@@ -3525,6 +3531,10 @@
 				<Item Name="Sky Cinema Select HD" />
 				<Item Name="Sky Select HD" />
 			<File>Sky Cinema Select HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Space Week HD" />
+			<File>Sky Cinema Space Week HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Spies HD" />
