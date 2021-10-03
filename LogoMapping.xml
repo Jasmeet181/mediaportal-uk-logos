@@ -2355,14 +2355,15 @@
 			<File>More4 Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Movies 24">
+				<Item Name="Movies 24" />
+				<Item Name="Movies24">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Movies 24.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Movies 24 +" />
-				<Item Name="Movies 24+">
+				<Item Name="Movies 24+" />
+				<Item Name="Movies24+">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Movies 24 Plus.png</File>
@@ -2548,7 +2549,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Nick Jr. PAW Patrol" />
-				<Item Name="NickJrPAWPatrol">
+				<Item Name="Nick Jr.Paw Patrol">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Nick Jr PAW Patrol.png</File>
@@ -2970,11 +2971,11 @@
 			<File>RTE Junior.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ News Now">
+				<Item Name="RTÉ News">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
-			<File>RTE News Now.png</File>
+			<File>RTE News.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTÉ One">
@@ -4987,17 +4988,19 @@
 		<Channel>
 				<Item Name="BBC R Cymru">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Radio Cymru">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="BBC Radio Cymru" />
 			<File>BBC Radio Cymru.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC Cymru 2">
+				<Item Name="BBC R Cymru 2">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Radio Cymru 2">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="BBC Radio Cymru 2" />
 			<File>BBC Radio Cymru 2.png</File>
 		</Channel>
 		<Channel>
@@ -5371,8 +5374,10 @@
 		</Channel>
 		<Channel>
 				<Item Name="Kiss">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Kiss FM">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Kiss.png</File>
 		</Channel>
