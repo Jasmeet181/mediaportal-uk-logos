@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		04/10/2021 Sky Cinema Space Week HD
 		21/10/2021 BBC One regions HD/new logo?
 		22/10/2021 Sky Cinema Jokers HD
 		28/10/2021 Eir Sport 1 HD closes
@@ -3535,6 +3534,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Space Week HD" />
+				<Item Name="SpaceWeekHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Cinema Space Week HD.png</File>
 		</Channel>
 		<Channel>
