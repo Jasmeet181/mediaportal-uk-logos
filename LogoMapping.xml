@@ -2,7 +2,9 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		21/10/2021 BBC One regions HD/new logo?
+		05/10/2021 Hi-Impact TV removed
+		21/10/2021 BBC One regions HD?
+		21/10/2021 New BBC logos
 		22/10/2021 Sky Cinema Jokers HD
 		28/10/2021 Eir Sport 1 HD closes
 		08/11/2021 MTV Xmas
@@ -2804,7 +2806,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Prime Video" />
-				<Item Name="PrimeVideo HD">
+				<Item Name="PrimeSportsBar">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Prime Video.png</File>
