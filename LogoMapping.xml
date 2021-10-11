@@ -1101,13 +1101,15 @@
 			<File>Channels 24.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Christmas 24">
+				<Item Name="Christmas 24" />
+				<Item Name="Christmas24">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Christmas 24.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Christmas 24+">
+				<Item Name="Christmas 24+" />
+				<Item Name="Christmas24+">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Christmas 24 Plus.png</File>
