@@ -3,8 +3,10 @@
 <!-- ******************************************************************** -->
 		<!--
 		05/10/2021 Hi-Impact TV removed
-		21/10/2021 BBC One regions HD?
-		21/10/2021 New BBC logos
+		20/10/2021 Birmingham TV, Bristol TV, Leeds TV, Liverpool TV and Tyne & Wear TV close on Astra
+		20/10/2021 Cardiff TV renamed to Local TV on Astra
+		20/10/2021 New BBC logos
+		21/10/2021 BBC One English regions HD?
 		22/10/2021 Sky Cinema Jokers HD
 		28/10/2021 Eir Sport 1 HD closes
 		08/11/2021 MTV Xmas
@@ -2286,6 +2288,12 @@
 				</Item>
 				<Item Name="Liverpool Local TV" />
 			<File>Liverpool Local TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Local TV">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Local TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="London Live">
