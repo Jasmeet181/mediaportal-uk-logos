@@ -3,10 +3,9 @@
 <!-- ******************************************************************** -->
 		<!--
 		05/10/2021 Hi-Impact TV removed
-		05/10/2021 A1TV and Celebration TV removed
-		01/11/2021 Sky News Climate Live HD launches
+		19/10/2021 A1TV and Celebration TV removed
 		08/11/2021 MTV Xmas
-		12/11/2021 Sky News Climate HD closes
+		12/11/2021 Sky News Climate Live closes
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 BBC Alba HD launches
 		00/00/2022 BBC One English regions HD launch
@@ -2745,7 +2744,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Prime Video" />
-				<Item Name="PrimeSportsBar">
+				<Item Name="Prime Video HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Prime Video.png</File>
@@ -3156,7 +3155,7 @@
 			<File>Sky Cinema Best of the 80s HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BlockbustersHD">
+				<Item Name="BlockbusterHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Sky Cinema Blockbusters HD" />
@@ -3693,11 +3692,11 @@
 			<File>Sky News Arabia.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky News Climate Live HD" />
+				<Item Name="Sky News Climate Live" />
 				<Item Name="Sky Climate HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>Sky News Climate Live HD.png</File>
+			<File>Sky News Climate Live.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky News HD">
@@ -4291,6 +4290,9 @@
 		<Channel>
 				<Item Name="That's Christmas">
 					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="That'sChristmas">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Thats Christmas.png</File>
 		</Channel>
