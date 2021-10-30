@@ -4,8 +4,10 @@
 		<!--
 		05/10/2021 Hi-Impact TV removed
 		19/10/2021 A1TV and Celebration TV removed
+		01/11/2021 High Street TV 5 closes
 		08/11/2021 MTV Xmas
 		12/11/2021 Sky News Climate Live closes
+		22/11/2021 Sky Cinema Best of 2021 HD
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 BBC Alba HD launches
 		00/00/2022 BBC One English regions HD launch
@@ -3146,6 +3148,11 @@
 				</Item>
 				<Item Name="Sky Cinema Batman HD" />
 			<File>Sky Cinema Bartman HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Best of 2021 HD" />
+				<Item Name="SkyBestOf21HD"/>
+			<File>Sky Cinema Best of 2021 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Best of 80s HD">
