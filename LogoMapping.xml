@@ -2,12 +2,13 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		05/10/2021 Hi-Impact TV removed
 		19/10/2021 A1TV and Celebration TV removed
-		01/11/2021 High Street TV 5 closes
+		08/11/2021 Desi Radio closes
 		08/11/2021 MTV Xmas
+		08/11/2021 TJC Beauty launches
 		12/11/2021 Sky News Climate Live closes
 		22/11/2021 Sky Cinema Best of 2021 HD
+		00/00/2021 New Media TV UK/HD launches
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 BBC Alba HD launches
 		00/00/2022 BBC One English regions HD launch
@@ -1854,9 +1855,6 @@
 				<Item Name="High Street TV 4">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="High Street TV 5">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 			<File>High Street TV.png</File>
 		</Channel>
 		<Channel>
@@ -2442,6 +2440,15 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Neo News.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="New Media TV UK">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="NewMediaUKHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>New Media TV UK.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="New Vision TV">
@@ -4368,6 +4375,12 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>TJC.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TJC Beauty">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>TJC Beauty.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TJC HD">

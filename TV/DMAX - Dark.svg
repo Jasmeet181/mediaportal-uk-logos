@@ -1,8 +1,1 @@
-<svg width="167.72pt" height="67.086pt" version="1.1" viewBox="0 0 167.72 67.086" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.16772 0 0 .16772 147.55 120.11)" fill="#093b46">
-  <path transform="translate(-879.78 -716.18)" d="m0 0v400h1e3v-400z" style="paint-order:stroke fill markers"/>
- </g>
- <g transform="matrix(.16772 0 0 .16772 147.55 120.11)">
-  <path transform="translate(-879.78 -716.18)" d="m100.88 104.5h82.125c58.579 0 93.622 35.58 93.623 94.697 0 62.596-35.576 96.301-93.623 96.301h-82.125zm188.74 0h73.297l32.902 104.47 33.438-104.47h73.293v191h-212.93zm290.25 0h50.561l71.422 191h-193.41zm132.26 4e-3h181.36l-61.789 90.682 67.41 100.31h-192.6l67.945-100.31z" fill="#fff" style="paint-order:stroke fill markers"/>
- </g>
-</svg>
+<svg width="800" height="293.22" version="1.1" viewBox="0 0 800 293.22" xml:space="preserve" xmlns="http://www.w3.org/2000/svg"><link rel="stylesheet" type="text/css"/><link rel="stylesheet" type="text/css"/><style lang="en" type="text/css"/><style lang="en" type="text/css"/><path d="m0 6.8359e-6v293.22h800v-293.22zm70.025 66.679h68.352c48.684 0 77.978 29.573 77.978 78.814 0 51.892-29.573 80.068-77.978 80.068h-68.352zm157.07 0h60.958l27.201 86.764 27.899-86.764h61.1v158.88h-177.16zm241.46 0h41.987l59.424 158.88h-160.84zm110.06 0h150.79l-51.474 75.327 56.217 83.555h-160.28l56.495-83.555z" fill="#003c46" stroke-width="1.3949"/></svg>
