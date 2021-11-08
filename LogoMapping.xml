@@ -2,10 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		19/10/2021 A1TV and Celebration TV removed
-		08/11/2021 Desi Radio closes
-		08/11/2021 MTV Xmas
-		08/11/2021 TJC Beauty launches
+		19/10/2021 Celebration TV removed
 		12/11/2021 Sky News Climate Live closes
 		22/11/2021 Sky Cinema Best of 2021 HD
 		00/00/2021 New Media TV UK/HD launches
@@ -2374,14 +2371,12 @@
 			<File>MTV Summer.png</File>
 		</Channel>
 		-->
-		<!--
 		<Channel>
 				<Item Name="MTV Xmas">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>MTV Xmas.png</File>
 		</Channel>
-		-->
 		<Channel>
 				<Item Name="MUTV">
 					<Provider>Astra 28.2E</Provider>
@@ -5270,12 +5265,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Classic FM.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Desi Radio">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Desi Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="EWTN" />
