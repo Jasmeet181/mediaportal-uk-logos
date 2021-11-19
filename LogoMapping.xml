@@ -3,9 +3,9 @@
 <!-- ******************************************************************** -->
 		<!--
 		19/10/2021 Celebration TV removed
-		12/11/2021 Sky News Climate Live closes
 		22/11/2021 Sky Cinema Best of 2021 HD
 		00/00/2021 New Media TV UK/HD launches
+		00/00/2021 UCB Ireland added to Saorview
 		00/01/2022 BBC Three/HD launches
 		00/00/2022 BBC Alba HD launches
 		00/00/2022 BBC One English regions HD launch
@@ -13,6 +13,7 @@
 		00/00/2022 BBC Two Northern Ireland HD added to Astra
 		00/00/2022 New BBC News logo
 		00/00/2022 New BBC Radio logos
+		00/00/2022 Sky Cinema Lord of the Rings HD
 		00/00/2022 TalkTV
 		-->
 	<TV>
@@ -566,6 +567,13 @@
 				</Item>
 				<Item Name="BBC Red Button 1" />
 			<File>BBC Red Button 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="6971">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Three" />
+			<File>BBC Three.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Two">
@@ -3341,6 +3349,13 @@
 			<File>Sky Cinema Kids Books HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Lord of the Rings HD" />
+				<Item Name="LordoftheRingsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Lord of the Rings HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Magic HD" />
 				<Item Name="Sky Magic HD">
 					<Provider>Astra 28.2E</Provider>
@@ -3699,13 +3714,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky News Arabia.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky News Climate Live" />
-				<Item Name="Sky Climate HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky News Climate Live.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky News HD">
@@ -4297,15 +4305,6 @@
 			<File>Thane Direct.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="That's Christmas">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="That'sChristmas">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Thats Christmas.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="That's TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -4319,6 +4318,14 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Thats TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="That's TV Christmas" />
+				<Item Name="That's TV Xmas">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats TV Christmas.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="That's TV Gold">
@@ -5546,6 +5553,10 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Trans World Radio UK.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="UCB Ireland" />
+			<File>UCB Ireland.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Virgin Radio">
