@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		19/10/2021 Celebration TV removed
-		22/11/2021 Sky Cinema Best of 2021 HD
 		00/00/2021 New Media TV UK/HD launches
 		00/00/2021 UCB Ireland added to Saorview
 		00/01/2022 BBC Three/HD launches
@@ -947,12 +945,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>CBS Reality Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Celebration TV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Celebration TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CGTN">
@@ -3160,8 +3152,10 @@
 			<File>Sky Cinema Bartman HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BestOf2021HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Best of 2021 HD" />
-				<Item Name="SkyBestOf21HD"/>
 			<File>Sky Cinema Best of 2021 HD.png</File>
 		</Channel>
 		<Channel>
