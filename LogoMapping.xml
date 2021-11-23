@@ -4320,6 +4320,9 @@
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+				<Item Name="That's TV Xmas UK">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>Thats TV Christmas.png</File>
 		</Channel>
 		<Channel>
