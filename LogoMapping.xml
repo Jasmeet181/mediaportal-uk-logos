@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		23/11/2021 Panjab Radio removed
 		00/00/2021 New Media TV UK/HD launches
 		00/00/2021 UCB Ireland added to Saorview
 		00/01/2022 BBC Three/HD launches
@@ -3152,10 +3153,10 @@
 			<File>Sky Cinema Bartman HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BestOf2021HD">
+				<Item Name="Sky Cinema Best of 2021 HD" />
+				<Item Name="SkyBestOf21HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Sky Cinema Best of 2021 HD" />
 			<File>Sky Cinema Best of 2021 HD.png</File>
 		</Channel>
 		<Channel>
