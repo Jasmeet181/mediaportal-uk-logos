@@ -12,7 +12,6 @@
 		00/00/2022 NBC News Now HD
 		00/00/2022 New BBC News logo
 		00/00/2022 New BBC Radio logos
-		00/00/2022 S4C HD added to Freeview
 		00/00/2022 TalkTV
 		-->
 	<TV>
@@ -3029,6 +3028,7 @@
 		<Channel>
 				<Item Name="S4C HD">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>S4C HD.png</File>
 		</Channel>
@@ -4415,6 +4415,9 @@
 				<Item Name="That's TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+				<Item Name="That's TV (UK)">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 				<Item Name="That's TV Lancashire">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -4426,7 +4429,6 @@
 				</Item>
 				<Item Name="That's TV UK">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Thats TV.png</File>
 		</Channel>
@@ -4825,10 +4827,10 @@
 			<File>XXX Public Pickups.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="YAAAS!">
+				<Item Name="Yaaas!">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>YAAAS.png</File>
+			<File>Yaaas.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Yanga!">
