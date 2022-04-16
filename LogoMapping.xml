@@ -2,19 +2,15 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		26/01/2022 BBC Three/HD placeholders added to Freeview
-		27/01/2022 BBC Three/HD placeholders added to Freesat
-		28/01/2022 Sky Cinema Killer Movies HD
-		01/02/2022 BBC Three/HD launches
-		07/02/2022 Sky Cinema Valentine HD
-		00/00/2022 BBC Alba HD launches
-		00/00/2022 BBC One English regions HD launch
-		00/00/2022 BBC Parliament HD launches
-		00/00/2022 BBC Two Northern Ireland HD added to Astra
-		00/00/2022 NBC News Now HD
-		00/00/2022 New BBC News logo
-		00/00/2022 New BBC Radio logos
-		00/00/2022 TalkTV
+		31/03/22 KTV license suspended
+		00/04/22 KTV license appeal
+		00/04/22 QVC and QVC Style in SD removed from Astra
+		00/05/22 Siraj TV renamed back to Venus TV after Ramadan?
+		00/00/22 BBC Alba HD
+		00/00/22 BBC Parliament HD
+		00/00/22 BBC Two Northern Ireland HD added to Astra
+		00/00/22 New BBC News/HD, BBC Parliament/HD, CBBC/HD, CBeebies/HD logos
+		00/00/23 BBC One English regions HD launch
 		-->
 	<TV>
 		<Channel>
@@ -70,15 +66,6 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>3ABN Russia.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="4Ace.TV">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="4Ace.TV HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>4AceTV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="4Music">
@@ -163,18 +150,6 @@
 			<File>Aastha.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="African Movie Channel">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>African Movie Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="African Movie Channel HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>African Movie Channel HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Africanews">
 					<Provider>Channelbox</Provider>
 				</Item>
@@ -197,6 +172,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Akaal Channel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Al Arabiya">
+					<Provider>VisionTV</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Al Arabiya.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Al Hadath">
@@ -271,6 +253,13 @@
 			<File>Arise News.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ArisePlay">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>ArisePlay.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="ARY Digital">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -278,6 +267,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Asharq News">
+					<Provider>Freeview (GB)</Provider>
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Asharq News.png</File>
@@ -294,6 +284,21 @@
 				</Item>
 				<Item Name="ATN Bangla" />
 			<File>ATN Bangla.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Auto Allstars">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Auto Allstars HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Auto Allstars.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="AWE Plus">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>AWE Plus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Ayozat TV">
@@ -606,23 +611,15 @@
 			<File>BBC Red Button 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="10351">
+				<Item Name="BBC Three">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="10373">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC Three" />
 			<File>BBC Three.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="6951">
+				<Item Name="BBC Three HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="6971">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BBC Three HD" />
 			<File>BBC Three HD.png</File>
 		</Channel>
 		<Channel>
@@ -704,9 +701,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Bite">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="Bite HD">
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Bite.png</File>
@@ -1080,13 +1074,10 @@
 			<File>Channel 7.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Channel Fight">
+				<Item Name="Channel Fight Masterclass">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Channel Fight HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Channel Fight.png</File>
+			<File>Channel Fight Masterclass.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Channel S" />
@@ -1234,6 +1225,7 @@
 		<Channel>
 				<Item Name="Craft Extra">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Craft Extra.png</File>
 		</Channel>
@@ -1419,6 +1411,12 @@
 			<File>Drama Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Duck TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Duck TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Dunamis TV">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>VisionTV</Provider>
@@ -1489,6 +1487,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Eman Channel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="eSports 24/7 TV">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>ESports 247 TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Euronews">
@@ -1580,9 +1584,6 @@
 				<Item Name="Extreme+">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Extreme+ HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>ExtremePlus.png</File>
 		</Channel>
 		<Channel>
@@ -1612,9 +1613,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="FidoTV">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="FidoTV HD">
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>FidoTV.png</File>
@@ -1725,6 +1723,18 @@
 			<File>Freeview Accessible TV Guide.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Fuel TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Fuel TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Fuel TV HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Fuel TV HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="GB News">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -1735,12 +1745,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>GB News HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Gemporia Craft">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Gemporia Craft.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Gems TV">
@@ -1898,6 +1902,15 @@
 			<File>Hellenic TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Heritage+">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Heritage+ HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>HeritagePlus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="HGTV">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -1933,17 +1946,11 @@
 			<File>High Street TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Hi-Impact TV">
+				<Item Name="HobbyMaker">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>Hi-Impact TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Hillsong">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Hillsong Channel" />
-			<File>Hillsong Channel.png</File>
+			<File>HobbyMaker.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Horror Channel">
@@ -1987,7 +1994,6 @@
 		<Channel>
 				<Item Name="Ideal Extra">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Ideal Extra.png</File>
 		</Channel>
@@ -2011,6 +2017,13 @@
 			<File>Ideal Xmas.png</File>
 		</Channel>
 		-->
+		<Channel>
+				<Item Name="Imam Hussein TV3" />
+				<Item Name="ImamHussein3">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Imam Hussein TV3.png</File>
+		</Channel>
 		<Channel>
 				<Item Name="Inspiration TV">
 					<Provider>Astra 28.2E</Provider>
@@ -2239,6 +2252,13 @@
 			<File>Kiss.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Kiss Chat &amp; Date">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Kiss Chat on TV" />
+			<File>Kiss Chat on TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="KMTV" />
 				<Item Name="KMTV Made for Kent" />
 			<File>KMTV.png</File>
@@ -2266,9 +2286,6 @@
 				<Item Name="Law &amp; Crime">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Law &amp; Crime HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>Law and Crime.png</File>
 		</Channel>
 		<Channel>
@@ -2283,13 +2300,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>LFCTV HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Live 360">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>Live 360.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Liverpool TV">
@@ -2339,6 +2349,12 @@
 			<File>MATV National.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="MMA-TV.com">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>MMA-TV.com.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="More4">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2376,8 +2392,7 @@
 			<File>Movies 24 Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTA1 World" />
-				<Item Name="MTA-Muslim TV">
+				<Item Name="MTA1 World">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>MTA1 World.png</File>
@@ -2389,16 +2404,16 @@
 			<File>MTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV Base">
+				<Item Name="MTV 80s">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>MTV Base.png</File>
+			<File>MTV 80s.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="MTV Classic">
+				<Item Name="MTV 90s">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>MTV Classic.png</File>
+			<File>MTV 90s.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV HD">
@@ -2540,15 +2555,6 @@
 			<File>Newsmax TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="NextUp">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="NextUp HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>NextUp.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="NHK World HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2626,6 +2632,15 @@
 			<File>Nicktoons.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="NollyAfrica">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="NollyAfrica HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>NollyAfrica.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Noor TV">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2701,6 +2716,12 @@
 			<File>NVTV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="OAN Plus">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>OAN Plus.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="OD365.TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -2764,13 +2785,6 @@
 			<File>Pick.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Pick +1" />
-				<Item Name="Pick+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Pick Plus 1.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Pitaara">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2813,6 +2827,12 @@
 			<File>Pop Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Popstar! TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Popstar TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Premier 1 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2838,6 +2858,13 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Propeller TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Proud Chat on TV" />
+				<Item Name="Proud Dating">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Proud Chat on TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="PTC Punjabi">
@@ -2925,6 +2952,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="QVC HD">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>QVC HD.png</File>
@@ -2933,6 +2961,12 @@
 				<Item Name="QVC Style">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>QVC Style.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="QVC Style HD">
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>QVC Style.png</File>
 		</Channel>
@@ -2971,77 +3005,83 @@
 			<File>Rok.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RT">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="Rotana Cinema">
+					<Provider>Channelbox</Provider>
 				</Item>
-			<File>RT.png</File>
+			<File>Rotana Cinema.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RT HD">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
+				<Item Name="Rotana Khalijiah">
+					<Provider>Channelbox</Provider>
 				</Item>
-			<File>RT HD.png</File>
+			<File>Rotana Khalijiah.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTÉ Junior">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTÉJR">
+				<Item Name="RTEJr">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE Junior.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ News">
+				<Item Name="RTE News">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ News">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE News.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ One">
+				<Item Name="RTE One">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ One">
 					<Provider>Freeview (GB)</Provider>
 					<Provider>Saorview</Provider><!-- Broadcast in HD -->
 				</Item>
 			<File>RTE One.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ One HD">
+				<Item Name="RTE One HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="RTÉ One HD" />
 			<File>RTE One HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTÉ One +1">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTÉ One+1">
+				<Item Name="RTE One+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE One Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ2">
+				<Item Name="RTE2">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ2">
 					<Provider>Freeview (GB)</Provider>
 					<Provider>Saorview</Provider><!-- Broadcast in HD -->
 				</Item>
 			<File>RTE2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ2 HD">
+				<Item Name="RTE2 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="RTÉ2 HD" />
 			<File>RTE2 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTÉ2 +1">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTÉ2+1">
+				<Item Name="RTE2+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE2 Plus 1.png</File>
@@ -3059,6 +3099,15 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>S4C HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sacred Sites+">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Sacred Sites+ HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Sacred SitesPlus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sangat">
@@ -3102,17 +3151,17 @@
 			<File>Sheffield Live TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Shopping Quarter">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Shopping Quarter.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sikh Channel">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Sikh Channel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Siraj TV">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Siraj TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky">
@@ -3247,6 +3296,20 @@
 			<File>Sky Cinema Blockbusters HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Book Day">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Book Day" />
+			<File>Sky Cinema Book Day.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Book Day HD" />
+				<Item Name="SkyBookDayHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Book Day HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Christmas">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3259,12 +3322,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Christmas HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky Comedy Cinema">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky Cinema Comedy.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Comedy HD" />
@@ -3298,18 +3355,18 @@
 			<File>Sky Cinema Divergent HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Drama" />
-				<Item Name="Sky Drama">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky Cinema Drama.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sky Cinema Drama HD" />
 				<Item Name="Sky Drama HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Drama HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Epics HD" />
+				<Item Name="Sky Epics HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Epics HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Family" />
@@ -3361,6 +3418,20 @@
 			<File>Sky Cinema Greats HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Godfather" />
+				<Item Name="Sky Godfather">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Godfather.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Godfather HD" />
+				<Item Name="SkyGodfatherHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Godfather HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Halloween HD" />
 				<Item Name="Halloween HD">
 					<Provider>Astra 28.2E</Provider>
@@ -3368,10 +3439,17 @@
 			<File>Sky Cinema Halloween HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Harry Potter HD" />
+				<Item Name="Sky Cinema Harry Potter" />
+				<Item Name="SkyHarryPotter">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Harry Potter.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="HarryPotterHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Sky Cinema Harry Potter HD" />
 			<File>Sky Cinema Harry Potter HD.png</File>
 		</Channel>
 		<Channel>
@@ -3382,12 +3460,26 @@
 			<File>Sky Cinema Hits HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Indiana Jones" />
+				<Item Name="SkyIndianaJones">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Indiana Jones.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="IndianaJonesHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Indiana Jones HD" />
+			<File>Sky Cinema Indiana Jones HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Jokers HD" />
 				<Item Name="Sky Jokers HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Jokers HD.png</File>
-		</Channel>
+		</Channel>	
 		<Channel>
 				<Item Name="Sky Cinema Jurassic Park" />
 				<Item Name="Sky Jurassic">
@@ -3417,6 +3509,9 @@
 			<File>Sky Cinema Kids Books HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="KillerMoviesHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Killer Movies HD" />
 			<File>Sky Cinema Killer Movies HD.png</File>
 		</Channel>
@@ -3643,13 +3738,6 @@
 			<File>Sky Cinema The Matrix HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Thriller" />
-				<Item Name="Sky Thriller">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky Cinema Thriller.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sky Cinema Thriller HD" />
 				<Item Name="Sky Thriller HD">
 					<Provider>Astra 28.2E</Provider>
@@ -3665,6 +3753,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Valentine HD" />
+				<Item Name="SkyValentineHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Cinema Valentine HD.png</File>
 		</Channel>
 		<Channel>
@@ -4154,6 +4245,20 @@
 			<File>Sky Sports The Players HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Sports Womens Cricket World Cup" />
+				<Item Name="Sky World Cup">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports Womens Cricket World Cup.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports Womens Cricket World Cup HD" />
+				<Item Name="SkyWorldCupHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports Womens Cricket World Cup HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Witness">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4273,25 +4378,16 @@
 				<Item Name="Stingray CMusic">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Stingray CMusic HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>Stingray CMusic.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Stingray Naturescape">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Stingray Naturescape HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>Stingray Naturescape.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Stingray Qello">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="Stingray Qello HD">
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Stingray Qello.png</File>
@@ -4347,13 +4443,6 @@
 			<File>Syfy HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Syfy +1" />
-				<Item Name="Syfy+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Syfy Plus 1.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Takbeer TV">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4376,8 +4465,16 @@
 			<File>Talking Pictures TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="TalkTV" />
+				<Item Name="TalkTV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>TalkTV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TalkTV HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>TalkTV HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TBN UK">
@@ -4472,6 +4569,12 @@
 			<File>Thats TV Christmas.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="That's Music">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats Music.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Adult Channel">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4490,15 +4593,6 @@
 				</Item>
 				<Item Name="The Craft Channel" />
 			<File>The Craft Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Craft Store TV">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="The Craft Store">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>The Craft Store.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TRP 1">
@@ -4535,7 +4629,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Times Now Navbharat">
-					<Provider>VisionTV</Provider>
+					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Times Now Navbharat.png</File>
 		</Channel>
@@ -4637,6 +4731,12 @@
 			<File>TVC News.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="TVP World">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>TVP World.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TVX 40+">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4650,6 +4750,12 @@
 			<File>Tyne and Wear Local TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Ukraina 24">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Ukraina 24.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Ultra HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4660,6 +4766,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Ultra HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Unreel">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Unreel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Utsav Bharat">
@@ -4791,6 +4903,7 @@
 		<Channel>
 				<Item Name="W">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>W.png</File>
 		</Channel>
@@ -5039,8 +5152,8 @@
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="BBC Radio 5 Live Sports Extra" />
-			<File>BBC Radio 5 Live Sports Extra.png</File>
+				<Item Name="BBC Radio 5 Sports Extra" />
+			<File>BBC Radio 5 Sports Extra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC 6 Music">
@@ -5528,13 +5641,6 @@
 			<File>Premier Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Apni Awaz">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Radio Apni Awaz" />
-			<File>Radio Apni Awaz.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Khushkhabri">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -5561,8 +5667,10 @@
 			<File>RNIB Connect Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ 2FM">
+				<Item Name="RTE 2FM">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ 2FM">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE 2FM.png</File>
@@ -5580,8 +5688,10 @@
 			<File>RTE Chill.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ Gold">
+				<Item Name="RTE Gold">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ Gold">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Gold.png</File>
@@ -5596,20 +5706,22 @@
 				<Item Name="RTÉ Lyric">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTÉ Lyric fm">
+				<Item Name="RTE Lyric FM">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE Lyric fm.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ Pulse">
+				<Item Name="RTE Pulse">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ Pulse">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Pulse.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ R na G">
+				<Item Name="RTE R na G">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="RTÉ Raidió na Gaeltachta">
@@ -5621,15 +5733,19 @@
 			<File>RTE Raidio na Gaeltachta.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ Radio 1">
+				<Item Name="RTE Radio 1">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ Radio 1">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Radio 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ Radio 1 Extra">
+				<Item Name="RTE Radio 1 Extra">
 					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="RTÉ Radio 1 Extra">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Radio 1 Extra.png</File>
