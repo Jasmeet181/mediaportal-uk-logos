@@ -11,6 +11,7 @@
 		00/00/22 BBC Two Northern Ireland HD added to Astra
 		00/00/22 New BBC News/HD, BBC Parliament/HD, CBBC/HD, CBeebies/HD logos
 		00/00/23 BBC One English regions HD launch
+		KICC TV new logo, not on-screen yet - https://www.kicctv.tv/images/kicc-logo.png
 		-->
 	<TV>
 		<Channel>
@@ -344,12 +345,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>BabyTV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Bangla TV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Bangla TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Alba">
