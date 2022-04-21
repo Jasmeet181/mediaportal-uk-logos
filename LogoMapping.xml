@@ -1036,6 +1036,7 @@
 		<Channel>
 				<Item Name="Channel 44">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Channel 44.png</File>
 		</Channel>
@@ -4877,12 +4878,6 @@
 			<File>Virgin Media Two HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Vision TV Channel">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>Vision TV Channel.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="VisionTV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -4894,6 +4889,12 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Vox Africa.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="VTC">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>VTC.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="W">
