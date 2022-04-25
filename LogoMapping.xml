@@ -6,11 +6,11 @@
 		00/04/22 KTV license appeal
 		00/04/22 QVC and QVC Style in SD removed from Astra
 		00/05/22 Siraj TV renamed back to Venus TV after Ramadan?
-		00/00/22 BBC Alba HD
-		00/00/22 BBC Parliament HD
+		00/00/22 BBC Alba HD added to Astra
+		00/00/22 BBC Parliament HD added to Astra
 		00/00/22 BBC Two Northern Ireland HD added to Astra
-		00/00/22 New BBC News/HD, BBC Parliament/HD, CBBC/HD, CBeebies/HD logos
-		00/00/23 BBC One English regions HD launch
+		00/00/22 New BBC Parliament/HD, CBBC/HD, CBeebies/HD logos
+		00/00/23 BBC One English regions HD added to Astra and Freeview
 		KICC TV new logo, not on-screen yet - https://www.kicctv.tv/images/kicc-logo.png
 		-->
 	<TV>
@@ -3275,7 +3275,7 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Sky Cinema Batman HD" />
-			<File>Sky Cinema Bartman HD.png</File>
+			<File>Sky Cinema Batman HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Best of 80s HD">
@@ -4931,12 +4931,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Xpanded TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="XXX Brits">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>XXX Brits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="XXX College">
