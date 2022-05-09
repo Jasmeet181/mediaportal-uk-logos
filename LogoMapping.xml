@@ -2,16 +2,16 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/03/22 KTV license suspended
-		00/04/22 KTV license appeal
-		00/04/22 QVC and QVC Style in SD removed from Astra
-		00/05/22 Siraj TV renamed back to Venus TV after Ramadan?
-		00/00/22 BBC Alba HD added to Astra
-		00/00/22 BBC Parliament HD added to Astra
-		00/00/22 BBC Two Northern Ireland HD added to Astra
+		31/03/22 KTV license suspended - https://www.ofcom.org.uk/news-centre/2022/ktv-licence-suspended
+		00/05/22 KTV license appeal - https://twitter.com/KTVGlobal/status/1509634803024412682
+		30/06/22 Freeview COM7 closes - BBC Four HD, BBC News HD, CBeebies HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming
+		00/00/22 BBC Alba HD, BBC Parliament HD and BBC Two Northern Ireland HD added to Astra https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 New BBC Parliament/HD, CBBC/HD, CBeebies/HD logos
-		00/00/23 BBC One English regions HD added to Astra and Freeview
+		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		KICC TV new logo, not on-screen yet - https://www.kicctv.tv/images/kicc-logo.png
+		
+		Gold TV/Radio conflict
+		Sky Cinema Comedy HD/Sky Comedy HD conflict
 		-->
 	<TV>
 		<Channel>
@@ -337,8 +337,8 @@
 				<Item Name="Adult Babestn">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="Babestation BSX" />
-			<File>Babestation BSX.png</File>
+				<Item Name="Babestation" />
+			<File>Babestation.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BabyTV">
@@ -1267,6 +1267,15 @@
 			<File>Cruise1st.tv.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Current Time">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Current Time HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Current Time.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Dave">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -1703,6 +1712,18 @@
 			<File>FreeSports HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="695">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="696">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="697">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="698">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 				<Item Name="Adult Section">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -1785,6 +1806,7 @@
 				<Item Name="Gold">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Gold TV" />
 			<File>Gold.png</File>
 		</Channel>
 		<Channel>
@@ -2913,7 +2935,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="QVC">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>QVC.png</File>
@@ -2955,7 +2976,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="QVC Style">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>QVC Style.png</File>
@@ -3552,6 +3572,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Misfits HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Monsters" />
+				<Item Name="Sky Monsters">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Monsters.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Monsters HD" />
@@ -4377,6 +4404,12 @@
 			<File>Stingray CMusic.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Stingray Karaoke">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Stingray Karaoke.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Stingray Naturescape">
 					<Provider>Channelbox</Provider>
 				</Item>
@@ -4739,6 +4772,12 @@
 			<File>TVX 40Plus.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Twisted Mirror TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Twisted Mirror TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Tyne &amp; Wear TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -4819,12 +4858,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>UTV Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Venus TV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Venus TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Virgin Media 1">
@@ -4915,6 +4948,15 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>W Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="WBC Live Channel HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="WBC Live Channel">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>WBC Live Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="WION" />
@@ -5517,6 +5559,7 @@
 				<Item Name="Gold">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Gold Radio" />
 			<File>Gold Radio.png</File>
 		</Channel>
 		<Channel>
