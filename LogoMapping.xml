@@ -3,12 +3,17 @@
 <!-- ******************************************************************** -->
 		<!--
 		31/03/22 KTV license suspended - https://www.ofcom.org.uk/news-centre/2022/ktv-licence-suspended
-		00/05/22 KTV license appeal - https://twitter.com/KTVGlobal/status/1509634803024412682
+		20/05/22 Sky Cinema Ultimate Action HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-May-2022/td-p/3988969
+		00/05/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
 		30/06/22 Freeview COM7 closes - BBC Four HD, BBC News HD, CBeebies HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming
-		00/00/22 BBC Alba HD, BBC Parliament HD and BBC Two Northern Ireland HD added to Astra https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
-		00/00/22 New BBC Parliament/HD, CBBC/HD, CBeebies/HD logos
-		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
-		KICC TV new logo, not on-screen yet - https://www.kicctv.tv/images/kicc-logo.png
+		00/06/22 MTA1 World HD (53151) - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
+		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
+		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos
+		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
+		00/00/22 BT Sport ESPN/HD rebranded as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
+		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
+		BT Sport/Eurosport rebrand - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
+		KICC TV new logo - https://www.kicctv.tv/
 		
 		Gold TV/Radio conflict
 		Sky Cinema Comedy HD/Sky Comedy HD conflict
@@ -642,6 +647,9 @@
 			<File>BBC Two Northern Ireland.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="11015">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="BBC Two NI HD">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -1880,7 +1888,7 @@
 			<File>Great Movies Classic.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Great! Class+1">
+				<Item Name="Great! Classic+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Great! Movies Classic +1">
@@ -2410,6 +2418,9 @@
 			<File>Movies 24 Plus.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="53151">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="MTA1 World">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3775,6 +3786,13 @@
 			<File>Sky Cinema Transformers HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Ultimate Action HD" />
+				<Item Name="SkyUltActionHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Ultimate Action HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Valentine HD" />
 				<Item Name="SkyValentineHD">
 					<Provider>Astra 28.2E</Provider>
@@ -4791,13 +4809,10 @@
 			<File>Ukraina 24.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="UH1MON">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Ultra HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="US1MON">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="US2MON">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Ultra HD.png</File>
