@@ -6,7 +6,7 @@
 		20/05/22 Sky Cinema Ultimate Action HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-May-2022/td-p/3988969
 		00/05/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
 		30/06/22 Freeview COM7 closes - BBC Four HD, BBC News HD, CBeebies HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming
-		00/06/22 MTA1 World HD (53151) - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
+		00/06/22 MTA1 HD World (53151) - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos
 		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
@@ -2421,6 +2421,10 @@
 				<Item Name="53151">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="MTA1 HD World" />
+			<File>MTA1 HD World.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="MTA1 World">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
