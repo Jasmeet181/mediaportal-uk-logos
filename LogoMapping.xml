@@ -3,7 +3,6 @@
 <!-- ******************************************************************** -->
 		<!--
 		31/03/22 KTV license suspended - https://www.ofcom.org.uk/news-centre/2022/ktv-licence-suspended
-		20/05/22 Sky Cinema Ultimate Action HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-May-2022/td-p/3988969
 		00/05/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
 		30/06/22 Freeview COM7 closes - BBC Four HD, BBC News HD, CBeebies HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming
 		00/06/22 MTA1 HD World (53151) - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
@@ -3791,7 +3790,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Ultimate Action HD" />
-				<Item Name="SkyUltActionHD">
+				<Item Name="UltActionHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Ultimate Action HD.png</File>
