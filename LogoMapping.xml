@@ -3,14 +3,25 @@
 <!-- ******************************************************************** -->
 		<!--
 		31/03/22 KTV license suspended - https://www.ofcom.org.uk/news-centre/2022/ktv-licence-suspended
-		00/05/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
-		30/06/22 Freeview COM7 closes - BBC Four HD, BBC News HD, CBeebies HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming
-		00/06/22 MTA1 HD World (53151) - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
+		06/06/22 Sky Cinema Jurassic World HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
+		10/06/22 Sky Cinema Pride HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
+		16/06/22 Sky Cinema Best of the 90s HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
+		24/06/22 Sky Cinema True Stories HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
+		24/06/22 Sky Cinema Resident Evil HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
+		30/06/22 Freeview COM7 closes - BBC News HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming https://www.bbc.co.uk/reception/work-warning/news/waw-com7
+		30/06/22 LaLigaTV closes - https://webcache.googleusercontent.com/search?q=cache:B9KVYDtX5QQJ:https://media.sportbusiness.com/2022/05/laliga-preparing-uk-d2c-solution-as-talks-with-fite-stall/
+		00/06/22 BBC RB 2-6 (6802-6) and BBC RB HD (6811) launch on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
+		00/06/22 MTA1 HD World (53151) launches on Astra - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
+		00/07/22 BBC RB 2-6 and BBC RB HD closes on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos
 		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
 		00/00/22 BT Sport ESPN/HD rebranded as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
+		00/00/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
+		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
+		BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
+		BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
 		BT Sport/Eurosport rebrand - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		
@@ -439,7 +450,7 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 				<Item Name="BBC One West Midlands" />
-			<File>BBC One Midlands.png</File>
+			<File>BBC One West Midlands.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC One NE&amp;C">
@@ -609,6 +620,68 @@
 				<Item Name="BBC Red Button 1" />
 			<File>BBC Red Button 1.png</File>
 		</Channel>
+		<!--
+		<Channel>
+				<Item Name="6802">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC RB 2">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Red Button 2" />
+			<File>BBC Red Button 2.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="6803">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC RB 3">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Red Button 3" />
+			<File>BBC Red Button 3.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="6804">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC RB 4">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Red Button 4" />
+			<File>BBC Red Button 4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="6805">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC RB 5">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Red Button 5" />
+			<File>BBC Red Button 5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="6806">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC RB 6">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Red Button 6" />
+			<File>BBC Red Button 6.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="6811">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC RB HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Red Button HD" />
+			<File>BBC Red Button HD.png</File>
+		</Channel>
+		-->
 		<Channel>
 				<Item Name="BBC Three">
 					<Provider>Astra 28.2E</Provider>
@@ -1930,9 +2003,6 @@
 				<Item Name="Heritage+">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Heritage+ HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>HeritagePlus.png</File>
 		</Channel>
 		<Channel>
@@ -2275,13 +2345,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Kiss.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Kiss Chat &amp; Date">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="Kiss Chat on TV" />
-			<File>Kiss Chat on TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="KMTV" />
@@ -2840,7 +2903,6 @@
 		<Channel>
 				<Item Name="Pop Max">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Pop Max.png</File>
 		</Channel>
@@ -2850,6 +2912,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Pop Max Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Pop Player">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Pop Player.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Pop +1" />
@@ -2890,13 +2958,6 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Propeller TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Proud Chat on TV" />
-				<Item Name="Proud Dating">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Proud Chat on TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="PTC Punjabi">
@@ -3134,9 +3195,6 @@
 				<Item Name="Sacred Sites+">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Sacred Sites+ HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>Sacred SitesPlus.png</File>
 		</Channel>
 		<Channel>
@@ -3319,6 +3377,13 @@
 			<File>Sky Cinema Best of the 80s HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Best of 90s HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Best of the 90s HD" />
+			<File>Sky Cinema Best of the 80s HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="BlockbusterHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3338,6 +3403,27 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Book Day HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Bourne">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Bourne" />
+			<File>Sky Cinema Bourne.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Bourne HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Bourne HD" />
+			<File>Sky Cinema Bourne HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Brits HD" />
+				<Item Name="Sky BritsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Brits HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Christmas">
@@ -3525,6 +3611,13 @@
 			<File>Sky Cinema Jurassic Park HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Jurassic World HD" />
+				<Item Name="JurassicWrldHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Jurassic World HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Kids Books" />
 				<Item Name="Sky Kids Books">
 					<Provider>Astra 28.2E</Provider>
@@ -3686,11 +3779,25 @@
 			<File>Sky Cinema Premiere Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Pride HD" />
+				<Item Name="Sky Pride HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Pride HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Race Against Time HD" />
 				<Item Name="RaceVsTimeHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Race Against Time HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Resident Evil HD" />
+				<Item Name="ResidentEvilHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Resident Evil HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Road Movies HD" />
@@ -3782,11 +3889,32 @@
 			<File>Sky Cinema Thriller HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Tom Cruise" />
+				<Item Name="Sky Tom Cruise">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Tom Cruise.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Tom Cruise HD" />
+				<Item Name="Tom Cruise HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Tom Cruise HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Transformers HD" />
 				<Item Name="TransformersHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Transformers HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema True Stories HD" />
+				<Item Name="TrueStoriesHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema True Stories HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Ultimate Action HD" />
