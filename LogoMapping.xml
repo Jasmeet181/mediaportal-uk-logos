@@ -26,6 +26,8 @@
 		KICC TV new logo - https://www.kicctv.tv/
 		
 		Gold TV/Radio conflict
+		Kerrang TV/Radio conflict
+		Magic TV/Radio conflict
 		Sky Cinema Comedy HD/Sky Comedy HD conflict
 		-->
 	<TV>
@@ -2326,6 +2328,7 @@
 				<Item Name="Kerrang!">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Kerrang! TV" />
 			<File>Kerrang.png</File>
 		</Channel>
 		<Channel>
@@ -2617,12 +2620,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>NDTV 24x7.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Neo News">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Neo News.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="New Media HD">
@@ -3612,7 +3609,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Jurassic World HD" />
-				<Item Name="JurassicWrldHD">
+				<Item Name="JurassicWorldHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Jurassic World HD.png</File>
@@ -5756,6 +5753,7 @@
 				<Item Name="Kerrang!">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+				<Item Name="Kerrang! Radio" />
 			<File>Kerrang Radio.png</File>
 		</Channel>
 		<Channel>
