@@ -9,7 +9,7 @@
 		24/06/22 Sky Cinema True Stories HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
 		24/06/22 Sky Cinema Resident Evil HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
 		30/06/22 Freeview COM7 closes - BBC News HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming https://www.bbc.co.uk/reception/work-warning/news/waw-com7
-		30/06/22 LaLigaTV closes - https://webcache.googleusercontent.com/search?q=cache:B9KVYDtX5QQJ:https://media.sportbusiness.com/2022/05/laliga-preparing-uk-d2c-solution-as-talks-with-fite-stall/
+		30/06/22 LaLigaTV removed from Astra? - https://webcache.googleusercontent.com/search?q=cache:B9KVYDtX5QQJ:https://media.sportbusiness.com/2022/05/laliga-preparing-uk-d2c-solution-as-talks-with-fite-stall/ https://www.laliga.com/en-ES/news/laliga-and-premier-sports-renew-uk-and-ireland-rights-deal-until-2025
 		00/06/22 BBC RB 2-6 (6802-6) and BBC RB HD (6811) launch on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
 		00/06/22 MTA1 HD World (53151) launches on Astra - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
 		00/07/22 BBC RB 2-6 and BBC RB HD closes on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
@@ -18,6 +18,7 @@
 		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
 		00/00/22 BT Sport ESPN/HD rebranded as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
 		00/00/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
+		00/00/22 Sky Cinema Cult Classics/HD
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
@@ -3056,7 +3057,7 @@
 				<Item Name="QVC Style HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>QVC Style.png</File>
+			<File>QVC Style HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Racing TV">
@@ -3216,9 +3217,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="SES UHD Demo">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="VVC Test Transmission">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>SES.png</File>
@@ -3459,6 +3457,20 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Cornetto HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Cult Classics" />
+				<Item Name="Cult Classics">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Cult Classics.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Cult Classics HD" />
+				<Item Name="CultClassicsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Cult Classics HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Divergent HD" />
