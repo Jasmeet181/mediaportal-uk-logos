@@ -2,10 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/03/22 KTV license suspended - https://www.ofcom.org.uk/news-centre/2022/ktv-licence-suspended
-		06/06/22 Sky Cinema Jurassic World HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
-		10/06/22 Sky Cinema Pride HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
-		16/06/22 Sky Cinema Best of the 90s HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
+		16/06/22 Sky Cinema Best of the 90s HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
 		24/06/22 Sky Cinema True Stories HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
 		24/06/22 Sky Cinema Resident Evil HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
 		30/06/22 Freeview COM7 closes - BBC News HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming https://www.bbc.co.uk/reception/work-warning/news/waw-com7
@@ -17,7 +14,6 @@
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos
 		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
 		00/00/22 BT Sport ESPN/HD rebranded as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
-		00/00/22 KTV license appeal - https://twitter.com/SCUKofficial/status/1524709809421012993
 		00/00/22 Sky Cinema Cult Classics/HD
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
@@ -2356,12 +2352,6 @@
 			<File>KMTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="KTV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>KTV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="LaLigaTV" />
 				<Item Name="LaLigaTV HD">
 					<Provider>Astra 28.2E</Provider>
@@ -3372,7 +3362,7 @@
 			<File>Sky Cinema Best of the 80s HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Best of 90s HD">
+				<Item Name="Bestof90sHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Sky Cinema Best of the 90s HD" />
@@ -3621,7 +3611,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Jurassic World HD" />
-				<Item Name="JurassicWorldHD">
+				<Item Name="JurassicWrldHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Jurassic World HD.png</File>
