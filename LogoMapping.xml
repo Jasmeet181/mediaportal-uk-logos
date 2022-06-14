@@ -5,6 +5,7 @@
 		16/06/22 Sky Cinema Best of the 90s HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
 		24/06/22 Sky Cinema True Stories HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
 		24/06/22 Sky Cinema Resident Evil HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237
+		29/06/22 E4 Extra replaces Box Hits, 4Music removed from Freeview - https://www.channel4.com/press/news/e4-brand-extension-sees-4music-become-e4-extra https://www.beyondthejoke.co.uk/sites/default/files/e4_extra_logo.jpg
 		30/06/22 Freeview COM7 closes - BBC News HD, Forces TV, FreeSports, More4+1, Now 80s, PBS America +1, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming https://www.bbc.co.uk/reception/work-warning/news/waw-com7
 		30/06/22 LaLigaTV removed from Astra? - https://webcache.googleusercontent.com/search?q=cache:B9KVYDtX5QQJ:https://media.sportbusiness.com/2022/05/laliga-preparing-uk-d2c-solution-as-talks-with-fite-stall/ https://www.laliga.com/en-ES/news/laliga-and-premier-sports-renew-uk-and-ireland-rights-deal-until-2025
 		00/06/22 BBC RB 2-6 (6802-6) and BBC RB HD (6811) launch on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
@@ -304,9 +305,6 @@
 				<Item Name="Auto Allstars">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Auto Allstars HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>Auto Allstars.png</File>
 		</Channel>
 		<Channel>
@@ -359,6 +357,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>BabyTV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Balle Balle">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Balle Balle.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC Alba">
@@ -794,11 +798,35 @@
 			<File>Blaze Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Bloomberg Quicktake">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Bloomberg Quicktake.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Bloomberg HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Bloomberg TV HD" />
 			<File>Bloomberg TV HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bloomberg TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Bloomberg TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bollywood Classic">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Bollywood Classic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Bollywood HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Bollywood HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Boomerang">
@@ -1532,6 +1560,10 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>E4.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="E4 Extra" />
+			<File>E4 Extra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="E4 HD">
