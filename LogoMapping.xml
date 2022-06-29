@@ -2,21 +2,18 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		23/06/22 BBC RB 2-6 (6802-6) and BBC RB HD (6811) launch on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
-		24/06/22 Sky Cinema Resident Evil HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
-		24/06/22 Sky Cinema True Stories HD - https://forums.digitalspy.com/discussion/comment/100984237#Comment_100984237 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-June-2022/td-p/4012409
-		26/06/22 Syfy/HD rebranded as Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
-		27/06/22 MTV Pride
-		29/06/22 Box Hits rebranded as E4 Extra, 4Music removed from Freeview - https://www.channel4.com/press/news/e4-brand-extension-sees-4music-become-e4-extra https://www.beyondthejoke.co.uk/sites/default/files/e4_extra_logo.jpg
-		30/06/22 CBS Drama rebranded to RealityXtra https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
-		30/06/22 CBS Justice rebranded to Legend https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
+		24/06/22 A1TV removed from Sky - https://www.bizasialive.com/a1tv-disappears-from-sky-epg-2/
+		30/06/22 CBS Drama rebranded to RealityXtra https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
+		30/06/22 CBS Justice rebranded to Legend https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
 		30/06/22 CBS Reality/+1 rebranded to Reality/+1 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
-		30/06/22 Horror Channel/+1 rebranded to HorrorXtra/+1 https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
-		01/06/22 Forces TV closes - https://twitter.com/forces_tv/status/1537019135573499904 https://players.brightcove.net/2685123856001/Hy7Zehglog_default/index.html?videoId=6307513242112
-		30/06/22 Freeview COM7 closes - BBC News HD, FreeSports, More4+1, Now 80s, Quest HD, Quest Red+1, QVC Beauty HD, QVC HD, That's Music, That's TV (UK), Together TV - https://rxtvinfo.com/2022/freeview-channel-switch-off-is-coming https://www.bbc.co.uk/reception/work-warning/news/waw-com7
+		30/06/22 Horror Channel/+1 rebranded to HorrorXtra/+1 https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
+		30/06/22 Forces TV closes - https://twitter.com/forces_tv/status/1537019135573499904 https://players.brightcove.net/2685123856001/Hy7Zehglog_default/index.html?videoId=6307513242112
+		30/06/22 BBC News HD, FreeSports, Horror Channel, More4+1, Quest HD, QVC Beauty HD, QVC HD removed from Freeview - https://www.freeview.co.uk/help/service-updates/channel-changes-closures-freeview-june-2022
+		30/06/22 That's Music rebranded to Classic Hits https://www.freeview.co.uk/help/service-updates/channel-changes-closures-freeview-june-2022
 		30/06/22 LaLigaTV removed from Astra - https://webcache.googleusercontent.com/search?q=cache:B9KVYDtX5QQJ:https://media.sportbusiness.com/2022/05/laliga-preparing-uk-d2c-solution-as-talks-with-fite-stall/ https://www.laliga.com/en-ES/news/laliga-and-premier-sports-renew-uk-and-ireland-rights-deal-until-2025
 		30/06/22 PBS America +1 closes - https://twitter.com/PBSAmerica/status/1536749052926128129
 		00/06/22 MTA1 HD World (53151) launches on Astra - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
+		26/07/22 Syfy/HD rebranded as Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
 		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
 		00/07/22 BBC RB 2-6 and BBC RB HD closes on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
@@ -93,7 +90,6 @@
 		<Channel>
 				<Item Name="4Music">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>4Music.png</File>
 		</Channel>
@@ -222,6 +218,12 @@
 				</Item>
 				<Item Name="Al Jazeera English HD" />
 			<File>Al Jazeera English HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Alaraby 2">
+					<Provider>VisionTV</Provider>
+				</Item>
+			<File>Alaraby 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Alaraby TV">
@@ -853,12 +855,6 @@
 			<File>Boomerang Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Box Hits">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Box Hits.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="BoXmas">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -1341,7 +1337,6 @@
 		<Channel>
 				<Item Name="Craft Extra">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Craft Extra.png</File>
 		</Channel>
@@ -1575,7 +1570,10 @@
 			<File>E4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="E4 Extra" />
+				<Item Name="E4 Extra">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>E4 Extra.png</File>
 		</Channel>
 		<Channel>
@@ -2587,14 +2585,12 @@
 				</Item>
 			<File>MTV Music.png</File>
 		</Channel>
-		<!--
 		<Channel>
 				<Item Name="MTV Pride">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>MTV Pride.png</File>
 		</Channel>
-		-->
 		<!--
 		<Channel>
 				<Item Name="MTV Summer">
@@ -3862,7 +3858,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Resident Evil HD" />
-				<Item Name="ResidentEvilHD">
+				<Item Name="Resident Evil HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Resident Evil HD.png</File>
@@ -4932,10 +4928,28 @@
 			<File>Together TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Trace Brazuca">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Trace Brazuca.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Trace Hits">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Trace Hits.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Trace Latina">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Trace Latina.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Trace Urban">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Trace Urban.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Trace Vault">
@@ -5172,15 +5186,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>W Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="WBC Live Channel HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="WBC Live Channel">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>WBC Live Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="WION" />
