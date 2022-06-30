@@ -3,16 +3,6 @@
 <!-- ******************************************************************** -->
 		<!--
 		24/06/22 A1TV removed from Sky - https://www.bizasialive.com/a1tv-disappears-from-sky-epg-2/
-		30/06/22 CBS Drama rebranded to RealityXtra https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
-		30/06/22 CBS Justice rebranded to Legend https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
-		30/06/22 CBS Reality/+1 rebranded to Reality/+1 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
-		30/06/22 Horror Channel/+1 rebranded to HorrorXtra/+1 https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://rxtvinfo.com/2022/cbs-name-dropped-in-major-freeview-channel-change
-		30/06/22 Forces TV closes - https://twitter.com/forces_tv/status/1537019135573499904 https://players.brightcove.net/2685123856001/Hy7Zehglog_default/index.html?videoId=6307513242112
-		30/06/22 BBC News HD, FreeSports, Horror Channel, More4+1, Quest HD, QVC Beauty HD, QVC HD removed from Freeview - https://www.freeview.co.uk/help/service-updates/channel-changes-closures-freeview-june-2022
-		30/06/22 That's Music rebranded to Classic Hits https://www.freeview.co.uk/help/service-updates/channel-changes-closures-freeview-june-2022
-		30/06/22 LaLigaTV removed from Astra - https://webcache.googleusercontent.com/search?q=cache:B9KVYDtX5QQJ:https://media.sportbusiness.com/2022/05/laliga-preparing-uk-d2c-solution-as-talks-with-fite-stall/ https://www.laliga.com/en-ES/news/laliga-and-premier-sports-renew-uk-and-ireland-rights-deal-until-2025
-		30/06/22 PBS America +1 closes - https://twitter.com/PBSAmerica/status/1536749052926128129
-		00/06/22 MTA1 HD World (53151) launches on Astra - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
 		26/07/22 Syfy/HD rebranded as Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
 		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
 		00/07/22 BBC RB 2-6 and BBC RB HD closes on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
@@ -20,6 +10,7 @@
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
 		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
 		00/00/22 BT Sport ESPN/HD rebranded as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
+		00/00/22 MTA1 HD World (53151) launches on Astra - https://www.bizasialive.com/mta1-world-set-for-hd-launch-in-the-uk/
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
@@ -404,7 +395,6 @@
 		<Channel>
 				<Item Name="BBC News HD">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>BBC News HD.png</File>
 		</Channel>
@@ -1087,20 +1077,6 @@
 			<File>CBeebies HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="CBS Drama">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>CBS Drama.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="CBS Justice">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>CBS Justice.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="CBS Reality">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -1230,6 +1206,12 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>CITV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Classic Hits">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Classic Hits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Clubland TV">
@@ -1792,13 +1774,6 @@
 			<File>Foodxp.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Forces TV">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Forces TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="France 24 (en Français)" />
 				<Item Name="France 24 (en Francais)">
 					<Provider>Channelbox</Provider>
@@ -1823,7 +1798,6 @@
 		<Channel>
 				<Item Name="FreeSports">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>FreeSports.png</File>
 		</Channel>
@@ -2090,25 +2064,16 @@
 			<File>HobbyMaker.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Horror Channel">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Horror Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Horror Ch+1">
+				<Item Name="HorrorXtra">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Horror Channel +1" />
-			<File>Horror Channel Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="HorrorXtra" />
 			<File>HorrorXtra.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="HorrorXtra +1" />
+				<Item Name="HorrorXtra+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>HorrorXtra Plus 1.png</File>
 		</Channel>
 		<Channel>
@@ -2403,13 +2368,6 @@
 			<File>KMTV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="LaLigaTV" />
-				<Item Name="LaLigaTV HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>LaLigaTV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Latest TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -2429,7 +2387,10 @@
 			<File>Leeds Local TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Legend" />
+				<Item Name="Legend">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>Legend.png</File>
 		</Channel>
 		<Channel>
@@ -2510,7 +2471,6 @@
 				<Item Name="More4 +1" />
 				<Item Name="More4+1">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>More4 Plus 1.png</File>
 		</Channel>
@@ -2894,12 +2854,6 @@
 			<File>PBS America.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="PBS America +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>PBS America Plus 1.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="PCNE Chinese">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3022,7 +2976,6 @@
 		<Channel>
 				<Item Name="Quest HD">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Quest HD.png</File>
 		</Channel>
@@ -3062,12 +3015,6 @@
 				</Item>
 			<File>QVC Beauty.png</File>
 		</Channel>
-		<Channel>
-				<Item Name="QVC Beauty HD">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>QVC Beauty HD.png</File>
-		</Channel>
     <!--
 		<Channel>
 				<Item Name="QVC Christmas" />
@@ -3086,7 +3033,6 @@
 		<Channel>
 				<Item Name="QVC HD">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>QVC HD.png</File>
 		</Channel>
@@ -3115,15 +3061,10 @@
 			<File>Racing TV HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Reality" />
-			<File>Reality.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Reality +1" />
-			<File>Reality Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="RealityXtra" />
+				<Item Name="RealityXtra">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>RealityXtra.png</File>
 		</Channel>
 		<Channel>
@@ -4819,12 +4760,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Thats TV Christmas.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="That's Music">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Thats Music.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Adult Channel">
