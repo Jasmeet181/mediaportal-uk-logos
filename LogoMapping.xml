@@ -2,7 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		24/06/22 A1TV removed from Sky - https://www.bizasialive.com/a1tv-disappears-from-sky-epg-2/
+		24/06/22 A1TV removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://www.bizasialive.com/a1tv-disappears-from-sky-epg-2/
+		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		26/07/22 Syfy/HD rebranded as Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
 		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
 		00/07/22 BBC RB 2-6 and BBC RB HD closes on Astra - https://rxtvinfo.com/2022/extra-red-button-services-for-sky-and-freesat-users
@@ -17,6 +18,9 @@
 		BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
 		BT Sport/Eurosport rebrand - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
+		Sky Cinema Summer Scares/HD (SummerScares/SummerScaresHD) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
+		Sky Sport Main Event UHD/HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb7201.png
+		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
 		
 		Gold TV/Radio conflict
 		Kerrang TV/Radio conflict
@@ -3864,6 +3868,20 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Superheroes HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Summer Scares" />
+				<Item Name="SummerScares">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Summer Scares.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Summer Scares HD" />
+				<Item Name="SummerScaresHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Summer Scares HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema The Lord of the Rings HD" />
