@@ -20,7 +20,7 @@
 		KICC TV new logo - https://www.kicctv.tv/
 		Classic Hits (52121) added to Astra - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
 		Sky Cinema Summer Scares/HD (SummerScares/SummerScaresHD) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
-		Sky Sport Main Event UHD/HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb7201.png
+		Sky Sport Main Event UHD/HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb7201.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
 		
 		Gold TV/Radio conflict
@@ -1702,6 +1702,12 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>ExtremePlus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="FailArmy">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>FailArmy.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Faith UK">
