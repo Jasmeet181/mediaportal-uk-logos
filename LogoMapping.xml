@@ -2,26 +2,29 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		24/06/22 A1TV removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://www.bizasialive.com/a1tv-disappears-from-sky-epg-2/
 		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
-		26/07/22 Syfy/HD rebranded as Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
-		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096
+		
+		26/07/22 Syfy/HD renamed Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
+		27/07/22 Sky Sports Main Event Ultra HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316 https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png
+		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316
+		12/08/22 Spolight TV closes - https://www.philmackcountry.com/
 		00/08/22 BBC RB HD closes on Astra - https://rxtvinfo.com/2022/red-button-changes-post-wimbledon
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
+		00/08/22 Samaa (54227) - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
-		00/00/22 BBC Two Northern Ireland HD (11015) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
-		00/00/22 BT Sport ESPN/HD rebranded as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
+		00/00/22 BBC Two Northern Ireland HD (1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
+		00/00/22 BT Sport ESPN/HD renamed as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
+		00/00/22 FreeSports/HD, Premier Sports 1 HD and Premier Sports 2 HD renamed Viaplay - https://www.viaplaygroup.com/news/news-releases/viaplay-group-acquires-premier-sports-and-accelerates-entry-uk-2037710
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
 		BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
-		BT Sport/Eurosport rebrand - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
+		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
-		Classic Hits (52121) added to Astra - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
+		Classic Hits (52121) added to Astra - https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
 		Sky Cinema Summer Scares/HD (SummerScares/SummerScaresHD) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
-		Sky Sport Main Event UHD/HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb7201.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
-		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
+		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
 		
 		Gold TV/Radio conflict
 		Kerrang TV/Radio conflict
@@ -115,14 +118,14 @@
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>5star.png</File>
+			<File>5Star.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="5Star +1" />
 				<Item Name="5Star+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>5star Plus 1.png</File>
+			<File>5Star Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="5 USA">
@@ -145,12 +148,6 @@
 				</Item>
 				<Item Name="92 News UK" />
 			<File>92 News UK.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="A1TV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>A1TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Aaj Tak">
@@ -724,7 +721,7 @@
 			<File>BBC Two Northern Ireland.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="11015">
+				<Item Name="1200">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Two NI HD">
@@ -3204,6 +3201,13 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Sacred SitesPlus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="54227">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Samaa" />
+			<File>Samaa.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sangat">
