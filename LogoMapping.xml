@@ -4,13 +4,12 @@
 		<!--
 		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		
-		26/07/22 Syfy/HD renamed Sky Sci-Fi/HD - https://www.skygroup.sky/en-gb/article/syfy-channel-re-brands-to-sky-sci-fi-offering-new-shows-and-fan-favourites
 		27/07/22 Sky Sports Main Event Ultra HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316 https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png
 		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316
 		12/08/22 Spolight TV closes - https://www.philmackcountry.com/
+		18/08/22 Samaa (54227) - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
 		00/08/22 BBC RB HD closes on Astra - https://rxtvinfo.com/2022/red-button-changes-post-wimbledon
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
-		00/08/22 Samaa (54227) - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
 		00/00/22 BBC Two Northern Ireland HD (1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
@@ -25,7 +24,8 @@
 		Classic Hits (52121) added to Astra - https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
 		Sky Cinema Summer Scares/HD (SummerScares/SummerScaresHD) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
-		
+		-->
+		<!--
 		Gold TV/Radio conflict
 		Kerrang TV/Radio conflict
 		Magic TV/Radio conflict
@@ -4173,7 +4173,9 @@
 			<File>Sky Sci-Fi.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sci-Fi HD" />
+				<Item Name="Sky Sci-Fi HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Sci-Fi HD.png</File>
 		</Channel>
 		<Channel>
@@ -4654,18 +4656,6 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Supreme Master TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Syfy">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Syfy.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Syfy HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Syfy HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Takbeer TV">
