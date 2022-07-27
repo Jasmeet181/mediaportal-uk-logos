@@ -4,25 +4,26 @@
 		<!--
 		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		
-		27/07/22 Sky Sports Main Event Ultra HDR (SkySpMainEvUHD/SkySp ME UHD/SkySpMEUltraHDR) - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316 https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png
 		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316
+		01/08/22 BT Sport ESPN/HD renamed as BT Sport 4/HD, BT Sport Extra 1-6 renamed as BT Sport 5-10 - https://www.mediamole.co.uk/entertainment/broadcasting/news/bt-sport-espn-to-rebrand-as-bt-sport-4_489865.html
+		08/08/22 Sky Cinema Summer Scares HD - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
 		12/08/22 Spolight TV closes - https://www.philmackcountry.com/
 		18/08/22 Samaa (54227) - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
 		00/08/22 BBC RB HD closes on Astra - https://rxtvinfo.com/2022/red-button-changes-post-wimbledon
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
+		01/09/22 Nick Spongebob - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
+		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
+		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
 		00/00/22 BBC Two Northern Ireland HD (1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
-		00/00/22 BT Sport ESPN/HD renamed as BT Sport 4/HD - https://www.broadbandtvnews.com/2022/05/13/wbds-bt-sport-to-continue-technology-innovation/
 		00/00/22 FreeSports/HD, Premier Sports 1 HD and Premier Sports 2 HD renamed Viaplay - https://www.viaplaygroup.com/news/news-releases/viaplay-group-acquires-premier-sports-and-accelerates-entry-uk-2037710
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
-		BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
-		BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
+		BT Sport Ultimate (5336/5337) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		KICC TV new logo - https://www.kicctv.tv/
 		Classic Hits (52121) added to Astra - https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
-		Sky Cinema Summer Scares/HD (SummerScares/SummerScaresHD) - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
 		-->
 		<!--
@@ -1009,6 +1010,16 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>BT Sport Mosaic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="5336">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="5337">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BT Sport Ultimate" />
+			<File>BT Sport Ultimate.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BT Sport Mosaic 2">
@@ -4303,6 +4314,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Main Event HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Sports Main Event UHD" />
+				<Item Name="SkySpMEUltHDR">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Sports Main Event UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Masters" />
