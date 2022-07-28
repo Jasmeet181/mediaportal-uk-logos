@@ -22,6 +22,7 @@
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		BT Sport Ultimate (5336/5337) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
+		EarthxTV (50260) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		KICC TV new logo - https://www.kicctv.tv/
 		Classic Hits (52121) added to Astra - https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
 		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
@@ -1589,6 +1590,13 @@
 			<File>E4 Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="50260">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="EarthxTV" />
+			<File>EarthxTV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Eden">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2831,12 +2839,6 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>OAN Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="OD365.TV">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>OD365.TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Oireachtas TV">
