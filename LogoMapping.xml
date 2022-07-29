@@ -4,7 +4,6 @@
 		<!--
 		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		
-		29/07/22 Sky Cinema Cult Classics/HD - https://forums.digitalspy.com/discussion/comment/101111096#Comment_101111096 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-July-2022/td-p/4042316
 		01/08/22 BT Sport ESPN/HD renamed as BT Sport 4/HD, BT Sport Extra 1-6 renamed as BT Sport 5-10 - https://www.mediamole.co.uk/entertainment/broadcasting/news/bt-sport-espn-to-rebrand-as-bt-sport-4_489865.html
 		08/08/22 Sky Cinema Summer Scares HD - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
 		12/08/22 Spolight TV closes - https://www.philmackcountry.com/
@@ -3487,7 +3486,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Cult Classics" />
-				<Item Name="Cult Classics">
+				<Item Name="CultClassics">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Cult Classics.png</File>
@@ -4007,6 +4006,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Villains HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Wizarding World" />
+				<Item Name="WizardingWorld">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Wizarding World.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Wizarding World HD" />
