@@ -4,10 +4,9 @@
 		<!--
 		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
 		
-		01/08/22 BT Sport ESPN/HD renamed as BT Sport 4/HD, BT Sport Extra 1-6 renamed as BT Sport 5-10 - https://www.mediamole.co.uk/entertainment/broadcasting/news/bt-sport-espn-to-rebrand-as-bt-sport-4_489865.html
 		08/08/22 Sky Cinema Summer Scares HD - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
 		12/08/22 Spolight TV closes - https://www.philmackcountry.com/
-		18/08/22 Samaa (54227) - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
+		18/08/22 Samaa (54227) launches - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
 		00/08/22 BBC RB HD closes on Astra - https://rxtvinfo.com/2022/red-button-changes-post-wimbledon
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
 		01/09/22 Nick Spongebob - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
@@ -19,11 +18,10 @@
 		00/00/22 FreeSports/HD, Premier Sports 1 HD and Premier Sports 2 HD renamed Viaplay - https://www.viaplaygroup.com/news/news-releases/viaplay-group-acquires-premier-sports-and-accelerates-entry-uk-2037710
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
+		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
-		BT Sport Ultimate (5336/5337) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		EarthxTV (50260) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		KICC TV new logo - https://www.kicctv.tv/
-		Classic Hits (52121) added to Astra - https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1134.png
 		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
 		-->
 		<!--
@@ -919,12 +917,88 @@
 			<File>BT Sport 3 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BT Sport 4" />
+				<Item Name="BT Sport 4">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>BT Sport 4.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BT Sport 4 HD" />
+				<Item Name="BT Sport 4 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>BT Sport 4 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 5">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 5.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 5 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 5 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 6">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 6.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 6 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 6 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 7">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 7.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 7 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 7 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 8">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 8.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 8 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 8 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 9">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 9.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 9 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 9 HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 10">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 10.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport 10 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport 10 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BT Sport Box Office 2 HD" />
@@ -948,68 +1022,16 @@
 			<File>BT Sport Box Office WWE HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BT Sport ESPN" />
-				<Item Name="BT Sport//ESPN">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport ESPN.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport ESPN HD" />
-				<Item Name="BT Sport//ESPN HD" />
-				<Item Name="BTSpt//ESPNHD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport ESPN HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Extra 1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Extra 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="50666">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="BT Sport Extra 1 HD" />
-			<File>BT Sport Extra 1 HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Extra 2">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Extra 2.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Extra 3">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Extra 3.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Extra 4">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Extra 4.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Extra 5">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Extra 5.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Extra 6">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Extra 6.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="BT Sport Mosaic">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>BT Sport Mosaic.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BT Sport Mosaic 2">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BT Sport Mosaic 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="5336">
@@ -1020,12 +1042,6 @@
 				</Item>
 				<Item Name="BT Sport Ultimate" />
 			<File>BT Sport Ultimate.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="BT Sport Mosaic 2">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BT Sport Mosaic 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Cardiff TV">
@@ -1221,10 +1237,8 @@
 			<File>CITV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="52121">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="Classic Hits">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Classic Hits.png</File>
@@ -1816,6 +1830,15 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>France 24 HD en Francais.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="France 24 HD (in Arabic)">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="France 24 (in Arabic)">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>France 24 in Arabic.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="France 24 HD (in English)" />
@@ -2708,6 +2731,9 @@
 				<Item Name="Nick Jr. Peppa">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="NickJrPeppa">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Nick Jr Peppa.png</File>
 		</Channel>
 		<Channel>
@@ -3240,6 +3266,13 @@
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>Saorview.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sonlife">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="SBN International" />
+			<File>SBN International.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="SES UHD Demo">
@@ -4324,11 +4357,11 @@
 			<File>Sky Sports Main Event HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sports Main Event UHD" />
-				<Item Name="SkySpMEUltHDR">
+				<Item Name="Sky Sports Main Event Ultra HDR" />
+				<Item Name="SkySpME UHDR">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>Sky Sports Main Event UHD.png</File>
+			<File>Sky Sports Main Event Ultra HDR.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Masters" />
@@ -4553,13 +4586,6 @@
 				</Item>
 				<Item Name="Smithsonian Channel HD" />
 			<File>Smithsonian Channel HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sonlife">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sonlife Broadcasting Network" />
-			<File>Sonlife Broadcasting Network.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sony Entertainment Television" />
@@ -5009,12 +5035,6 @@
 			<File>Tyne and Wear Local TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Ukraina 24">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Ukraina 24.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="UH1MON">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -5171,6 +5191,12 @@
 			<File>W Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="WBC Live Channel">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>WBC Live Channel.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="WION" />
 				<Item Name="WION HD">
 					<Provider>Astra 28.2E</Provider>
@@ -5197,12 +5223,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>XXX Girl Girl.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="XXX Mums">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>XXX Mums.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="XXX Public Pickups" />
