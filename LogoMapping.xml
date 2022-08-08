@@ -2,9 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		08/07/22 Vox Africa removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php?fromstart
-		
-		08/08/22 Sky Cinema Summer Scares HD - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
 		12/08/22 Spolight TV closes - https://www.philmackcountry.com/
 		18/08/22 Samaa (54227) launches - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
 		00/08/22 BBC RB HD closes on Astra - https://rxtvinfo.com/2022/red-button-changes-post-wimbledon
@@ -22,7 +19,6 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		EarthxTV (50260) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		KICC TV new logo - https://www.kicctv.tv/
-		Yesterday HD (6500) - https://www.lyngsat.com/muxes/Astra-2F_UK_12226-H.html https://rxtvinfo.com/2022/five-new-channels-testing-on-sky https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1139.png
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -3930,14 +3926,11 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Summer Scares" />
-				<Item Name="SummerScares">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 			<File>Sky Cinema Summer Scares.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Summer Scares HD" />
-				<Item Name="SummerScaresHD">
+				<Item Name="Smr Scares HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Summer Scares HD.png</File>
@@ -5159,7 +5152,6 @@
 		</Channel>
 		<Channel>
 				<Item Name="Vox Africa">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Vox Africa.png</File>
@@ -5249,6 +5241,12 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Yesterday.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Yesterday HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Yesterday HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Yesterday +1" />
