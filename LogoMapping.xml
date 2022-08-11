@@ -759,9 +759,6 @@
 				<Item Name="Billiard TV">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="Billiard TV HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>Billiard TV.png</File>
 		</Channel>
 		<Channel>
@@ -770,12 +767,6 @@
 				</Item>
 				<Item Name="Birmingham Local TV" />
 			<File>Birmingham Local TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Bite">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Bite.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Blaze">
@@ -1754,12 +1745,6 @@
 			<File>Fashion TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Fashion TV HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Fashion TV HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="FidoTV">
 					<Provider>Channelbox</Provider>
 				</Item>
@@ -1785,12 +1770,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Film4 Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Firstlight">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>Firstlight.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Food Network">
@@ -1888,12 +1867,6 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Fuel TV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Fuel TV HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Fuel TV HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="GB News">
