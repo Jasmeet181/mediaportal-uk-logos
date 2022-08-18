@@ -2,10 +2,11 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		18/08/22 Samaa (54227) launches - https://www.bizasialive.com/samaa-tv-begins-testing-ahead-of-relaunch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1145.png
+		25/08/22 EarthxTV (50260) - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
 		00/08/22 Spolight TV closes - https://www.philmackcountry.com/
 		01/09/22 Nick Spongebob - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
+		03/10/22 Nick Horrid Henry - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
@@ -16,7 +17,6 @@
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
-		EarthxTV (50260) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		KICC TV new logo - https://www.kicctv.tv/
 		-->
 		<!--
@@ -3113,10 +3113,10 @@
 			<File>Rotana Cinema.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Rotana Khalijiah">
+				<Item Name="Rotana Classic">
 					<Provider>Channelbox</Provider>
 				</Item>
-			<File>Rotana Khalijiah.png</File>
+			<File>Rotana Classic.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="RTÉ Junior">
@@ -3209,11 +3209,10 @@
 			<File>Sacred SitesPlus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="54227">
+				<Item Name="Samaa TV">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Samaa" />
-			<File>Samaa.png</File>
+			<File>Samaa TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sangat">
