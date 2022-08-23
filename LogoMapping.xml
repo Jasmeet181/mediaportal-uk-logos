@@ -3122,68 +3122,68 @@
 				<Item Name="RTÉ Junior">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTEJr">
+				<Item Name="RTEJr" />
+				<Item Name="RTÉJr">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE Junior.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE News">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE News" />
 				<Item Name="RTÉ News">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE News.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE One">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE One" />
 				<Item Name="RTÉ One">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 					<Provider>Saorview</Provider><!-- Broadcast in HD -->
 				</Item>
 			<File>RTE One.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE One HD">
+				<Item Name="RTE One HD" />
+				<Item Name="RTÉ One HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="RTÉ One HD" />
 			<File>RTE One HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTÉ One +1" />
 				<Item Name="RTÉ One +1">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTE One+1">
+				<Item Name="RTÉ One+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE One Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE2">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE2" />
 				<Item Name="RTÉ2">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 					<Provider>Saorview</Provider><!-- Broadcast in HD -->
 				</Item>
 			<File>RTE2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE2 HD">
+				<Item Name="RTE2 HD" />
+				<Item Name="RTÉ2 HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="RTÉ2 HD" />
 			<File>RTE2 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTE2 +1" />
 				<Item Name="RTÉ2 +1">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTE2+1">
+				<Item Name="RTÉ2+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE2 Plus 1.png</File>
@@ -5902,36 +5902,37 @@
 			<File>RNIB Connect Radio.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE 2FM">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE 2FM" />
 				<Item Name="RTÉ 2FM">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE 2FM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTE 2XM" />
 				<Item Name="RTÉ 2XM">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE 2XM.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTE Chill" />
 				<Item Name="RTÉ Chill">
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Chill.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE Gold">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE Gold" />
 				<Item Name="RTÉ Gold">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Gold.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="RTE Junior" />
 				<Item Name="RTÉ Junior">
 					<Provider>Saorview</Provider>
 				</Item>
@@ -5941,24 +5942,25 @@
 				<Item Name="RTÉ Lyric">
 					<Provider>Saorview</Provider>
 				</Item>
-				<Item Name="RTE Lyric FM">
+				<Item Name="RTE Lyric FM" />
+				<Item Name="RTÉ Lyric FM">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>RTE Lyric fm.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE Pulse">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE Pulse" />
 				<Item Name="RTÉ Pulse">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Pulse.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE R na G">
+				<Item Name="RTÉ R na G">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="RTE Raidio na Gaeltachta" />
 				<Item Name="RTÉ Raidió na Gaeltachta">
 					<Provider>Saorview</Provider>
 				</Item>
@@ -5968,19 +5970,17 @@
 			<File>RTE Raidio na Gaeltachta.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE Radio 1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE Radio 1" />
 				<Item Name="RTÉ Radio 1">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Radio 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTE Radio 1 Extra">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="RTE Radio 1 Extra" />
 				<Item Name="RTÉ Radio 1 Extra">
+					<Provider>Astra 28.2E</Provider>
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Radio 1 Extra.png</File>
