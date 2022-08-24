@@ -2,6 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		23/08/22 Arise News removed from Sky - https://rxtvinfo.com/2022/arise-news-drops-off-sky
+		
 		25/08/22 EarthxTV HD (50260) - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/td-p/4061607 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
 		00/08/22 Spolight TV closes - https://www.philmackcountry.com/
@@ -18,6 +20,7 @@
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
+		MTA1 HD World (53151)
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -1106,6 +1109,12 @@
 			<File>CBS Reality Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Celebration TV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Celebration TV.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="CGTN">
 					<Provider>VisionTV</Provider>
 				</Item>
@@ -1227,6 +1236,9 @@
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+				<Item Name="Classic Hits MCR">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>Classic Hits.png</File>
 		</Channel>
 		<Channel>
@@ -1319,12 +1331,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Comedy Central Extra.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Country Music Ent">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Country Music Entertainment.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Court TV">
@@ -1590,6 +1596,12 @@
 		</Channel>
 		<Channel>
 				<Item Name="50260">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Earthx TV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Earthx TV HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="EarthxTV" />
@@ -2507,6 +2519,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Movies 24 Plus.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="53151">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="MTA1 HD World" />
+			<File>MTA1 HD World.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTA1 World">
@@ -5063,6 +5082,13 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>UTV Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Virgin Media 4">
+					<Provider>Saorview</Provider>
+				</Item>
+				<Item Name="Virgin Media Four" />
+			<File>Virgin Media Four.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Virgin Media 1">
