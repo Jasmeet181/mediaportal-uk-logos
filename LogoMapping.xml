@@ -4,7 +4,6 @@
 		<!--
 		23/08/22 Arise News removed from Sky - https://rxtvinfo.com/2022/arise-news-drops-off-sky
 		
-		25/08/22 EarthxTV HD (50260) - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/td-p/4061607 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1086.png
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
 		00/08/22 Spolight TV closes - https://www.philmackcountry.com/
 		01/09/22 Nick Spongebob - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
@@ -20,7 +19,7 @@
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
-		MTA1 HD World (53151)
+		MTA1 HD World (53151) - https://www.parabola.cz/zpravicky/36100/28-2e-mta-1-zahajila-testy-v-hd-rozliseni/
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -1595,16 +1594,13 @@
 			<File>E4 Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="50260">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="Earthx TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="Earthx TV HD">
+				<Item Name="EarthxTV" />
+				<Item Name="EarthxTV HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="EarthxTV" />
 			<File>EarthxTV.png</File>
 		</Channel>
 		<Channel>
