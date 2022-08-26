@@ -2,10 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		23/08/22 Arise News removed from Sky - https://rxtvinfo.com/2022/arise-news-drops-off-sky
-		
+		31/08/22 Spotlight TV closes on Astra - https://www.philmackcountry.com/ https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/td-p/4061607
 		00/08/22 Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
-		00/08/22 Spolight TV closes - https://www.philmackcountry.com/
 		01/09/22 Nick Spongebob - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612
 		03/10/22 Nick Horrid Henry - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
@@ -20,6 +18,7 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		MTA1 HD World (53151) - https://www.parabola.cz/zpravicky/36100/28-2e-mta-1-zahajila-testy-v-hd-rozliseni/
+		Spotlight TV closes on Vision TV - https://rxtvinfo.com/2022/country-music-channel-spotlight-to-exit-sky-and-freesat
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -4620,8 +4619,12 @@
 			<File>SportyStuff TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Spotlight TV HD">
+					<Provider>Channelbox</Provider>
+				</Item>
 				<Item Name="Spotlight TV">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Channelbox</Provider>
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Spotlight TV.png</File>
