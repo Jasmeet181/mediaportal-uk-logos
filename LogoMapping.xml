@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		31/08/22 Spotlight TV closes on Astra - https://www.philmackcountry.com/ https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/td-p/4061607
-		01/09/22 Nick Spongebob - https://forums.digitalspy.com/discussion/comment/101310612#Comment_101310612 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-September-2022/td-p/4084823
 		09/09/22 Sky Cinema Edgar Wright HD - https://forums.digitalspy.com/discussion/comment/101473636#Comment_101473636
 		16/09/22 Sky Cinema Rom Coms HD - https://forums.digitalspy.com/discussion/comment/101473636#Comment_101473636
 		03/10/22 Nick Horrid Henry - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640
@@ -2699,7 +2697,8 @@
 		</Channel>
 		<Channel>
 				<Item Name="Nick Jr. PAW Patrol" />
-				<Item Name="Nick Jr.Paw Patrol">
+                <Item Name="Nick Jr.Paw Patrol" />
+				<Item Name="NickJrPAWPatrol">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Nick Jr PAW Patrol.png</File>
@@ -2732,6 +2731,13 @@
 				</Item>
 				<Item Name="Nick Jr. Xmas" />
 			<File>Nick Jr Xmas.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nick SpongeBob" />
+				<Item Name="NickSpongeBob">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Nick SpongeBob.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nickelodeon">
@@ -4633,7 +4639,6 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 				<Item Name="Spotlight TV">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Channelbox</Provider>
 					<Provider>VisionTV</Provider>
 				</Item>
