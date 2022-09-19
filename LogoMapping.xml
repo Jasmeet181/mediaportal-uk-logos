@@ -2,8 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		09/09/22 Sky Cinema Edgar Wright HD - https://forums.digitalspy.com/discussion/comment/101473636#Comment_101473636
-		16/09/22 Sky Cinema Rom Coms HD - https://forums.digitalspy.com/discussion/comment/101473636#Comment_101473636
 		03/10/22 Nick Horrid Henry - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
@@ -12,13 +10,13 @@
 		00/00/22 BBC Two Northern Ireland HD (1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
 		00/00/22 FreeSports/HD, Premier Sports 1 HD and Premier Sports 2 HD renamed Viaplay - https://www.viaplaygroup.com/news/news-releases/viaplay-group-acquires-premier-sports-and-accelerates-entry-uk-2037710
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
+		(50889) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1104.png
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		MTA1 HD World (53151) - https://www.parabola.cz/zpravicky/36100/28-2e-mta-1-zahajila-testy-v-hd-rozliseni/
 		Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
-		Spotlight TV closes on Vision TV - https://rxtvinfo.com/2022/country-music-channel-spotlight-to-exit-sky-and-freesat
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -2558,14 +2556,6 @@
 				</Item>
 			<File>MTV Hits.png</File>
 		</Channel>
-		<!--
-		<Channel>
-				<Item Name="MTV Love">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>MTV Love.png</File>
-		</Channel>
-		-->
 		<Channel>
 				<Item Name="MTV Music">
 					<Provider>Astra 28.2E</Provider>
@@ -2578,19 +2568,20 @@
 				</Item>
 			<File>MTV Pride.png</File>
 		</Channel>
-		<!--
-		<Channel>
-				<Item Name="MTV Summer">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>MTV Summer.png</File>
-		</Channel>
-		-->
 		<Channel>
 				<Item Name="MTV Xmas">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>MTV Xmas.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Music &amp; Memories TV HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="Music &amp; Memories TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Music and Memories TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MUTV">
@@ -2681,7 +2672,13 @@
 				<Item Name="NHK World HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>NHK World HD.png</File>
+				<Item Name="NHK World-Japan">
+					<Provider>Channelbox</Provider>
+				</Item>
+				<Item Name="NHK World-Japan HD">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>NHK World-Japan.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Nick Jr.">
@@ -2711,9 +2708,7 @@
 			<File>Nick Jr Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Nick Jr. Peppa">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
+				<Item Name="Nick Jr. Peppa" />
 				<Item Name="NickJrPeppa">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3535,6 +3530,9 @@
 			<File>Sky Cinema Drama HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="EdgarWrightHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Edgar Wright HD" />
 			<File>Sky Cinema Edgar Wright HD.png</File>
 		</Channel>
@@ -3869,6 +3867,9 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Rom Coms HD" />
+				<Item Name="SkyRomComsHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>Sky Cinema Rom Coms HD.png</File>
 		</Channel>
 		<Channel>
@@ -4635,16 +4636,6 @@
 			<File>SportyStuff TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Spotlight TV HD">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="Spotlight TV">
-					<Provider>Channelbox</Provider>
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>Spotlight TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Stingray CMusic">
 					<Provider>Channelbox</Provider>
 				</Item>
@@ -4667,12 +4658,6 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Stingray Qello.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Studio 66 3">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Studio 66 TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="STV">
