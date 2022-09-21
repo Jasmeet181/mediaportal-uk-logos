@@ -2370,6 +2370,9 @@
 			<File>Kerrang.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Ketchup Too">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 				<Item Name="Ketchup TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -3120,6 +3123,7 @@
 		<Channel>
 				<Item Name="Rok">
 					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Rok.png</File>
 		</Channel>
@@ -5017,6 +5021,12 @@
 			<File>Tyne and Wear Local TV.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="UK Radio Portal">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>UK Radio Portal.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="UH1MON">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -5374,6 +5384,16 @@
 			<File>BBC Radio 3.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC R4 FM">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="BBC Radio 4">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="BBC Radio 4 FM" />
+			<File>BBC Radio 4.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="BBC R4 Ex">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -5384,18 +5404,11 @@
 			<File>BBC Radio 4 Extra.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC R4 FM">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="BBC R4 LW">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="BBC Radio 4">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="BBC Radio 4 FM" />
 				<Item Name="BBC Radio 4 LW" />
-			<File>BBC Radio 4.png</File>
+			<File>BBC Radio 4 LW.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC R5L">
