@@ -2373,6 +2373,9 @@
 				<Item Name="Ketchup Too">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+			<File>Ketchup Too.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Ketchup TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
