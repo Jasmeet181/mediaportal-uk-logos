@@ -2,6 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		29/09/22 Phoenix CNE SD closes - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-September-2022/td-p/4084823
+		01/10/22 Sky Cinema Alien HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-October-2022/td-p/4107223
 		03/10/22 Nick Horrid Henry - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
@@ -3378,6 +3380,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Adventure HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Alien HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Alien HD" />
+			<File>Sky Cinema Alien HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="SkyAnimationHD">
