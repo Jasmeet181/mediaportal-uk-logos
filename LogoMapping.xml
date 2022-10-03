@@ -2,17 +2,14 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		29/09/22 Phoenix CNE SD closes - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-September-2022/td-p/4084823
-		01/10/22 Sky Cinema Alien HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-October-2022/td-p/4107223
-		03/10/22 Nick Horrid Henry - https://forums.digitalspy.com/discussion/comment/101402640#Comment_101402640
+		17/10/23 Islam Channel Bangla (50889) - https://islamchannelbangla.tv/ https://www.islamchannel.tv/blog-posts/islam-channel-bangla-launches-17th-october https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1104.png
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
-		00/00/22 BBC Two Northern Ireland HD (1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite
+		00/00/22 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
 		00/00/22 FreeSports/HD, Premier Sports 1 HD and Premier Sports 2 HD renamed Viaplay - https://www.viaplaygroup.com/news/news-releases/viaplay-group-acquires-premier-sports-and-accelerates-entry-uk-2037710
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
-		(50889) - https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1104.png
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
@@ -1778,6 +1775,12 @@
 			<File>Film4 Plus 1.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="FilmUADrama">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>FilmUADrama.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Food Network">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -2689,6 +2692,13 @@
 			<File>NHK World-Japan.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Nick Horrid Henry" />
+				<Item Name="NickHorridHenry">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Nick Horrid Henry.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Nick Jr.">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -2894,13 +2904,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>PBS America.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="PCNE Chinese">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Phoenix CNE" />
-			<File>Phoenix CNE.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="PCNE Chinese HD">
@@ -5167,6 +5170,12 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>VisionTV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Vivaldi">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Vivaldi.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Vox Africa">
