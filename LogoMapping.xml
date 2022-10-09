@@ -2,9 +2,12 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		17/10/23 Islam Channel Bangla (50889) - https://islamchannelbangla.tv/ https://www.islamchannel.tv/blog-posts/islam-channel-bangla-launches-17th-october https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1104.png
+		14/10/22 Sky Cinema Supernatural HD - https://forums.digitalspy.com/discussion/comment/101647157#Comment_101647157
+		21/10/22 Sky Cinema Undead HD - https://forums.digitalspy.com/discussion/comment/101647157#Comment_101647157
+		17/10/22 Islam Channel Bangla (52134) - https://islamchannelbangla.tv/ https://www.islamchannel.tv/blog-posts/islam-channel-bangla-launches-17th-october https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1104.png
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
+		00/11/22 ITV/+1/HD renamed to ITV1/+1/HD- https://www.tvzoneuk.com/post/itv1-rebrand-exc https://www.radiotimes.com/tv/entertainment/itv-rebrand-channel-itv1-newsupdate/
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
 		00/00/22 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
@@ -15,7 +18,6 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		MTA1 HD World (53151) - https://www.parabola.cz/zpravicky/36100/28-2e-mta-1-zahajila-testy-v-hd-rozliseni/
-		Panj-aab TV (50883) - https://www.bizasialive.com/punj-aab-tv-set-for-uk-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1056.png
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -2885,13 +2887,6 @@
 			<File>OnDemand365.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="50883">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Panj-aab TV" />
-			<File>Panj-aab TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Adult Party">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -3911,6 +3906,13 @@
 			<File>Sky Cinema Space Week HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Slasher HD" />
+				<Item Name="SkySlasherHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Slasher HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Sky Cinema Spies HD" />
 				<Item Name="Sky Spies HD">
 					<Provider>Astra 28.2E</Provider>
@@ -3944,6 +3946,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Superheroes HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Supernatural HD" />
+				<Item Name="SupernaturalHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Supernatural HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Summer Scares" />
@@ -4018,6 +4027,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Ultimate Action HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Undead HD" />
+				<Item Name="Sky Undead HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Undead HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Valentine HD" />
@@ -4653,6 +4669,12 @@
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>SportyStuff TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Star Cinema">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Star Cinema.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Stingray CMusic">
