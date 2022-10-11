@@ -2211,6 +2211,16 @@
 			<File>Islam Channel.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="52134">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Islam Ch Bangla">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Islam Channel Bangla" />
+			<File>Islam Channel Bangla.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Islam Ch Urdu">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
