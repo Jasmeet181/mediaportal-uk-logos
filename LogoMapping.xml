@@ -18,6 +18,7 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		MTA1 HD World (53151) - https://www.parabola.cz/zpravicky/36100/28-2e-mta-1-zahajila-testy-v-hd-rozliseni/
+		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -1922,6 +1923,12 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Ginx eSports TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Go Live Sports Cast">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Go Live Sports Cast.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="God Channel">
