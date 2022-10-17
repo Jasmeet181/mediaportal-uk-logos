@@ -2,9 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		14/10/22 Sky Cinema Supernatural HD - https://forums.digitalspy.com/discussion/comment/101647157#Comment_101647157
-		21/10/22 Sky Cinema Undead HD - https://forums.digitalspy.com/discussion/comment/101647157#Comment_101647157
-		17/10/22 Islam Channel Bangla (52134) - https://islamchannelbangla.tv/ https://www.islamchannel.tv/blog-posts/islam-channel-bangla-launches-17th-october https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1104.png
+		21/10/22 Sky Cinema Undead HD - https://forums.digitalspy.com/discussion/comment/101647157#Comment_101647157 https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-October-2022/td-p/4107223
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
 		00/11/22 ITV/+1/HD renamed to ITV1/+1/HD- https://www.tvzoneuk.com/post/itv1-rebrand-exc https://www.radiotimes.com/tv/entertainment/itv-rebrand-channel-itv1-newsupdate/
@@ -2218,10 +2216,7 @@
 			<File>Islam Channel.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="52134">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Islam Ch Bangla">
+				<Item Name="Islam Bangla">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Islam Channel Bangla" />
@@ -4047,7 +4042,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Undead HD" />
-				<Item Name="Sky Undead HD">
+				<Item Name="SkyUndeadHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Undead HD.png</File>
