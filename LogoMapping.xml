@@ -2533,17 +2533,16 @@
 			<File>Movies 24 Plus.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="53151">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="MTA1 HD World" />
-			<File>MTA1 HD World.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="MTA1 World">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>MTA1 World.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="MTA1 World HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>MTA1 World HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTV">
@@ -2816,14 +2815,12 @@
 		<Channel>
 				<Item Name="Now 80s">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Now 80s.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Now 90s">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Now 90s.png</File>
 		</Channel>
@@ -2831,7 +2828,6 @@
 				<Item Name="Now Christmas" />
 				<Item Name="Now Xmas">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Now Christmas.png</File>
 		</Channel>
@@ -2989,7 +2985,10 @@
 		</Channel>
 		<Channel>
 				<Item Name="Prime Video" />
-				<Item Name="Prime Video HD">
+				<Item Name="PrimeVid2 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="PrimeVideo1HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Prime Video.png</File>
@@ -3112,6 +3111,12 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>RealityXtra.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="RealityXtra 2">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>RealityXtra 2.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Really">
@@ -4904,6 +4909,13 @@
 			<File>The Craft Channel.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Pet Collective">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="The Pet Collective" />
+			<File>The Pet Collective.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="TRP 1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -4983,6 +4995,13 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>Together TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Together TV +1" />
+				<Item Name="Together TV+1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Together TV Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Trace Brazuca">
