@@ -2,7 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		27/10/22 MTA1 World HD (53151) - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-October-2022/td-p/4107223 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3202.png https://live.mta.tv/images/channels/1.svg
 		01/11/22 FreeSports HD and Premier Sports 1/2 HD renamed Viaplay Xtra HD and Viaplay Sports 1/2 HD - https://www.viaplaygroup.com/news/news-releases/viaplay-launch-uk-1-november
 		00/11/22 BBC One East (West) merged into BBC One East - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://rxtvinfo.com/2022/how-bbc-changes-affect-freeview-freesat-and-sky
 		00/11/22 BBC One Oxford merged into BBC One South - https://www.bbc.co.uk/mediacentre/speeches/2022/digital-first-bbc-director-general-tim-davie https://www.bbc.co.uk/news/uk-england-oxfordshire-61593568
@@ -16,7 +15,7 @@
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
-		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15
+		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -30,54 +29,6 @@
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>2RN.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Dare to Dream Network">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Dare to Dream Network.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Francais Network">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Francais Network.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Kids Network">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Kids Network.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Latino Network">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Latino Network.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Praise Him Music Network">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Praise Him Music Network.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Proclaim Network">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Proclaim Network.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="3ABN Russia">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>3ABN Russia.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="4Music">
@@ -1182,12 +1133,6 @@
 			<File>Channel 7.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Channel Fight Masterclass">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Channel Fight Masterclass.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Channel S" />
 				<Item Name="CHSTV">
 					<Provider>Astra 28.2E</Provider>
@@ -1539,7 +1484,6 @@
 		<Channel>
 				<Item Name="Dunamis TV">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Dunamis TV.png</File>
 		</Channel>
@@ -1716,12 +1660,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>EWTN.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Extreme+">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>ExtremePlus.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="FailArmy">
@@ -2789,9 +2727,6 @@
 				<Item Name="NollyAfrica">
 					<Provider>Channelbox</Provider>
 				</Item>
-				<Item Name="NollyAfrica HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 			<File>NollyAfrica.png</File>
 		</Channel>
 		<Channel>
@@ -2865,6 +2800,12 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>NVTV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Nyx">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Nyx.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="OAN Plus">
@@ -5324,7 +5265,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Yanga!">
-					<Provider>VisionTV</Provider>
+					<Provider>Channelbox</Provider>
 				</Item>
 			<File>Yanga TV.png</File>
 		</Channel>
