@@ -2,8 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		03/11/22 ITV/+1/HD renamed to ITV1/+1/HD- https://www.tvzoneuk.com/post/itvrebrand-reportoct22 https://i0.wp.com/cleanfeed.thetvroom.com/media/2022/10/itv-1-logo-001-01-1.png
-		03/11/22 ITV2/+1/HD, ITV3/+1/HD, ITV4/+1/HD and ITVbe/+1 new logos - https://www.tvzoneuk.com/post/itvrebrand-reportoct22 https://cleanfeed.thetvroom.com/15155/news/itv-broadcast-channel-refresh-on-3rd-november/
+		15/11/22 ITV/+1/HD renamed to ITV1/+1/HD - https://twitter.com/cleanfeed_ttvr/status/1588598420633440256 https://i0.wp.com/cleanfeed.thetvroom.com/media/2022/10/itv-1-logo-001-01-1.png
+		15/11/22 ITV2/+1/HD, ITV3/+1/HD, ITV4/+1/HD and ITVbe/+1 new logos - https://twitter.com/cleanfeed_ttvr/status/1588598420633440256 https://pres.cafe/showthread.php?tid=6&pid=6101#pid6101
 		00/11/22 Sky Cinema Hanks-Giving/HD - https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html
 		16/12/22 BBC One East (West) merged into BBC One East - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
 		16/12/22 BBC One Oxford merged into BBC One South - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
@@ -11,7 +11,7 @@
 		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
 		00/00/22 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://rxtvinfo.com/2022/new-bbc-hd-service-testing-on-satellite https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
-		00/00/23 4seven, E4/+1/HD and More4/+1/HD renamed - https://deadline.com/2022/11/channel-4-all-4-rebrand-married-at-first-sight-great-british-bake-off-1235161011/
+		00/00/23 4seven and More4/+1/HD renamed - https://deadline.com/2022/11/channel-4-all-4-rebrand-married-at-first-sight-great-british-bake-off-1235161011/ https://rxtvinfo.com/2022/channel-4-to-ditch-all4-name-in-brand-change
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
 		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
@@ -3124,7 +3124,6 @@
 			<File>RTE One HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="RTÉ One +1" />
 				<Item Name="RTÉ One +1">
 					<Provider>Saorview</Provider>
 				</Item>
