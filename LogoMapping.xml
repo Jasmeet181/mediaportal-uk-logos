@@ -3291,7 +3291,7 @@
 			<File>Sky Cinema 5 Star Movies.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky5*MoviesHD">
+				<Item Name="Sky5* MoviesHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Sky Cinema 5 Star Movies HD" />
