@@ -2,9 +2,9 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		15/11/22 ITV/+1/HD renamed to ITV1/+1/HD - https://twitter.com/cleanfeed_ttvr/status/1588598420633440256 https://i0.wp.com/cleanfeed.thetvroom.com/media/2022/10/itv-1-logo-001-01-1.png
-		15/11/22 ITV2/+1/HD, ITV3/+1/HD, ITV4/+1/HD and ITVbe/+1 new logos - https://twitter.com/cleanfeed_ttvr/status/1588598420633440256 https://pres.cafe/showthread.php?tid=6&pid=6101#pid6101
-		00/11/22 Sky Cinema Hanks-Giving/HD - https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html
+		23/11/22 Alaraby Network and BBC Information Channel added to Freeview - https://www.freeview.co.uk/help/service-updates/Channel-changes-launches-closures-freeview
+		23/11/22 Quest Red +1 removed from Freeview - https://www.freeview.co.uk/help/service-updates/Channel-changes-launches-closures-freeview
+		24/11/22 Sky Cinema Hanks-Giving/HD - https://channelpedia.yavdr.com/gen/DVB-S/S28.2E/changelog.html https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-November-2022/td-p/4140159
 		16/12/22 BBC One East (West) merged into BBC One East - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
 		16/12/22 BBC One Oxford merged into BBC One South - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
 		00/00/22 BBC Alba HD and BBC Parliament HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2021/bbc-one-hd-rollout-england
@@ -13,10 +13,10 @@
 		00/00/23 BBC One English regions HD added to Astra and Freeview - https://www.bbc.co.uk/aboutthebbc/documents/bbc-annual-plan-2022-2023.pdf#page=35
 		00/00/23 4seven and More4/+1/HD renamed - https://deadline.com/2022/11/channel-4-all-4-rebrand-married-at-first-sight-great-british-bake-off-1235161011/ https://rxtvinfo.com/2022/channel-4-to-ditch-all4-name-in-brand-change
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
-		BT Sport Ultimate (5336/5337) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-August-2022/m-p/4066675/highlight/true#M130115 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1336.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1337.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
+		WildEarth (55275) - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -971,13 +971,10 @@
 			<File>BT Sport Mosaic 2.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="5336">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="5337">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="BT Sport Ultimate" />
+				<Item Name="BTSUltimateUHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>BT Sport Ultimate.png</File>
 		</Channel>
 		<Channel>
@@ -2163,63 +2160,37 @@
 			<File>Islam TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ITV">
+				<Item Name="ITV1">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>ITV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ITVBe">
+				<Item Name="ITV1 Border">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="ITV1 Wales">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>ITVBe.png</File>
+			<File>ITV1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ITVBe +1" />
-				<Item Name="ITVBe+1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>ITVBe Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ITV Border">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>ITV Border.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ITV Cymru Wales" />
-				<Item Name="ITV Wales">
+				<Item Name="ITV1 HD">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>ITV Cymru Wales.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ITV Cymru Wales HD" />
-				<Item Name="ITV Wales HD">
+				<Item Name="ITV1 Wales HD">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>ITV Cymru Wales HD.png</File>
+			<File>ITV1 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="ITV HD">
+				<Item Name="ITV1 +1" />
+				<Item Name="ITV1+1">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-			<File>ITV HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="ITV +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="ITV+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>ITV Plus 1.png</File>
+			<File>ITV1 Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="ITV2">
@@ -2235,10 +2206,9 @@
 			<File>ITV2 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ITV2 +1" />
 				<Item Name="ITV2+1">
 					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="ITV2 +1">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>ITV2 Plus 1.png</File>
@@ -2257,11 +2227,11 @@
 			<File>ITV3 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ITV3 +1" />
 				<Item Name="ITV3+1">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="ITV3 +1" />
 			<File>ITV3 Plus 1.png</File>
 		</Channel>
 		<Channel>
@@ -2278,12 +2248,26 @@
 			<File>ITV4 HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="ITV4 +1" />
 				<Item Name="ITV4+1">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="ITV4 +1" />
 			<File>ITV4 Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ITVBe">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>ITVBe.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="ITVBe +1" />
+				<Item Name="ITVBe+1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>ITVBe Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Jewellery Maker">
@@ -3582,13 +3566,15 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Hanks-Giving" />
-				<Item Name="SkyHanks-Giving">
+				<Item Name="SkyHanksGiving">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Hanks-Giving.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Hanks-Giving HD" />
+				<Item Name="HanksGiving HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Sky Cinema Hanks-Giving HD" />
 			<File>Sky Cinema Hanks-Giving HD.png</File>
 		</Channel>
@@ -4680,7 +4666,8 @@
 			<File>STV HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="STV +1">
+				<Item Name="STV +1" />
+				<Item Name="STV+1">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>STV Plus 1.png</File>
@@ -5113,7 +5100,7 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Viaplay Sports 1" />
-			<File>Viaplay Xtra.png</File>
+			<File>Viaplay Sports 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Viaplay 2 HD">
@@ -5236,6 +5223,13 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>WBC Live Channel.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="55275">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="WildEarth" />
+			<File>WildEarth.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="WION" />
