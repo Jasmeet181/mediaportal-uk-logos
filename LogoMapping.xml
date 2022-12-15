@@ -2,21 +2,26 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		29/11/22 ArisePlay removed from Sky - https://forums.digitalspy.com/discussion/comment/101956415#Comment_101956415 https://www.satellite-calculations.com/DVB/log_bskyb.php
+				
 		16/12/22 BBC One East (West) merged into BBC One East - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
-		16/12/22 BBC One Oxford merged into BBC One South - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
-		00/00/22 BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
-		00/02/23 Sky Kids HD - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
+		16/12/22 BBC One Oxford merged into BBC One South - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks		05/01/23 Great! Movies Classics (Christmas)/+1 renamed to Great! Romance/+1 - https://rxtvinfo.com/2022/new-year-launch-for-great-romance-channel https://advanced-television.com/2022/11/29/great-romance-set-for-january-launch/
+		05/01/23 Smithsonian Channel/HD closes - https://www.cordbusters.co.uk/smithsonian-channel-leaving-freeview-freesat-sky/
+		00/02/23 Sky Kids HD (1009) - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
 		00/03/23 BBC Alba HD, BBC Parliament HD and BBC Red Button 1 HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England
 		00/03/23 BBC One HD English regions added to Astra and Freeview - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		00/03/23 BBC One SD regions closes on Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		00/03/23 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
 		00/00/23 4seven and More4/+1/HD renamed - https://deadline.com/2022/11/channel-4-all-4-rebrand-married-at-first-sight-great-british-bake-off-1235161011/ https://rxtvinfo.com/2022/channel-4-to-ditch-all4-name-in-brand-change
+		00/00/23 Colors, Sony Entertainment Television, Sony Max, Utsav Gold, Utsav Plus and Zee TV SD channels will close - https://www.bizasialive.com/are-asian-tv-channels-going-to-drop-sd-feeds-for-hd-only-in-uk/
 		00/03/24 All BBC SD channels close on Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		BBC Four/HD, BBC Radio 4 Extra and CBBC/HD will close - https://www.bbc.co.uk/mediacentre/2022/plan-to-deliver-a-digital-first-bbc
+		BBC Parliament/HD, CBBC/HD, CBeebies/HD new logos - https://www.youview.com/wp-content/uploads/2016/06/20092250/BBCParliament_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090552/BBCCBBC_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090716/BBCCBBCHD_Website_Logo-1.png https://www.youview.com/wp-content/uploads/2016/06/20090822/BBCCBeebies_Website_Logo.png https://www.youview.com/wp-content/uploads/2016/06/20090333/BBCBeebiesHD_Website_Logo.png
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
-		WildEarth (55275) - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
+		QTV Religious (53555) - https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs102236ba1qtvreligious.htm https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png https://www.sling.com/content/dam/sling-tv/channels/AllLOBLogos/Color/QTVPAK.svg https://www.sling.com/content/dam/sling-tv/application-assets/shared/web/logos/black/QTVPAK.svg
+		WildEarth (51118) - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -30,6 +35,46 @@
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>2RN.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="30A TV Classic Movies">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>30A TV Classic Movies.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>3ABN.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Dare to Dream Network" />
+			<File>3ABN Dare to Dream Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Francais Network" />
+			<File>3ABN Francais Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Kids Network" />
+			<File>3ABN Kids Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Latino Network" />
+			<File>3ABN Latino Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Praise Him Music Network" />
+			<File>3ABN Praise Him Music Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Proclaim Network" />
+			<File>3ABN Proclaim Network.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="3ABN Russia" />
+			<File>3ABN Russia.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="4Music">
@@ -798,12 +843,6 @@
 			<File>BoXmas.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BoxNation">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>BoxNation.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Bristol TV">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -1061,12 +1100,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>CBS Reality Plus 1.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Celebration TV">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Celebration TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="CGTN">
@@ -1778,6 +1811,12 @@
 			<File>France 24 HD in English.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Free Classic Movies">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>Free Classic Movies.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="695">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -1865,7 +1904,9 @@
 				<Item Name="God Channel">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="God TV" />
+				<Item Name="God TV">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>God TV.png</File>
 		</Channel>
 		<Channel>
@@ -1937,24 +1978,6 @@
 			<File>Great Movies Christmas Plus 1.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Great! Classic">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Great! Movies Classic">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Great Movies Classic.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Great! Classic+1">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Great! Movies Classic +1">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Great Movies Classic Plus 1.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Great! Movies +1">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -1962,6 +1985,22 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Great Movies Plus 1.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Romance">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Great Romance.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Great! Romance +1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="Great! Romance+1">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Great Movies Romance Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Great! TV">
@@ -2377,12 +2416,6 @@
 			<File>Liverpool Local TV.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Local TV">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Local TV.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="London Live">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
@@ -2457,12 +2490,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Movies 24 Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="MTA1 World">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>MTA1 World.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="MTA1 World HD">
@@ -3058,6 +3085,7 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Revelation TV">
+					<Provider>Freeview (GB)</Provider>
 					<Provider>VisionTV</Provider>
 				</Item>
 			<File>Revelation TV.png</File>
@@ -3360,11 +3388,25 @@
 			<File>Sky Cinema Batman HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="SkyBestOf22HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema Best of 2022 HD" />
+			<File>Sky Cinema Best of 2022 HD.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="Bestof00sHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="Sky Cinema Best of the 00s HD" />
 			<File>Sky Cinema Best of the 00s HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Best of 2022 HD" />
+				<Item Name="SkyBestOf22HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Best of 2022 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Best of 80s HD">
@@ -4270,7 +4312,7 @@
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Cricket HD" />
-				<Item Name="SkySpCricket HD">
+				<Item Name="SkySp DartsHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Sports Cricket HD.png</File>
@@ -4346,11 +4388,11 @@
 			<File>Sky Sports Main Event HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Sports Main Event Ultra HDR" />
-				<Item Name="SkySpME UHDR">
+				<Item Name="Sky Sports Main Event UHD" />
+				<Item Name="SkySpME UHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>Sky Sports Main Event Ultra HDR.png</File>
+			<File>Sky Sports Main Event UHD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Sports Masters" />
@@ -5233,7 +5275,13 @@
 			<File>WBC Live Channel.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="55275">
+				<Item Name="We Are Tottenham TV">
+					<Provider>Channelbox</Provider>
+				</Item>
+			<File>We Are Tottenham TV.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="51118">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="WildEarth" />
@@ -5845,6 +5893,9 @@
 			<File>Gold Radio.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Greatest Hits">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 				<Item Name="Greatest Hits Radio">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
@@ -6065,12 +6116,6 @@
 					<Provider>Saorview</Provider>
 				</Item>
 			<File>RTE Radio 1 Extra.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Scala Radio">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Scala Radio.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Chl Line-up">
