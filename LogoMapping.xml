@@ -3,15 +3,18 @@
 <!-- ******************************************************************** -->
 		<!--
 		29/11/22 ArisePlay removed from Sky - https://forums.digitalspy.com/discussion/comment/101956415#Comment_101956415 https://www.satellite-calculations.com/DVB/log_bskyb.php
-				
-		16/12/22 BBC One East (West) merged into BBC One East - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks
-		16/12/22 BBC One Oxford merged into BBC One South - https://rxtvinfo.com/2022/confirmed-two-bbc-tv-regions-to-close-within-weeks		05/01/23 Great! Movies Classics (Christmas)/+1 renamed to Great! Romance/+1 - https://rxtvinfo.com/2022/new-year-launch-for-great-romance-channel https://advanced-television.com/2022/11/29/great-romance-set-for-january-launch/
+
+		03/01/23 Sky Cinema British Icons/HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
+		05/01/23 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
+		05/01/23 Classic Hits renamed to That's 60s - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
+		05/01/23 Thane closes - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
+		05/01/23 Great! Movies Classics (Christmas)/+1 renamed to Great! Romance/+1 - https://rxtvinfo.com/2022/new-year-launch-for-great-romance-channel https://advanced-television.com/2022/11/29/great-romance-set-for-january-launch/
 		06/01/23 Smithsonian Channel/HD closes - https://rxtvinfo.com/2022/smithsonian-channel-closing-falls-victim-to-streaming
+		00/01/23 QTV Religious (53555) - https://www.bizasialive.com/islamic-channel-qtv-religious-set-to-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
 		00/02/23 Sky Kids HD (1009) - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
 		00/03/23 BBC Alba HD, BBC Parliament HD and BBC Red Button 1 HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England
 		00/03/23 BBC One HD English regions added to Astra and Freeview - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		00/03/23 BBC One SD regions closes on Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
-		00/03/23 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
 		00/00/23 4seven and More4/+1/HD renamed - https://deadline.com/2022/11/channel-4-all-4-rebrand-married-at-first-sight-great-british-bake-off-1235161011/ https://rxtvinfo.com/2022/channel-4-to-ditch-all4-name-in-brand-change
 		00/00/23 Colors, Sony Entertainment Television, Sony Max, Utsav Gold, Utsav Plus and Zee TV SD channels will close - https://www.bizasialive.com/are-asian-tv-channels-going-to-drop-sd-feeds-for-hd-only-in-uk/
 		00/03/24 All BBC SD channels close on Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
@@ -20,7 +23,7 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
-		QTV Religious (53555) - https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs102236ba1qtvreligious.htm https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png https://www.sling.com/content/dam/sling-tv/channels/AllLOBLogos/Color/QTVPAK.svg https://www.sling.com/content/dam/sling-tv/application-assets/shared/web/logos/black/QTVPAK.svg
+		Panj-aab TV/Punj-aab TV (50886) - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/punj-aab-tv-re-starts-testing-ahead-of-sky-launch/ https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs104698ba1panj-aabtv.htm https://github.com/Jasmeet181/mediaportal-uk-logos/blob/e0cd24f3d18514ca07418bcc8b2cd06396777c26/TV/Panj-aab%20TV.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
 		WildEarth (51118) - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
 		<!--
@@ -1997,7 +2000,7 @@
 				<Item Name="Great! Romance +1">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="Great! Romance+1">
+				<Item Name="G! Romance+1">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Great Movies Romance Plus 1.png</File>
@@ -2769,10 +2772,10 @@
 			<File>Now 80s.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Now 90s">
+				<Item Name="Now Rock">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-			<File>Now 90s.png</File>
+			<File>Now Rock.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Now Christmas" />
@@ -5273,12 +5276,6 @@
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>WBC Live Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="We Are Tottenham TV">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>We Are Tottenham TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="51118">
