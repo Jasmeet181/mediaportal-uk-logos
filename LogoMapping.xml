@@ -3391,13 +3391,6 @@
 			<File>Sky Cinema Batman HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="SkyBestOf22HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Sky Cinema Best of 2022 HD" />
-			<File>Sky Cinema Best of 2022 HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Bestof00sHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -3459,6 +3452,20 @@
 				</Item>
 				<Item Name="Sky Cinema Bourne HD" />
 			<File>Sky Cinema Bourne HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema British Icons" />
+				<Item Name="SkyBritishIcons">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema British Icons.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BritishIcons HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Sky Cinema British Icons HD" />
+			<File>Sky Cinema British Icons HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Sky Cinema Brits HD" />
