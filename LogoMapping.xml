@@ -10,8 +10,9 @@
 		05/01/23 Thane closes - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
 		05/01/23 Great! Movies Classics (Christmas)/+1 renamed to Great! Romance/+1 - https://rxtvinfo.com/2022/new-year-launch-for-great-romance-channel https://advanced-television.com/2022/11/29/great-romance-set-for-january-launch/
 		06/01/23 Smithsonian Channel/HD closes - https://rxtvinfo.com/2022/smithsonian-channel-closing-falls-victim-to-streaming
-		00/01/23 QTV Religious (53555) - https://www.bizasialive.com/islamic-channel-qtv-religious-set-to-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
-		00/02/23 Sky Kids HD (1009) - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
+		00/01/23 QTV Religious launches (53555) - https://www.bizasialive.com/islamic-channel-qtv-religious-set-to-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
+		13/02/23 BBC One London HD added to Astra - https://www.totaaltv.nl/nieuws/bbc-op-astra2satelliet-dit-zijn-de-nieuwe-frequenties/
+		00/02/23 Sky Kids HD (1009) launches - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
 		00/03/23 BBC Alba HD, BBC Parliament HD and BBC Red Button 1 HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England
 		00/03/23 BBC One HD English regions added to Astra and Freeview - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		00/03/23 BBC One SD regions closes on Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
@@ -24,7 +25,7 @@
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
 		Panj-aab TV/Punj-aab TV (50886) - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/punj-aab-tv-re-starts-testing-ahead-of-sky-launch/ https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs104698ba1panj-aabtv.htm https://github.com/Jasmeet181/mediaportal-uk-logos/blob/e0cd24f3d18514ca07418bcc8b2cd06396777c26/TV/Panj-aab%20TV.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
-		WildEarth (51118) - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
+		WildEarth (51118) launches - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
 		<!--
 		Gold TV/Radio conflict
@@ -1798,6 +1799,13 @@
 			<File>France 24 HD en Francais.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="France 24 HD (in English)" />
+				<Item Name="France 24 HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>France 24 HD in English.png</File>
+		</Channel>
+		<Channel>
 				<Item Name="France 24 HD (in Arabic)">
 					<Provider>Channelbox</Provider>
 				</Item>
@@ -1807,11 +1815,10 @@
 			<File>France 24 in Arabic.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="France 24 HD (in English)" />
-				<Item Name="France 24 HD">
-					<Provider>Astra 28.2E</Provider>
+				<Item Name="France 24 (in English)">
+					<Provider>VisionTV</Provider>
 				</Item>
-			<File>France 24 HD in English.png</File>
+			<File>France 24 in English.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Free Classic Movies">
