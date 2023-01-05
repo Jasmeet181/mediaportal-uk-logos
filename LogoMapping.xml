@@ -4,7 +4,6 @@
 		<!--
 		29/11/22 ArisePlay removed from Sky - https://forums.digitalspy.com/discussion/comment/101956415#Comment_101956415 https://www.satellite-calculations.com/DVB/log_bskyb.php
 
-		03/01/23 Sky Cinema British Icons/HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
 		05/01/23 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
 		05/01/23 Classic Hits renamed to That's 60s - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
 		05/01/23 Thane closes - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
@@ -4844,6 +4843,13 @@
 				</Item>
 				<Item Name="Thane Direct" />
 			<File>Thane Direct.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="That's 60s">
+					<Provider>Astra 28.2E</Provider>
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats 60s.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="That's TV">
