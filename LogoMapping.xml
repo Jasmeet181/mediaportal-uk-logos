@@ -2,13 +2,6 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		29/11/22 ArisePlay removed from Sky - https://forums.digitalspy.com/discussion/comment/101956415#Comment_101956415 https://www.satellite-calculations.com/DVB/log_bskyb.php
-
-		05/01/23 BBC Two Northern Ireland HD (1199/1200) added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1135.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb3019.png
-		05/01/23 Classic Hits renamed to That's 60s - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
-		05/01/23 Thane closes - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
-		05/01/23 Great! Movies Classics (Christmas)/+1 renamed to Great! Romance/+1 - https://rxtvinfo.com/2022/new-year-launch-for-great-romance-channel https://advanced-television.com/2022/11/29/great-romance-set-for-january-launch/
-		06/01/23 Smithsonian Channel/HD closes - https://rxtvinfo.com/2022/smithsonian-channel-closing-falls-victim-to-streaming
 		00/01/23 QTV Religious launches (53555) - https://www.bizasialive.com/islamic-channel-qtv-religious-set-to-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
 		13/02/23 BBC One London HD added to Astra - https://www.totaaltv.nl/nieuws/bbc-op-astra2satelliet-dit-zijn-de-nieuwe-frequenties/
 		00/02/23 Sky Kids HD (1009) launches - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
@@ -23,7 +16,8 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
-		Panj-aab TV/Punj-aab TV (50886) - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/punj-aab-tv-re-starts-testing-ahead-of-sky-launch/ https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs104698ba1panj-aabtv.htm https://github.com/Jasmeet181/mediaportal-uk-logos/blob/e0cd24f3d18514ca07418bcc8b2cd06396777c26/TV/Panj-aab%20TV.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
+		Panj-aab TV/Punj-aab TV (50886) launches - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/punj-aab-tv-re-starts-testing-ahead-of-sky-launch/ https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs104698ba1panj-aabtv.htm https://github.com/Jasmeet181/mediaportal-uk-logos/blob/e0cd24f3d18514ca07418bcc8b2cd06396777c26/TV/Panj-aab%20TV.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
+		That’s 80s (55280) added to Astra - https://forums.digitalspy.com/discussion/comment/102139536#Comment_102139536 https://www.digitalbitrate.com/dtv.php?mux=11345&pid=55280&live=69&lang=en
 		WildEarth (51118) launches - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
 		<!--
@@ -415,16 +409,15 @@
 			<File>BBC One Channel Islands.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="BBC One East">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 				<Item Name="BBC One East E">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="BBC One East East" />
 				<Item Name="BBC One East W">
 					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="BBC One East West" />
 			<File>BBC One East.png</File>
 		</Channel>
 		<Channel>
@@ -495,9 +488,6 @@
 			<File>BBC One Northern Ireland HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC One Oxf">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
 				<Item Name="BBC One Oxford">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -723,11 +713,9 @@
 			<File>BBC Two Northern Ireland.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="1200">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="BBC Two NI HD">
 					<Provider>Freeview (GB)</Provider>
+					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Two Northern Ireland HD" />
 			<File>BBC Two Northern Ireland HD.png</File>
@@ -1214,16 +1202,6 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>CITV.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Classic Hits">
-					<Provider>Astra 28.2E</Provider>
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="Classic Hits MCR">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Classic Hits.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Clubland TV">
@@ -4619,22 +4597,6 @@
 			<File>SmileTV3.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Smithsonian">
-					<Provider>Astra 28.2E</Provider><!-- Broadcast in HD -->
-				</Item>
-				<Item Name="Smithsonian Channel">
-					<Provider>Freeview (GB)</Provider>
-				</Item>
-			<File>Smithsonian Channel.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Smithsonian HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Smithsonian Channel HD" />
-			<File>Smithsonian Channel HD.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="Sony Entertainment Television" />
 				<Item Name="Sony TV">
 					<Provider>Astra 28.2E</Provider>
@@ -4838,18 +4800,35 @@
 			<File>TG4 HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Thane">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-				<Item Name="Thane Direct" />
-			<File>Thane Direct.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="That's 60s">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
+				<Item Name="That's 60s MCR">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
 			<File>Thats 60s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="That's 70s">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats 70s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="That's 80s">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+				<Item Name="That's 80s MCR">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats 80s.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="That's 90s">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>Thats 90s.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="That's TV">
@@ -5064,6 +5043,13 @@
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>TV Warehouse.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="TV Warehouse +1" />
+				<Item Name="TV Warehouse+1">
+					<Provider>Freeview (GB)</Provider>
+				</Item>
+			<File>TV Warehouse Plus 1.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="TVC News">
