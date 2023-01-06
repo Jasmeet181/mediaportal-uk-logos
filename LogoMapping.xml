@@ -2,6 +2,8 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		13/01/23 Sky Cinema Twilight HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
+		13/01/23 Sky Cinema Dystopia HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
 		00/01/23 QTV Religious launches (53555) - https://www.bizasialive.com/islamic-channel-qtv-religious-set-to-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
 		13/02/23 BBC One London HD added to Astra - https://www.totaaltv.nl/nieuws/bbc-op-astra2satelliet-dit-zijn-de-nieuwe-frequenties/
 		00/02/23 Sky Kids HD (1009) launches - https://www.skygroup.sky/en-gb/article/sky-to-launch-brand-new-24-hour-ad-free-sky-kids-channel-packed-with-a-standout-slate-of-sky-originals-and-franchise-favourites https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
@@ -3298,10 +3300,10 @@
 			<File>Sky Cinema 5 Star Movies.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema 5 Star Movies HD" />
 				<Item Name="Sky5* MoviesHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Sky Cinema 5 Star Movies HD" />
 			<File>Sky Cinema 5 Star Movies HD.png</File>
 		</Channel>
 		<Channel>
@@ -3340,10 +3342,10 @@
 			<File>Sky Cinema Alien HD.png</File>
 		</Channel>
 		<Channel>
+				<Item Name="Sky Cinema Animation HD" />
 				<Item Name="SkyAnimationHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
-				<Item Name="Sky Cinema Animation HD" />
 			<File>Sky Cinema Animation HD.png</File>
 		</Channel>
 		<Channel>
@@ -3380,13 +3382,6 @@
 				</Item>
 				<Item Name="Sky Cinema Best of the 00s HD" />
 			<File>Sky Cinema Best of the 00s HD.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Sky Cinema Best of 2022 HD" />
-				<Item Name="SkyBestOf22HD">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
-			<File>Sky Cinema Best of 2022 HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Best of 80s HD">
@@ -3452,10 +3447,10 @@
 			<File>Sky Cinema British Icons HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Brits HD" />
 				<Item Name="Sky BritsHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Sky Cinema Brits HD" />
 			<File>Sky Cinema Brits HD.png</File>
 		</Channel>
 		<Channel>
@@ -3504,10 +3499,10 @@
 			<File>Sky Cinema Cult Classics.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Cult Classics HD" />
 				<Item Name="CultClassicsHD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Sky Cinema Cult Classics HD" />
 			<File>Sky Cinema Cult Classics HD.png</File>
 		</Channel>
 		<Channel>
@@ -3523,6 +3518,13 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>Sky Cinema Drama HD.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Dystopia HD" />
+				<Item Name="SkyDystopiaHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Dystopia HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="EdgarWrightHD">
@@ -3553,10 +3555,10 @@
 			<File>Sky Cinema Family HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sky Cinema Fast and Furious HD" />
 				<Item Name="Fast&amp;FuriousHD ">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
+				<Item Name="Sky Cinema Fast and Furious HD" />
 			<File>Sky Cinema Fast and Furious HD.png</File>
 		</Channel>
 		<Channel>
@@ -4016,6 +4018,13 @@
 				</Item>
 			<File>Sky Cinema True Stories HD.png</File>
 		</Channel>
+		<Channel>
+				<Item Name="Sky Cinema Twilight HD" />
+				<Item Name="SkyTwilightHD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>Sky Cinema Twilight HD.png</File>
+		</Channel>	
 		<Channel>
 				<Item Name="Sky Cinema Ultimate Action HD" />
 				<Item Name="UltActionHD">
