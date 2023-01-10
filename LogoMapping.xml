@@ -19,7 +19,7 @@
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
 		Panj-aab TV/Punj-aab TV (50886) launches - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/punj-aab-tv-re-starts-testing-ahead-of-sky-launch/ https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs104698ba1panj-aabtv.htm https://github.com/Jasmeet181/mediaportal-uk-logos/blob/e0cd24f3d18514ca07418bcc8b2cd06396777c26/TV/Panj-aab%20TV.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
-		That’s 80s (55280) added to Astra - https://forums.digitalspy.com/discussion/comment/102139536#Comment_102139536 https://www.digitalbitrate.com/dtv.php?mux=11345&pid=55280&live=69&lang=en
+		That’s 80s (55280) added to Astra - https://forums.digitalspy.com/discussion/comment/102139536#Comment_102139536 https://www.digitalbitrate.com/dtv.php?mux=11345&pid=55280&live=69&lang=en https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1305.png
 		WildEarth (51118) launches - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
 		<!--
@@ -2535,9 +2535,6 @@
 			<File>MTV Xmas.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Music &amp; Memories TV HD">
-					<Provider>Channelbox</Provider>
-				</Item>
 				<Item Name="Music &amp; Memories TV">
 					<Provider>Channelbox</Provider>
 				</Item>
@@ -2633,9 +2630,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="NHK World-Japan">
-					<Provider>Channelbox</Provider>
-				</Item>
-				<Item Name="NHK World-Japan HD">
 					<Provider>Channelbox</Provider>
 				</Item>
 			<File>NHK World-Japan.png</File>
@@ -4644,12 +4638,6 @@
 			<File>Sony Sab.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="Sports Tonight Live">
-					<Provider>VisionTV</Provider>
-				</Item>
-			<File>Sports Tonight Live.png</File>
-		</Channel>
-		<Channel>
 				<Item Name="SportyStuff HD">
 					<Provider>Astra 28.2E</Provider>
 				</Item>
@@ -5077,12 +5065,6 @@
 					<Provider>Astra 28.2E</Provider>
 				</Item>
 			<File>TVX 40Plus.png</File>
-		</Channel>
-		<Channel>
-				<Item Name="Twisted Mirror TV">
-					<Provider>Channelbox</Provider>
-				</Item>
-			<File>Twisted Mirror TV.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Tyne &amp; Wear TV">
