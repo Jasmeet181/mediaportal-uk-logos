@@ -2,6 +2,7 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
+		PTV Global new logo
 		13/01/23 Sky Cinema Twilight HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
 		13/01/23 Sky Cinema Dystopia HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
 		00/01/23 QTV Religious launches (53555) - https://www.bizasialive.com/islamic-channel-qtv-religious-set-to-launch-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
@@ -18,7 +19,7 @@
 		BT Sport/Eurosport rename - https://newsroom.bt.com/bt-group-and-warner-bros-discovery-agree-to-form-new-premium-sports-joint-venture-for-the-uk-and-ireland/
 		KICC TV new logo - https://www.kicctv.tv/
 		PBS America new logo - https://youtu.be/TS0o76SZc8M?t=15 https://static.wikia.nocookie.net/logopedia/images/b/b4/PBS_America_%282022%29.svg/revision/latest?cb=20221028074122
-		Panj-aab TV/Punj-aab TV (50886) launches - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/punj-aab-tv-re-starts-testing-ahead-of-sky-launch/ https://static.ofcom.org.uk/static/radiolicensing/html/tv/cs/tlcs104698ba1panj-aabtv.htm https://github.com/Jasmeet181/mediaportal-uk-logos/blob/e0cd24f3d18514ca07418bcc8b2cd06396777c26/TV/Panj-aab%20TV.png https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
+		Panjab Broadcasting Channel (50886) launches - https://www.digitalbitrate.com/dtv.php?mux=11479&pid=50886&live=69&sec=0&lang=en https://www.bizasialive.com/panjab-broadcasting-channel-begins-testing-on-sky/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
 		That’s 80s (55280) added to Astra - https://forums.digitalspy.com/discussion/comment/102139536#Comment_102139536 https://www.digitalbitrate.com/dtv.php?mux=11345&pid=55280&live=69&lang=en https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1305.png
 		WildEarth (51118) launches - https://forums.digitalspy.com/discussion/comment/101879934#Comment_101879934 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1313.png
 		-->
@@ -2826,6 +2827,13 @@
 				</Item>
 				<Item Name="OnDemand365" />
 			<File>OnDemand365.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="50886">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+				<Item Name="Panjab Broadcasting Channel" />
+			<File>Panjab Broadcasting Channel.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="Adult Party">
