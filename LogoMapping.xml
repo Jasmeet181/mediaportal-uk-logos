@@ -2,12 +2,16 @@
 <Mappings>
 <!-- ******************************************************************** -->
 		<!--
-		24/01/23 BBC One South HD added to Astra - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
+		23/01/23 Khushkhabri removed from Sky - https://www.satellite-calculations.com/DVB/log_bskyb.php
+		24/01/23 BBC One South HD added to Sky - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
+
 		26/01/23 Panjab Broadcasting Channel (50886) launches - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001 https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1011.png
 		27/01/23 Sky Cinema Spider-Man HD - https://helpforum.sky.com/t5/What-s-On/Changes-to-the-Sky-TV-guide-January-2023/td-p/4187001
-		13/02/23 BBC One East HD, BBC One East Midlands HD and BBC One London HD added to Astra - https://www.totaaltv.nl/nieuws/bbc-op-astra2satelliet-dit-zijn-de-nieuwe-frequenties/ https://rxtvinfo.com/2023/sky-and-freesat-start-bbc-hd-channel-upgrade/
+		31/01/23 BBC One East HD and BBC One East Midlands HD added to Sky - https://www.hdsatelliteupgrade.co.uk/when-does-my-area-switch
+		07/02/23 BBC One East Yorkshire and Lincolnshire HD and BBC One West Midlands HD added to Sky - https://www.hdsatelliteupgrade.co.uk/when-does-my-area-switch
 		13/02/23 Sky Kids HD (1009) launches - https://www.skygroup.sky/en-gb/article/a-splash-of-sky-originals-soon-to-air-on-new-sky-kids-channel-with-narration-from-daisy-haggard-marcus-bentley-and-jodie-whittaker- https://static.skyassets.com/storage/images/Sky_Kids_PRIMARY_RGB.png
-		00/03/23 BBC Alba HD, BBC Parliament HD and BBC Red Button 1 HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England
+		14/02/23 BBC One East Channel Islands HD, BBC One London HD, BBC One South West HD, BBC One West HD and BBC Red Button 1 HD added to Sky - https://www.hdsatelliteupgrade.co.uk/when-does-my-area-switch
+		21/02/23 BBC One East North East and Cumbria HD, BBC One North West HD, BBC One Yorkshire HD, BBC One South East, BBC One West HD and BBC Parliament HD added to Sky - https://www.hdsatelliteupgrade.co.uk/when-does-my-area-switch		00/03/23 BBC Alba HD, BBC Parliament HD and BBC Red Button 1 HD added to Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England
 		00/03/23 BBC One HD English regions added to Astra and Freeview - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		00/03/23 BBC One SD regions closes on Astra - https://www.bbc.co.uk/mediacentre/articles/2022/BBC-One-HD-rollout-England https://www.hdsatelliteupgrade.co.uk/
 		00/03/23 QTV (53555) launches before Ramadan - https://www.bizasialive.com/ary-network-to-bring-back-qtv-on-sky-in-uk/ https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/0/0/skychb1009.png
@@ -398,7 +402,9 @@
 			<File>BBC News HD.png</File>
 		</Channel>
 		<Channel>
-				<Item Name="BBC One" />
+				<Item Name="BBC One">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
 			<File>BBC One.png</File>
 		</Channel>
 		<Channel>
@@ -467,9 +473,6 @@
 				<Item Name="BBC One N Ireland">
 					<Provider>Freeview (GB)</Provider>
 				</Item>
-				<Item Name="BBC One NI">
-					<Provider>Astra 28.2E</Provider>
-				</Item>
 				<Item Name="BBC One Northern Ireland" />
 			<File>BBC One Northern Ireland.png</File>
 		</Channel>
@@ -504,10 +507,15 @@
 		</Channel>
 		<Channel>
 				<Item Name="BBC One South">
-					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
 				</Item>
 			<File>BBC One South.png</File>
+		</Channel>
+		<Channel>
+				<Item Name="BBC One South HD">
+					<Provider>Astra 28.2E</Provider>
+				</Item>
+			<File>BBC One South HD.png</File>
 		</Channel>
 		<Channel>
 				<Item Name="BBC One S East">
@@ -695,9 +703,6 @@
 		<Channel>
 				<Item Name="BBC Two N Ireland">
 					<Provider>Freeview (GB)</Provider>
-				</Item>
-				<Item Name="BBC Two NI">
-					<Provider>Astra 28.2E</Provider>
 				</Item>
 				<Item Name="BBC Two Northern Ireland" />
 			<File>BBC Two Northern Ireland.png</File>
@@ -1092,6 +1097,7 @@
 				<Item Name="Challenge">
 					<Provider>Astra 28.2E</Provider>
 					<Provider>Freeview (GB)</Provider>
+					<Provider>Saorview</Provider>
 				</Item>
 			<File>Challenge.png</File>
 		</Channel>
