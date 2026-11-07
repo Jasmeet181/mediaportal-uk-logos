@@ -1,0 +1,1 @@
+FOR %%A IN (*.svg) DO "G:\Programs\Inkscape\bin\inkscape.exe" %%A --export-type=png --export-filename=%%A.png --export-width 80
